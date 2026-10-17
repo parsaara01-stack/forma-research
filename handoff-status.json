@@ -32,18 +32,18 @@
     "Configure SEC_CONTACT Actions secret for future scheduled refreshes",
     "Run and verify hosted workflows and deployment"
   ],
-  "release": "0.2.0",
+  "release": "0.2.1",
   "quality_checks": {
     "unit_tests_passed": 34,
     "browser_checks": "passed desktop, mobile, simulator, search, sources, keyboard, network failure, stale data and unsafe URLs",
     "accessibility_checks": "automated WCAG A/AA audit passed desktop, mobile and evidence dialog",
     "offline_replication": {
-      "companies": 8,
-      "raw_documents": 9,
+      "companies": 20,
+      "raw_documents": 21,
       "network_requests": 0
     },
     "live_sec_refresh": {
-      "companies": 8,
+      "companies": 20,
       "warnings": 0,
       "cutoff": "2026-10-17"
     }

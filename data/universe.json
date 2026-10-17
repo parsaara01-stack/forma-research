@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "effective": "2026-10-17",
-  "purpose": "Illustrative cross-industry filing-coverage pilot; not a market-cap or Russell eligibility claim",
+  "purpose": "20-company starting group spanning different businesses and funding needs; data coverage checks only, with no claim about size or Russell membership",
   "companies": [
     {
       "ticker": "BTSG",
@@ -50,6 +50,78 @@
       "name": "UMB Financial",
       "group": "Banking",
       "cik": 101382
+    },
+    {
+      "ticker": "ACMR",
+      "name": "ACM Research",
+      "group": "Chipmaking equipment",
+      "cik": 1680062
+    },
+    {
+      "ticker": "AEHR",
+      "name": "Aehr Test Systems",
+      "group": "Chip testing",
+      "cik": 1040470
+    },
+    {
+      "ticker": "ATKR",
+      "name": "Atkore",
+      "group": "Electrical equipment",
+      "cik": 1666138
+    },
+    {
+      "ticker": "BOOT",
+      "name": "Boot Barn",
+      "group": "Retail",
+      "cik": 1610250
+    },
+    {
+      "ticker": "HAYW",
+      "name": "Hayward Holdings",
+      "group": "Pool equipment",
+      "cik": 1834622
+    },
+    {
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health",
+      "group": "Digital health",
+      "cik": 1773751
+    },
+    {
+      "ticker": "ICFI",
+      "name": "ICF International",
+      "group": "Consulting",
+      "cik": 1362004
+    },
+    {
+      "ticker": "MOD",
+      "name": "Modine Manufacturing",
+      "group": "Heating and cooling",
+      "cik": 67347
+    },
+    {
+      "ticker": "POWL",
+      "name": "Powell Industries",
+      "group": "Power equipment",
+      "cik": 80420
+    },
+    {
+      "ticker": "SKYW",
+      "name": "SkyWest",
+      "group": "Airlines",
+      "cik": 793733
+    },
+    {
+      "ticker": "UFPI",
+      "name": "UFP Industries",
+      "group": "Building products",
+      "cik": 912767
+    },
+    {
+      "ticker": "VCEL",
+      "name": "Vericel",
+      "group": "Cell therapy",
+      "cik": 887359
     }
   ],
   "identity_note": "CIKs pinned from the SEC ticker directory archived with the initial 2026-10-17 refresh; ticker mismatches stop automatic ingestion."

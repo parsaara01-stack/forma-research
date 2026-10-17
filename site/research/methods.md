@@ -4,7 +4,7 @@
 This repository currently publishes a **data pipeline and hypotheses, not empirical conclusions**. No fitted models or out-of-sample studies are claimed. The interactive simulator is a hypothetical deterministic cash-flow bridge.
 
 ## 2. Universe and unit
-Prospective full study: historical U.S.-listed common equities within a prespecified market-cap band at each formation date (e.g. $100 million–$5 billion in inflation-adjusted dollars), with sensitivity to Russell 2000 point-in-time membership. Include all former names, failures, delistings, cash takeouts, spin-offs and M&A exits. The initial eight ticker panel is purely to test ingestion and display, not a scientific sample.
+Prospective full study: historical U.S.-listed common equities within a prespecified market-cap band at each formation date (e.g. $100 million–$5 billion in inflation-adjusted dollars), with sensitivity to Russell 2000 point-in-time membership. Include all former names, failures, delistings, cash takeouts, spin-offs and M&A exits. The 20-company starting panel is purely to test ingestion and display, not a scientific sample.
 
 Primary panel: firm-quarter; return evaluations: security-month; debt maturities: instrument-year. Link CIK and security IDs with validity windows. Historical ticker alone is not a persistent identifier.
 

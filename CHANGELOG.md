@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 — 2026-10-17
+- Put the research objective first and rewrote the site in plain language
+- Removed sentence-ending periods from public-facing copy
+- Kept the six research questions and expanded the company coverage pilot from 8 to 20
+- Kept the lower sections and source detail views, with simpler labels
+
 ## 0.2.0 — 2026-10-17
 - Preserved the unmodified v0.1 baseline, then populated all eight pilot companies from live SEC responses.
 - Enforced single-filing and annual-duration coherence, CIK identity pins, finite facts and conservative nonoverlapping debt definitions.

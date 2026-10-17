@@ -3,13 +3,13 @@
 
 An independent research platform studying how smaller public companies fund growth, deploy capital and create—or destroy—per-share value.
 
-**v0.2.0: working SEC observation platform. Eight pilot companies have live, source-linked annual facts. All observations are unreviewed; there are no validated predictive findings or completed market-pricing backtests.**
+**v0.2.1: working SEC observation platform. Twenty pilot companies have live, source-linked annual facts. All observations are unreviewed; there are no validated predictive findings or completed market-pricing backtests.**
 
 ## Research objective
 
 How do capital requirements, financing structure and marginal financing costs interact with operating performance to determine financial resilience and subsequent shareholder returns?
 
-The platform separates operating improvement, funding requirements, per-share outcomes, market expectations and price discovery. Earnings recovery is one mechanism under investigation. The six proposed hypotheses and their nulls are in [`research/protocol.json`](research/protocol.json); they are draft specifications, not external preregistrations.
+The platform separates operating improvement, funding requirements, per-share outcomes, market expectations and price discovery. Earnings recovery is one mechanism under investigation. The six proposed research questions and their nulls are in [`research/protocol.json`](research/protocol.json); they are draft specifications, not external preregistrations.
 
 Working paper: *The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies.*
 
@@ -22,7 +22,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory site
 # Open http://127.0.0.1:8000
 ```
 
-Open any company to inspect its reported facts, fiscal and filing dates, source tags, original filing index, capital proxies, partial maturity buckets and input fingerprint. The simulator is a deterministic hypothetical business, not a stock forecast. The eight-company pilot tests filing coverage; it is not a current or historical Russell 2000 membership sample.
+Open any company to inspect its reported facts, fiscal and filing dates, source tags, original filing index, capital proxies, partial maturity buckets and input fingerprint. The simulator is a deterministic hypothetical business, not a stock forecast. The 20-company pilot tests filing coverage; it is not a current or historical Russell 2000 membership sample.
 
 ## Refresh and reproduce
 

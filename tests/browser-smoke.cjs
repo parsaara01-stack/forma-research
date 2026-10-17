@@ -29,10 +29,10 @@ async function ready(){for(let i=0;i<100;i++){try{if((await fetch(base)).ok)retu
  assert.equal(await page.locator('#owner-cash').innerText(),'−$5.1M');
  await page.locator('#reset-sim').click();assert.equal(await page.locator('#owner-cash').innerText(),'$3.0M');
  await page.locator('#search-company').fill('frog');assert.equal(await page.locator('.company-button').count(),1);
- await page.locator('#search-company').fill('no such company');assert.match(await page.locator('#company-rows').innerText(),/No matching/);
+ await page.locator('#search-company').fill('no such company');assert.match(await page.locator('#company-rows').innerText(),/No matches/);
  await page.locator('#search-company').fill('');
  await page.locator('[data-company="BTSG"]').click();assert.equal(await page.locator('dialog[open]').count(),1);
- assert.match(await page.locator('#detail-body').innerText(),/Debt maturities/);
+ assert.match(await page.locator('#detail-body').innerText(),/When debt is due/);
  await audit(page);
  await page.locator('summary').click();assert.match(await page.locator('.source-fingerprint').innerText(),/SHA-256/);
  await page.screenshot({path:path.join(screenshots,'forma-evidence-desktop.png')});
@@ -54,7 +54,7 @@ async function ready(){for(let i=0;i<100;i++){try{if((await fetch(base)).ok)retu
  await mobile.keyboard.press('Escape');await mobile.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await mobile.screenshot({path:path.join(screenshots,'forma-mobile.png')});
  const fail=await browser.newPage();await fail.route('**/data/research.json',route=>route.fulfill({status:503,body:'unavailable'}));await fail.goto(base);
  await fail.waitForFunction(()=>document.querySelector('#table-status').textContent==='Dataset unavailable');
- assert.match(await fail.locator('#data-warning').innerText(),/No results have been substituted/);
+ assert.match(await fail.locator('#data-warning').innerText(),/no figures have been filled in/);
  const fixture=JSON.parse(fs.readFileSync(path.join(root,'site/data/research.json'),'utf8'));
  fixture.companies[0].observation_status='stale-previous-snapshot';fixture.companies[0].refresh_error='Synthetic network failure';
  fixture.companies[0].primary_filing_url='javascript:alert(1)';fixture.companies[0].name='<img src=x onerror=alert(1)>';
@@ -62,6 +62,6 @@ async function ready(){for(let i=0;i<100;i++){try{if((await fetch(base)).ok)retu
  const stale=await browser.newPage();await stale.route('**/data/research.json',route=>route.fulfill({json:fixture}));await stale.goto(base);await stale.waitForSelector('.company-button');
  await stale.locator('#filter-status').selectOption('stale');assert.equal(await stale.locator('.company-button').count(),1);
  assert.equal(await stale.locator('#company-rows img').count(),0);assert.equal(await stale.locator('a[href^="javascript:"]').count(),0);
- assert.match(await stale.locator('#company-rows').innerText(),/Stale snapshot/);
+ assert.match(await stale.locator('#company-rows').innerText(),/Older saved report/);
  assert.deepEqual(errors,[]);console.log('PASS: desktop, mobile, simulator, search, provenance dialog, keyboard focus, failure, stale data, unsafe links, and WCAG accessibility audits.');
 })().catch(e=>{console.error(e);process.exitCode=1;}).finally(async()=>{if(browser)await browser.close();if(server)server.kill();});

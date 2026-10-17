@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publication_status": "protocol-only",
   "study_title": "The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies",
   "primary_outcomes": [
@@ -7,7 +7,7 @@
     "24-month financing distress / survival",
     "12-month risk-adjusted equity total return"
   ],
-  "pilot_scope": "8 hand-selected current companies, engineering checks only",
+  "pilot_scope": "20 hand-selected current companies, engineering checks only",
   "target_scope": "Historical point-in-time US-listed small-company panel including delistings",
   "analysis_status": "no fitted models, no historical membership panel, no claims of alpha",
   "hypotheses": [
@@ -55,5 +55,6 @@
     "Filing-coherent annual SEC extraction",
     "Hashed raw inputs and offline replication",
     "Conservative capital metrics and partial tagged maturities"
-  ]
+  ],
+  "plain_language_objective": "Find out how small public companies fund growth, what shareholders gain, and whether stock prices reflect it"
 }

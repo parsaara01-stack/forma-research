@@ -1,6 +1,6 @@
 {
   "name": "forma-research",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Browser quality checks for the static forma. research site",
   "scripts": {
