@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict');
+const {timingOutcome}=require('../site/assets/timing.js');
+const base={price:50,eps:3,pe:20,dilution:0,years:2,hurdle:10};
+let out=timingOutcome(base);
+assert.equal(out.futurePrice,60);
+assert.ok(Math.abs(out.annualReturn-(Math.sqrt(1.2)-1))<1e-12);
+assert.ok(Math.abs(out.entryForHurdle-60/1.1**2)<1e-12);
+assert.equal(timingOutcome({...base,dilution:50}).futurePrice,40);
+assert.equal(timingOutcome({...base,price:out.entryForHurdle}).annualReturn.toFixed(10),'0.1000000000');
+for(const change of [{price:0},{eps:-1},{eps:0},{years:0},{dilution:-1},{hurdle:-1},{pe:NaN},{price:Infinity}])assert.equal(timingOutcome({...base,...change}).valid,false);
+assert.ok(timingOutcome({...base,price:100}).annualReturn<out.annualReturn);
+console.log('PASS: timing arithmetic, dilution, hurdle inversion and invalid inputs');

@@ -73,7 +73,7 @@ class TestMetrics(unittest.TestCase):
 class TestProject(unittest.TestCase):
     def test_published_dataset(self):
         d=json.loads((ROOT/'site/data/research.json').read_text())
-        self.assertIn(d['schema_version'],{'0.1.0','0.2.0'})
+        self.assertIn(d['schema_version'],{'0.1.0','0.2.0','0.3.0'})
         self.assertGreater(len(d['companies']),0)
     def test_unique_universe(self):
         d=json.loads((ROOT/'data/universe.json').read_text())

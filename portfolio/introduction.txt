@@ -1,14 +1,8 @@
-forma — Small-Cap Research
+When is the right time to invest in small caps?
 
-An ongoing study of small-cap stocks, focused on the Russell 2000 and IWM
+forma studies when the economy, company profits and the price you pay begin to line up — before it is too late to capture the upside
 
-When does small-cap growth pay off?
+The study follows the listed stocks in IWM, the ETF that tracks the Russell 2000, and keeps a record as the holdings change
 
-forma asks whether earnings growth and recovery lead to better returns — and how debt, funding costs and new shares affect the outcome
-
-The research focuses on the Russell 2000 and IWM, the ETF that tracks the index
-
-We are starting with 20 companies to check the data process before building a full index study
-
-Button: Explore the live study
-https://parsaara01-stack.github.io/forma-research/
+Explore reported earnings, the economic backdrop and your own investment scenarios
+Research in progress — no tested timing signal yet

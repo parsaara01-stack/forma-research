@@ -1,51 +1,69 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "publication_status": "protocol-only",
-  "study_title": "The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies",
+  "study_title": "When Does Growth Pay Off? Investment Timing in Small Caps",
   "primary_outcomes": [
     "24-month fundamental cash-flow per share change",
     "24-month financing distress / survival",
     "12-month risk-adjusted equity total return"
   ],
-  "pilot_scope": "20 hand-selected current companies, engineering checks only",
-  "target_scope": "Historical point-in-time US-listed small-company panel including delistings",
+  "pilot_scope": "Complete usable listed IWM equity coverage, with explicit mapping and reporting gaps",
+  "target_scope": "Dated Russell 2000 membership and security-level total return panel, including exits and delistings",
   "analysis_status": "no fitted models, no historical membership panel, no claims of alpha",
   "hypotheses": [
     {
       "id": "H01",
-      "name": "Capital conversion gap",
+      "name": "Entry before earnings",
       "status": "to_be_tested",
-      "null": "Funding source has no incremental association with future per-original-share cash generation conditional on opportunity set."
+      "null": "Waiting for sustained profits has no out-of-sample benefit after missed upside and costs"
     },
     {
       "id": "H02",
-      "name": "Refinancing cliff",
+      "name": "Price versus expectations",
       "status": "to_be_tested",
-      "null": "Debt repricing exposure has no interaction with credit shocks in predicting real investment or distress."
+      "null": "Forecast revisions add no predictive information after price and valuation"
     },
     {
       "id": "H03",
-      "name": "Incremental return on capital",
+      "name": "Macro interaction",
       "status": "to_be_tested",
-      "null": "Incremental ROIC provides no incremental out-of-sample predictive value over trailing ROIC and growth."
+      "null": "Rates, inflation, employment and credit conditions do not change the timing relationship"
     },
     {
       "id": "H04",
-      "name": "Recovery illusion",
+      "name": "Quality of profit",
       "status": "to_be_tested",
-      "null": "Cash conversion and financing risk do not improve estimates of subsequent recovery forecast errors."
+      "null": "Cash conversion and margin breadth add no information over EPS growth"
     },
     {
       "id": "H05",
-      "name": "Dilution and survival options",
+      "name": "Ability to wait",
       "status": "to_be_tested",
-      "null": "Dilution interacted with investment opportunity has no additional association with per-share value or survival."
+      "null": "Funding runway and debt maturities have no incremental association with timing outcomes"
     },
     {
       "id": "H06",
-      "name": "Index composition effect",
+      "name": "Dilution",
       "status": "to_be_tested",
-      "null": "Index-reported EPS growth equals fixed-constituent growth after documented aggregation adjustments."
+      "null": "New share issuance does not change per-original-share recovery outcomes"
+    },
+    {
+      "id": "H07",
+      "name": "EPS outlook",
+      "status": "to_be_tested",
+      "null": "Vintage EPS forecast revisions and disagreement have no out-of-sample information"
+    },
+    {
+      "id": "H08",
+      "name": "Composition",
+      "status": "to_be_tested",
+      "null": "Fixed-member and changing-member improvements do not differ"
+    },
+    {
+      "id": "H09",
+      "name": "Economic timing value",
+      "status": "to_be_tested",
+      "null": "A timing rule does not improve net returns over the predeclared comparators"
     }
   ],
   "version_controlled_on": "2026-10-17",
@@ -56,11 +74,41 @@
     "Hashed raw inputs and offline replication",
     "Conservative capital metrics and partial tagged maturities"
   ],
-  "plain_language_objective": "Study whether earnings growth and recovery in small-cap companies lead to better shareholder returns, and how financing changes the outcome",
+  "plain_language_objective": "Find a better time to invest in small caps by testing the economy, profits, expectations and the price paid together",
   "research_focus": {
     "index": "Russell 2000",
     "etf_reference": "IWM \u2014 iShares Russell 2000 ETF",
-    "scope_status": "Research focus only; the 20-company coverage pilot is not a verified index constituent sample",
+    "scope_status": "All usable listed IWM holdings as a current proxy; not certified Russell membership",
     "source": "https://www.ishares.com/us/products/239710/ishares-russell-2000-etf"
+  },
+  "timing_status": "Deterministic scenarios implemented; no fitted timing model, no validated buy signal",
+  "timing_design": {
+    "forward_horizons_months": [
+      6,
+      12,
+      24
+    ],
+    "comparators": [
+      "IWM buy-and-hold",
+      "Equal monthly investment",
+      "Lagged profitability rule",
+      "Simple price trend rule"
+    ],
+    "training": "Chronological expanding windows with purged overlapping labels and a final untouched test period",
+    "primary_timing_endpoint": "Net-of-cost 12-month excess total return over IWM at matched risk",
+    "secondary_endpoints": [
+      "Drawdown",
+      "Missed upside",
+      "Time waiting",
+      "Turnover",
+      "Distress",
+      "Calibration of return distributions"
+    ],
+    "required_inputs_not_connected": [
+      "Original-vintage analyst EPS forecasts and revisions",
+      "Point-in-time index membership before project inception",
+      "Security-level total returns including delistings",
+      "Tradable-date macro vintages and releases"
+    ]
   }
 }

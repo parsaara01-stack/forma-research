@@ -8,7 +8,7 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,6 +19,7 @@ jobs:
       - name: Validate and reproduce archived observations
         run: |
           python -m engine validate
+          python -m engine verify-sources
           python -m engine replicate
           python -m engine build
           git diff --exit-code -- site/research

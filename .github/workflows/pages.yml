@@ -5,11 +5,11 @@ on:
   workflow_dispatch:
     inputs:
       refresh_sec:
-        description: 'Refresh SEC panel (requires SEC_CONTACT secret)'
+        description: Refresh all SEC company reports as well as holdings and macro
         default: false
         type: boolean
   schedule:
-    - cron: '22 6 * * 2,5' # Tuesday and Friday, 06:22 UTC; GitHub may delay runs.
+    - cron: '22 7 * * 1-5' # Weekday holdings and macro; SEC reports Tuesday and Friday
 permissions:
   contents: read
 concurrency:
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     permissions:
       contents: write
       pages: read
@@ -32,38 +32,48 @@ jobs:
         with:
           node-version: '24'
           cache: pnpm
-      - name: Validate baseline
+      - uses: actions/cache@v4
+        with:
+          path: .cache/sec
+          key: sec-responses-${{ github.run_id }}
+          restore-keys: sec-responses-
+      - name: Validate saved inputs
         run: |
-          python -m unittest discover -s tests -v
+          python -m unittest discover -s tests -q
+          python -m engine verify-sources
           python -m engine validate
-          python -m engine replicate
-      - name: Refresh SEC observations
-        if: github.event_name == 'schedule' || inputs.refresh_sec == true
+      - name: Refresh membership, economic context and company reports
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          FORCE_SEC_REFRESH: ${{ inputs.refresh_sec }}
+          SCHEDULED: ${{ github.event_name == 'schedule' }}
         run: |
-          if [ -z "$SEC_CONTACT" ]; then
-            echo '::warning::SEC_CONTACT is not set; no refresh performed. Prior observation dates remain visible.'
-          else
+          python -m engine universe
+          python -m engine macro
+          weekday=$(date -u +%u)
+          if [ "$FORCE_SEC_REFRESH" = 'true' ] || { [ "$SCHEDULED" = 'true' ] && { [ "$weekday" = 2 ] || [ "$weekday" = 5 ]; }; }; then
             python -m engine refresh --archive
+          else
+            python -m engine sync
           fi
       - name: Verify publication candidate
         run: |
           python -m engine build
           python -m engine validate
+          python -m engine verify-sources
           python -m engine replicate
           pnpm install --frozen-lockfile
           pnpm exec playwright install --with-deps chromium
           pnpm test
-      - name: Preserve successful data refresh
-        if: github.event_name == 'schedule' || inputs.refresh_sec == true
+      - name: Preserve the tested refresh
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name 'forma-data-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site/data/research.json data/snapshots/ data/raw/
+          git add site/data/ data/universe.json data/snapshots/ data/raw/ data/holdings/ data/membership/ data/macro/
           if ! git diff --cached --quiet; then
-            git commit -m 'data: refresh and reproduce SEC observation panel'
-            # Refuse concurrent source changes rather than overwrite main.
+            git commit -m 'data: refresh dated small-cap coverage and evidence'
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5

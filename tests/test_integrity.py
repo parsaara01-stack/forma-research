@@ -156,7 +156,7 @@ class PublicationIntegrity(unittest.TestCase):
             before = self.output.read_bytes()
             self.assertFalse(cli.refresh(ASOF, archive=True)['changed'])
             self.assertEqual(before, self.output.read_bytes())
-            self.assertEqual(len(list((self.root/'data/snapshots').glob('*.json'))), 1)
+            self.assertEqual(len(list((self.root/'data/snapshots').glob('*.json.gz'))), 1)
 
     def test_future_stale_facts_never_carried_back(self):
         record = {'facts': {'revenue': {'filed': '2026-02-10', 'end': '2025-12-31'}}}

@@ -11,6 +11,7 @@ import json
 import math
 import re
 import time
+import threading
 import urllib.error
 import urllib.request
 from collections import Counter
@@ -80,6 +81,8 @@ class SECClient:
         self.timeout, self.retries = timeout, retries
         self.cache_dir, self.archive_dir, self.cache_ttl = cache_dir, archive_dir, cache_ttl
         self.last_request_at = 0.0
+        self.request_lock = threading.Lock()
+        self.access_denied = threading.Event()
         self.documents: dict[str, dict] = {}
 
     def _remember(self, url: str, raw: bytes, retrieved_at: str, cached: bool) -> Any:
@@ -107,34 +110,40 @@ class SECClient:
         if not (url.startswith('https://data.sec.gov/') or url.startswith('https://www.sec.gov/')):
             raise SECError('Only official SEC HTTPS endpoints are allowed')
         key = hashlib.sha256(url.encode()).hexdigest()
-        cache = self.cache_dir / f'{key}.json' if self.cache_dir else None
+        cache = self.cache_dir / f'{key}.json.gz' if self.cache_dir else None
         if cache and cache.exists():
             try:
-                item = json.loads(cache.read_text())
+                item = json.loads(gzip.decompress(cache.read_bytes()))
                 raw = item['raw'].encode()
                 age = time.time() - datetime.fromisoformat(item['retrieved_at']).timestamp()
                 if 0 <= age < self.cache_ttl and hashlib.sha256(raw).hexdigest() == item['sha256']:
                     return self._remember(url, raw, item['retrieved_at'], True)
-            except (ValueError, KeyError, TypeError, OSError, SECError):
+            except (ValueError, KeyError, TypeError, OSError, SECError, EOFError):
                 pass  # Never substitute a corrupt or expired cache on a network failure.
         req = urllib.request.Request(url, headers={
             'User-Agent': f'forma-research/0.2 contact {self.contact}',
             'Accept': 'application/json', 'Accept-Encoding': 'identity',
         })
         for attempt in range(self.retries + 1):
-            wait = self.delay_seconds - (time.monotonic() - self.last_request_at)
-            if wait > 0:
-                time.sleep(wait)
+            with self.request_lock:
+                if self.access_denied.is_set():
+                    raise SECError('SEC access denial; collection stopped')
+                wait = self.delay_seconds - (time.monotonic() - self.last_request_at)
+                if wait > 0:
+                    time.sleep(wait)
+                self.last_request_at = time.monotonic()
             try:
                 with urllib.request.urlopen(req, timeout=self.timeout) as response:
                     raw = response.read()
                 retrieved = datetime.now(timezone.utc).isoformat()
                 result = self._remember(url, raw, retrieved, False)
                 if cache:
-                    atomic_write(cache, json.dumps({'retrieved_at': retrieved,
-                        'sha256': hashlib.sha256(raw).hexdigest(), 'raw': raw.decode()}).encode())
+                    atomic_write(cache, gzip.compress(json.dumps({'retrieved_at': retrieved,
+                        'sha256': hashlib.sha256(raw).hexdigest(), 'raw': raw.decode()}).encode(), mtime=0))
                 return result
             except urllib.error.HTTPError as exc:
+                if exc.code == 403:
+                    self.access_denied.set()
                 retryable = exc.code in {429, 500, 502, 503, 504}
                 retry_after = exc.headers.get('Retry-After', '') if exc.headers else ''
                 if attempt == self.retries or not retryable:
@@ -144,8 +153,6 @@ class SECClient:
                 if attempt == self.retries:
                     raise SECError(f'SEC network failure for {url}: {exc}') from exc
                 pause = 2 ** attempt
-            finally:
-                self.last_request_at = time.monotonic()
             time.sleep(pause)
         raise SECError('SEC retries exhausted')
 
@@ -219,8 +226,10 @@ def choose_fact(companyfacts: dict, tags: list[str], end: str, asof: date, *, st
     return None
 
 
-def extract_annual(companyfacts: dict, asof: date) -> tuple[str | None, dict]:
+def extract_annual(companyfacts: dict, asof: date, target_end: str | None = None) -> tuple[str | None, dict]:
     candidates = _anchors(companyfacts, asof)
+    if target_end is not None:
+        candidates = [o for o in candidates if o['end'] == target_end]
     if not candidates:
         return None, {}
     end = max(o['end'] for o in candidates)

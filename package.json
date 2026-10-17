@@ -1,10 +1,10 @@
 {
   "name": "forma-research",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "private": true,
   "description": "Browser quality checks for the static forma. research site",
   "scripts": {
-    "test": "node tests/browser-smoke.cjs"
+    "test": "node tests/timing.cjs && node tests/browser-smoke.cjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.14.0",

@@ -16,3 +16,10 @@
 - SEC Developer Resources (fair access, API request limits): https://www.sec.gov/about/developer-resources — checked October 17, 2026.
 
 - iShares Russell 2000 ETF (IWM), official fund and benchmark description: https://www.ishares.com/us/products/239710/ishares-russell-2000-etf — checked October 17, 2026
+
+## Complete coverage and timing sources
+- iShares official IWM holdings: https://www.ishares.com/us/products/239710/ishares-russell-2000-etf
+- Dated holdings CSV: https://www.ishares.com/us/products/239710/ishares-russell-2000-etf/latest-holdings.csv
+- FTSE Russell reconstitution calendar, including June and December reviews from 2026: https://www.lseg.com/en/ftse-russell/russell-reconstitution
+- FRED DFF, DGS10, T10Y2Y, UNRATE, CPIAUCSL, individual series links in the macro artifact: https://fred.stlouisfed.org/
+- FRED vintage observations and release dates for future historical analysis: https://fred.stlouisfed.org/docs/api/fred/realtime_period.html

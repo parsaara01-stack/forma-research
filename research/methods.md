@@ -55,3 +55,21 @@ SEC API: publicly available filings, but not historic analyst forecast vintages,
 ## 9. Empirical study gate
 
 The protocol is a versioned draft, not an external preregistration. Before fitting H01–H06, freeze the exact sample, treatment, comparator, endpoint, horizons, data definitions, exclusion and missingness rules, chronological splits, minimum effect of interest, multiple-testing family and code release. Separate descriptive current-vintage accounting work from any point-in-time forecasting test. No current site output constitutes a validated empirical finding.
+
+## Complete coverage and timing extension — v0.3
+The live universe now uses all usable listed equity positions in the official IWM holdings CSV
+The dated membership snapshots preserve the source file, fingerprint, additions and removals, including zero-weight listed positions
+Cash, futures and unlisted or tickerless positions remain documented exclusions
+This is a fund-holdings proxy and must not be described as certified current or historical Russell index membership
+See [timing.md](timing.md) for the timing study and scenario definitions
+
+Every company report is retrieved through one shared limiter with at most four request starts per second and at most four concurrent downloads
+A request denial halts further network collection; large refreshes with fewer than 85% successful company observations preserve the prior public dataset
+The cache permits an interrupted collection to resume without repeating valid source downloads
+Public catalogs contain summary fields; full source-linked company evidence loads only when opened
+
+The macro panel preserves the downloaded FRED response and its fingerprint
+Its current database vintage and observation dates are shown, so these series must not be treated as original historical release vintages
+Annual EPS histories use EarningsPerShareDiluted in USD/shares from the same original annual accession and duration as that year's financial facts
+Comparative statements with different fiscal spans are not combined
+A missing EPS is not inferred from other firms, analysts or a current share count

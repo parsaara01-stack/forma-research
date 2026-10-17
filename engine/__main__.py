@@ -11,6 +11,7 @@ import sys
 from datetime import date, datetime, timezone
 from .sec import SECClient, extract_annual, SECError, SEC_FACTS, atomic_write, UNITS
 from .metrics import calculate, capital_profile
+from .earnings import earnings_evidence
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 UNIVERSE = ROOT / 'data/universe.json'
@@ -25,7 +26,7 @@ def validate_payload(d: dict) -> dict:
     def require(condition, message):
         if not condition:
             raise ValueError(message)
-    require(d.get('schema_version') in {'0.1.0', '0.2.0'}, 'Unsupported dataset schema')
+    require(d.get('schema_version') in {'0.1.0', '0.2.0', '0.3.0'}, 'Unsupported dataset schema')
     rows = d.get('companies')
     require(isinstance(rows, list) and bool(rows), 'Dataset needs companies')
     tickers = []
@@ -112,7 +113,7 @@ def code_provenance() -> dict:
     return result
 
 
-def refresh(asof: date, archive: bool = False, force: bool = False) -> dict:
+def refresh(asof: date, archive: bool = False, force: bool = False, workers: int = 1) -> dict:
     if asof > datetime.now(timezone.utc).date():
         raise ValueError('Information cutoff cannot be in the future')
     client = SECClient(os.environ.get('SEC_CONTACT', ''), cache_dir=ROOT / '.cache/sec',
@@ -121,16 +122,20 @@ def refresh(asof: date, archive: bool = False, force: bool = False) -> dict:
     previous = json.loads(OUTPUT.read_text()) if OUTPUT.exists() else {'companies': []}
     prior = {r['ticker']: r for r in previous.get('companies', [])}
     resolved = client.resolve_tickers()
+    from .universe import symbol
+    resolved = {symbol(k): v for k, v in resolved.items()}
     final, errors, successes = [], [], 0
-    for entry in universe['companies']:
+    def collect(entry):
         ticker = entry['ticker'].upper()
         record = {**entry, 'facts': {}, 'metrics': {}, 'observation_status': 'missing'}
+        error, success, identity_conflict = None, 0, False
         try:
             match = resolved.get(ticker)
             if not match:
                 raise SECError(f'{ticker} absent from current SEC directory; review identity manually')
             cik = int(entry.get('cik', match['cik_str']))
-            if cik != int(match['cik_str']):
+            if cik != int(match['cik_str']) or (prior.get(ticker, {}).get('cik') and prior[ticker]['cik'] != cik):
+                identity_conflict = True
                 raise SECError('Pinned CIK differs from current ticker identity; manual review required')
             full = client.company_facts(cik)
             end, facts = extract_annual(full, asof)
@@ -141,25 +146,38 @@ def refresh(asof: date, archive: bool = False, force: bool = False) -> dict:
                           metrics=calculate(facts, entry.get('group', '')),
                           capital_profile=capital_profile(facts, entry.get('group', '')),
                           observation_status='sec-xbrl-unreviewed', observation_cutoff=asof.isoformat(), source_document=document,
-                          primary_filing_url=next(iter(facts.values()))['source_url'])
-            successes += 1
+                          primary_filing_url=next(iter(facts.values()))['source_url'],
+                          earnings=earnings_evidence(full, asof))
+            success = 1
         except (SECError, ValueError, KeyError, TypeError) as exc:
-            errors.append(f'{ticker}: {exc}')
+            error = f'{ticker}: {exc}'
             old = prior.get(ticker, {})
-            if _safe_prior(old, asof) and (not entry.get('cik') or old.get('cik') == entry['cik']):
-                record = copy.deepcopy(old)
+            if not identity_conflict and _safe_prior(old, asof) and (not entry.get('cik') or old.get('cik') == entry['cik']):
+                record = {**copy.deepcopy(old), **entry}
                 record['observation_status'] = 'stale-previous-snapshot'
                 record['metrics'] = calculate(record['facts'], record.get('group', ''))
                 record['capital_profile'] = capital_profile(record['facts'], record.get('group', ''))
             record['refresh_error'] = str(exc)
-        final.append(record)
+        return record, error, success
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=max(1, min(4, workers))) as executor:
+        for record, error, success in executor.map(collect, universe['companies']):
+            final.append(record)
+            successes += success
+            if error:
+                errors.append(error)
+            if len(final) % 100 == 0:
+                print(f'Collected {len(final)}/{len(universe["companies"])} equities; {successes} reports', file=sys.stderr, flush=True)
     if successes == 0:
         raise SECError('Zero fresh observations; published dataset preserved. ' + '; '.join(errors)[:600])
+    if len(final) > 100 and successes / len(final) < .85:
+        raise SECError('Fewer than 85% of holdings refreshed successfully; published dataset preserved')
     now = datetime.now(timezone.utc).isoformat()
     payload = {
-        'schema_version': '0.2.0', 'generated_at': now, 'last_successful_refresh': now,
+        'schema_version': '0.3.0', 'generated_at': now, 'last_successful_refresh': now,
         'status': 'Unreviewed SEC-tagged observations; no validated predictive findings',
-        'universe_description': 'Curated current pilot; not historical Russell membership',
+        'universe_description': universe.get('purpose', 'Curated current pilot; not historical Russell membership'),
+        'universe': {k: v for k, v in universe.items() if k != 'companies'},
         'asof_cutoff': asof.isoformat(), 'companies': final, 'refresh_warnings': errors,
         'code_provenance': code_provenance(),
         'source_documents': [{k: v for k, v in doc.items() if k != 'cache_hit'} for doc in client.documents.values()],
@@ -171,21 +189,47 @@ def refresh(asof: date, archive: bool = False, force: bool = False) -> dict:
     raw = encoded(payload)
     if archive:
         digest = hashlib.sha256(raw).hexdigest()
-        snapshot = ROOT / 'data/snapshots' / f'{asof.isoformat()}-{digest}.json'
-        if snapshot.exists() and snapshot.read_bytes() != raw:
+        import gzip
+        snapshot = ROOT / 'data/snapshots' / f'{asof.isoformat()}-{digest}.json.gz'
+        if snapshot.exists() and gzip.decompress(snapshot.read_bytes()) != raw:
             raise SECError('Immutable snapshot collision')
         if not snapshot.exists():
-            atomic_write(snapshot, raw)
+            atomic_write(snapshot, gzip.compress(raw, mtime=0))
     if changed:
         atomic_write(OUTPUT, raw)
     return {'companies': len(final), 'fresh': successes, 'warnings': len(errors),
             'cutoff': asof.isoformat(), 'changed': changed}
 
 
+def sync_universe() -> dict:
+    """Update public holdings without pretending that annual reports were refreshed."""
+    import gzip
+    universe = json.loads(UNIVERSE.read_text())
+    previous = json.loads(OUTPUT.read_text())
+    prior = {r['ticker']: r for r in previous['companies']}
+    rows = []
+    for entry in universe['companies']:
+        old = prior.get(entry['ticker'], {'facts': {}, 'metrics': {}, 'observation_status': 'missing'})
+        row = {**old, **entry}
+        if row.get('facts'):
+            row['metrics'] = calculate(row['facts'], row.get('group', ''))
+            row['capital_profile'] = capital_profile(row['facts'], row.get('group', ''))
+        rows.append(row)
+    payload = {**previous, 'schema_version': '0.3.0', 'companies': rows,
+               'universe_description': universe['purpose'],
+               'universe': {k: v for k, v in universe.items() if k != 'companies'}}
+    validate_payload(payload)
+    raw = encoded(payload)
+    digest = hashlib.sha256(raw).hexdigest()
+    atomic_write(ROOT / 'data/snapshots' / f"{universe['effective']}-{digest}.json.gz", gzip.compress(raw, mtime=0))
+    atomic_write(OUTPUT, raw)
+    return {'listed_equities': len(rows), 'holdings_date': universe['effective'], 'annual_reports_refreshed': False}
+
+
 def replicate(snapshot: pathlib.Path) -> dict:
     """Verify archived bytes and rebuild each observation without a network request."""
     import gzip
-    dataset = json.loads(snapshot.read_text())
+    dataset = json.loads(gzip.decompress(snapshot.read_bytes()) if snapshot.suffix == '.gz' else snapshot.read_bytes())
     validate_payload(dataset)
     verified = set()
     for source in dataset.get('source_documents', []):
@@ -217,16 +261,37 @@ def replicate(snapshot: pathlib.Path) -> dict:
             raise ValueError(f"Re-extracted facts differ for {record['ticker']}")
         if calculate(facts, record.get('group', '')) != record['metrics']:
             raise ValueError('Recomputed metrics differ')
+        if 'earnings' in record and earnings_evidence(full, cutoff) != record['earnings']:
+            raise ValueError('Recomputed earnings evidence differs')
         count += 1
     return {'reproduced_companies': count, 'network_requests': 0, 'verified_raw_documents': len(verified)}
 
 
 def build() -> dict:
     target = ROOT / 'site/research'
-    names = ['methods.md', 'hypotheses.md', 'capital_taxonomy.md', 'protocol.json', 'variables.csv', 'references.md']
+    names = ['methods.md', 'hypotheses.md', 'capital_taxonomy.md', 'protocol.json', 'variables.csv', 'references.md', 'timing.md']
     for name in names:
         atomic_write(target / name, (ROOT / 'research' / name).read_bytes())
-    return {'packaged_research_files': len(names)}
+    data = json.loads(OUTPUT.read_text())
+    detail_dir = ROOT / 'site/data/companies'
+    detail_dir.mkdir(parents=True, exist_ok=True)
+    active = {r['ticker'] + '.json' for r in data['companies']}
+    for old in detail_dir.glob('*.json'):
+        if old.name not in active:
+            old.unlink()  # Retired reports remain in immutable research snapshots
+    catalog = {k: v for k, v in data.items() if k not in {'companies', 'source_documents'}}
+    catalog['companies'] = []
+    for record in data['companies']:
+        atomic_write(detail_dir / (record['ticker'] + '.json'), encoded(record))
+        row = {k: v for k, v in record.items() if k not in {'facts', 'capital_profile', 'earnings', 'source_document'}}
+        row['has_facts'] = bool(record['facts'])
+        row['revenue'] = record['facts'].get('revenue', {}).get('value')
+        history = record.get('earnings', {}).get('annual_history', [])
+        row['reported_eps'] = history[0]['eps']['value'] if history and history[0].get('eps') else None
+        row['eps_end'] = history[0]['end'] if history else None
+        catalog['companies'].append(row)
+    atomic_write(ROOT / 'site/data/catalog.json', encoded(catalog))
+    return {'packaged_research_files': len(names), 'lazy_company_reports': len(active)}
 
 
 def validate() -> dict:
@@ -235,15 +300,28 @@ def validate() -> dict:
 
 def main():
     p = argparse.ArgumentParser(description='forma. research engine')
-    p.add_argument('command', choices=['refresh', 'validate', 'build', 'replicate'])
+    p.add_argument('command', choices=['refresh', 'validate', 'build', 'replicate', 'universe', 'macro', 'verify-sources', 'sync'])
     p.add_argument('--snapshot', type=pathlib.Path, help='Archived dataset to reproduce offline (default: current public dataset)')
     p.add_argument('--asof', help='Inclusive filing-date cutoff; not a historical database vintage')
     p.add_argument('--archive', action='store_true', help='Preserve hashed raw inputs and immutable output snapshot')
     p.add_argument('--force', action='store_true', help='Bypass the six-hour SEC response cache')
+    p.add_argument('--workers', type=int, choices=range(1, 5), default=4, help='Concurrent downloads sharing one rate limiter (at most four requests/second)')
     args = p.parse_args()
     try:
-        if args.command == 'refresh':
-            result = refresh(date.fromisoformat(args.asof) if args.asof else datetime.now(timezone.utc).date(), args.archive, args.force)
+        if args.command == 'universe':
+            from .universe import refresh_universe
+            result = refresh_universe(ROOT, datetime.now(timezone.utc).date())
+        elif args.command == 'sync':
+            result = sync_universe()
+        elif args.command == 'macro':
+            from .macro import refresh_macro
+            result = refresh_macro(ROOT, datetime.now(timezone.utc).date())
+        elif args.command == 'verify-sources':
+            from .universe import verify_universe
+            from .macro import verify_macro
+            result = {**verify_universe(ROOT), **verify_macro(ROOT)}
+        elif args.command == 'refresh':
+            result = refresh(date.fromisoformat(args.asof) if args.asof else datetime.now(timezone.utc).date(), args.archive, args.force, args.workers)
         elif args.command == 'replicate':
             result = replicate(args.snapshot or OUTPUT)
         elif args.command == 'build':
