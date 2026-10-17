@@ -24,3 +24,9 @@ maturity_year_1_to_5,USD,Tagged long-term principal repayment buckets,reported,S
 current_ratio,ratio,Current assets / current liabilities,derived,SEC XBRL 10-K,no,Unavailable for financial-sector protocol
 cash_runway_years,years,Unrestricted cash / negative annual CFO,derived,SEC XBRL 10-K,no,Operating cash coverage only; excludes investments and future investing or financing
 source_sha256,hash,Fingerprint of raw SEC response bytes,metadata,SEC response,no,Computational provenance does not eliminate database-vintage bias
+reported_eps,USD/share,Original annual diluted EPS,reported,SEC EarningsPerShareDiluted,no,Annual filing vintage; not current-quarter or TTM EPS
+holding_price,USD/share,Dated provider holding valuation,reported,Official IWM holdings CSV,no,Not a live executable quote
+future_eps_assumption,USD/share,EPS at exit before extra share issuance,user assumption,Timing lab input,not applicable,Not an analyst forecast
+exit_pe_assumption,multiple,Assumed future price / earnings,user assumption,Timing lab input,not applicable,Only defined for positive projected earnings
+annual_price_return,fraction,Annualized price-only scenario return,derived,User assumptions,not applicable,Excludes dividends fees and taxes; not calibrated
+macro_context,series-specific,Rates yield curve jobs and inflation,reported or derived,FRED DFF DGS10 T10Y2Y UNRATE CPIAUCSL,no,Revised database; observation dates differ from release dates

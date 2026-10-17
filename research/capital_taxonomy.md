@@ -6,7 +6,7 @@
 | Growth reinvestment | Acquisitions + productive growth capex + change in noncash working capital + intangible investment | Not collected | Distinguish organically grown assets from purchased assets |
 | Capital efficiency | Marginal NOPAT versus incremental invested capital | Planned | Adjust R&D, leases, goodwill, financials |
 | Working-capital drag | Δreceivables + Δinventories − Δpayables, scaled by Δsales | Planned | Working-capital cash release may be temporary |
-| Operating cash quality | CFO minus capex, accruals, SBC-adjusted dilution, collections | CFO/Capex pilot | Cash taxes, classification and acquisition payments matter |
+| Operating cash quality | CFO minus capex, accruals, SBC-adjusted dilution, collections | CFO/PPE capex where reported | Cash taxes, classification and acquisition payments matter |
 | Fixed/variable-rate debt | Instrument-level contractual exposure and hedges | Not collected | Effective exposure differs from headline floating amount |
 | Debt maturity wall | Principal due 1, 2, 3, 5 years versus liquidity/revolver capacity | Not collected | Must read debt notes; not available as simple standard XBRL number |
 | Capital stack & seniority | Secured loans, revolvers, unsecured bonds, leases, convertibles, preferred | Not collected | Seniority changes downside recovery value |

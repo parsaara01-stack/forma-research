@@ -1,35 +1,32 @@
-# Research release roadmap
+# Publication roadmap — v0.3
 
-### 0.1 — Publishing scaffold (delivered)
-- Original responsive visual identity; standalone static site; accessible controls.
-- Six research dimensions and pre-publication hypothesis registry.
-- Illustrative scenario simulator; no empirical forecast labels.
-- Official SEC annual CompanyFacts collector for 8 heterogeneous pilot companies, unit tests and source links.
-- Versioned JSON, optional output archives, scheduled GitHub Actions and GitHub Pages pipeline.
+## Available now
+- Complete usable listed IWM equity coverage with saved membership changes
+- Source-linked annual SEC facts and EPS history where supported
+- Dated economic readings and smaller source downloads with retries
+- Three-section product with timing scenarios, an earnings / valuation grid and a funding calculator
+- Automated source checks, offline replication, responsive browser checks and GitHub Pages
 
-### 0.2 — Data audit
-- Anchor 10-K selection to original filing accession and verify in-document taxonomy.
-- Sector-specialist metric classes; GAAP versus adjusted earnings reconciliation.
-- Detailed missingness report, extraction coverage, and QA snapshots.
-- 50–100 symbols selected through a specified inclusion rule rather than convenience alone.
+## Next data connections
+- Authorized dated Russell 2000 membership, including historical exits
+- Original-vintage analyst EPS forecasts, revisions and guidance
+- Security-level total returns including distributions, corporate actions and delistings
+- Original macro release times and vintages, plus appropriate credit measures
+- More recent quarterly evidence, sector-specific accounting and reviewed debt terms
 
-### 0.3 — Financing structure
-- Parse debt maturity tables and footnotes with human-verified instrument records.
-- Add lease obligations, revolver liquidity, dilution and financing cash flows.
-- Confidence labels and filing-level traceability for all extracted text.
-- Implement period-consistent cash-flow and reinvestment bridge.
+## Before estimating a timing rule
+Freeze all nine hypotheses, endpoints, comparators, horizons, controls and chronological test windows
+Check missingness, issuer identities and accounting interpretation
+Evaluate forecast calibration separately from investment returns
+Compare against holding IWM, monthly investment and simple declared rules
 
-### 0.4 — Point-in-time panel
-- Establish data licenses for CRSP/Compustat or sufficiently validated alternatives.
-- Obtain historical analyst expectation vintages and Russell membership history (when legally accessible).
-- Persist delisting outcomes, security identifier mapping and original filing timestamps.
+## Before publishing a signal
+Report unseen-period performance after costs and the return on uninvested cash
+Include risk, drawdowns, missed upside, uncertainty, turnover and failed ideas
+Do not publish an optimal-entry claim based only on fitted historical results
 
-### 0.5 — Registered empirical tests
-- Freeze H01/H02 definitions, nulls, cohorts, statistical tests and out-of-sample windows.
-- Compare to known profitability/investment/valuation factors, quantify estimated economic effects and confidence intervals.
-- Publish negative/failed findings as explicitly as positive ones.
-
-### 1.0 — Research publication
-- Full reproducibility package and data availability statement.
-- External methodology review, citations, robustness appendix, and permanently versioned results.
-- Manuscript and running dashboard whose results show source date, model vintage and uncertainty.
+## Ongoing operation
+Weekday holdings and economic-source checks
+Tuesday and Friday SEC collections
+Source failures preserve the previous live publication
+Human review is required for research findings

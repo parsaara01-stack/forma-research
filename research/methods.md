@@ -1,10 +1,13 @@
-# Methods & Replication Standard — v0.2
+# Methods & Replication Standard — v0.3
 
 ## 1. Scientific status
-This repository currently publishes a **data pipeline and hypotheses, not empirical conclusions**. No fitted models or out-of-sample studies are claimed. The interactive simulator is a hypothetical deterministic cash-flow bridge.
+This repository currently publishes a **data pipeline and hypotheses, not empirical conclusions**. No fitted models or out-of-sample studies are claimed. The interactive tools show deterministic price scenarios and a hypothetical cash-flow bridge; neither is a fitted forecast.
 
 ## 2. Universe and unit
-Prospective full study: historical U.S.-listed common equities within a prespecified market-cap band at each formation date (e.g. $100 million–$5 billion in inflation-adjusted dollars), with sensitivity to Russell 2000 point-in-time membership. Include all former names, failures, delistings, cash takeouts, spin-offs and M&A exits. The 20-company starting panel is purely to test ingestion and display, not a scientific sample.
+Target study: historical Russell 2000 securities with dated index membership, including failures, delistings, takeouts, spin-offs and other exits
+The live coverage group uses all usable listed equities in IWM’s official holdings file
+This replaces the original 20-company engineering pilot and remains a fund-holdings proxy rather than certified index membership
+A separate size-based sample can be preregistered as a sensitivity check
 
 Primary panel: firm-quarter; return evaluations: security-month; debt maturities: instrument-year. Link CIK and security IDs with validity windows. Historical ticker alone is not a persistent identifier.
 
@@ -13,7 +16,8 @@ For each original filing store filing acceptance/publication, accession, measure
 
 Current v0.2 extracts annual original 10-K facts, in USD or shares as appropriate. It selects the latest supported fiscal end, then the earliest original filing for that end and a shared annual duration (330–390 days). All displayed facts come from that accession. Ambiguous duplicate contexts, nonfinite values, unsupported concepts, amendments and incompatible durations are excluded. Revenue including assessed tax is a last-priority fallback and its source tag remains visible; cross-company tax treatment is not normalized. This is a **current observation panel**, not a validated as-reported historical reconstruction.
 
-A cutoff includes the entire filing date; intraday acceptance timing and trading lags are not modeled. Subsequent amendments are not reconciled. Fiscal end is displayed rather than inferred from the calendar year. CIK is pinned in the pilot universe and ticker/CIK disagreements require manual review.
+A cutoff includes the entire filing date; intraday acceptance timing and trading lags are not modeled. Subsequent amendments are not reconciled. Fiscal end is displayed rather than inferred from the calendar year. Current tickers are matched to the SEC directory and compared with the previously observed CIK when available
+Identity conflicts require review; the current directory does not establish historical security identity or index membership
 
 The SEC response bytes are hashed with SHA-256, optionally archived as deterministic gzip inputs, and referenced by each observation. Six-hour response caching reduces requests; bounded retries handle transient errors and rate limits. A failed historical refresh cannot carry later-filed observations backward. Partial failures retain eligible previous facts with an explicit stale status. Zero-success refreshes leave the published bytes untouched. Validation runs before replacement, output snapshots are content-addressed, and identical refreshes do not rewrite the public dataset.
 
@@ -54,7 +58,7 @@ SEC API: publicly available filings, but not historic analyst forecast vintages,
 
 ## 9. Empirical study gate
 
-The protocol is a versioned draft, not an external preregistration. Before fitting H01–H06, freeze the exact sample, treatment, comparator, endpoint, horizons, data definitions, exclusion and missingness rules, chronological splits, minimum effect of interest, multiple-testing family and code release. Separate descriptive current-vintage accounting work from any point-in-time forecasting test. No current site output constitutes a validated empirical finding.
+The protocol is a versioned draft, not an external preregistration. Before fitting H01–H09, freeze the exact sample, treatment, comparator, endpoint, horizons, data definitions, exclusion and missingness rules, chronological splits, minimum effect of interest, multiple-testing family and code release. Separate descriptive current-vintage accounting work from any point-in-time forecasting test. No current site output constitutes a validated empirical finding.
 
 ## Complete coverage and timing extension — v0.3
 The live universe now uses all usable listed equity positions in the official IWM holdings CSV
