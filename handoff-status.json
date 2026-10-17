@@ -1,7 +1,7 @@
 {
   "project": "forma.",
   "checked_on": "2026-10-17",
-  "status": "github_published_portfolio_in_progress",
+  "status": "github_and_adobe_portfolio_published",
   "original_archive": "forma-research-v0.1.zip",
   "original_archive_available": true,
   "application_code_imported": true,
@@ -26,7 +26,6 @@
     "SEC_CONTACT repository secret for SEC requests"
   ],
   "next_steps": [
-    "Complete Adobe Portfolio cover and page publication",
     "Continue planned research data expansion and accounting review"
   ],
   "release": "0.2.1",
@@ -43,8 +42,10 @@
       "companies": 20,
       "warnings": 0,
       "cutoff": "2026-10-17"
-    }
+    },
+    "hosted_github_actions": "Validation and Pages deployment succeeded"
   },
   "github_browser_status": "Published through authenticated GitHub CLI",
-  "live_url": "https://parsaara01-stack.github.io/forma-research/"
+  "live_url": "https://parsaara01-stack.github.io/forma-research/",
+  "portfolio_url": "https://parsaara.com/forma"
 }

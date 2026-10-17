@@ -93,7 +93,9 @@ Pushes to `main` publish after checks. Scheduled runs refresh on **Tuesday and F
 
 Live study: [parsaara01-stack.github.io/forma-research](https://parsaara01-stack.github.io/forma-research/)
 
-The repository, Pages deployment and SEC contact secret were configured on October 17, 2026. Scheduled updates remain subject to source availability and successful checks.
+Portfolio introduction: [parsaara.com/forma](https://parsaara.com/forma)
+
+The repository, Pages deployment, Adobe Portfolio page and SEC contact secret were configured on October 17, 2026. Scheduled updates remain subject to source availability and successful checks.
 
 ## Scientific publication gate
 

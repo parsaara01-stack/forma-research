@@ -1,0 +1,18 @@
+{
+  "status": "published-and-verified",
+  "published_on": "2026-10-17",
+  "portfolio_url": "https://parsaara.com/forma",
+  "portfolio_collection": "https://parsaara.com/research",
+  "study_url": "https://parsaara01-stack.github.io/forma-research/",
+  "repository_url": "https://github.com/parsaara01-stack/forma-research",
+  "selected_cover": "Option 1 — Paper, revised for small caps, Russell 2000 and IWM",
+  "portfolio_title": "forma — Small-Cap Research",
+  "description": "An ongoing study of small-cap stocks, focused on the Russell 2000 and IWM",
+  "button": "Explore the live study",
+  "button_test": "Verified published page opens the public study in a new tab",
+  "github_validation_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39064972907",
+  "github_deployment_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39064972885",
+  "workflow_results": "Both completed successfully",
+  "scheduled_refresh": "Tuesday and Friday at 06:22 UTC; SEC_CONTACT secret configured",
+  "research_scope": "Small-cap research focused on Russell 2000 and IWM; 20-company coverage pilot is not a verified index constituent sample"
+}
