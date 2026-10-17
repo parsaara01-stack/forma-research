@@ -10,17 +10,22 @@ function marketSymbol(row){
 }
 if(typeof module!=='undefined')module.exports={marketSymbol};
 if(typeof document!=='undefined'){
- const marketEl=id=>document.getElementById(id);let pendingRow=null,marketReady=false;
+ const marketEl=id=>document.getElementById(id);let pendingRow=null,marketReady=false;const embedCleanups=new Map();
  function embed(id,file,config,title){
-  const host=marketEl(id);host.replaceChildren();host.classList.add('tradingview-widget-container');
+  embedCleanups.get(id)?.();
+  const host=marketEl(id);host.replaceChildren();host.classList.add('tradingview-widget-container');host.dataset.loading='Loading market data';host.setAttribute('aria-busy','true');
   const box=document.createElement('div');box.className='tradingview-widget-container__widget';host.append(box);
   const credit=document.createElement('div');credit.className='tradingview-widget-copyright';
   const link=document.createElement('a');link.href='https://www.tradingview.com/symbols/'+config.symbol.replace(':','-')+'/';link.target='_blank';link.rel='noopener noreferrer';link.textContent=title+' by TradingView';credit.append(link);host.append(credit);
   const script=document.createElement('script');script.async=true;script.src='https://s3.tradingview.com/external-embedding/'+file+'.js';script.textContent=JSON.stringify(config);
-  script.onerror=()=>{box.textContent='Chart unavailable — use Open full chart above';};
-  const labelFrames=()=>host.querySelectorAll('iframe').forEach(frame=>frame.title=title);
+  const settled=()=>{delete host.dataset.loading;host.setAttribute('aria-busy','false');clearTimeout(timer);};
+  script.onerror=()=>{settled();box.textContent='Chart unavailable — use Open full chart above';};
+  const timer=setTimeout(()=>{if(host.hasAttribute('data-loading'))host.dataset.loading='Taking longer to load — use Open full chart above';},15000);
+  const bound=new WeakSet();
+  const labelFrames=()=>host.querySelectorAll('iframe').forEach(frame=>{frame.title=title;if(!bound.has(frame)){bound.add(frame);frame.addEventListener('load',()=>{if(host.contains(frame))settled();},{once:true});}});
   const observer=new MutationObserver(labelFrames);observer.observe(host,{childList:true,subtree:true});
-  script.onload=()=>{labelFrames();observer.disconnect();};host.append(script);
+  embedCleanups.set(id,()=>{observer.disconnect();clearTimeout(timer);});
+  script.onload=labelFrames;host.append(script);
  }
  function draw(row){
   const symbol=marketSymbol(row),name=row?row.ticker+' · '+row.name:'IWM · Russell 2000 ETF';marketEl('market-company').textContent=name;

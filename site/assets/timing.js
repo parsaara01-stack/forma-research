@@ -55,7 +55,7 @@ if(typeof document!=='undefined'){
  function showSearch(){
   const query=t('company-search').value.trim().toLowerCase();
   const filtered=timingRows.filter(r=>(r.ticker+' '+r.name).toLowerCase().includes(query));
-  searchMatches=[{ticker:'',name:'IWM · Market view'},...filtered.slice(0,25)];activeMatch=-1;
+  searchMatches=[...(!query||'iwm market view'.includes(query)?[{ticker:'',name:'IWM · Market view'}]:[]),...filtered.slice(0,25)];activeMatch=-1;
   t('company-options').innerHTML=searchMatches.map((r,i)=>`<div id="company-option-${i}" role="option" aria-selected="false" data-ticker="${h(r.ticker)}"><strong>${h(r.ticker||'IWM')}</strong><span>${h(r.name)}</span></div>`).join('')+(filtered.length?'':'<div class="no-company-match">No matching company</div>');
   t('company-options').hidden=false;t('company-search').setAttribute('aria-expanded','true');t('company-search').removeAttribute('aria-activedescendant');t('picker-status').textContent=filtered.length+' matching stocks'+(filtered.length>25?' · refine your search':'');
  }
@@ -63,12 +63,14 @@ if(typeof document!=='undefined'){
  t('company-search').addEventListener('input',showSearch);
  t('company-options').addEventListener('mousedown',event=>event.preventDefault());
  t('company-options').addEventListener('click',event=>{const option=event.target.closest('[role=option]');if(option)chooseMatch(option.dataset.ticker);});
- t('company-search').addEventListener('blur',closeSearch);
+ t('company-search').addEventListener('blur',()=>{closeSearch();const row=timingRows.find(r=>r.ticker===t('timing-company').value);t('company-search').value=row?row.ticker+' · '+row.name:'IWM · Market view';});
  t('company-search').addEventListener('keydown',event=>{
   if(event.key==='Escape'){event.preventDefault();closeSearch();return;}
-  if(event.key==='Enter'){event.preventDefault();if(!t('company-options').hidden&&activeMatch>=0)chooseMatch(searchMatches[activeMatch].ticker);return;}
+  if(event.key==='Enter'){event.preventDefault();if(!t('company-options').hidden&&searchMatches.length)chooseMatch(searchMatches[Math.max(0,activeMatch)].ticker);return;}
   if(!['ArrowDown','ArrowUp'].includes(event.key))return;
-  event.preventDefault();if(t('company-options').hidden)showSearch();activeMatch=(activeMatch+(event.key==='ArrowDown'?1:-1)+searchMatches.length)%searchMatches.length;
+  event.preventDefault();if(t('company-options').hidden)showSearch();
+  if(!searchMatches.length)return;
+  activeMatch=event.key==='ArrowDown'?(activeMatch+1)%searchMatches.length:activeMatch<0?searchMatches.length-1:(activeMatch-1+searchMatches.length)%searchMatches.length;
   t('company-options').querySelectorAll('[role=option]').forEach((option,i)=>option.setAttribute('aria-selected',String(i===activeMatch)));
   const option=t('company-option-'+activeMatch);t('company-search').setAttribute('aria-activedescendant',option.id);option.scrollIntoView({block:'nearest'});
  });

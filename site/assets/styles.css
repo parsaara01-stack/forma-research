@@ -26,3 +26,4 @@
 
 .market-chart{height:425px!important}.market-quote .tradingview-widget-container__widget{height:171px!important}
 @media(max-width:460px){.market-chart{height:340px!important}}
+.market-quote,.market-chart{position:relative}.tradingview-widget-container[data-loading]::before{content:attr(data-loading);position:absolute;inset:0 0 30px;z-index:2;background:#f8fafc;display:grid;place-items:center;text-align:center;padding:30px;color:#53637a;font-size:12px;border-radius:5px;pointer-events:none}

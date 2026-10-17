@@ -1,4 +1,4 @@
-name: Publish forma.
+name: Publish Smallcap Atlas
 on:
   push:
     branches: [main]
