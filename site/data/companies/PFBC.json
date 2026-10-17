@@ -1,0 +1,14 @@
+{
+  "ticker": "PFBC",
+  "source_ticker": "PFBC",
+  "name": "PREFERRED BANK",
+  "group": "Financials",
+  "weight_percent": 0.02,
+  "holding_price": 103.59,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "SEC HTTP 404 for https://data.sec.gov/api/xbrl/companyfacts/CIK0001492165.json"
+}

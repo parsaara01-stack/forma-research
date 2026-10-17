@@ -47,7 +47,7 @@ function updateSimulator(){
 
 function asNumber(x){return typeof x==='number' && Number.isFinite(x)?x:null;}
 function escapeHTML(s){return String(s??'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-let records=[], currentPage=0; const PAGE_SIZE=40; const companyDetails=new Map();
+let records=[], currentPage=0; const PAGE_SIZE=40; const companyDetails=new Map(); let detailRequest=0;
 function secURL(value){
  try { const u=new URL(value);return u.protocol==='https:'&&u.hostname==='www.sec.gov'&&u.pathname.startsWith('/Archives/edgar/data/')?u.href:null; } catch { return null; }
 }
@@ -91,13 +91,13 @@ async function fetchCompany(ticker){
  companyDetails.set(ticker,detail);return detail;
 }
 async function showCompany(ticker){
- const brief=records.find(x=>x.ticker===ticker);if(!brief)return;
+ const brief=records.find(x=>x.ticker===ticker);if(!brief)return; const request=++detailRequest;
  $('detail-title').textContent=brief.name||ticker;
  $('detail-body').textContent='Loading the source report';
  $('company-detail').showModal();$('close-detail').focus();
  let r;
  try{r=await fetchCompany(ticker);}catch{ $('detail-body').textContent='This report could not load — close and try again';return; }
- if(!$('company-detail').open)return;
+ if(!$('company-detail').open||request!==detailRequest)return;
  $('detail-title').textContent=r.name||r.ticker;
  const facts=r.facts||{};const m=r.metrics||{};
  const maturity=[1,2,3,4,5].map(n=>`<div><span>Year ${n}</span><strong>${factValue(facts['maturity_year_'+n])}</strong></div>`).join('');
@@ -129,7 +129,7 @@ async function loadData(){
  $('table-status').textContent=n?`${n} of ${records.length} companies with annual reports · ${stale} using older saved data · review pending`:'Waiting for the first company reports';
  $('data-cutoff').textContent=data.asof_cutoff?`Reports filed by ${data.asof_cutoff} · Annual figures only · Holdings prices have separate dates`:'Figures appear when reports load';
  const warnings=data.refresh_warnings||[];$('data-warning').hidden=!warnings.length;
- $('data-warning').textContent=warnings.length?`${warnings.length} company update issue(s) — older or missing figures are labeled · Open a company for details`:'';
+ $('data-warning').textContent=warnings.length?`${warnings.length} stocks need further source work — older or missing figures stay labeled · Open a company for details`:'';
  const u=data.universe||{}; const count=records.length.toLocaleString();
  $('hero-coverage').textContent=`${count} listed stocks · IWM holdings ${u.effective||'date unavailable'}`;
  $('tab-count').textContent=count;

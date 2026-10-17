@@ -97,6 +97,15 @@ class ClientIntegrity(unittest.TestCase):
         self.assertEqual(open_url.call_count, 1)
 
     @patch('engine.sec.urllib.request.urlopen')
+    def test_access_denial_stops_later_downloads(self, open_url):
+        open_url.side_effect = urllib.error.HTTPError(SEC_TICKERS, 403, 'blocked', {}, None)
+        client = SECClient('research@example.org')
+        for url in [SEC_TICKERS, SEC_FACTS.format(cik=1111111)]:
+            with self.assertRaises(SECError):
+                client.get_json(url)
+        self.assertEqual(open_url.call_count, 1)
+
+    @patch('engine.sec.urllib.request.urlopen')
     def test_cik_mismatch(self, open_url):
         open_url.return_value = self.response(b'{"cik":2222222,"facts":{}}')
         with self.assertRaises(SECError):
@@ -142,6 +151,20 @@ class PublicationIntegrity(unittest.TestCase):
         with patch.object(cli, 'SECClient', return_value=client), self.assertRaises(SECError):
             cli.refresh(ASOF)
         self.assertEqual(self.output.read_bytes(), before)
+
+    def test_membership_sync_keeps_report_refresh_date_and_retains_new_missing_stocks(self):
+        with patch.object(cli, 'SECClient', return_value=self.client()):
+            cli.refresh(ASOF)
+        before = json.loads(self.output.read_text())
+        self.universe.write_text(json.dumps({'effective': '2026-10-17', 'purpose': 'Dated test universe',
+                                            'companies': [{'ticker': 'NEW', 'name': 'New member'}]}))
+        result = cli.sync_universe()
+        after = json.loads(self.output.read_text())
+        self.assertFalse(result['annual_reports_refreshed'])
+        self.assertEqual(after['last_successful_refresh'], before['last_successful_refresh'])
+        self.assertEqual([r['ticker'] for r in after['companies']], ['NEW'])
+        self.assertEqual(after['companies'][0]['facts'], {})
+        self.assertTrue(list((self.root/'data/snapshots').glob('*.json.gz')))
 
     def test_validation_failure_preserves_dataset_bytes(self):
         before = self.output.read_bytes()

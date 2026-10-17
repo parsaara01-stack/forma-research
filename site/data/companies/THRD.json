@@ -1,0 +1,14 @@
+{
+  "ticker": "THRD",
+  "source_ticker": "THRD",
+  "name": "THIRD HARMONIC BIO INC",
+  "group": "Health Care",
+  "weight_percent": 0.0,
+  "holding_price": 0.0,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "THRD absent from current SEC directory; review identity manually"
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "GENI",
+  "source_ticker": "GENI",
+  "name": "GENIUS SPORTS LTD",
+  "group": "Consumer Discretionary",
+  "weight_percent": 0.05,
+  "holding_price": 6.58,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

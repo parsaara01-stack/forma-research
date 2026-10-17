@@ -1,0 +1,14 @@
+{
+  "ticker": "PBLS",
+  "source_ticker": "PBLS",
+  "name": "PARABILIS MEDICINES INC",
+  "group": "Health Care",
+  "weight_percent": 0.03,
+  "holding_price": 25.18,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "BOBS",
+  "source_ticker": "BOBS",
+  "name": "BOBS DISCOUNT FURNITURE INC",
+  "group": "Consumer Discretionary",
+  "weight_percent": 0.02,
+  "holding_price": 14.78,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

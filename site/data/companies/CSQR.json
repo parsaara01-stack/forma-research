@@ -1,0 +1,14 @@
+{
+  "ticker": "CSQR",
+  "source_ticker": "CSQR",
+  "name": "CSQUARE INC",
+  "group": "Information Technology",
+  "weight_percent": 0.03,
+  "holding_price": 17.08,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

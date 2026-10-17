@@ -26,7 +26,7 @@ let server,browser;
  assert.equal(await page.locator('#timing-return').innerText(),'—');
  await page.locator('#future-eps').fill('5');await page.waitForFunction(()=>document.querySelector('#timing-return').textContent!=='—');
  await page.locator('#reset-timing').click();
- await page.screenshot({path:path.join(screenshots,'forma-desktop.png'),fullPage:true});
+ await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await page.screenshot({path:path.join(screenshots,'forma-desktop.png'),fullPage:true});
  await page.locator('#tab-companies').click();assert.equal(await page.locator('.company-button').count(),Math.min(40,catalog.companies.length));
  if(catalog.companies.length>40){const first=await page.locator('.company-button').first().textContent();await page.locator('#page-next').click();assert.notEqual(await page.locator('.company-button').first().textContent(),first);await page.locator('#page-prev').click();}
  await page.locator('#search-company').fill('FROG');assert.equal(await page.locator('.company-button').count(),1);
@@ -42,7 +42,7 @@ let server,browser;
  await mobile.goto(base);await mobile.waitForFunction(()=>document.querySelector('#hero-coverage').textContent.includes('listed stocks'));await audit(mobile);
  assert.equal(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
  await mobile.locator('#mobile-menu').click();await mobile.locator('.nav a[href="#workspace"]').click();assert.equal(await mobile.locator('#mobile-menu').getAttribute('aria-expanded'),'false');
- await mobile.screenshot({path:path.join(screenshots,'forma-workspace-mobile.png'),fullPage:true});
+ await mobile.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await mobile.screenshot({path:path.join(screenshots,'forma-workspace-mobile.png'),fullPage:true});
  await mobile.locator('#tab-companies').click();await mobile.locator('#search-company').fill('BTSG');await mobile.locator('[data-company="BTSG"]').click();await mobile.waitForSelector('.maturity-grid');
  assert.equal(await mobile.locator('dialog').evaluate(el=>el.scrollWidth<=el.clientWidth),true);await audit(mobile);
  await mobile.screenshot({path:path.join(screenshots,'forma-evidence-mobile.png')});

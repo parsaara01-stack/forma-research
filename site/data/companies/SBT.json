@@ -1,0 +1,14 @@
+{
+  "ticker": "SBT",
+  "source_ticker": "SBT",
+  "name": "STERLING BANCORP INC",
+  "group": "Financials",
+  "weight_percent": 0.0,
+  "holding_price": 0.0,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "SBT absent from current SEC directory; review identity manually"
+}

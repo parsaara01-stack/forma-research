@@ -1,0 +1,14 @@
+{
+  "ticker": "NAT",
+  "source_ticker": "NAT",
+  "name": "NORDIC AMERICAN TANKERS LTD",
+  "group": "Energy",
+  "weight_percent": 0.05,
+  "holding_price": 7.82,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

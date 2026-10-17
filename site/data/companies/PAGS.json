@@ -1,0 +1,14 @@
+{
+  "ticker": "PAGS",
+  "source_ticker": "PAGS",
+  "name": "PAGSEGURO DIGITAL LTD CLASS A",
+  "group": "Financials",
+  "weight_percent": 0.07,
+  "holding_price": 11.12,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

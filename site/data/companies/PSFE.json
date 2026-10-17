@@ -1,0 +1,14 @@
+{
+  "ticker": "PSFE",
+  "source_ticker": "PSFE",
+  "name": "PAYSAFE LTD",
+  "group": "Financials",
+  "weight_percent": 0.01,
+  "holding_price": 5.66,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

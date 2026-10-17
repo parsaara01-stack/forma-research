@@ -1,0 +1,14 @@
+{
+  "ticker": "TATT",
+  "source_ticker": "TATT",
+  "name": "TAT TECHNOLOGIES LTD",
+  "group": "Industrials",
+  "weight_percent": 0.01,
+  "holding_price": 32.21,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

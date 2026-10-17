@@ -1,0 +1,14 @@
+{
+  "ticker": "TOWN",
+  "source_ticker": "TOWN",
+  "name": "TOWNEBANK",
+  "group": "Financials",
+  "weight_percent": 0.11,
+  "holding_price": 35.28,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "TOWN absent from current SEC directory; review identity manually"
+}

@@ -1,0 +1,461 @@
+{
+  "ticker": "CHCI",
+  "source_ticker": "CHCI",
+  "name": "COMSTOCK HOLDING COMPANIES INC CLA",
+  "group": "Real Estate",
+  "weight_percent": 0.0,
+  "holding_price": 17.27,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {
+    "revenue": {
+      "value": 62861000,
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "operating_income": {
+      "value": 11930000,
+      "tag": "OperatingIncomeLoss",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "net_income": {
+      "value": 17051000,
+      "tag": "NetIncomeLoss",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "operating_cash_flow": {
+      "value": 4797000,
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "total_assets": {
+      "value": 84962000,
+      "tag": "Assets",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "total_liabilities": {
+      "value": 14996000,
+      "tag": "Liabilities",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "equity": {
+      "value": 69966000,
+      "tag": "StockholdersEquity",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "cash": {
+      "value": 31282000,
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "depreciation": {
+      "value": 306000,
+      "tag": "DepreciationDepletionAndAmortization",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "share_based_compensation": {
+      "value": 1060000,
+      "tag": "ShareBasedCompensation",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "current_assets": {
+      "value": 53266000,
+      "tag": "AssetsCurrent",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "current_liabilities": {
+      "value": 9680000,
+      "tag": "LiabilitiesCurrent",
+      "start": null,
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    },
+    "diluted_shares": {
+      "value": 10470000,
+      "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "shares"
+    },
+    "equity_issuance": {
+      "value": 112000,
+      "tag": "ProceedsFromIssuanceOfCommonStock",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "filed": "2026-03-17",
+      "accession": "0001628280-26-018409",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+      "source": "SEC CompanyFacts US-GAAP",
+      "form": "10-K",
+      "unit": "USD"
+    }
+  },
+  "metrics": {
+    "operating_margin": 0.1897838087208285,
+    "free_cash_flow": null,
+    "free_cash_flow_margin": null,
+    "capex_intensity": null,
+    "cfo_to_positive_net_income": 0.2813324731687291,
+    "total_debt": null,
+    "debt_to_assets": null,
+    "net_debt": null,
+    "interest_coverage": null,
+    "share_based_compensation_to_revenue": 0.016862601613082832,
+    "current_ratio": 5.502685950413223,
+    "cash_runway_years": null,
+    "near_term_maturity_to_cash": null
+  },
+  "observation_status": "sec-xbrl-unreviewed",
+  "cik": 1299969,
+  "fiscal_year": "2025",
+  "fiscal_end": "2025-12-31",
+  "capital_profile": {
+    "sector_protocol": "nonfinancial accounting proxies",
+    "maturities": {
+      "years_1_to_5": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "thereafter": null,
+      "status": "not-available",
+      "definition": "Long-term debt principal buckets relative to fiscal end; coverage is not a complete instrument schedule."
+    },
+    "financing_cost": {
+      "marginal_cost": null,
+      "weighted_average_cost_of_capital": null,
+      "status": "not-estimated; requires market prices and instrument terms"
+    },
+    "review_required": [
+      "Debt-note reconciliation and total coverage",
+      "Floating-rate share and reset dates",
+      "Leases, collateral, revolvers and covenants",
+      "Convertibles and contingent dilution",
+      "Maintenance versus expansion capex"
+    ]
+  },
+  "observation_cutoff": "2026-10-17",
+  "source_document": {
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001299969.json",
+    "sha256": "8ee7f83d43d2ec08f7feac00675aa434dbc9be6a9c693f7dc991326a83ff6b66",
+    "retrieved_at": "2026-10-17T22:54:18.612438+00:00",
+    "raw_path": "data/raw/8ee7f83d43d2ec08f7feac00675aa434dbc9be6a9c693f7dc991326a83ff6b66.json.gz"
+  },
+  "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+  "earnings": {
+    "annual_history": [
+      {
+        "end": "2025-12-31",
+        "filed": "2026-03-17",
+        "accession": "0001628280-26-018409",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+        "eps": null,
+        "revenue": {
+          "value": 62861000,
+          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "accession": "0001628280-26-018409",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "net_income": {
+          "value": 17051000,
+          "tag": "NetIncomeLoss",
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "accession": "0001628280-26-018409",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "diluted_shares": {
+          "value": 10470000,
+          "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "accession": "0001628280-26-018409",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "shares"
+        },
+        "operating_cash_flow": {
+          "value": 4797000,
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "filed": "2026-03-17",
+          "accession": "0001628280-26-018409",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        }
+      },
+      {
+        "end": "2024-12-31",
+        "filed": "2025-03-21",
+        "accession": "0001299969-25-000004",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996925000004/0001299969-25-000004-index.html",
+        "eps": null,
+        "revenue": {
+          "value": 51294000,
+          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "filed": "2025-03-21",
+          "accession": "0001299969-25-000004",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996925000004/0001299969-25-000004-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "net_income": {
+          "value": 14560000,
+          "tag": "NetIncomeLoss",
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "filed": "2025-03-21",
+          "accession": "0001299969-25-000004",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996925000004/0001299969-25-000004-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "diluted_shares": {
+          "value": 10327000,
+          "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "filed": "2025-03-21",
+          "accession": "0001299969-25-000004",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996925000004/0001299969-25-000004-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "shares"
+        },
+        "operating_cash_flow": {
+          "value": 10675000,
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "start": "2024-01-01",
+          "end": "2024-12-31",
+          "filed": "2025-03-21",
+          "accession": "0001299969-25-000004",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996925000004/0001299969-25-000004-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        }
+      },
+      {
+        "end": "2023-12-31",
+        "filed": "2024-03-21",
+        "accession": "0001299969-24-000010",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996924000010/0001299969-24-000010-index.html",
+        "eps": {
+          "value": 0.77,
+          "tag": "EarningsPerShareDiluted",
+          "start": "2023-01-01",
+          "end": "2023-12-31",
+          "filed": "2024-03-21",
+          "accession": "0001299969-24-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996924000010/0001299969-24-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD/shares"
+        },
+        "revenue": {
+          "value": 44721000,
+          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "start": "2023-01-01",
+          "end": "2023-12-31",
+          "filed": "2024-03-21",
+          "accession": "0001299969-24-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996924000010/0001299969-24-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "net_income": {
+          "value": 7784000,
+          "tag": "NetIncomeLoss",
+          "start": "2023-01-01",
+          "end": "2023-12-31",
+          "filed": "2024-03-21",
+          "accession": "0001299969-24-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996924000010/0001299969-24-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "diluted_shares": {
+          "value": 10108000,
+          "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "start": "2023-01-01",
+          "end": "2023-12-31",
+          "filed": "2024-03-21",
+          "accession": "0001299969-24-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996924000010/0001299969-24-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "shares"
+        },
+        "operating_cash_flow": null
+      },
+      {
+        "end": "2022-12-31",
+        "filed": "2023-03-29",
+        "accession": "0001299969-23-000010",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996923000010/0001299969-23-000010-index.html",
+        "eps": {
+          "value": 0.98,
+          "tag": "EarningsPerShareDiluted",
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "filed": "2023-03-29",
+          "accession": "0001299969-23-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996923000010/0001299969-23-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD/shares"
+        },
+        "revenue": {
+          "value": 39313000,
+          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "filed": "2023-03-29",
+          "accession": "0001299969-23-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996923000010/0001299969-23-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "net_income": {
+          "value": 7347000,
+          "tag": "NetIncomeLoss",
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "filed": "2023-03-29",
+          "accession": "0001299969-23-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996923000010/0001299969-23-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "USD"
+        },
+        "diluted_shares": {
+          "value": 9575000,
+          "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "filed": "2023-03-29",
+          "accession": "0001299969-23-000010",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1299969/000129996923000010/0001299969-23-000010-index.html",
+          "source": "SEC CompanyFacts US-GAAP",
+          "form": "10-K",
+          "unit": "shares"
+        },
+        "operating_cash_flow": null
+      }
+    ],
+    "forecast_eps": null,
+    "forecast_status": "Analyst forecasts are not connected; any forward EPS in the tool is a user assumption",
+    "basis": "Original annual US-GAAP reports, not quarterly or trailing-twelve-month earnings"
+  }
+}

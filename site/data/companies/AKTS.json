@@ -1,0 +1,14 @@
+{
+  "ticker": "AKTS",
+  "source_ticker": "AKTS",
+  "name": "AKTIS ONCOLOGY INC",
+  "group": "Health Care",
+  "weight_percent": 0.02,
+  "holding_price": 16.01,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

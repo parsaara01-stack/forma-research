@@ -1,0 +1,14 @@
+{
+  "ticker": "BTDR",
+  "source_ticker": "BTDR",
+  "name": "BITDEER TECHNOLOGIES GROUP CLASS A",
+  "group": "Information Technology",
+  "weight_percent": 0.04,
+  "holding_price": 8.39,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

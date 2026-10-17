@@ -1,0 +1,14 @@
+{
+  "ticker": "REA",
+  "source_ticker": "REA",
+  "name": "RARE EARTHS AMERICAS INC",
+  "group": "Materials",
+  "weight_percent": 0.0,
+  "holding_price": 7.21,
+  "price_date": "2026-10-15",
+  "exchange": "Nyse Mkt Llc",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "P5N994",
+  "source_ticker": "P5N994",
+  "name": "Petrocorp Inc Escrow",
+  "group": "Energy",
+  "weight_percent": 0.0,
+  "holding_price": 0.0,
+  "price_date": "2026-10-15",
+  "exchange": "Non-Nms Quotation Service (Nnqs)",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "P5N994 absent from current SEC directory; review identity manually"
+}

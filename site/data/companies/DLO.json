@@ -1,0 +1,14 @@
+{
+  "ticker": "DLO",
+  "source_ticker": "DLO",
+  "name": "DLOCAL CLASS A",
+  "group": "Financials",
+  "weight_percent": 0.05,
+  "holding_price": 15.1,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

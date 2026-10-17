@@ -1,0 +1,14 @@
+{
+  "ticker": "AKE",
+  "source_ticker": "AKE",
+  "name": "AKERO THERAPEUTICS CVR",
+  "group": "Health Care",
+  "weight_percent": 0.0,
+  "holding_price": 0.64,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "AKE absent from current SEC directory; review identity manually"
+}

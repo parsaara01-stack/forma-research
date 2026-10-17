@@ -1,0 +1,14 @@
+{
+  "ticker": "BXDC",
+  "source_ticker": "BXDC",
+  "name": "BLACKSTONE DIGITAL INFRASTRUCTURE",
+  "group": "Real Estate",
+  "weight_percent": 0.05,
+  "holding_price": 16.18,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

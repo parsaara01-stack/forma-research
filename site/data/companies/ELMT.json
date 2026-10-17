@@ -1,0 +1,14 @@
+{
+  "ticker": "ELMT",
+  "source_ticker": "ELMT",
+  "name": "ELMET GROUP",
+  "group": "Industrials",
+  "weight_percent": 0.01,
+  "holding_price": 19.49,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

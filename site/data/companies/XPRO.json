@@ -1,0 +1,14 @@
+{
+  "ticker": "XPRO",
+  "source_ticker": "XPRO",
+  "name": "EXPRO LTD",
+  "group": "Energy",
+  "weight_percent": 0.04,
+  "holding_price": 15.69,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

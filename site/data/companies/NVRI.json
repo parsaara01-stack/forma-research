@@ -1,0 +1,14 @@
+{
+  "ticker": "NVRI",
+  "source_ticker": "NVRI",
+  "name": "ENVIRI CORP",
+  "group": "Industrials",
+  "weight_percent": 0.02,
+  "holding_price": 19.59,
+  "price_date": "2026-10-15",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

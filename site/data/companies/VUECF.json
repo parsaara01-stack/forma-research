@@ -1,0 +1,14 @@
+{
+  "ticker": "VUECF",
+  "source_ticker": "VUECF",
+  "name": "VERDERA ENERGY CORP",
+  "group": "Energy",
+  "weight_percent": 0.0,
+  "holding_price": 0.2,
+  "price_date": "2026-10-15",
+  "exchange": "Non-Nms Quotation Service (Nnqs)",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

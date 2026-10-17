@@ -1,7 +1,7 @@
 {
   "project": "forma.",
   "checked_on": "2026-10-17",
-  "status": "github_and_adobe_portfolio_published",
+  "status": "v0.3_local_checks_passed_deployment_pending",
   "original_archive": "forma-research-v0.1.zip",
   "original_archive_available": true,
   "application_code_imported": true,
@@ -26,24 +26,28 @@
     "SEC_CONTACT repository secret for SEC requests"
   ],
   "next_steps": [
-    "Continue planned research data expansion and accounting review"
+    "Enable Chrome file upload to replace the Portfolio cover",
+    "Connect authorized historical membership, forecast and total-return data before fitting a timing model"
   ],
-  "release": "0.2.1",
+  "release": "0.3.0",
   "quality_checks": {
-    "unit_tests_passed": 34,
-    "browser_checks": "passed desktop, mobile, simulator, search, sources, keyboard, network failure, stale data and unsafe URLs",
-    "accessibility_checks": "automated WCAG A/AA audit passed desktop, mobile and evidence dialog",
+    "unit_tests_passed": 44,
+    "timing_arithmetic": "passed",
+    "browser_checks": "passed desktop, mobile, timing, pagination, lazy reports, search, filters, modal, failures, safe links",
+    "accessibility_checks": "automated WCAG A/AA passed",
     "offline_replication": {
-      "companies": 20,
-      "raw_documents": 21,
+      "companies": 1856,
+      "raw_documents": 1952,
       "network_requests": 0
     },
-    "live_sec_refresh": {
-      "companies": 20,
-      "warnings": 0,
-      "cutoff": "2026-10-17"
+    "coverage": {
+      "listed_iwm_equities": 1972,
+      "annual_reports": 1856,
+      "reported_eps": 1765,
+      "gaps": 116,
+      "excluded_positions": 17
     },
-    "hosted_github_actions": "Validation and Pages deployment succeeded"
+    "hosted_github_actions": "v0.3 pending"
   },
   "github_browser_status": "Published through authenticated GitHub CLI",
   "live_url": "https://parsaara01-stack.github.io/forma-research/",

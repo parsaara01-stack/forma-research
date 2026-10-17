@@ -1,0 +1,14 @@
+{
+  "ticker": "NBN",
+  "source_ticker": "NBN",
+  "name": "NORTHEAST BANK",
+  "group": "Financials",
+  "weight_percent": 0.03,
+  "holding_price": 125.02,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "NBN absent from current SEC directory; review identity manually"
+}

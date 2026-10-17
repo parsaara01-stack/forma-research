@@ -1,0 +1,14 @@
+{
+  "ticker": "MOBI",
+  "source_ticker": "MOBI",
+  "name": "MOBIA MEDICAL INC",
+  "group": "Health Care",
+  "weight_percent": 0.0,
+  "holding_price": 8.31,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "No supported annual facts by 2026-10-17"
+}

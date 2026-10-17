@@ -1,0 +1,14 @@
+{
+  "ticker": "FRBA",
+  "source_ticker": "FRBA",
+  "name": "FIRST BANK",
+  "group": "Financials",
+  "weight_percent": 0.01,
+  "holding_price": 17.73,
+  "price_date": "2026-10-15",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "FRBA absent from current SEC directory; review identity manually"
+}
