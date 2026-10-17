@@ -121,7 +121,7 @@ class PublicSourceRetries(unittest.TestCase):
         response = MagicMock()
         response.__enter__.return_value.read.return_value = b'complete response'
         opened.side_effect = [TimeoutError('synthetic timeout'), response]
-        self.assertEqual(download('https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF'), b'complete response')
+        self.assertEqual(download('https://www.ishares.com/us/products/239710/ishares-russell-2000-etf/latest-holdings.csv'), b'complete response')
         self.assertEqual([call.kwargs['timeout'] for call in opened.call_args_list], [30, 60])
         sleep.assert_called_once_with(2)
 
@@ -136,3 +136,22 @@ class PublicSourceRetries(unittest.TestCase):
     def test_unexpected_provider_rejected(self):
         with self.assertRaises(ValueError):
             download('https://example.org/untrusted.csv')
+
+    @patch('engine.net.shutil.which', return_value='/usr/bin/curl')
+    @patch('engine.net.subprocess.run')
+    def test_fred_uses_complete_system_https_response(self, run, which):
+        run.return_value.stdout = b'observation_date,DFF\n2026-10-16,3.88\n'
+        self.assertIn(b'DFF', download('https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF'))
+        command = run.call_args.args[0]
+        self.assertIn('--fail', command)
+        self.assertIn('--proto', command)
+        self.assertNotIn('--insecure', command)
+        self.assertEqual(run.call_args.kwargs['timeout'], 160)
+
+    @patch('engine.net.shutil.which', return_value='/usr/bin/curl')
+    @patch('engine.net.subprocess.run')
+    def test_fred_failure_never_returns_partial_response(self, run, which):
+        import subprocess
+        run.side_effect = subprocess.CalledProcessError(28, ['curl'], output=b'partial')
+        with self.assertRaises(OSError):
+            download('https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF')

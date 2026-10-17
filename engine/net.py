@@ -4,12 +4,25 @@ import http.client
 import urllib.error
 import urllib.parse
 import urllib.request
+import shutil
+import subprocess
 
 
 def download(url: str) -> bytes:
     parsed = urllib.parse.urlsplit(url)
     if parsed.scheme != 'https' or parsed.hostname not in {'www.ishares.com', 'fred.stlouisfed.org'}:
         raise ValueError('Unexpected public data provider')
+    if parsed.hostname == 'fred.stlouisfed.org' and shutil.which('curl'):
+        # The FRED export stalls with urllib on hosted runners; the system
+        # HTTPS client is verified against the same public URL and CSV parser
+        try:
+            result = subprocess.run(['curl', '--fail', '--location', '--silent', '--show-error',
+                '--proto', '=https', '--proto-redir', '=https', '--connect-timeout', '15',
+                '--max-time', '45', '--retry', '2', '--retry-delay', '2', '--retry-max-time', '150', url],
+                check=True, capture_output=True, timeout=160)
+            return result.stdout
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as exc:
+            raise OSError('FRED export unavailable after bounded HTTPS retries') from exc
     request = urllib.request.Request(url, headers={'User-Agent': 'forma-research/0.3 public research'})
     for attempt, timeout in enumerate((30, 60, 120)):
         pause = 2 ** (attempt + 1)
