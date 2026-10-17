@@ -11,6 +11,7 @@ import zipfile
 from datetime import date, datetime, timezone
 from pathlib import Path
 from .sec import atomic_write
+from .net import download
 
 SERIES = {'DFF': ('Policy rate', '%'), 'DGS10': ('10-year Treasury', '%'),
           'T10Y2Y': ('10-year minus 2-year yield', 'percentage points'),
@@ -62,13 +63,16 @@ def parse_macro(raw: bytes, cutoff: date) -> dict:
 
 
 def refresh_macro(root: Path, cutoff: date, raw: bytes | None = None) -> dict:
-    if raw is None:
-        with urllib.request.urlopen(urllib.request.Request(URL, headers={'User-Agent': 'forma-research/0.3'}), timeout=60) as response:
-            raw = response.read()
+    # About 2–3 years supplies one year of charts and the preceding CPI base
+    # Avoid a slow full-history, mixed-frequency export on every weekday run
+    source_url = URL + f'&cosd={cutoff.year - 2}-01-01&coed={cutoff.isoformat()}'
+    fetched = raw is None
+    if fetched:
+        raw = download(source_url)
     payload = parse_macro(raw, cutoff)
     digest = hashlib.sha256(raw).hexdigest()
     saved = f'data/macro/{digest}.bin.gz'
-    payload['source_document'] = {'url': URL, 'sha256': digest, 'raw_path': saved,
+    payload['source_document'] = {'url': source_url if fetched else URL, 'sha256': digest, 'raw_path': saved,
                                   'retrieved_at': datetime.now(timezone.utc).isoformat()}
     atomic_write(root / saved, gzip.compress(raw, mtime=0))
     atomic_write(root / 'site/data/macro.json', (json.dumps(payload, indent=2, allow_nan=False) + '\n').encode())

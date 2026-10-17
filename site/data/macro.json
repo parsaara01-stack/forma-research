@@ -3936,9 +3936,9 @@
   ],
   "note": "Current FRED database vintage; dates are observation dates, not release dates \u2014 not valid historical trading inputs",
   "source_document": {
-    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL",
-    "sha256": "6457fcbcc5a3b08121794a7ee9c40a4c3cb86662ca30c93d62b1ca5ca30da816",
-    "raw_path": "data/macro/6457fcbcc5a3b08121794a7ee9c40a4c3cb86662ca30c93d62b1ca5ca30da816.bin.gz",
-    "retrieved_at": "2026-10-17T22:42:44.921040+00:00"
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-17",
+    "sha256": "aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082",
+    "raw_path": "data/macro/aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082.bin.gz",
+    "retrieved_at": "2026-10-17T23:15:34.735907+00:00"
   }
 }

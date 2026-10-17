@@ -69,6 +69,8 @@ Original holdings and dated membership snapshots retain additions and exits goin
 It is used on weekdays without a full SEC collection
 
 `macro` accepts FRED CSV or its mixed-frequency ZIP response, saves original bytes and publishes dated series
+The economic download is limited to the years needed for the charts and year-over-year inflation
+Public source downloads retry transient failures three times with increasing timeouts
 Observation dates are not publication dates and current revised data is not an original-vintage historical trading feed
 
 `refresh --archive` uses up to four concurrent downloads behind one limiter of four request starts per second

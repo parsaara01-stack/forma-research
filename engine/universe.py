@@ -11,6 +11,7 @@ import urllib.request
 from datetime import date, datetime, timezone
 from pathlib import Path
 from .sec import atomic_write
+from .net import download
 
 HOLDINGS_URL = 'https://www.ishares.com/us/products/239710/ishares-russell-2000-etf/latest-holdings.csv'
 
@@ -65,9 +66,7 @@ def parse_holdings(raw: bytes, today: date) -> dict:
 
 def refresh_universe(root: Path, today: date, raw: bytes | None = None) -> dict:
     if raw is None:
-        request = urllib.request.Request(HOLDINGS_URL, headers={'User-Agent': 'forma-research/0.3 public research'})
-        with urllib.request.urlopen(request, timeout=60) as response:
-            raw = response.read()
+        raw = download(HOLDINGS_URL)
     candidate = parse_holdings(raw, today)
     path = root / 'data/universe.json'
     old = json.loads(path.read_text()) if path.exists() else {}

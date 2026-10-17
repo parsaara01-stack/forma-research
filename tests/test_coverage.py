@@ -7,10 +7,11 @@ import tempfile
 import unittest
 from datetime import date
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 from engine.universe import parse_holdings, refresh_universe, verify_universe
 from engine.macro import parse_macro, refresh_macro, verify_macro
 from engine.earnings import earnings_evidence
+from engine.net import download
 from engine.__main__ import sync_universe
 from test_research import sample_facts
 
@@ -111,3 +112,27 @@ class EarningsSafety(unittest.TestCase):
         self.assertIsNone(evidence['forecast_eps'])
         full['facts']['us-gaap']['EarningsPerShareDiluted']['units']['USD/shares'][0]['accn'] = '0001111111-26-000099'
         self.assertIsNone(earnings_evidence(full, TODAY)['annual_history'][0]['eps'])
+
+
+class PublicSourceRetries(unittest.TestCase):
+    @patch('engine.net.time.sleep')
+    @patch('engine.net.urllib.request.urlopen')
+    def test_transient_read_timeout_retries_without_publishing_partial_bytes(self, opened, sleep):
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = b'complete response'
+        opened.side_effect = [TimeoutError('synthetic timeout'), response]
+        self.assertEqual(download('https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF'), b'complete response')
+        self.assertEqual([call.kwargs['timeout'] for call in opened.call_args_list], [30, 60])
+        sleep.assert_called_once_with(2)
+
+    @patch('engine.net.urllib.request.urlopen')
+    def test_access_denials_are_not_retried(self, opened):
+        import urllib.error
+        opened.side_effect = urllib.error.HTTPError('https://www.ishares.com/', 403, 'denied', {}, None)
+        with self.assertRaises(urllib.error.HTTPError):
+            download('https://www.ishares.com/')
+        self.assertEqual(opened.call_count, 1)
+
+    def test_unexpected_provider_rejected(self):
+        with self.assertRaises(ValueError):
+            download('https://example.org/untrusted.csv')
