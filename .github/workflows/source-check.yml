@@ -1,0 +1,28 @@
+name: Check public source connection
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  source:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check one small FRED export
+        run: |
+          python -u - <<'PY'
+          import urllib.request
+          url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF&cosd=2026-10-01&coed=2026-10-17'
+          request = urllib.request.Request(url, headers={'User-Agent': 'forma-research/0.3 public research'})
+          with urllib.request.urlopen(request, timeout=30) as response:
+              raw = response.read()
+          assert b'DFF' in raw and b'observation_date' in raw, 'Expected FRED CSV'
+          print('Verified single-series FRED response:', len(raw), 'bytes')
+          PY
