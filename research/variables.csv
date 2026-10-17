@@ -1,0 +1,20 @@
+variable,unit,concept,reported_or_derived,data_origin,pit_available_in_v01,limitations
+revenue,USD,Annual revenue,reported,SEC XBRL 10-K,no,Multiple taxonomy tags differ by issuer
+operating_income,USD,Annual GAAP operating income,reported,SEC XBRL 10-K,no,Not meaningful for every financial firm
+operating_cash_flow,USD,Cash provided by operating activities,reported,SEC XBRL 10-K,no,May include working-capital swings
+capex,USD,Property and productive asset expenditures,reported,SEC XBRL 10-K,no,Maintenance and growth spending not distinguished
+free_cash_flow,USD,Operating cash flow minus capex,derived,SEC XBRL 10-K,no,Excludes acquisitions and certain intangible spending
+operating_margin,ratio,Operating income divided by revenue,derived,SEC XBRL 10-K,no,Null for banking
+capex_intensity,ratio,Capital expenditures divided by revenue,derived,SEC XBRL 10-K,no,Null for banking
+current_debt,USD,Tagged current portion of debt,reported,SEC XBRL 10-K,no,Tag may omit some borrowing instruments
+long_term_debt,USD,Tagged noncurrent borrowing obligations,reported,SEC XBRL 10-K,no,Excludes some leases and financial claims
+interest_expense,USD,Tagged annual interest expense,reported,SEC XBRL 10-K,no,Accrual burden is not marginal refinance yield
+interest_coverage,ratio,Operating income divided by positive interest expense,derived,SEC XBRL 10-K,no,Not meaningful for banks; sector limits
+marginal_funding_cost,rate,Expected all-in yield on replacement debt,planned,Instrument term sheets and market quotes,not collected,Requires issue-level terms and contemporaneous yields
+maturity_wall,USD,Contractual principal due over next 12-24 months,planned,10-K debt footnotes,not collected,Must include revolver and convertible conditions
+maintenance_capex,USD,Investment needed to sustain present productive capacity,planned,Management disclosures and sector models,not collected,Depreciation is not a reliable proxy
+incremental_roic,ratio,Multi-year incremental NOPAT divided by incremental invested capital,planned,Historical normalized statements,not collected,Unreliable with negative or tiny denominator
+issuance_dilution,ratio,Change in original holders' economic claims from issuance,planned,Statements of equity and equity compensation notes,not collected,Buybacks and conversion require separate treatment
+analyst_eps_vintage,USD/share,Historical consensus as-of formation date,planned,Licensed analyst estimates,not collected,Cannot backfill using current consensus snapshots
+security_total_return,ratio,Corporate-action and delisting adjusted investment return,planned,CRSP or comparable licensed source,not collected,Do not calculate alpha from survivor-only prices
+index_membership,flag,Historical Russell member status and weight,planned,Licensed index histories,not collected,Current index list is insufficient for historical studies

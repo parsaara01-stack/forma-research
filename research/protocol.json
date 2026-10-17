@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "publication_status": "protocol-only",
+  "registered_on": "2026-10-17",
+  "study_title": "The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies",
+  "primary_outcomes": [
+    "24-month fundamental cash-flow per share change",
+    "24-month financing distress / survival",
+    "12-month risk-adjusted equity total return"
+  ],
+  "pilot_scope": "8 hand-selected current companies, engineering checks only",
+  "target_scope": "Historical point-in-time US-listed small-company panel including delistings",
+  "analysis_status": "no fitted models, no historical membership panel, no claims of alpha",
+  "hypotheses": [
+    {"id":"H01","name":"Capital conversion gap","status":"to_be_tested","null":"Funding source has no incremental association with future per-original-share cash generation conditional on opportunity set."},
+    {"id":"H02","name":"Refinancing cliff","status":"to_be_tested","null":"Debt repricing exposure has no interaction with credit shocks in predicting real investment or distress."},
+    {"id":"H03","name":"Incremental return on capital","status":"to_be_tested","null":"Incremental ROIC provides no incremental out-of-sample predictive value over trailing ROIC and growth."},
+    {"id":"H04","name":"Recovery illusion","status":"to_be_tested","null":"Cash conversion and financing risk do not improve estimates of subsequent recovery forecast errors."},
+    {"id":"H05","name":"Dilution and survival options","status":"to_be_tested","null":"Dilution interacted with investment opportunity has no additional association with per-share value or survival."},
+    {"id":"H06","name":"Index composition effect","status":"to_be_tested","null":"Index-reported EPS growth equals fixed-constituent growth after documented aggregation adjustments."}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1.0",
+  "generated_at": null,
+  "last_successful_refresh": null,
+  "status": "SEC collection not yet executed; no empirical findings claimed",
+  "universe_description": "Curated launch observation panel; not a historical Russell 2000 membership dataset and not suitable for index-wide inference",
+  "companies": [
+    {"ticker":"BTSG","name":"BrightSpring Health Services","group":"Healthcare services","facts":{},"metrics":{}},
+    {"ticker":"EAT","name":"Brinker International","group":"Consumer services","facts":{},"metrics":{}},
+    {"ticker":"FROG","name":"JFrog","group":"Software","facts":{},"metrics":{}},
+    {"ticker":"GKOS","name":"Glaukos","group":"Medical devices","facts":{},"metrics":{}},
+    {"ticker":"PCVX","name":"Vaxcyte","group":"Clinical-stage biotech","facts":{},"metrics":{}},
+    {"ticker":"SM","name":"SM Energy","group":"Energy","facts":{},"metrics":{}},
+    {"ticker":"TWST","name":"Twist Bioscience","group":"Life science tools","facts":{},"metrics":{}},
+    {"ticker":"UMBF","name":"UMB Financial","group":"Banking","facts":{},"metrics":{}}
+  ]
+}

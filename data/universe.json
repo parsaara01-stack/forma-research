@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "effective": "2026-10-17",
+  "purpose": "Illustrative cross-industry filing-coverage pilot; not a market-cap or Russell eligibility claim",
+  "companies": [
+    {"ticker":"BTSG","name":"BrightSpring Health Services","group":"Healthcare services"},
+    {"ticker":"EAT","name":"Brinker International","group":"Consumer services"},
+    {"ticker":"FROG","name":"JFrog","group":"Software"},
+    {"ticker":"GKOS","name":"Glaukos","group":"Medical devices"},
+    {"ticker":"PCVX","name":"Vaxcyte","group":"Clinical-stage biotech"},
+    {"ticker":"SM","name":"SM Energy","group":"Energy"},
+    {"ticker":"TWST","name":"Twist Bioscience","group":"Life science tools"},
+    {"ticker":"UMBF","name":"UMB Financial","group":"Banking"}
+  ]
+}
