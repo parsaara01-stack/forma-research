@@ -1,7 +1,7 @@
 {
-  "project": "forma.",
+  "project": "Smallcap Atlas",
   "checked_on": "2026-10-17",
-  "status": "v0.3_local_checks_passed_deployment_pending",
+  "status": "published-and-verified",
   "original_archive": "forma-research-v0.1.zip",
   "original_archive_available": true,
   "application_code_imported": true,
@@ -11,7 +11,6 @@
   "github_account": "parsaara01-stack",
   "github_repository": "forma-research",
   "github_repository_lookup": "created and accessible",
-  "github_creation_tool_available": false,
   "reference_repository": "https://github.com/parsaara01-stack/prsn-index",
   "reference_commit": "ab0a8a183dcf4d6a094b6d94124615234fc9d4bc",
   "reference_files_inspected": [
@@ -26,15 +25,15 @@
     "SEC_CONTACT repository secret for SEC requests"
   ],
   "next_steps": [
-    "Enable Chrome file upload to replace the Portfolio cover",
-    "Connect authorized historical membership, forecast and total-return data before fitting a timing model"
+    "Connect authorized historical membership, forecast and total-return data before fitting and validating a timing model"
   ],
-  "release": "0.3.0",
+  "release": "0.4.0",
   "quality_checks": {
-    "unit_tests_passed": 44,
+    "release": "0.4.0",
+    "unit_tests_passed": 49,
     "timing_arithmetic": "passed",
-    "browser_checks": "passed desktop, mobile, timing, pagination, lazy reports, search, filters, modal, failures, safe links",
-    "accessibility_checks": "automated WCAG A/AA passed",
+    "browser_checks": "passed searchable company picker, Enter and arrow keys, preloaded example assumptions, separate 4-hour and daily 200-day views, pagination, filters, evidence, mobile, failures and safe links",
+    "accessibility_checks": "automated WCAG A/AA passed for the owned interface; vendor display tested visually",
     "offline_replication": {
       "companies": 1856,
       "raw_documents": 1952,
@@ -47,9 +46,20 @@
       "gaps": 116,
       "excluded_positions": 17
     },
-    "hosted_github_actions": "v0.3 pending"
+    "scheduled_source_refresh": "passed real hosted holdings + FRED download, source verification, offline reproduction and deployment",
+    "source_refresh_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079304835",
+    "hosted_github_actions": "passed independent validation and deployment for c62200b",
+    "first_v04_deployment_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079720986",
+    "visual_market_check": "IWM 4h bars and daily SMA 200 visible; latest quote with provider delay indicator and logo",
+    "forecast_status": "Defaults are illustrative assumptions, not analyst forecasts; no validated entry signal",
+    "validation_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079917671",
+    "deployment_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079917712",
+    "live_search_check": "Typed BTSG and pressed Enter on the public site; the company, chart symbol and preloaded example updated correctly"
   },
   "github_browser_status": "Published through authenticated GitHub CLI",
   "live_url": "https://parsaara01-stack.github.io/forma-research/",
-  "portfolio_url": "https://parsaara.com/forma"
+  "portfolio_url": "https://parsaara.com/forma",
+  "publication_method": "Authenticated GitHub CLI",
+  "github_validation_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079917671",
+  "github_deployment_run": "https://github.com/parsaara01-stack/forma-research/actions/runs/39079917712"
 }
