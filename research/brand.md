@@ -1,4 +1,4 @@
-# forma. — brand system 0.1
+# forma. — brand system 0.2
 
 **Brand concept:** research that reveals structure. Inspired by restrained editorial product design, not by copying Apple assets, trade dress or logos.
 
@@ -17,8 +17,8 @@
 | Canvas | `#f8f8f6` | Main page |
 | White | `#ffffff` | Editorial sections |
 | Midnight | `#12171e` | Interactive laboratory |
-| Cobalt | `#526ae9` | Brand signal and active affordances |
-| Neutral | `#777f89` | Supporting content |
+| Cobalt | `#4059d0` | Brand signal and active affordances |
+| Neutral | `#626d79` | Supporting content |
 | Border | `#e1e3e6` | Thin separators |
 
 ## Experience principles

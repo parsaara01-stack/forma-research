@@ -6,3 +6,7 @@ __pycache__/
 .env
 *.log
 research/private/
+.cache/
+node_modules/
+playwright-report/
+test-results/

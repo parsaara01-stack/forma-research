@@ -12,3 +12,5 @@
 - Kenneth R. French Data Library: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html — publicly accessible factor series with licensing and version caveats.
 
 **Literature status:** This is an initial bibliography, not a completed systematic novelty review. Any novelty or causality statement requires evaluation of published competing studies before manuscript submission.
+
+- SEC Developer Resources (fair access, API request limits): https://www.sec.gov/about/developer-resources — checked October 17, 2026.

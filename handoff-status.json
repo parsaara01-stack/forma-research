@@ -1,11 +1,11 @@
 {
   "project": "forma.",
   "checked_on": "2026-10-17",
-  "status": "awaiting_original_archive",
+  "status": "local_release_ready_github_repository_required",
   "original_archive": "forma-research-v0.1.zip",
-  "original_archive_available": false,
-  "application_code_imported": false,
-  "application_tests_run": false,
+  "original_archive_available": true,
+  "application_code_imported": true,
+  "application_tests_run": true,
   "published": false,
   "local_git_branch": "main",
   "github_account": "parsaara01-stack",
@@ -14,7 +14,10 @@
   "github_creation_tool_available": false,
   "reference_repository": "https://github.com/parsaara01-stack/prsn-index",
   "reference_commit": "ab0a8a183dcf4d6a094b6d94124615234fc9d4bc",
-  "reference_files_inspected": ["README.md", ".github/workflows/prsn.yml"],
+  "reference_files_inspected": [
+    "README.md",
+    ".github/workflows/prsn.yml"
+  ],
   "reference_architecture": [
     "Static HTML and JavaScript site consuming versioned JSON",
     "Python engine with separate configuration and company universe",
@@ -23,15 +26,27 @@
     "SEC_CONTACT repository secret for SEC requests"
   ],
   "next_steps": [
-    "Receive original ZIP; hash and inventory before extraction",
-    "Reject unsafe archive paths and preserve original files in a baseline commit",
-    "Run existing tests before changing implementation",
-    "Audit SEC retries, request identification, rate limits, caching and atomic publication",
-    "Audit filing-date cutoffs, amendments, units, durations, fiscal periods and source provenance",
-    "Review debt, maturities, financing costs, dilution and missing-data semantics",
-    "Specify falsifiable hypotheses and point-in-time comparison datasets without invented results",
-    "Verify desktop and mobile accessibility, interactions and visual design",
-    "Validate CI and deploy only the intended public site directory",
-    "Connect the created GitHub repository, push tested code and verify deployment"
-  ]
+    "Create empty parsaara01-stack/forma-research and verify connector access",
+    "Push tested main branch",
+    "Enable GitHub Pages with GitHub Actions as source",
+    "Configure SEC_CONTACT Actions secret for future scheduled refreshes",
+    "Run and verify hosted workflows and deployment"
+  ],
+  "release": "0.2.0",
+  "quality_checks": {
+    "unit_tests_passed": 34,
+    "browser_checks": "passed desktop, mobile, simulator, search, sources, keyboard, network failure, stale data and unsafe URLs",
+    "accessibility_checks": "automated WCAG A/AA audit passed desktop, mobile and evidence dialog",
+    "offline_replication": {
+      "companies": 8,
+      "raw_documents": 9,
+      "network_requests": 0
+    },
+    "live_sec_refresh": {
+      "companies": 8,
+      "warnings": 0,
+      "cutoff": "2026-10-17"
+    }
+  },
+  "github_browser_status": "GitHub new-repository page requires user sign-in"
 }

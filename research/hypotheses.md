@@ -1,4 +1,4 @@
-# Registered hypotheses — v0.1 (unfitted)
+# Proposed hypotheses — v0.2 (unfitted; not externally preregistered)
 
 Every proposed hypothesis needs an *ex-ante* definition of exposure, comparator, outcome, horizon, controls, minimum effect of interest and failure criterion before examining test-period returns. Below are intended specifications only.
 

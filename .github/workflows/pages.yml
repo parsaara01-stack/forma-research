@@ -5,63 +5,81 @@ on:
   workflow_dispatch:
     inputs:
       refresh_sec:
-        description: 'Update SEC filing panel before publishing (requires SEC_CONTACT secret)'
-        required: false
+        description: 'Refresh SEC panel (requires SEC_CONTACT secret)'
         default: false
         type: boolean
   schedule:
-    - cron: '22 6 * * 2,5'  # Twice weekly UTC. Freshness not guaranteed.
+    - cron: '22 6 * * 2,5' # Tuesday and Friday, 06:22 UTC; GitHub may delay runs.
 permissions:
-  contents: write
+  contents: read
 concurrency:
   group: forma-pages
   cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: read
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate before publication
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: pnpm
+      - name: Validate baseline
         run: |
           python -m unittest discover -s tests -v
           python -m engine validate
-      - name: Refresh SEC observations when configured
+          python -m engine replicate
+      - name: Refresh SEC observations
         if: github.event_name == 'schedule' || inputs.refresh_sec == true
         env:
           SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
         run: |
           if [ -z "$SEC_CONTACT" ]; then
-            echo 'SEC_CONTACT secret not set; retaining previous dataset.'
+            echo '::warning::SEC_CONTACT is not set; no refresh performed. Prior observation dates remain visible.'
           else
             python -m engine refresh --archive
-            python -m engine validate
-            git config user.name 'forma-data-bot'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add site/data/research.json data/snapshots/
-            if ! git diff --cached --quiet; then
-              git commit -m 'data: refresh SEC observation panel'
-              git push origin HEAD:main
-            fi
+          fi
+      - name: Verify publication candidate
+        run: |
+          python -m engine build
+          python -m engine validate
+          python -m engine replicate
+          pnpm install --frozen-lockfile
+          pnpm exec playwright install --with-deps chromium
+          pnpm test
+      - name: Preserve successful data refresh
+        if: github.event_name == 'schedule' || inputs.refresh_sec == true
+        run: |
+          git config user.name 'forma-data-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/research.json data/snapshots/ data/raw/
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh and reproduce SEC observation panel'
+            # Refuse concurrent source changes rather than overwrite main.
+            git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     permissions:
       pages: write
       id-token: write
     steps:
-      - name: Deploy Pages artifact
-        id: deploy
+      - id: deploy
         uses: actions/deploy-pages@v4

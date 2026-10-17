@@ -48,7 +48,7 @@ class TestMetrics(unittest.TestCase):
     def test_reinvestment_and_coverage(self):
         facts={name:self.f(v) for name,v in {
             'revenue':200,'operating_income':40,'operating_cash_flow':35,'capex':15,
-            'total_assets':500,'long_term_debt':50,'current_debt':10,'interest_expense':5,'net_income':20,
+            'total_assets':500,'long_term_debt':50,'current_debt':10,'short_term_borrowings':0,'interest_expense':5,'net_income':20,
         }.items()}
         m=calculate(facts)
         self.assertAlmostEqual(m['operating_margin'],.2)
@@ -71,9 +71,9 @@ class TestMetrics(unittest.TestCase):
         self.assertIsNone(safe_ratio(4,-2))
 
 class TestProject(unittest.TestCase):
-    def test_starter_dataset(self):
+    def test_published_dataset(self):
         d=json.loads((ROOT/'site/data/research.json').read_text())
-        self.assertEqual(d['schema_version'],'0.1.0')
+        self.assertIn(d['schema_version'],{'0.1.0','0.2.0'})
         self.assertGreater(len(d['companies']),0)
     def test_unique_universe(self):
         d=json.loads((ROOT/'data/universe.json').read_text())

@@ -3,13 +3,54 @@
   "effective": "2026-10-17",
   "purpose": "Illustrative cross-industry filing-coverage pilot; not a market-cap or Russell eligibility claim",
   "companies": [
-    {"ticker":"BTSG","name":"BrightSpring Health Services","group":"Healthcare services"},
-    {"ticker":"EAT","name":"Brinker International","group":"Consumer services"},
-    {"ticker":"FROG","name":"JFrog","group":"Software"},
-    {"ticker":"GKOS","name":"Glaukos","group":"Medical devices"},
-    {"ticker":"PCVX","name":"Vaxcyte","group":"Clinical-stage biotech"},
-    {"ticker":"SM","name":"SM Energy","group":"Energy"},
-    {"ticker":"TWST","name":"Twist Bioscience","group":"Life science tools"},
-    {"ticker":"UMBF","name":"UMB Financial","group":"Banking"}
-  ]
+    {
+      "ticker": "BTSG",
+      "name": "BrightSpring Health Services",
+      "group": "Healthcare services",
+      "cik": 1865782
+    },
+    {
+      "ticker": "EAT",
+      "name": "Brinker International",
+      "group": "Consumer services",
+      "cik": 703351
+    },
+    {
+      "ticker": "FROG",
+      "name": "JFrog",
+      "group": "Software",
+      "cik": 1800667
+    },
+    {
+      "ticker": "GKOS",
+      "name": "Glaukos",
+      "group": "Medical devices",
+      "cik": 1192448
+    },
+    {
+      "ticker": "PCVX",
+      "name": "Vaxcyte",
+      "group": "Clinical-stage biotech",
+      "cik": 1649094
+    },
+    {
+      "ticker": "SM",
+      "name": "SM Energy",
+      "group": "Energy",
+      "cik": 893538
+    },
+    {
+      "ticker": "TWST",
+      "name": "Twist Bioscience",
+      "group": "Life science tools",
+      "cik": 1581280
+    },
+    {
+      "ticker": "UMBF",
+      "name": "UMB Financial",
+      "group": "Banking",
+      "cik": 101382
+    }
+  ],
+  "identity_note": "CIKs pinned from the SEC ticker directory archived with the initial 2026-10-17 refresh; ticker mismatches stop automatic ingestion."
 }

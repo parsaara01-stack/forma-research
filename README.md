@@ -1,122 +1,110 @@
 # forma.
 ### The economics beneath the ticker.
 
-**An open, empirical research laboratory studying how smaller public companies fund growth, deploy capital and create—or destroy—per-share value.**
+An independent research platform studying how smaller public companies fund growth, deploy capital and create—or destroy—per-share value.
 
-> Status: **v0.1 | reproducible prototype | not a validated predictive model.**
-> The website is launchable. The scientific study and historical backtest are **not complete**.
+**v0.2.0: working SEC observation platform. Eight pilot companies have live, source-linked annual facts. All observations are unreviewed; there are no validated predictive findings or completed market-pricing backtests.**
 
 ## Research objective
 
-**How do capital requirements, financing structure, and marginal costs interact with operating performance to determine small-company financial resilience and subsequent shareholder returns?**
+How do capital requirements, financing structure and marginal financing costs interact with operating performance to determine financial resilience and subsequent shareholder returns?
 
-This is intentionally broader than predicting earnings recovery. A single reported EPS recovery can be driven by operating improvement, loss-base effects, index turnover, acquisitions, a lower share count, or one-off charges. We model operations, funding and pricing separately.
+The platform separates operating improvement, funding requirements, per-share outcomes, market expectations and price discovery. Earnings recovery is one mechanism under investigation. The six proposed hypotheses and their nulls are in [`research/protocol.json`](research/protocol.json); they are draft specifications, not external preregistrations.
 
-**Working paper:** *The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies.*
+Working paper: *The Capital Conversion Gap: Financing Frictions, Reinvestment Intensity, and Value Creation in Small Public Companies.*
 
-## Live architecture
+## Preview
 
-Inspired by the workflow of [PRSN](https://github.com/parsaara01-stack/prsn-index), but isolated from its investment selection rules:
+Python 3.11+ is sufficient for the engine and website. No production JavaScript dependencies or frontend build are required.
 
-```
-Official SEC CompanyFacts       Research protocol / hypotheses
-           |                              |
-   Python extraction                   Version control
-           |                              |
-Annual tagged observation panel  <---/    |
-           |                              |
-Metric validation / audit trail          |
-           |                              |
-      Versioned JSON ---------------------/
-           |
-Static accessible website  --> GitHub Actions  --> GitHub Pages
+```sh
+python3 -m http.server 8000 --bind 127.0.0.1 --directory site
+# Open http://127.0.0.1:8000
 ```
 
-The repository uses only Python's standard library for SEC data processing and vanilla HTML/CSS/JS for the website. No API keys are needed except an identifiable SEC contact email for compliant request headers.
+Open any company to inspect its reported facts, fiscal and filing dates, source tags, original filing index, capital proxies, partial maturity buckets and input fingerprint. The simulator is a deterministic hypothetical business, not a stock forecast. The eight-company pilot tests filing coverage; it is not a current or historical Russell 2000 membership sample.
 
-## Local preview
+## Refresh and reproduce
 
-```bash
-python3 -m http.server 8000 --directory site
-# open http://localhost:8000
-```
-
-Do not open `site/index.html` directly using a `file://` URL: browsers restrict local JSON fetching. The website's eight launch tickers are **not populated with real financial values until an SEC refresh succeeds**. The Laboratory simulator is explicitly hypothetical.
-
-## Data collection
-
-```bash
+```sh
 export SEC_CONTACT='your-real-contact@example.com'
 python3 -m engine refresh --archive
 python3 -m engine validate
+python3 -m engine replicate
+python3 -m engine build
 ```
 
-Requirements: Python 3.11+, internet access to sec.gov and data.sec.gov. Requests are throttled. The SEC can return access limits. On a complete network failure the current published dataset is preserved. Partial failures retain previous observations where available and mark them stale; logs appear in `refresh_warnings`.
+The contact is sent only in SEC request headers. Keep it in your local environment or the repository's `SEC_CONTACT` Actions secret; do not commit credentials or personal configuration.
 
-The generated live site reads `site/data/research.json`; optional dated snapshots are in `data/snapshots/`. The first observation sample has 8 purposely heterogeneous firms. **It is not a Russell 2000 historical membership dataset.** Avoid index-wide inference or trading conclusions from this group.
+- Requests are paced at no more than five per second per client, cached for six hours and retried for transient network/server failures or rate limits. Do not run parallel clients beyond SEC's aggregate request limit.
+- Raw SEC response bytes are SHA-256 fingerprinted. `--archive` preserves deterministic compressed inputs in `data/raw/` and content-addressed output snapshots in `data/snapshots/`. Different same-day outputs have different filenames; existing snapshots are never overwritten.
+- `--force` bypasses the response cache. `--asof YYYY-MM-DD` applies an inclusive filing-date cutoff; it **does not recreate a historical database vintage**.
+- `replicate` checks source hashes and re-extracts every displayed fact and metric offline. To reproduce a saved output, use `python3 -m engine replicate --snapshot data/snapshots/FILE.json` with the matching engine release.
+- A failed company retains an eligible prior observation with an explicit stale label. Future-filed facts cannot carry backward through this fallback. Zero-success refreshes and invalid payloads preserve the published bytes. Identical refreshes do not rewrite the dataset.
+- `build` copies versioned methods, hypotheses, protocol, variable dictionary, capital taxonomy and references into the public site. Edit the originals in `research/`, then rebuild.
 
-## Run tests
+The initial live collection was performed October 17, 2026. Fiscal ends and source dates vary by company. A successful retrieval means SEC tags were collected, not that their accounting interpretation was independently verified.
 
-```bash
+If macOS Python reports a certificate verification failure, install its trusted certificate bundle using that Python distribution's documented setup or use a correctly configured Python runtime. Do not disable TLS verification.
+
+## Accounting boundaries
+
+Extraction selects a single original 10-K accession for the latest supported fiscal end and uses one annual statement duration. It rejects ambiguous duplicate contexts, incompatible units and nonfinite values. Amendments, custom taxonomies and instrument-level note contexts require separate review. Per-fact source tags expose accounting differences, including the last-priority revenue-including-tax fallback.
+
+Debt/assets requires noncurrent long-term debt, its current portion and short-term borrowings, all explicitly reported. Missing components remain unavailable; broad or lease-inclusive tags are never added to overlapping components. Maturity buckets can be partial and must be reconciled to the debt note. Marginal funding cost, WACC, covenants, floating-rate exposure, maintenance capex and future dilution remain unestimated.
+
+FCF is CFO less tagged PPE cash expenditure, not a comprehensive measure of all investment. Cash/operating-burn is a narrow cash coverage ratio, not a total liquidity runway forecast. Industrial ratios are suppressed for banks and insurers. See [`research/methods.md`](research/methods.md) for definitions and exclusions.
+
+## Quality checks
+
+```sh
 python3 -m unittest discover -s tests -v
 python3 -m engine validate
+python3 -m engine replicate
 python3 -m compileall -q engine tests
 ```
 
-The fixture data used in tests is synthetic, used only to validate behavior. The pipeline never silently substitutes zero for a missing regulatory fact.
+Browser checks use Node.js 24, pnpm 11.25.0 and locked development dependencies:
 
-## Publish on GitHub Pages
+```sh
+pnpm install --frozen-lockfile
+pnpm exec playwright install chromium
+pnpm test
+```
 
-1. Create an empty repository, e.g. `parsaara01-stack/forma-research`. Keep the existing `prsn-index` repository unchanged.
-2. Copy or push **all contents of this folder** onto that repository's `main` branch.
-3. In **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
-4. In **Settings → Secrets and variables → Actions**, set `SEC_CONTACT` to a real contact email; never commit the email if you prefer it private.
-5. Open **Actions → Publish forma. → Run workflow**, check **Update SEC filing panel**, and run. The workflow validates, optionally updates SEC annual observations, archives the snapshot, and deploys the website.
-6. The initial site also publishes automatically on pushes to `main`. Twice-weekly scheduled refreshes only download current facts when `SEC_CONTACT` is configured.
+The browser suite starts its own local server. It checks desktop/mobile layout, calculator arithmetic, search, filters, modal keyboard focus, data failures, stale labels, unsafe links and automated WCAG A/AA accessibility rules. It saves previews in `test-results/`. Automated accessibility checks do not replace manual assistive-technology review. Test-only synthetic responses never enter the published data.
 
-GitHub's deployment uses `actions/configure-pages@v5`, `actions/upload-pages-artifact@v4`, and `actions/deploy-pages@v4` with `pages: write` and `id-token: write` in the deployment job. Review GitHub Pages documentation if organization or branch policies block deployment.
+## GitHub publication and updates
 
-Suggested URL after GitHub Pages activation: `https://parsaara01-stack.github.io/forma-research/` (**not live until independently deployed**).
+The architecture follows [PRSN](https://github.com/parsaara01-stack/prsn-index): a Python engine, versioned data, a static website and scheduled GitHub Pages publishing. forma. has its own repository, scientific protocol and data model; it does not reuse PRSN's investment selection rules.
 
-## Research modules
+1. Create an empty **`parsaara01-stack/forma-research`** repository, without an initial README or license. Push this repository's `main` branch to it.
+2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.
+3. Add a real contact email as **Settings → Secrets and variables → Actions → New repository secret → `SEC_CONTACT`**.
+4. Confirm the workflow token can commit data under your branch rules. Required PR policies may require adapting the refresh to a data PR instead of direct pushes; the workflow will fail safely if a push is rejected.
+5. Run **Actions → Publish forma.**, optionally enabling the SEC refresh. Tests, offline replication and browser checks gate deployment. Only `site/` is published.
 
-| Hypothesis | Research question | Status |
-| --- | --- | --- |
-| H01 Capital conversion gap | Is externally financed growth associated with lower subsequent per-share value than internally funded growth, conditional on opportunity set? | Protocol only |
-| H02 Refinancing cliff | Do funding-cost resets reduce investment, profitability and equity valuations? | Protocol only |
-| H03 Incremental ROIC | Does reinvestment productivity predict future cash flows beyond growth and trailing ROIC? | Protocol only |
-| H04 Recovery illusion | Do cash flow and financing measures explain analyst forecast errors for rebound firms? | Protocol only |
-| H05 Dilution and real options | When does issuance fund positive-NPV survival or destroy value? | Protocol only |
-| H06 Index composition | How much index-level EPS growth reflects constituent changes and accounting/denominator effects? | Protocol only |
+Pushes to `main` publish after checks. Scheduled runs refresh on **Tuesday and Friday at 06:22 UTC**, subject to GitHub scheduling delays. Missing contact configuration produces a workflow warning and preserves the visibly dated prior dataset. Refresh failures block that deployment. Data commits made with `GITHUB_TOKEN` do not need to trigger another workflow; the same successful run deploys its tested output. Concurrent source changes cause the data push to fail rather than overwrite them.
 
-See `research/` for hypothesis registration, competing explanations, methods, data dictionary, capital taxonomy, and publication standards.
+Planned URL: `https://parsaara01-stack.github.io/forma-research/`. **This is not a claim that the site has been deployed.**
 
-## Research limitations (read before citing)
+## Scientific publication gate
 
-- SEC XBRL provides filed historical accounting facts; it does not provide analyst forecast vintages, security returns, market-cap histories, index membership, or debt-market pricing. Those require other licensed or curated inputs.
-- Annual facts are aligned by fiscal-period **end date** and filter source filing dates, but **CompanyFacts is not a complete historical vintage archive**. It can reflect later processing or changes. This is a current-facts prototype, **not** proof of an as-known-at-the-time backtest.
-- The first SEC disclosure for an annual period is preferred for each chosen tag; it is *not* equivalent to reconciling every original 10-K form and amendment.
-- Tags are heterogeneous. Some firms use custom taxonomy extensions; some accounting metrics are unavailable and remain null. Sector-specific normalization (especially banks, REITs, energy and pre-revenue biotech) is a future data-engineering milestone.
-- `debt_to_assets` is intentionally null unless both current and noncurrent debt tags are present; it is not total indebtedness and excludes most lease obligations and guarantees.
-- Financing rates, weighted-average cost of capital, debt maturity walls, debt covenants, leases, and maintenance capex are **not inferred** from the preliminary CompanyFacts facts; these require sourced instrument/narrative extraction.
-- Historical returns must include delistings, corporate actions, transaction costs, and an ex-ante size classification before any alpha claims are made.
-- Do not rely on this platform for investment decisions. This is an independent, evolving research artifact, not investment advice.
+Historical expectations, complete security returns including delistings, and point-in-time index membership are not provided by CompanyFacts. They require licensed or independently curated datasets. No price targets, fitted recovery probabilities, alpha estimates or research conclusions are invented to fill those gaps.
+
+Before fitting, freeze the exact exposures, comparators, endpoint definitions, sample and exclusion rules, date lags, chronological train/test windows, minimum effect sizes and multiple-testing family. Evaluate fundamental forecasting separately from cost-adjusted, factor-controlled return prediction. Report missingness, attrition, uncertainty and negative results. See `research/` for the proposed study and publication standards.
 
 ## Repository map
 
-```
-site/                  Publishable, responsive single-page website
-site/data/             Machine-readable regulatory observations (starter values absent)
-data/universe.json     Curated pilot observation panel
-data/snapshots/        Archived outputs (only after --archive)
-engine/                SEC ingestion and reproducible metric definitions
-research/              Pre-registered questions, research and brand specification
-tests/                 Synthetic fixtures and automated checks
-.github/workflows/     Tests, scheduled SEC refresh, GitHub Pages deployment
-```
+| Path | Purpose |
+| --- | --- |
+| `site/` | Public website and downloadable research documentation |
+| `engine/` | Standard-library SEC ingestion, metrics, validation and replication |
+| `data/universe.json` | Curated pilot with pinned CIK identities |
+| `data/raw/` | Hashed SEC response archives; no request headers or contact email |
+| `data/snapshots/` | Immutable output snapshots |
+| `research/` | Draft study protocol, hypotheses, methods and source registry |
+| `tests/` | Synthetic regression fixtures and real-browser checks |
+| `.github/workflows/` | CI, scheduled refresh and gated Pages deployment |
 
-## Publication and citation protocol
-
-A finding is not called **validated** until the hypothesis has a frozen definition, the data can be recreated, sources and data-availability dates are traceable, comparisons account for standard risk factors and implementation costs, and the test survives out-of-sample evaluation. See `research/methods.md`.
-
-Project start: October 17, 2026. Site/engine release: **0.1.0**. Software code is MIT-licensed; underlying third-party data may be subject to their own terms.
+v0.1 was imported unchanged from the supplied archive before development. Its archive hash and baseline commit are recorded in `data/import-provenance.json`, and its full source remains in local Git history. Software is MIT licensed. Third-party data retains its source terms. Research, not investment advice.

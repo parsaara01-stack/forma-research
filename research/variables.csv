@@ -1,8 +1,8 @@
-variable,unit,concept,reported_or_derived,data_origin,pit_available_in_v01,limitations
+variable,unit,concept,reported_or_derived,data_origin,point_in_time_validated,limitations
 revenue,USD,Annual revenue,reported,SEC XBRL 10-K,no,Multiple taxonomy tags differ by issuer
 operating_income,USD,Annual GAAP operating income,reported,SEC XBRL 10-K,no,Not meaningful for every financial firm
 operating_cash_flow,USD,Cash provided by operating activities,reported,SEC XBRL 10-K,no,May include working-capital swings
-capex,USD,Property and productive asset expenditures,reported,SEC XBRL 10-K,no,Maintenance and growth spending not distinguished
+capex,USD,Property plant and equipment cash expenditure,reported,SEC XBRL 10-K,no,Does not capture all capital investment; maintenance and growth not distinguished
 free_cash_flow,USD,Operating cash flow minus capex,derived,SEC XBRL 10-K,no,Excludes acquisitions and certain intangible spending
 operating_margin,ratio,Operating income divided by revenue,derived,SEC XBRL 10-K,no,Null for banking
 capex_intensity,ratio,Capital expenditures divided by revenue,derived,SEC XBRL 10-K,no,Null for banking
@@ -18,3 +18,9 @@ issuance_dilution,ratio,Change in original holders' economic claims from issuanc
 analyst_eps_vintage,USD/share,Historical consensus as-of formation date,planned,Licensed analyst estimates,not collected,Cannot backfill using current consensus snapshots
 security_total_return,ratio,Corporate-action and delisting adjusted investment return,planned,CRSP or comparable licensed source,not collected,Do not calculate alpha from survivor-only prices
 index_membership,flag,Historical Russell member status and weight,planned,Licensed index histories,not collected,Current index list is insufficient for historical studies
+short_term_borrowings,USD,Separately tagged short-term borrowings,reported,SEC XBRL 10-K,no,Missing is not zero; excludes lease obligations
+diluted_shares,shares,Weighted-average diluted shares during annual period,reported,SEC XBRL 10-K,no,Not ending shares or future contingent dilution
+maturity_year_1_to_5,USD,Tagged long-term principal repayment buckets,reported,SEC XBRL 10-K,no,Partial schedules; anchor relative to fiscal end; debt-note review required
+current_ratio,ratio,Current assets / current liabilities,derived,SEC XBRL 10-K,no,Unavailable for financial-sector protocol
+cash_runway_years,years,Unrestricted cash / negative annual CFO,derived,SEC XBRL 10-K,no,Operating cash coverage only; excludes investments and future investing or financing
+source_sha256,hash,Fingerprint of raw SEC response bytes,metadata,SEC response,no,Computational provenance does not eliminate database-vintage bias

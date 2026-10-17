@@ -1,0 +1,7 @@
+{
+  "archive_name": "forma-research-v0.1.zip",
+  "sha256": "a83dc2d0a9164b0439f6cd5c98e7e01612bc37bb021281236a6ae152d179ee69",
+  "baseline_commit": "e3cd103",
+  "imported_on": "2026-10-17",
+  "import_policy": "Reject absolute paths, traversal, symlinks and preexisting destination files; original source imported without edits."
+}

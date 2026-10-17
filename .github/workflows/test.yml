@@ -8,14 +8,33 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Unit tests
+      - name: Unit and integrity tests
         run: python -m unittest discover -s tests -v
-      - name: Validate published JSON
-        run: python -m engine validate
-      - name: Check source compilation
-        run: python -m compileall -q engine tests
+      - name: Validate and reproduce archived observations
+        run: |
+          python -m engine validate
+          python -m engine replicate
+          python -m engine build
+          git diff --exit-code -- site/research
+          python -m compileall -q engine tests
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: pnpm
+      - name: Browser checks
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm exec playwright install --with-deps chromium
+          pnpm test
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: browser-previews
+          path: test-results/
