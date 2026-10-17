@@ -3939,6 +3939,6 @@
     "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-17",
     "sha256": "aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082",
     "raw_path": "data/macro/aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082.bin.gz",
-    "retrieved_at": "2026-10-17T23:15:34.735907+00:00"
+    "retrieved_at": "2026-10-17T23:31:01.539431+00:00"
   }
 }
