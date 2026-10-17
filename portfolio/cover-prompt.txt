@@ -1,0 +1,10 @@
+Mode: built-in imagegen tool
+Final output: forma-small-caps-dark.png
+
+Use case: ads-marketing
+Asset type: editorial research cover for Parsa Ara's portfolio, 3:2 landscape
+Primary request: A premium dark navy, charcoal and muted gold cover about US small-cap companies and finding the right time to invest, matching prestigious research article covers with cinematic photographic imagery and large elegant serif typography
+Scene: a beautifully crafted miniature American industrial town at dusk, small factories, regional storefronts, warehouses and modest office buildings, lit windows, realistic fine architectural models on a dark reflective surface, atmospheric dark navy shadows and restrained warm golden light, subtle abstract timing arcs in the background, no readable signs, no giant skyscrapers
+Composition: premium magazine cover, photographic town across lower half, ample dark quiet space above, sharp typography, refined restrained palette, generous margins
+Text verbatim: small top line "FORMA"; large elegant ivory serif title "SMALL CAPS"; below in muted gold "When does growth pay off?"; small footer "RUSSELL 2000 · IWM" and "A STUDY OF INVESTMENT TIMING"
+Constraints: no people, no logos of real companies, no trading screens, no invented numerical market data, no busy glowing graphs, no clip art, no white background, scholarly and cinematic, typography fully inside safe margins

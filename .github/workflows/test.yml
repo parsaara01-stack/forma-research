@@ -22,7 +22,7 @@ jobs:
           python -m engine verify-sources
           python -m engine replicate
           python -m engine build
-          git diff --exit-code -- site/research
+          git diff --exit-code -- site/research site/index.html site/data/catalog.json
           python -m compileall -q engine tests
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4

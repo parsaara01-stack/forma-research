@@ -85,7 +85,8 @@ function factValue(f){
 async function fetchCompany(ticker){
  if(!/^[A-Z0-9.\-]+$/.test(ticker))throw Error('Invalid ticker');
  if(companyDetails.has(ticker))return companyDetails.get(ticker);
- const response=await fetch('./data/companies/'+encodeURIComponent(ticker)+'.json');
+ const version=records.find(r=>r.ticker===ticker)?.detail_version;
+ const response=await fetch('./data/companies/'+encodeURIComponent(ticker)+'.json'+(version?'?v='+encodeURIComponent(version):''),{cache:'no-store'});
  if(!response.ok)throw Error('Report unavailable');
  const detail=await response.json();if(detail.ticker!==ticker)throw Error('Report identity mismatch');
  companyDetails.set(ticker,detail);return detail;
@@ -126,7 +127,7 @@ async function loadData(){
  const stale=records.filter(r=>r.observation_status==='stale-previous-snapshot').length;
  $('facts-count').textContent=n;
  $('refresh-date').textContent=data.last_successful_refresh?data.last_successful_refresh.slice(0,10)+' UTC':'Not yet run';
- $('table-status').textContent=n?`${n} of ${records.length} companies with annual reports · ${stale} using older saved data · review pending`:'Waiting for the first company reports';
+ $('table-status').textContent=n?`${n} of ${records.length} stocks with annual reports · ${stale} using older saved data · review pending`:'Waiting for the first company reports';
  $('data-cutoff').textContent=data.asof_cutoff?`Reports filed by ${data.asof_cutoff} · Annual figures only · Holdings prices have separate dates`:'Figures appear when reports load';
  const warnings=data.refresh_warnings||[];$('data-warning').hidden=!warnings.length;
  $('data-warning').textContent=warnings.length?`${warnings.length} stocks need further source work — older or missing figures stay labeled · Open a company for details`:'';

@@ -1,0 +1,5 @@
+# Compressed, fingerprinted source files are already binary archives
+# Avoid costly delta searches across unrelated issuer archives
+*.gz -text -delta
+*.png -text
+*.jpg -text

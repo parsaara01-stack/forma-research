@@ -268,6 +268,15 @@ def replicate(snapshot: pathlib.Path) -> dict:
 
 
 def build() -> dict:
+    # A new HTML release must not reuse prior CSS / JavaScript cached by visitors
+    page = ROOT / 'site/index.html'
+    html = page.read_text()
+    for asset in ('styles.css', 'app.js', 'timing.js'):
+        path = ROOT / 'site/assets' / asset
+        version = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
+        html = re.sub(r'(\./assets/' + re.escape(asset) + r')(?:\?v=[a-zA-Z0-9.\-]+)?',
+                      lambda m: m.group(1) + '?v=' + version, html)
+    atomic_write(page, html.encode())
     target = ROOT / 'site/research'
     names = ['methods.md', 'hypotheses.md', 'capital_taxonomy.md', 'protocol.json', 'variables.csv', 'references.md', 'timing.md']
     for name in names:
@@ -289,6 +298,7 @@ def build() -> dict:
         history = record.get('earnings', {}).get('annual_history', [])
         row['reported_eps'] = history[0]['eps']['value'] if history and history[0].get('eps') else None
         row['eps_end'] = history[0]['end'] if history else None
+        row['detail_version'] = hashlib.sha256(encoded(record)).hexdigest()[:12]
         catalog['companies'].append(row)
     atomic_write(ROOT / 'site/data/catalog.json', encoded(catalog))
     return {'packaged_research_files': len(names), 'lazy_company_reports': len(active)}
