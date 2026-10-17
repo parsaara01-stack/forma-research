@@ -10,3 +10,9 @@ assert.equal(timingOutcome({...base,price:out.entryForHurdle}).annualReturn.toFi
 for(const change of [{price:0},{eps:-1},{eps:0},{years:0},{dilution:-1},{hurdle:-1},{pe:NaN},{price:Infinity}])assert.equal(timingOutcome({...base,...change}).valid,false);
 assert.ok(timingOutcome({...base,price:100}).annualReturn<out.annualReturn);
 console.log('PASS: timing arithmetic, dilution, hurdle inversion and invalid inputs');
+const {marketSymbol}=require('../site/assets/market.js');
+assert.equal(marketSymbol(null),'AMEX:IWM');
+assert.equal(marketSymbol({ticker:'BTSG',exchange:'NASDAQ'}),'NASDAQ:BTSG');
+assert.equal(marketSymbol({ticker:'TEST',exchange:'New York Stock Exchange Inc.'}),'NYSE:TEST');
+assert.equal(marketSymbol({ticker:'TEST',exchange:'Unknown venue'}),null);
+assert.equal(marketSymbol({ticker:'<script>',exchange:'NASDAQ'}),null);

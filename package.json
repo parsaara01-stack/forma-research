@@ -1,8 +1,8 @@
 {
   "name": "forma-research",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
-  "description": "Browser quality checks for the static forma. research site",
+  "description": "Browser quality checks for the Smallcap Atlas research site",
   "scripts": {
     "test": "node tests/timing.cjs && node tests/browser-smoke.cjs"
   },

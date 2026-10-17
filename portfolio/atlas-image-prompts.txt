@@ -1,0 +1,38 @@
+Option 1
+Mode: built-in imagegen
+
+Use case: photorealistic-natural
+Asset type: editorial photograph for Smallcap Atlas, an independent US small-cap investment research site
+Primary request: A convincing natural documentary photograph of the American small business economy, not a miniature or illustration
+Scene: A modest working precision-machining factory in the American Midwest, seen from just inside an open workshop door, one industrial CNC machine, metal stock and a workbench, quiet evidence of a real working business, no staged people required
+Style: premium financial magazine reportage shot on a full-frame camera with a 35mm lens, eye-level, honest proportions, subtle film grain, authentic worn steel and concrete, restrained muted colors
+Composition: horizontal landscape image, simple legible composition, suitable for a dark portfolio cover, no words in the image
+Lighting: natural early morning window light, deep navy and charcoal shadows, soft warm highlights on metal, no neon, no glossy CGI
+Constraints: no visible brand names, no logos, no invented company identification, no miniature city, no tilt-shift, no aerial panorama, no dramatic glowing light trails, no stock chart overlays, no text, no watermarks
+
+Option 2
+Mode: built-in imagegen
+
+Use case: photorealistic-natural
+Asset type: alternative editorial photograph for Smallcap Atlas, independent research about US small-cap investment timing
+Primary request: A natural, believable photograph showing a working American regional business, without a miniature-city look
+Scene: street-level view of a modest red-brick industrial building and loading bay in a Midwestern American town, a plain unbranded delivery van and realistic utility details, one simple business sign with no legible words, quiet early evening
+Style: sophisticated architectural documentary photography, full-frame camera, 50mm lens, ordinary real-world scale and imperfections, subtle fine film grain
+Composition: horizontal landscape, restrained clean framing, building on right and dark natural negative space on left suitable for a portfolio cover
+Lighting: blue hour with a few warm practical lights, charcoal and dark slate palette, no dramatic glowing skyline, no orange haze
+Constraints: no miniature or diorama, no tilt shift, no CGI render, no fake stock charts, no American flag motif, no identifiable real company, no brand logos, no readable words, no text or watermark
+
+Option 3
+Mode: built-in imagegen
+
+Use case: text-localization / editorial cover design
+Edit target: the supplied brick business at dusk photograph
+Primary request: make a refined dark portfolio cover for an independent scholarly finance study named Smallcap Atlas
+Keep the photograph, realistic building, street, van, perspective and lighting unchanged
+Add restrained warm ivory typography in the left upper half with ample margins, like a premium financial journal cover
+Text exactly: "Smallcap Atlas" in a refined clean sans-serif, large but not dominating, on two lines if needed
+Below it, small spaced uppercase: "TIMING AMERICAN SMALL-CAP GROWTH"
+At the lower left, small uppercase: "RUSSELL 2000 · IWM"
+One very simple fine-line circular globe mark above the title, no arrows or price chart
+No other words, no new scene elements, no company names, no glossy graphics
+Maintain the dark navy/charcoal photographic aesthetic and crisp readable type

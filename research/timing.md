@@ -64,3 +64,19 @@ The sensitivity grid varies EPS and price/earnings independently by ±25%, with 
 The model requires positive future earnings; price/earnings is inappropriate for a projected loss
 The tool excludes dividends, fees, taxes and corporate actions
 Prices in the holdings file are provider valuations, not real-time executable quotes
+
+## Price trends and the two chart clocks
+
+H10 tests whether a 200-trading-day simple moving average adds value after the economy, earnings and valuation are included
+The 4-hour view is a separate exploratory lens, not a 200-day moving average calculated from 4-hour bars
+Specify regular sessions, exchange timezone, split adjustment and signal availability before fitting a rule
+Use only completed bars known at the decision time, trade no earlier than the next tradable bar, and test incremental value after spreads, fees and turnover
+An apparent crossing of an average is not an entry recommendation
+The public TradingView displays are not a licensed point-in-time backtest dataset
+
+## Preloaded calculator assumptions
+
+A selected profitable company starts with a transparent example of 10% yearly EPS growth over the initially selected holding period and a future P/E of 20
+A company without positive annual EPS starts with a clearly marked recovery example of $1 future EPS
+These examples explain the controls and imply no forecast confidence, analyst endorsement or recommended valuation
+Changing fields changes the scenario, not the underlying reported facts

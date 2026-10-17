@@ -37,3 +37,9 @@ Proposed null: Fixed-member and changing-member improvements do not differ
 ## H09 — Economic timing value
 
 Proposed null: A timing rule does not improve net returns over the predeclared comparators
+# H10 — Price trends
+
+Test whether the daily 200-trading-day average adds timing value beyond the economy, earnings and valuation
+The 4-hour chart is exploratory and uses a separate clock
+Null: price-trend inputs do not improve net returns after costs and turnover
+Freeze the session, timezone, adjustment and decision-time rules before testing

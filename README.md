@@ -1,4 +1,4 @@
-# forma
+# Smallcap Atlas
 
 When does growth pay off?
 
@@ -32,13 +32,13 @@ The forward EPS field is a user assumption, not an analyst forecast
 The study will test entry before earnings recover, after reported improvement and after price repricing, against holding IWM and simple alternatives
 Historical analyst estimates, original macro release vintages and complete security returns including delistings remain required inputs
 
-The draft nine-question protocol is in `research/protocol.json`
+The draft ten-question protocol is in `research/protocol.json`
 The proposed timing study and calculator equations are in `research/timing.md`
 No backtest results or predictive performance are invented
 
 ## Run locally
 
-Python 3.11+ serves the website and runs the engine without production dependencies
+Python 3.11+ and the system HTTPS client curl serves the website and runs the engine without production dependencies
 
 ```sh
 python3 -m engine build
@@ -158,3 +158,14 @@ Software is MIT licensed and third-party data retains its source terms
 The dark small-business cover was generated with OpenAI image generation and is a conceptual illustration, not a photograph of actual index constituents
 
 Research, not investment advice
+
+## Market display
+
+TradingView embeds supply the selected symbol’s quote, logo where available, 4-hour chart and a separate daily chart with a 200-trading-day simple average
+The provider may delay quotes and does not support every listing
+Embedded prices are not read back into the calculator or archived as research data
+The entry-price field starts from the dated IWM holdings snapshot and remains editable
+Company selection preloads an explicitly illustrative earnings scenario, not analyst estimates
+
+The FRED export uses the system curl HTTPS client because urllib requests stalled on hosted runners
+TLS validation remains enabled and source bytes are still validated and archived

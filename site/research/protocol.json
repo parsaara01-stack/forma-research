@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publication_status": "protocol-only",
-  "study_title": "When Does Growth Pay Off? Investment Timing in Small Caps",
+  "study_title": "Smallcap Atlas \u2014 Timing American small-cap growth",
   "primary_outcomes": [
     "24-month fundamental cash-flow per share change",
     "24-month financing distress / survival",
@@ -64,6 +64,12 @@
       "name": "Economic timing value",
       "status": "to_be_tested",
       "null": "A timing rule does not improve net returns over the predeclared comparators"
+    },
+    {
+      "id": "H10",
+      "name": "Incremental price-trend value",
+      "status": "to_be_tested",
+      "null": "A daily 200-trading-day average and separately specified 4-hour price inputs do not improve net returns beyond macro, earnings and valuation after costs and turnover"
     }
   ],
   "version_controlled_on": "2026-10-17",
@@ -110,5 +116,7 @@
       "Security-level total returns including delistings",
       "Tradable-date macro vintages and releases"
     ]
-  }
+  },
+  "market_display": "External TradingView quotes may be delayed; 4-hour bars and daily 200-trading-day SMA are separate; no external quote scraping or backtest archive",
+  "scenario_defaults": "Illustrative assumptions only, not analyst forecasts"
 }

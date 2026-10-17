@@ -271,7 +271,7 @@ def build() -> dict:
     # A new HTML release must not reuse prior CSS / JavaScript cached by visitors
     page = ROOT / 'site/index.html'
     html = page.read_text()
-    for asset in ('styles.css', 'app.js', 'timing.js'):
+    for asset in ('styles.css', 'app.js', 'timing.js', 'market.js'):
         path = ROOT / 'site/assets' / asset
         version = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
         html = re.sub(r'(\./assets/' + re.escape(asset) + r')(?:\?v=[a-zA-Z0-9.\-]+)?',

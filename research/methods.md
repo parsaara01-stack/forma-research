@@ -1,4 +1,4 @@
-# Methods & Replication Standard — v0.3
+# Methods & Replication Standard — v0.4
 
 ## 1. Scientific status
 This repository currently publishes a **data pipeline and hypotheses, not empirical conclusions**. No fitted models or out-of-sample studies are claimed. The interactive tools show deterministic price scenarios and a hypothetical cash-flow bridge; neither is a fitted forecast.
@@ -58,9 +58,9 @@ SEC API: publicly available filings, but not historic analyst forecast vintages,
 
 ## 9. Empirical study gate
 
-The protocol is a versioned draft, not an external preregistration. Before fitting H01–H09, freeze the exact sample, treatment, comparator, endpoint, horizons, data definitions, exclusion and missingness rules, chronological splits, minimum effect of interest, multiple-testing family and code release. Separate descriptive current-vintage accounting work from any point-in-time forecasting test. No current site output constitutes a validated empirical finding.
+The protocol is a versioned draft, not an external preregistration. Before fitting H01–H10, freeze the exact sample, treatment, comparator, endpoint, horizons, data definitions, exclusion and missingness rules, chronological splits, minimum effect of interest, multiple-testing family and code release. Separate descriptive current-vintage accounting work from any point-in-time forecasting test. No current site output constitutes a validated empirical finding.
 
-## Complete coverage and timing extension — v0.3
+## Complete coverage and timing extension — v0.4
 The live universe now uses all usable listed equity positions in the official IWM holdings CSV
 The dated membership snapshots preserve the source file, fingerprint, additions and removals, including zero-weight listed positions
 Cash, futures and unlisted or tickerless positions remain documented exclusions

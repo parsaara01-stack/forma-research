@@ -1,4 +1,4 @@
-# Research Proposal — v0.3
+# Research Proposal — v0.4
 
 **Working title:** *When Does Growth Pay Off? Investment Timing in Small Caps*
 
@@ -6,7 +6,7 @@
 
 ## Abstract (protocol; no empirical claims)
 
-We propose to examine how small public firms' capital needs, financing constraints, and reinvestment opportunities interact to affect durable profitability, financial distress, and subsequent equity returns. We distinguish operating performance from the financing claims on that performance and then from stock-market pricing. Nine proposed questions cover entry before earnings improve, expectations already priced in, economic conditions, profit quality, funding runway, dilution, the EPS outlook, changing index composition and the value of timing after costs. A panel linking point-in-time SEC disclosures, historic analyst expectation vintages, security total returns including delistings, and macro financing regimes will test whether financing characteristics explain subsequent operating outcomes and forecast errors, and, separately, whether those outcomes are under- or over-priced. The null hypothesis is that no incremental out-of-sample prediction or risk-adjusted return premium remains after controlling for established factors, industry, company scale and data revisions.
+We propose to examine how small public firms' capital needs, financing constraints, and reinvestment opportunities interact to affect durable profitability, financial distress, and subsequent equity returns. We distinguish operating performance from the financing claims on that performance and then from stock-market pricing. Ten proposed questions cover entry before earnings improve, expectations already priced in, economic conditions, profit quality, funding runway, dilution, the EPS outlook, changing index composition and the value of timing after costs and the incremental value of price trends. A panel linking point-in-time SEC disclosures, historic analyst expectation vintages, security total returns including delistings, and macro financing regimes will test whether financing characteristics explain subsequent operating outcomes and forecast errors, and, separately, whether those outcomes are under- or over-priced. The null hypothesis is that no incremental out-of-sample prediction or risk-adjusted return premium remains after controlling for established factors, industry, company scale and data revisions.
 
 ## Primary estimands
 

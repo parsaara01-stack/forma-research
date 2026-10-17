@@ -9,6 +9,7 @@ const hypotheses = [
  ["H07", "Is the outlook getting better?", "Do changes in analyst EPS estimates and the spread of forecasts help identify a better entry window?"],
  ["H08", "Is the whole index improving?", "How much improvement comes from the same companies, and how much from stocks joining or leaving?"],
  ["H09", "Does a timing rule earn its keep?", "After costs, risk and time spent waiting, can it improve on holding IWM or investing each month?"],
+ ["H10", "Does the price trend help?", "Does a daily 200-day average improve entry timing beyond earnings and the economy, and does the 4-hour view add value after costs?"],
 ];
 const $ = id => document.getElementById(id);
 const fmt = (x,d=1) => Number.isFinite(x) ? x.toFixed(d) : '—';

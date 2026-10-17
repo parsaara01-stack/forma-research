@@ -1,4 +1,4 @@
-# Publication roadmap — v0.3
+# Publication roadmap — v0.4
 
 ## Available now
 - Complete usable listed IWM equity coverage with saved membership changes
@@ -15,7 +15,7 @@
 - More recent quarterly evidence, sector-specific accounting and reviewed debt terms
 
 ## Before estimating a timing rule
-Freeze all nine hypotheses, endpoints, comparators, horizons, controls and chronological test windows
+Freeze all ten hypotheses, endpoints, comparators, horizons, controls and chronological test windows
 Check missingness, issuer identities and accounting interpretation
 Evaluate forecast calibration separately from investment returns
 Compare against holding IWM, monthly investment and simple declared rules
