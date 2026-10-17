@@ -1,0 +1,37 @@
+{
+  "project": "forma.",
+  "checked_on": "2026-10-17",
+  "status": "awaiting_original_archive",
+  "original_archive": "forma-research-v0.1.zip",
+  "original_archive_available": false,
+  "application_code_imported": false,
+  "application_tests_run": false,
+  "published": false,
+  "local_git_branch": "main",
+  "github_account": "parsaara01-stack",
+  "github_repository": "forma-research",
+  "github_repository_lookup": "404; absent or inaccessible",
+  "github_creation_tool_available": false,
+  "reference_repository": "https://github.com/parsaara01-stack/prsn-index",
+  "reference_commit": "ab0a8a183dcf4d6a094b6d94124615234fc9d4bc",
+  "reference_files_inspected": ["README.md", ".github/workflows/prsn.yml"],
+  "reference_architecture": [
+    "Static HTML and JavaScript site consuming versioned JSON",
+    "Python engine with separate configuration and company universe",
+    "Scheduled GitHub Actions updates committing generated data",
+    "GitHub Pages artifact deployment",
+    "SEC_CONTACT repository secret for SEC requests"
+  ],
+  "next_steps": [
+    "Receive original ZIP; hash and inventory before extraction",
+    "Reject unsafe archive paths and preserve original files in a baseline commit",
+    "Run existing tests before changing implementation",
+    "Audit SEC retries, request identification, rate limits, caching and atomic publication",
+    "Audit filing-date cutoffs, amendments, units, durations, fiscal periods and source provenance",
+    "Review debt, maturities, financing costs, dilution and missing-data semantics",
+    "Specify falsifiable hypotheses and point-in-time comparison datasets without invented results",
+    "Verify desktop and mobile accessibility, interactions and visual design",
+    "Validate CI and deploy only the intended public site directory",
+    "Connect the created GitHub repository, push tested code and verify deployment"
+  ]
+}
