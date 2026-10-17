@@ -10,3 +10,5 @@
 /* Lead with a readable research question */
 .hero-copy h1{font-size:clamp(58px,6.1vw,88px);line-height:1.03;letter-spacing:-.065em;word-spacing:0}.hero-copy p{max-width:490px}.hero-meta{padding-bottom:32px}.hero-footer{line-height:1.7}@media(max-width:560px){.hero-copy h1{font-size:clamp(44px,11.9vw,64px)}.hero-footer{font-size:8px;letter-spacing:.08em}}
 .universe>.shell>.table-wrap{max-height:660px;overflow:auto}.universe thead{position:sticky;top:0;background:white;z-index:1}.capital-metrics span{line-height:1.45}.capital-metrics strong{flex-shrink:0}@media(max-width:560px){.capital-metrics>div{gap:16px}.capital-metrics span{max-width:68%}}
+
+.hero-copy .research-focus{font-size:13px;line-height:1.7;color:#626d79;letter-spacing:0;max-width:480px}.research-focus a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}.hero-meta{gap:20px}.hero-meta span:last-child{text-align:right}

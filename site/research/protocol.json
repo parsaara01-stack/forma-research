@@ -56,5 +56,11 @@
     "Hashed raw inputs and offline replication",
     "Conservative capital metrics and partial tagged maturities"
   ],
-  "plain_language_objective": "Find out how small public companies fund growth, what shareholders gain, and whether stock prices reflect it"
+  "plain_language_objective": "Study whether earnings growth and recovery in small-cap companies lead to better shareholder returns, and how financing changes the outcome",
+  "research_focus": {
+    "index": "Russell 2000",
+    "etf_reference": "IWM \u2014 iShares Russell 2000 ETF",
+    "scope_status": "Research focus only; the 20-company coverage pilot is not a verified index constituent sample",
+    "source": "https://www.ishares.com/us/products/239710/ishares-russell-2000-etf"
+  }
 }

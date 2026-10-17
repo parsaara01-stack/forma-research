@@ -1,16 +1,16 @@
 {
   "project": "forma.",
   "checked_on": "2026-10-17",
-  "status": "local_release_ready_github_repository_required",
+  "status": "github_published_portfolio_in_progress",
   "original_archive": "forma-research-v0.1.zip",
   "original_archive_available": true,
   "application_code_imported": true,
   "application_tests_run": true,
-  "published": false,
+  "published": true,
   "local_git_branch": "main",
   "github_account": "parsaara01-stack",
   "github_repository": "forma-research",
-  "github_repository_lookup": "404; absent or inaccessible",
+  "github_repository_lookup": "created and accessible",
   "github_creation_tool_available": false,
   "reference_repository": "https://github.com/parsaara01-stack/prsn-index",
   "reference_commit": "ab0a8a183dcf4d6a094b6d94124615234fc9d4bc",
@@ -26,11 +26,8 @@
     "SEC_CONTACT repository secret for SEC requests"
   ],
   "next_steps": [
-    "Create empty parsaara01-stack/forma-research and verify connector access",
-    "Push tested main branch",
-    "Enable GitHub Pages with GitHub Actions as source",
-    "Configure SEC_CONTACT Actions secret for future scheduled refreshes",
-    "Run and verify hosted workflows and deployment"
+    "Complete Adobe Portfolio cover and page publication",
+    "Continue planned research data expansion and accounting review"
   ],
   "release": "0.2.1",
   "quality_checks": {
@@ -48,5 +45,6 @@
       "cutoff": "2026-10-17"
     }
   },
-  "github_browser_status": "GitHub new-repository page requires user sign-in"
+  "github_browser_status": "Published through authenticated GitHub CLI",
+  "live_url": "https://parsaara01-stack.github.io/forma-research/"
 }

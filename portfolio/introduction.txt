@@ -1,0 +1,14 @@
+forma — Small-Cap Research
+
+An ongoing study of small-cap stocks, focused on the Russell 2000 and IWM
+
+When does small-cap growth pay off?
+
+forma asks whether earnings growth and recovery lead to better returns — and how debt, funding costs and new shares affect the outcome
+
+The research focuses on the Russell 2000 and IWM, the ETF that tracks the index
+
+We are starting with 20 companies to check the data process before building a full index study
+
+Button: Explore the live study
+https://parsaara01-stack.github.io/forma-research/

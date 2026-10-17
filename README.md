@@ -7,6 +7,11 @@ An independent research platform studying how smaller public companies fund grow
 
 ## Research objective
 
+**Small-cap focus: Russell 2000 and IWM, the iShares ETF that tracks the index**
+
+The study asks whether earnings growth and recovery produce better shareholder returns, and how debt, funding costs and new shares affect that relationship. The 20-company coverage pilot remains a test of the data process; it is not a verified Russell constituent sample.
+
+
 How do capital requirements, financing structure and marginal financing costs interact with operating performance to determine financial resilience and subsequent shareholder returns?
 
 The platform separates operating improvement, funding requirements, per-share outcomes, market expectations and price discovery. Earnings recovery is one mechanism under investigation. The six proposed research questions and their nulls are in [`research/protocol.json`](research/protocol.json); they are draft specifications, not external preregistrations.
@@ -86,7 +91,9 @@ The architecture follows [PRSN](https://github.com/parsaara01-stack/prsn-index):
 
 Pushes to `main` publish after checks. Scheduled runs refresh on **Tuesday and Friday at 06:22 UTC**, subject to GitHub scheduling delays. Missing contact configuration produces a workflow warning and preserves the visibly dated prior dataset. Refresh failures block that deployment. Data commits made with `GITHUB_TOKEN` do not need to trigger another workflow; the same successful run deploys its tested output. Concurrent source changes cause the data push to fail rather than overwrite them.
 
-Planned URL: `https://parsaara01-stack.github.io/forma-research/`. **This is not a claim that the site has been deployed.**
+Live study: [parsaara01-stack.github.io/forma-research](https://parsaara01-stack.github.io/forma-research/)
+
+The repository, Pages deployment and SEC contact secret were configured on October 17, 2026. Scheduled updates remain subject to source availability and successful checks.
 
 ## Scientific publication gate
 

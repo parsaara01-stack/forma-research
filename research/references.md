@@ -14,3 +14,5 @@
 **Literature status:** This is an initial bibliography, not a completed systematic novelty review. Any novelty or causality statement requires evaluation of published competing studies before manuscript submission.
 
 - SEC Developer Resources (fair access, API request limits): https://www.sec.gov/about/developer-resources — checked October 17, 2026.
+
+- iShares Russell 2000 ETF (IWM), official fund and benchmark description: https://www.ishares.com/us/products/239710/ishares-russell-2000-etf — checked October 17, 2026
