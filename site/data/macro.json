@@ -1,5 +1,5 @@
 {
-  "asof_cutoff": "2026-10-17",
+  "asof_cutoff": "2026-10-19",
   "series": [
     {
       "series": "DFF",
@@ -9,14 +9,6 @@
       "date": "2026-10-15",
       "change_90d": 0.25,
       "history": [
-        {
-          "date": "2025-09-12",
-          "value": 4.33
-        },
-        {
-          "date": "2025-09-13",
-          "value": 4.33
-        },
         {
           "date": "2025-09-14",
           "value": 4.33
@@ -1618,10 +1610,6 @@
       "change_90d": 0.5499999999999998,
       "history": [
         {
-          "date": "2025-09-12",
-          "value": 4.06
-        },
-        {
           "date": "2025-09-15",
           "value": 4.05
         },
@@ -2721,10 +2709,6 @@
       "date": "2026-10-16",
       "change_90d": -0.020000000000000018,
       "history": [
-        {
-          "date": "2025-09-12",
-          "value": 0.5
-        },
         {
           "date": "2025-09-15",
           "value": 0.51
@@ -3936,9 +3920,9 @@
   ],
   "note": "Current FRED database vintage; dates are observation dates, not release dates \u2014 not valid historical trading inputs",
   "source_document": {
-    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-17",
-    "sha256": "aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082",
-    "raw_path": "data/macro/aaeca7b9d17b38f6f9c85bb441913ea0a346a947fe07af14c9600962ee1cc082.bin.gz",
-    "retrieved_at": "2026-10-17T23:31:01.539431+00:00"
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-19",
+    "sha256": "e028ead7423f0f2670b6263a6c4dda6f2b2878d594ca1131ce7d14f30f1c9b92",
+    "raw_path": "data/macro/e028ead7423f0f2670b6263a6c4dda6f2b2878d594ca1131ce7d14f30f1c9b92.bin.gz",
+    "retrieved_at": "2026-10-19T14:47:42.922687+00:00"
   }
 }
