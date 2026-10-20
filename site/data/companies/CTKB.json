@@ -4,8 +4,8 @@
   "name": "CYTEK BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 5.41,
-  "price_date": "2026-10-15",
+  "holding_price": 5.25,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001831915.json",
     "sha256": "83cae865f0ca1199fc1a0da24adefb794c42b6c4e8dbfb4f30c9b4c39f2c0ac6",
-    "retrieved_at": "2026-10-17T22:49:50.059748+00:00",
+    "retrieved_at": "2026-10-20T12:53:38.224464+00:00",
     "raw_path": "data/raw/83cae865f0ca1199fc1a0da24adefb794c42b6c4e8dbfb4f30c9b4c39f2c0ac6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1831915/000162828026012352/0001628280-26-012352-index.html",

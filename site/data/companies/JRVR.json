@@ -4,8 +4,8 @@
   "name": "JAMES RIVER GROUP HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.71,
-  "price_date": "2026-10-15",
+  "holding_price": 3.82,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001620459.json",
     "sha256": "8704c83f7803e483f6330d1f60c4c899d9ce862d507f738a9d27f17171432c4d",
-    "retrieved_at": "2026-10-17T22:53:17.708856+00:00",
+    "retrieved_at": "2026-10-20T12:56:13.771945+00:00",
     "raw_path": "data/raw/8704c83f7803e483f6330d1f60c4c899d9ce862d507f738a9d27f17171432c4d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1620459/000162045926000009/0001620459-26-000009-index.html",

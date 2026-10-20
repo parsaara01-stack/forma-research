@@ -4,8 +4,8 @@
   "name": "ARBUTUS BIOPHARMA CORP",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 4.29,
-  "price_date": "2026-10-15",
+  "holding_price": 4.22,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001447028.json",
     "sha256": "d0c406f420689ef604e97fe778a55d59191ec33b490a85e5747539352bb315a4",
-    "retrieved_at": "2026-10-17T22:49:47.122166+00:00",
+    "retrieved_at": "2026-10-20T12:53:32.439897+00:00",
     "raw_path": "data/raw/d0c406f420689ef604e97fe778a55d59191ec33b490a85e5747539352bb315a4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1447028/000144702826000017/0001447028-26-000017-index.html",

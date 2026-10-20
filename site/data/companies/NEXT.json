@@ -3,9 +3,9 @@
   "source_ticker": "NEXT",
   "name": "NEXTDECADE",
   "group": "Energy",
-  "weight_percent": 0.03,
-  "holding_price": 6.01,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.04,
+  "holding_price": 6.26,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001612720.json",
     "sha256": "f2086d6eb13febf793824610b3e3cd67aeddb7b820b462db18574b9142f6264a",
-    "retrieved_at": "2026-10-17T22:48:40.148056+00:00",
+    "retrieved_at": "2026-10-20T12:52:35.303667+00:00",
     "raw_path": "data/raw/f2086d6eb13febf793824610b3e3cd67aeddb7b820b462db18574b9142f6264a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1612720/000161272026000009/0001612720-26-000009-index.html",

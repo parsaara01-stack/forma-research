@@ -4,8 +4,8 @@
   "name": "PROTHENA PLC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 8.5,
-  "price_date": "2026-10-15",
+  "holding_price": 8.35,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001559053.json",
     "sha256": "e8898202eaa7a48d96a2543aaf8c585eb5bdfdf7dee9aa54e7fa189c19132a42",
-    "retrieved_at": "2026-10-17T22:51:26.774134+00:00",
+    "retrieved_at": "2026-10-20T12:54:49.835007+00:00",
     "raw_path": "data/raw/e8898202eaa7a48d96a2543aaf8c585eb5bdfdf7dee9aa54e7fa189c19132a42.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000008/0001559053-26-000008-index.html",

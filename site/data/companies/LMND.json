@@ -4,8 +4,8 @@
   "name": "LEMONADE INC",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 45.86,
-  "price_date": "2026-10-15",
+  "holding_price": 44.2,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001691421.json",
     "sha256": "60a176fc224d0fae7ad3ad86ddc18cc75d5b23d47baa4d5df4c9c51f4c36ca50",
-    "retrieved_at": "2026-10-17T22:45:40.151784+00:00",
+    "retrieved_at": "2026-10-20T12:50:18.866850+00:00",
     "raw_path": "data/raw/60a176fc224d0fae7ad3ad86ddc18cc75d5b23d47baa4d5df4c9c51f4c36ca50.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/0001691421-26-000016-index.html",

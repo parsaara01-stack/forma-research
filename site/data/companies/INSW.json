@@ -4,8 +4,8 @@
   "name": "INTERNATIONAL SEAWAYS",
   "group": "Energy",
   "weight_percent": 0.16,
-  "holding_price": 113.11,
-  "price_date": "2026-10-15",
+  "holding_price": 109.99,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001679049.json",
     "sha256": "1e6bb448bab75b4ecf82be3c5229b2184480d6ba1041d2281393f09435995b0f",
-    "retrieved_at": "2026-10-17T22:44:52.898671+00:00",
+    "retrieved_at": "2026-10-20T12:49:38.520205+00:00",
     "raw_path": "data/raw/1e6bb448bab75b4ecf82be3c5229b2184480d6ba1041d2281393f09435995b0f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1679049/000110465926020113/0001104659-26-020113-index.html",

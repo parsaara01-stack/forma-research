@@ -4,8 +4,8 @@
   "name": "CORE MOLDING TECHNOLOGIES INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 23.35,
-  "price_date": "2026-10-15",
+  "holding_price": 22.91,
+  "price_date": "2026-10-16",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001026655.json",
     "sha256": "f37405cfe992a6c2a158ec580f620c7bfcf5b49576c79cb6d6700f9c78d20744",
-    "retrieved_at": "2026-10-17T22:53:02.855048+00:00",
+    "retrieved_at": "2026-10-20T12:56:08.012585+00:00",
     "raw_path": "data/raw/f37405cfe992a6c2a158ec580f620c7bfcf5b49576c79cb6d6700f9c78d20744.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1026655/000102665526000009/0001026655-26-000009-index.html",

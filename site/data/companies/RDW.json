@@ -4,8 +4,8 @@
   "name": "REDWIRE",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 8.91,
-  "price_date": "2026-10-15",
+  "holding_price": 8.39,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819810.json",
     "sha256": "4bbb2d86c8cf032eddca5ce34df2a09fcb1c657eae4533a1f0388b4569563b5b",
-    "retrieved_at": "2026-10-17T22:46:55.237821+00:00",
+    "retrieved_at": "2026-10-20T12:51:19.430607+00:00",
     "raw_path": "data/raw/4bbb2d86c8cf032eddca5ce34df2a09fcb1c657eae4533a1f0388b4569563b5b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/0001819810-26-000029-index.html",

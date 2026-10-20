@@ -4,8 +4,8 @@
   "name": "BUCKLE",
   "group": "Consumer Discretionary",
   "weight_percent": 0.05,
-  "holding_price": 46.57,
-  "price_date": "2026-10-15",
+  "holding_price": 46.5,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
     "sha256": "581a366a1722b74a99e43d161c226ae317033585200e295d659d482676b73a2c",
-    "retrieved_at": "2026-10-17T22:47:43.501040+00:00",
+    "retrieved_at": "2026-10-20T12:51:52.005700+00:00",
     "raw_path": "data/raw/581a366a1722b74a99e43d161c226ae317033585200e295d659d482676b73a2c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000012/0000885245-26-000012-index.html",

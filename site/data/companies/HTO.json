@@ -4,8 +4,8 @@
   "name": "H2O AMERICA",
   "group": "Utilities",
   "weight_percent": 0.07,
-  "holding_price": 57.3,
-  "price_date": "2026-10-15",
+  "holding_price": 57.69,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000766829.json",
     "sha256": "4363710f4851f4da9ee8956d51faebd84ae3341358784a114187b559050dd627",
-    "retrieved_at": "2026-10-17T22:46:59.900355+00:00",
+    "retrieved_at": "2026-10-20T12:51:14.819463+00:00",
     "raw_path": "data/raw/4363710f4851f4da9ee8956d51faebd84ae3341358784a114187b559050dd627.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026012438/0001628280-26-012438-index.html",

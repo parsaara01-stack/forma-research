@@ -4,8 +4,8 @@
   "name": "IMMUNOVANT",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 27.51,
-  "price_date": "2026-10-15",
+  "holding_price": 26.73,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001764013.json",
     "sha256": "c950336f5641d1a857bd8b1a23026b4d867925f8e6c84560200e9d015f02814e",
-    "retrieved_at": "2026-10-17T22:46:31.365649+00:00",
+    "retrieved_at": "2026-10-20T12:50:56.121977+00:00",
     "raw_path": "data/raw/c950336f5641d1a857bd8b1a23026b4d867925f8e6c84560200e9d015f02814e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000064/0001764013-26-000064-index.html",

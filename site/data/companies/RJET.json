@@ -4,8 +4,8 @@
   "name": "REPUBLIC AIRWAYS HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 16.29,
-  "price_date": "2026-10-15",
+  "holding_price": 16.04,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000810332.json",
     "sha256": "e4367323ab0b84e24a006d75542612cf9f47e121c68e795d3829022bf23d7691",
-    "retrieved_at": "2026-10-17T22:52:37.985833+00:00",
+    "retrieved_at": "2026-10-20T12:55:48.548845+00:00",
     "raw_path": "data/raw/e4367323ab0b84e24a006d75542612cf9f47e121c68e795d3829022bf23d7691.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/810332/000162828026019614/0001628280-26-019614-index.html",

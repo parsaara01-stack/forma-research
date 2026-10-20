@@ -3,9 +3,9 @@
   "source_ticker": "ADPT",
   "name": "ADAPTIVE BIOTECHNOLOGIES",
   "group": "Health Care",
-  "weight_percent": 0.14,
-  "holding_price": 25.58,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.13,
+  "holding_price": 24.02,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001478320.json",
     "sha256": "2deab3b0302b42f5bca7f049684da17a3e834dfbc3dbe128e51ed398b3d69a92",
-    "retrieved_at": "2026-10-17T22:45:12.826498+00:00",
+    "retrieved_at": "2026-10-20T12:50:00.074690+00:00",
     "raw_path": "data/raw/2deab3b0302b42f5bca7f049684da17a3e834dfbc3dbe128e51ed398b3d69a92.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1478320/000119312526076902/0001193125-26-076902-index.html",

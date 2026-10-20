@@ -3,9 +3,9 @@
   "source_ticker": "BUSE",
   "name": "FIRST BUSEY",
   "group": "Financials",
-  "weight_percent": 0.08,
-  "holding_price": 29.26,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.09,
+  "holding_price": 29.43,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000314489.json",
     "sha256": "723d90fde047cbe1628a796a123666b0ae5cb83eb315a3c804b594a9b0e049f0",
-    "retrieved_at": "2026-10-17T22:46:25.734356+00:00",
+    "retrieved_at": "2026-10-20T12:50:46.435217+00:00",
     "raw_path": "data/raw/723d90fde047cbe1628a796a123666b0ae5cb83eb315a3c804b594a9b0e049f0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.html",

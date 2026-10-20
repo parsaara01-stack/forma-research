@@ -3,9 +3,9 @@
   "source_ticker": "NEO",
   "name": "NEOGENOMICS",
   "group": "Health Care",
-  "weight_percent": 0.08,
-  "holding_price": 17.25,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.07,
+  "holding_price": 16.65,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001077183.json",
     "sha256": "559c45bbab2a54c0a1392da8ed00d35c85012434ad9a55470c5bc23966df4d06",
-    "retrieved_at": "2026-10-17T22:46:43.932093+00:00",
+    "retrieved_at": "2026-10-20T12:51:06.058839+00:00",
     "raw_path": "data/raw/559c45bbab2a54c0a1392da8ed00d35c85012434ad9a55470c5bc23966df4d06.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000010/0001077183-26-000010-index.html",

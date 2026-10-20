@@ -4,8 +4,8 @@
   "name": "TRUSTCO BANK CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 54.02,
-  "price_date": "2026-10-15",
+  "holding_price": 54.31,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000357301.json",
     "sha256": "e2871e7ad559a8b424032f5dd3b63cab21b548eeaba859bbb8bcdd14e1cbca35",
-    "retrieved_at": "2026-10-17T22:49:00.096826+00:00",
+    "retrieved_at": "2026-10-20T12:52:52.227867+00:00",
     "raw_path": "data/raw/e2871e7ad559a8b424032f5dd3b63cab21b548eeaba859bbb8bcdd14e1cbca35.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126009576/0001140361-26-009576-index.html",

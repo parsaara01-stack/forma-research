@@ -4,8 +4,8 @@
   "name": "YELP",
   "group": "Communication",
   "weight_percent": 0.04,
-  "holding_price": 20.41,
-  "price_date": "2026-10-15",
+  "holding_price": 19.88,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001345016.json",
     "sha256": "0722e3390c85669ae1fe6604cb7673fdaf5a273ae231aadb8240c3cb74fcdf8c",
-    "retrieved_at": "2026-10-17T22:48:29.278243+00:00",
+    "retrieved_at": "2026-10-20T12:52:34.880637+00:00",
     "raw_path": "data/raw/0722e3390c85669ae1fe6604cb7673fdaf5a273ae231aadb8240c3cb74fcdf8c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1345016/000134501626000019/0001345016-26-000019-index.html",

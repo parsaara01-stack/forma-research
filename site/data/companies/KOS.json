@@ -3,9 +3,9 @@
   "source_ticker": "KOS",
   "name": "KOSMOS ENERGY",
   "group": "Energy",
-  "weight_percent": 0.05,
-  "holding_price": 2.68,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.06,
+  "holding_price": 2.78,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001509991.json",
     "sha256": "006591a9c4951f1abc8f01a57856eb76796c3c26cbe8e52c0676956b922d2260",
-    "retrieved_at": "2026-10-17T22:47:33.987951+00:00",
+    "retrieved_at": "2026-10-20T12:51:40.822400+00:00",
     "raw_path": "data/raw/006591a9c4951f1abc8f01a57856eb76796c3c26cbe8e52c0676956b922d2260.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000017/0001509991-26-000017-index.html",

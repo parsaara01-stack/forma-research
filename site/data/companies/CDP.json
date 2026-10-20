@@ -3,9 +3,9 @@
   "source_ticker": "CDP",
   "name": "COPT DEFENSE PROPERTIES",
   "group": "Real Estate",
-  "weight_percent": 0.13,
-  "holding_price": 33.21,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.14,
+  "holding_price": 33.29,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000860546.json",
     "sha256": "3241bebec31f1df292a5f7702ce90db3e42fe2ddb8f7600c91d9299733d4644b",
-    "retrieved_at": "2026-10-17T22:45:17.410590+00:00",
+    "retrieved_at": "2026-10-20T12:49:55.550528+00:00",
     "raw_path": "data/raw/3241bebec31f1df292a5f7702ce90db3e42fe2ddb8f7600c91d9299733d4644b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/860546/000086054626000011/0000860546-26-000011-index.html",

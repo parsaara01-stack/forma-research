@@ -4,8 +4,8 @@
   "name": "TAYLOR DEVICES INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 54.08,
-  "price_date": "2026-10-15",
+  "holding_price": 54.07,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000096536.json",
     "sha256": "968bc9a48adbd161bfc7f665069a3f52c7d074872c3444fc2280c00f0ff90a1e",
-    "retrieved_at": "2026-10-17T22:53:21.482785+00:00",
+    "retrieved_at": "2026-10-20T12:56:19.448985+00:00",
     "raw_path": "data/raw/968bc9a48adbd161bfc7f665069a3f52c7d074872c3444fc2280c00f0ff90a1e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/96536/000137647426000567/0001376474-26-000567-index.html",

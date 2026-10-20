@@ -4,8 +4,8 @@
   "name": "COASTAL FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 42.97,
-  "price_date": "2026-10-15",
+  "holding_price": 42.02,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001437958.json",
     "sha256": "604eb7ef04e2f3521fd742d98e5fb32c2303061c427a0df381aa7650e1fc213b",
-    "retrieved_at": "2026-10-17T22:50:08.676562+00:00",
+    "retrieved_at": "2026-10-20T12:53:48.987159+00:00",
     "raw_path": "data/raw/604eb7ef04e2f3521fd742d98e5fb32c2303061c427a0df381aa7650e1fc213b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000013/0001437958-26-000013-index.html",

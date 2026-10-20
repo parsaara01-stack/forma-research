@@ -4,8 +4,8 @@
   "name": "BLACK ROCK COFFEE BAR CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 8.27,
-  "price_date": "2026-10-15",
+  "holding_price": 8.07,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002068577.json",
     "sha256": "091ed9abd031a87bcb1837662671d56c8e7aa00bffaca339a2a25326098dc010",
-    "retrieved_at": "2026-10-17T22:53:31.888563+00:00",
+    "retrieved_at": "2026-10-20T12:56:29.998237+00:00",
     "raw_path": "data/raw/091ed9abd031a87bcb1837662671d56c8e7aa00bffaca339a2a25326098dc010.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2068577/000162828026014380/0001628280-26-014380-index.html",

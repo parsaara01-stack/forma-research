@@ -4,8 +4,8 @@
   "name": "AZENTA",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 36.52,
-  "price_date": "2026-10-15",
+  "holding_price": 34.09,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000933974.json",
     "sha256": "196435861a4a3db45729d00c4f80331831a7f07a2c7f77ff7dc9560bf5ad8c4c",
-    "retrieved_at": "2026-10-17T22:47:40.582164+00:00",
+    "retrieved_at": "2026-10-20T12:51:57.732151+00:00",
     "raw_path": "data/raw/196435861a4a3db45729d00c4f80331831a7f07a2c7f77ff7dc9560bf5ad8c4c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/933974/000143774925036931/0001437749-25-036931-index.html",

@@ -4,8 +4,8 @@
   "name": "PALISADE BIO INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 1.54,
-  "price_date": "2026-10-15",
+  "holding_price": 1.41,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001357459.json",
     "sha256": "1d4973c07aed8ad894103731546b55683b331acdd472b37e4b33a98a2f63a74c",
-    "retrieved_at": "2026-10-17T22:52:28.678121+00:00",
+    "retrieved_at": "2026-10-20T12:55:45.345358+00:00",
     "raw_path": "data/raw/1d4973c07aed8ad894103731546b55683b331acdd472b37e4b33a98a2f63a74c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1357459/000135745926000004/0001357459-26-000004-index.html",

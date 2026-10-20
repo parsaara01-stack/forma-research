@@ -3,9 +3,9 @@
   "source_ticker": "SM",
   "name": "SM ENERGY",
   "group": "Energy",
-  "weight_percent": 0.31,
-  "holding_price": 37.52,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.33,
+  "holding_price": 39.5,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000893538.json",
     "sha256": "97cab6b9f7cb904d6d06d18b323eaadc0dcbb0b9772ba9443fe296ff834ea4fe",
-    "retrieved_at": "2026-10-17T19:26:32.249590+00:00",
+    "retrieved_at": "2026-10-20T12:49:06.914402+00:00",
     "raw_path": "data/raw/97cab6b9f7cb904d6d06d18b323eaadc0dcbb0b9772ba9443fe296ff834ea4fe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/893538/000089353826000032/0000893538-26-000032-index.html",

@@ -4,8 +4,8 @@
   "name": "PENNYMAC FINANCIAL SERVICES",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 61.19,
-  "price_date": "2026-10-15",
+  "holding_price": 60.32,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001745916.json",
     "sha256": "cdcf7e0546e86e2a02274cf07823681e9e303ba39a1db73085c61445c6324a7d",
-    "retrieved_at": "2026-10-17T22:47:05.982644+00:00",
+    "retrieved_at": "2026-10-20T12:51:24.616663+00:00",
     "raw_path": "data/raw/cdcf7e0546e86e2a02274cf07823681e9e303ba39a1db73085c61445c6324a7d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1745916/000110465926018142/0001104659-26-018142-index.html",

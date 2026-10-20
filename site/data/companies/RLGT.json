@@ -4,8 +4,8 @@
   "name": "RADIANT LOGISTIC INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 9.07,
-  "price_date": "2026-10-15",
+  "holding_price": 8.99,
+  "price_date": "2026-10-16",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001171155.json",
     "sha256": "28508ab5b979c885fd7611bcaa5ce0e2799e66fcd6b0e6f3b830f3634047398a",
-    "retrieved_at": "2026-10-17T22:51:54.065649+00:00",
+    "retrieved_at": "2026-10-20T12:55:10.638519+00:00",
     "raw_path": "data/raw/28508ab5b979c885fd7611bcaa5ce0e2799e66fcd6b0e6f3b830f3634047398a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1171155/000119312526390768/0001193125-26-390768-index.html",

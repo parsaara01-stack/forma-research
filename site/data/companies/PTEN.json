@@ -3,9 +3,9 @@
   "source_ticker": "PTEN",
   "name": "PATTERSON UTI ENERGY INC",
   "group": "Energy",
-  "weight_percent": 0.14,
-  "holding_price": 11.31,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.15,
+  "holding_price": 11.5,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000889900.json",
     "sha256": "b8bd663c06c5fa112a5fc812dc27083182992fe2d9e1dcfd55e47c370186e553",
-    "retrieved_at": "2026-10-17T22:45:07.775902+00:00",
+    "retrieved_at": "2026-10-20T12:49:46.952222+00:00",
     "raw_path": "data/raw/b8bd663c06c5fa112a5fc812dc27083182992fe2d9e1dcfd55e47c370186e553.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/889900/000088990026000013/0000889900-26-000013-index.html",

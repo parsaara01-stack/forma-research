@@ -4,8 +4,8 @@
   "name": "HELEN OF TROY LTD",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 29.53,
-  "price_date": "2026-10-15",
+  "holding_price": 28.99,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000916789.json",
     "sha256": "12d4dee9f70213b94ac405bbc6767fe26dbfeffc9f9128a92f5195d18e3895c0",
-    "retrieved_at": "2026-10-17T22:49:43.059613+00:00",
+    "retrieved_at": "2026-10-20T12:53:31.441919+00:00",
     "raw_path": "data/raw/12d4dee9f70213b94ac405bbc6767fe26dbfeffc9f9128a92f5195d18e3895c0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/916789/000091678926000048/0000916789-26-000048-index.html",

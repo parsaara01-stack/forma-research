@@ -4,8 +4,8 @@
   "name": "COOPER STANDARD HOLDINGS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 21.48,
-  "price_date": "2026-10-15",
+  "holding_price": 20.83,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001320461.json",
     "sha256": "718c8a9b9efed44de17680904cfb988108d9eceea729986d8339add372af4ffa",
-    "retrieved_at": "2026-10-17T22:51:12.288141+00:00",
+    "retrieved_at": "2026-10-20T12:54:40.992080+00:00",
     "raw_path": "data/raw/718c8a9b9efed44de17680904cfb988108d9eceea729986d8339add372af4ffa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1320461/000132046126000012/0001320461-26-000012-index.html",

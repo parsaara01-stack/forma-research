@@ -4,8 +4,8 @@
   "name": "ADMA BIOLOGICS",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 10.73,
-  "price_date": "2026-10-15",
+  "holding_price": 10.68,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001368514.json",
     "sha256": "d00bc92a8147a62a081ef2cfa49f79fbbc714d75b120ba39f3c7bd9cafbdb9cb",
-    "retrieved_at": "2026-10-17T22:46:24.763876+00:00",
+    "retrieved_at": "2026-10-20T12:50:47.248770+00:00",
     "raw_path": "data/raw/d00bc92a8147a62a081ef2cfa49f79fbbc714d75b120ba39f3c7bd9cafbdb9cb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1368514/000114036126006815/0001140361-26-006815-index.html",

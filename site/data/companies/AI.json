@@ -4,8 +4,8 @@
   "name": "C3 AI CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.06,
-  "holding_price": 12.16,
-  "price_date": "2026-10-15",
+  "holding_price": 11.32,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001577526.json",
     "sha256": "c456ee49e0d66c093b29590a202b941c6d917b918515dc104dd419254b454871",
-    "retrieved_at": "2026-10-17T22:47:16.085909+00:00",
+    "retrieved_at": "2026-10-20T12:51:39.653890+00:00",
     "raw_path": "data/raw/c456ee49e0d66c093b29590a202b941c6d917b918515dc104dd419254b454871.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752626000078/0001577526-26-000078-index.html",

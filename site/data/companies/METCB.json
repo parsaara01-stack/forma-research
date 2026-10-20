@@ -4,8 +4,8 @@
   "name": "RAMACO RESOURCES CLASS B",
   "group": "Materials",
   "weight_percent": 0.0,
-  "holding_price": 4.15,
-  "price_date": "2026-10-15",
+  "holding_price": 3.95,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001687187.json",
     "sha256": "0d2b802b9f4a4465f2c4fabb7fa2340f1d6a770ef0f307a3141bcf97bfb32e0e",
-    "retrieved_at": "2026-10-17T22:51:29.248219+00:00",
+    "retrieved_at": "2026-10-20T12:54:57.769341+00:00",
     "raw_path": "data/raw/0d2b802b9f4a4465f2c4fabb7fa2340f1d6a770ef0f307a3141bcf97bfb32e0e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1687187/000110465926020479/0001104659-26-020479-index.html",

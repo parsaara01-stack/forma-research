@@ -4,8 +4,8 @@
   "name": "ANTERIS TECHNOLOGIES GLOBAL CORP",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 6.36,
-  "price_date": "2026-10-15",
+  "holding_price": 6.05,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002011514.json",
     "sha256": "e99c925ff8c64aba55259b994611e238874d0c31c28a84a81a381a5b097adee8",
-    "retrieved_at": "2026-10-17T22:50:35.228649+00:00",
+    "retrieved_at": "2026-10-20T12:54:15.480186+00:00",
     "raw_path": "data/raw/e99c925ff8c64aba55259b994611e238874d0c31c28a84a81a381a5b097adee8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2011514/000114036126006977/0001140361-26-006977-index.html",

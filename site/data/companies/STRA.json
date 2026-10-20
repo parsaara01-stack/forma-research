@@ -4,8 +4,8 @@
   "name": "STRATEGIC EDUCATION",
   "group": "Consumer Discretionary",
   "weight_percent": 0.06,
-  "holding_price": 82.39,
-  "price_date": "2026-10-15",
+  "holding_price": 81.33,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013934.json",
     "sha256": "4b651f517b2b25705e10dc30c9fea45447169131b0295321122159fb0a40b041",
-    "retrieved_at": "2026-10-17T22:47:11.135209+00:00",
+    "retrieved_at": "2026-10-20T12:51:28.618589+00:00",
     "raw_path": "data/raw/4b651f517b2b25705e10dc30c9fea45447169131b0295321122159fb0a40b041.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000006/0001013934-26-000006-index.html",

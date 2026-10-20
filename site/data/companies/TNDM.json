@@ -4,8 +4,8 @@
   "name": "TANDEM DIABETES CARE",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 16.52,
-  "price_date": "2026-10-15",
+  "holding_price": 16.24,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001438133.json",
     "sha256": "f2f344ea90e2b976ebe85ea684d39ad4a3fd3d4973cd9d60a12f95dbf6163a69",
-    "retrieved_at": "2026-10-17T22:48:20.147143+00:00",
+    "retrieved_at": "2026-10-20T12:52:25.578190+00:00",
     "raw_path": "data/raw/f2f344ea90e2b976ebe85ea684d39ad4a3fd3d4973cd9d60a12f95dbf6163a69.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000010/0001438133-26-000010-index.html",

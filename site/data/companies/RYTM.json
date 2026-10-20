@@ -4,8 +4,8 @@
   "name": "RHYTHM PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.17,
-  "holding_price": 87.97,
-  "price_date": "2026-10-15",
+  "holding_price": 86.17,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001649904.json",
     "sha256": "771747c78d141a669c089d047621c19af9216a296b9b4128ab8c04753f65f408",
-    "retrieved_at": "2026-10-17T22:44:44.883446+00:00",
+    "retrieved_at": "2026-10-20T12:49:31.053868+00:00",
     "raw_path": "data/raw/771747c78d141a669c089d047621c19af9216a296b9b4128ab8c04753f65f408.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1649904/000162828026012399/0001628280-26-012399-index.html",

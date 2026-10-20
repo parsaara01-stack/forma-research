@@ -4,8 +4,8 @@
   "name": "PACS GROUP",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 47.75,
-  "price_date": "2026-10-15",
+  "holding_price": 46.91,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002001184.json",
     "sha256": "de17d3dfc5b9ff24ca2d971408f52f92b291d2317f30e543af088a37fe165fd4",
-    "retrieved_at": "2026-10-17T22:46:46.295243+00:00",
+    "retrieved_at": "2026-10-20T12:51:04.524969+00:00",
     "raw_path": "data/raw/de17d3dfc5b9ff24ca2d971408f52f92b291d2317f30e543af088a37fe165fd4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2001184/000200118426000005/0002001184-26-000005-index.html",

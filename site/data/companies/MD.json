@@ -4,8 +4,8 @@
   "name": "PEDIATRIX MEDICAL GROUP INC",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 27.76,
-  "price_date": "2026-10-15",
+  "holding_price": 27.38,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000893949.json",
     "sha256": "cd5e403d5ef27c5a875148f892cd1ce579acb050821877bc2acfefac482790a2",
-    "retrieved_at": "2026-10-17T22:46:38.632266+00:00",
+    "retrieved_at": "2026-10-20T12:50:59.697119+00:00",
     "raw_path": "data/raw/cd5e403d5ef27c5a875148f892cd1ce579acb050821877bc2acfefac482790a2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/893949/000119312526058074/0001193125-26-058074-index.html",

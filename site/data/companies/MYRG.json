@@ -4,8 +4,8 @@
   "name": "MYR GROUP INC",
   "group": "Industrials",
   "weight_percent": 0.15,
-  "holding_price": 285.57,
-  "price_date": "2026-10-15",
+  "holding_price": 280.16,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000700923.json",
     "sha256": "6604527a677585a1e0db5b88d7fa459301c051fb72ab93b289ccf56c960b274d",
-    "retrieved_at": "2026-10-17T22:45:00.924722+00:00",
+    "retrieved_at": "2026-10-20T12:49:45.144722+00:00",
     "raw_path": "data/raw/6604527a677585a1e0db5b88d7fa459301c051fb72ab93b289ccf56c960b274d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/700923/000070092326000007/0000700923-26-000007-index.html",

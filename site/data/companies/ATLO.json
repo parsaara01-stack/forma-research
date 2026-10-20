@@ -4,8 +4,8 @@
   "name": "AMES NATIONAL CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 32.15,
-  "price_date": "2026-10-15",
+  "holding_price": 32.17,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001132651.json",
     "sha256": "05a14a41a19cdccfb2e58fb73640743a4d98a30457bb8627171724ff85557965",
-    "retrieved_at": "2026-10-17T22:51:50.233559+00:00",
+    "retrieved_at": "2026-10-20T12:55:07.906679+00:00",
     "raw_path": "data/raw/05a14a41a19cdccfb2e58fb73640743a4d98a30457bb8627171724ff85557965.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926007976/0001437749-26-007976-index.html",

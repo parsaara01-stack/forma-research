@@ -4,8 +4,8 @@
   "name": "EASTERLY GOVERNMENT PROPERTIES INC",
   "group": "Real Estate",
   "weight_percent": 0.03,
-  "holding_price": 21.99,
-  "price_date": "2026-10-15",
+  "holding_price": 21.82,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622194.json",
     "sha256": "4e44db6d9300bb2736a8097980ba95b679b8e4936946b8395084cfdd52732b33",
-    "retrieved_at": "2026-10-17T22:48:45.867692+00:00",
+    "retrieved_at": "2026-10-20T12:52:42.792877+00:00",
     "raw_path": "data/raw/4e44db6d9300bb2736a8097980ba95b679b8e4936946b8395084cfdd52732b33.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1622194/000119312526064115/0001193125-26-064115-index.html",

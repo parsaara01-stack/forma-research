@@ -4,8 +4,8 @@
   "name": "MBX BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 50.71,
-  "price_date": "2026-10-15",
+  "holding_price": 49.61,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001776111.json",
     "sha256": "7667ae55a1178969c2869e0b05e3218fb4ef3d3cf280431b3c5bc485c39d4a04",
-    "retrieved_at": "2026-10-17T22:47:35.155963+00:00",
+    "retrieved_at": "2026-10-20T12:51:50.345428+00:00",
     "raw_path": "data/raw/7667ae55a1178969c2869e0b05e3218fb4ef3d3cf280431b3c5bc485c39d4a04.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1776111/000119312526103121/0001193125-26-103121-index.html",

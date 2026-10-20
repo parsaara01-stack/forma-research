@@ -4,8 +4,8 @@
   "name": "GRAHAM CORP",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 71.15,
-  "price_date": "2026-10-15",
+  "holding_price": 68.48,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000716314.json",
     "sha256": "f00f46d3e22c4bff785f138255eb304386077f7e1a104da7ce8f652b039fc314",
-    "retrieved_at": "2026-10-17T22:49:20.581717+00:00",
+    "retrieved_at": "2026-10-20T12:53:13.717225+00:00",
     "raw_path": "data/raw/f00f46d3e22c4bff785f138255eb304386077f7e1a104da7ce8f652b039fc314.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/716314/000119312526260688/0001193125-26-260688-index.html",

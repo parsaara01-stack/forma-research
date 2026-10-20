@@ -4,8 +4,8 @@
   "name": "LCI INDUSTRIES",
   "group": "Consumer Discretionary",
   "weight_percent": 0.07,
-  "holding_price": 84.02,
-  "price_date": "2026-10-15",
+  "holding_price": 83.89,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000763744.json",
     "sha256": "dad6a770ab4a6968cbdb77b41f5437b08771c113a5423900897e39f52f48e43e",
-    "retrieved_at": "2026-10-17T22:46:54.368807+00:00",
+    "retrieved_at": "2026-10-20T12:51:10.488174+00:00",
     "raw_path": "data/raw/dad6a770ab4a6968cbdb77b41f5437b08771c113a5423900897e39f52f48e43e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000011/0000763744-26-000011-index.html",

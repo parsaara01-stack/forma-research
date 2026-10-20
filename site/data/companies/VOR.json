@@ -3,9 +3,9 @@
   "source_ticker": "VOR",
   "name": "VOR BIOPHARMA",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 19.34,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.02,
+  "holding_price": 18.03,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001817229.json",
     "sha256": "64a15e78a1a1ab533cd96d7008b0e1d8d0297f6b0fa448a73150226926317623",
-    "retrieved_at": "2026-10-17T22:49:30.715305+00:00",
+    "retrieved_at": "2026-10-20T12:53:27.231688+00:00",
     "raw_path": "data/raw/64a15e78a1a1ab533cd96d7008b0e1d8d0297f6b0fa448a73150226926317623.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1817229/000119312526130451/0001193125-26-130451-index.html",

@@ -4,8 +4,8 @@
   "name": "MAGNITE",
   "group": "Communication",
   "weight_percent": 0.12,
-  "holding_price": 24.48,
-  "price_date": "2026-10-15",
+  "holding_price": 23.37,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001595974.json",
     "sha256": "e7887d80b9088c3ba5f91aad1dfb75f90632a9cb3c9b1b0f0e745b03924394bc",
-    "retrieved_at": "2026-10-17T22:45:33.781681+00:00",
+    "retrieved_at": "2026-10-20T12:50:12.391855+00:00",
     "raw_path": "data/raw/e7887d80b9088c3ba5f91aad1dfb75f90632a9cb3c9b1b0f0e745b03924394bc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1595974/000159597426000007/0001595974-26-000007-index.html",

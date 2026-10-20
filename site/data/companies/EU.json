@@ -4,8 +4,8 @@
   "name": "ENCORE ENERGY",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 0.82,
-  "price_date": "2026-10-15",
+  "holding_price": 0.83,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001500881.json",
     "sha256": "e831165a290becab1d89707586164b78dccba545087939507ef4e644f53fcc79",
-    "retrieved_at": "2026-10-17T22:53:23.894143+00:00",
+    "retrieved_at": "2026-10-20T12:56:21.277607+00:00",
     "raw_path": "data/raw/e831165a290becab1d89707586164b78dccba545087939507ef4e644f53fcc79.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1500881/000162828026022507/0001628280-26-022507-index.html",

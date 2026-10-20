@@ -4,8 +4,8 @@
   "name": "HUB GROUP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.06,
-  "holding_price": 27.49,
-  "price_date": "2026-10-15",
+  "holding_price": 26.43,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000940942.json",
     "sha256": "2ec770cc2ff6260917608bbc0d1068a3faea42727c5fb2202f3ebe2ea7c247fb",
-    "retrieved_at": "2026-10-17T22:47:22.205983+00:00",
+    "retrieved_at": "2026-10-20T12:51:42.095152+00:00",
     "raw_path": "data/raw/2ec770cc2ff6260917608bbc0d1068a3faea42727c5fb2202f3ebe2ea7c247fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/940942/000095017025026866/0000950170-25-026866-index.html",

@@ -3,9 +3,9 @@
   "source_ticker": "TXG",
   "name": "10X GENOMICS CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.29,
-  "holding_price": 72.39,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.28,
+  "holding_price": 69.86,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001770787.json",
     "sha256": "2f61e04b1626c1c2d1f4d43810aa79e5651a901f79993ed49ad3870c17a80e07",
-    "retrieved_at": "2026-10-17T22:43:10.195761+00:00",
+    "retrieved_at": "2026-10-20T12:49:10.365135+00:00",
     "raw_path": "data/raw/2f61e04b1626c1c2d1f4d43810aa79e5651a901f79993ed49ad3870c17a80e07.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026007822/0001628280-26-007822-index.html",

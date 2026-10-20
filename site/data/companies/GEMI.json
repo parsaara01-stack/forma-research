@@ -4,8 +4,8 @@
   "name": "GEMINI SPACE STATION INC CLASS A",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.88,
-  "price_date": "2026-10-15",
+  "holding_price": 3.57,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002055592.json",
     "sha256": "c147e0e70cca42420e96e2475a2b513921f145a6c02a1cda9706c6b339a6f835",
-    "retrieved_at": "2026-10-17T22:53:07.969604+00:00",
+    "retrieved_at": "2026-10-20T12:56:19.506145+00:00",
     "raw_path": "data/raw/c147e0e70cca42420e96e2475a2b513921f145a6c02a1cda9706c6b339a6f835.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2055592/000205559226000026/0002055592-26-000026-index.html",

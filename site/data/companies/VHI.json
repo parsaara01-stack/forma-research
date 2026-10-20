@@ -4,8 +4,8 @@
   "name": "VALHI INC",
   "group": "Materials",
   "weight_percent": 0.0,
-  "holding_price": 14.66,
-  "price_date": "2026-10-15",
+  "holding_price": 14.68,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000059255.json",
     "sha256": "5a666016453d51aeb23f9f9129b08137b14135abcbd501441d79b5c477dd1f95",
-    "retrieved_at": "2026-10-17T22:54:19.589181+00:00",
+    "retrieved_at": "2026-10-20T12:57:09.169191+00:00",
     "raw_path": "data/raw/5a666016453d51aeb23f9f9129b08137b14135abcbd501441d79b5c477dd1f95.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/59255/000110465926025847/0001104659-26-025847-index.html",

@@ -4,8 +4,8 @@
   "name": "SEZZLE INC",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 132.37,
-  "price_date": "2026-10-15",
+  "holding_price": 127.65,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001662991.json",
     "sha256": "2fd6740ad200ae6ecd5374a27fdffcea9c33f28a64b8fbb7b71c5fd1797cc77f",
-    "retrieved_at": "2026-10-17T22:46:49.584199+00:00",
+    "retrieved_at": "2026-10-20T12:51:09.538631+00:00",
     "raw_path": "data/raw/2fd6740ad200ae6ecd5374a27fdffcea9c33f28a64b8fbb7b71c5fd1797cc77f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000016/0001662991-26-000016-index.html",

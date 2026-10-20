@@ -4,8 +4,8 @@
   "name": "WABASH NATIONAL",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 12.82,
-  "price_date": "2026-10-15",
+  "holding_price": 12.36,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879526.json",
     "sha256": "7d2db02837726f0639f4943b103ef1ad1b8e84e37053227374a1893e534c9890",
-    "retrieved_at": "2026-10-17T22:50:27.371522+00:00",
+    "retrieved_at": "2026-10-20T12:54:05.608639+00:00",
     "raw_path": "data/raw/7d2db02837726f0639f4943b103ef1ad1b8e84e37053227374a1893e534c9890.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/879526/000087952626000036/0000879526-26-000036-index.html",

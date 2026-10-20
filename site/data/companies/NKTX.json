@@ -4,8 +4,8 @@
   "name": "NKARTA",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.93,
-  "price_date": "2026-10-15",
+  "holding_price": 1.8,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001787400.json",
     "sha256": "fb1ffa06d55735c8652f50a6e4dcbb10f5c9edb60ec11e7149eef43a005d56a4",
-    "retrieved_at": "2026-10-17T22:54:05.676257+00:00",
+    "retrieved_at": "2026-10-20T12:56:58.959746+00:00",
     "raw_path": "data/raw/fb1ffa06d55735c8652f50a6e4dcbb10f5c9edb60ec11e7149eef43a005d56a4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1787400/000178740026000006/0001787400-26-000006-index.html",

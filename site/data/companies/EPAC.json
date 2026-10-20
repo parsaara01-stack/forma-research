@@ -4,8 +4,8 @@
   "name": "ENERPAC TOOL GROUP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.06,
-  "holding_price": 35.07,
-  "price_date": "2026-10-15",
+  "holding_price": 35.17,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000006955.json",
     "sha256": "6229030896981a1a69579c63e56db424ab00958e7e6b4b9a9ad4bdc0de1cd043",
-    "retrieved_at": "2026-10-17T22:47:14.431496+00:00",
+    "retrieved_at": "2026-10-20T12:51:29.262473+00:00",
     "raw_path": "data/raw/6229030896981a1a69579c63e56db424ab00958e7e6b4b9a9ad4bdc0de1cd043.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/6955/000000695525000030/0000006955-25-000030-index.html",

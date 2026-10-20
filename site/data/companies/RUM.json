@@ -4,8 +4,8 @@
   "name": "RUM GROUP CLASS A",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 6.15,
-  "price_date": "2026-10-15",
+  "holding_price": 5.69,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001830081.json",
     "sha256": "495633cb2be5f56d0b46c3bad03f88e157740fccbe17b981fb6fd4b240df730b",
-    "retrieved_at": "2026-10-17T22:49:02.099324+00:00",
+    "retrieved_at": "2026-10-20T12:53:06.325528+00:00",
     "raw_path": "data/raw/495633cb2be5f56d0b46c3bad03f88e157740fccbe17b981fb6fd4b240df730b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026024099/0001213900-26-024099-index.html",

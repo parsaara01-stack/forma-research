@@ -3,9 +3,9 @@
   "source_ticker": "ATEC",
   "name": "ALPHATEC HOLDNGS",
   "group": "Health Care",
-  "weight_percent": 0.05,
-  "holding_price": 10.93,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.04,
+  "holding_price": 10.46,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001350653.json",
     "sha256": "238dc48c077d188db3ebe7a9b52eeac2acf557c97ce1360136fef0d6f904c6e2",
-    "retrieved_at": "2026-10-17T22:47:57.768549+00:00",
+    "retrieved_at": "2026-10-20T12:52:09.806992+00:00",
     "raw_path": "data/raw/238dc48c077d188db3ebe7a9b52eeac2acf557c97ce1360136fef0d6f904c6e2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1350653/000119312526067393/0001193125-26-067393-index.html",

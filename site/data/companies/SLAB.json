@@ -4,8 +4,8 @@
   "name": "SILICON LABORATORIES",
   "group": "Information Technology",
   "weight_percent": 0.25,
-  "holding_price": 221.05,
-  "price_date": "2026-10-15",
+  "holding_price": 221.0,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001038074.json",
     "sha256": "2813b8f8f0b70db706e91ca45f4293fad626b79097e532a5ca64634ec2559eab",
-    "retrieved_at": "2026-10-17T22:43:22.618432+00:00",
+    "retrieved_at": "2026-10-20T12:49:12.426742+00:00",
     "raw_path": "data/raw/2813b8f8f0b70db706e91ca45f4293fad626b79097e532a5ca64634ec2559eab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1038074/000103807426000005/0001038074-26-000005-index.html",

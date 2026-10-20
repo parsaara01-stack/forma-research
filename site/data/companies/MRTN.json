@@ -4,8 +4,8 @@
   "name": "MARTEN TRANSPORT",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 12.89,
-  "price_date": "2026-10-15",
+  "holding_price": 12.84,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000799167.json",
     "sha256": "1b68f65b29bc4d230b85582a3727a8bd0464d30cd632f82a7f6bfe619778bcad",
-    "retrieved_at": "2026-10-17T22:49:22.073133+00:00",
+    "retrieved_at": "2026-10-20T12:53:10.269883+00:00",
     "raw_path": "data/raw/1b68f65b29bc4d230b85582a3727a8bd0464d30cd632f82a7f6bfe619778bcad.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/799167/000143774926005971/0001437749-26-005971-index.html",

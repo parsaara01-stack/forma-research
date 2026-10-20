@@ -3,9 +3,9 @@
   "source_ticker": "NN",
   "name": "NEXTNAV",
   "group": "Information Technology",
-  "weight_percent": 0.04,
-  "holding_price": 10.71,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.03,
+  "holding_price": 9.59,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001865631.json",
     "sha256": "df84f1376a319bbf2dd80e776213bc8506aa8f39a1f5e19f7b88be2cdd2717dd",
-    "retrieved_at": "2026-10-17T22:48:28.276279+00:00",
+    "retrieved_at": "2026-10-20T12:52:43.628247+00:00",
     "raw_path": "data/raw/df84f1376a319bbf2dd80e776213bc8506aa8f39a1f5e19f7b88be2cdd2717dd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526000328/0001554855-26-000328-index.html",

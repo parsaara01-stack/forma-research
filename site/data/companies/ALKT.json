@@ -4,8 +4,8 @@
   "name": "ALKAMI TECHNOLOGY",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 14.23,
-  "price_date": "2026-10-15",
+  "holding_price": 13.73,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001529274.json",
     "sha256": "a54f8859db01defe9f4a8d6d9cbbdac513ecdbf62d52f4e22c3addc5a248affa",
-    "retrieved_at": "2026-10-17T22:48:57.784993+00:00",
+    "retrieved_at": "2026-10-20T12:52:57.465031+00:00",
     "raw_path": "data/raw/a54f8859db01defe9f4a8d6d9cbbdac513ecdbf62d52f4e22c3addc5a248affa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1529274/000152927426000009/0001529274-26-000009-index.html",

@@ -4,8 +4,8 @@
   "name": "APPLE HOSPITALITY REIT INC",
   "group": "Real Estate",
   "weight_percent": 0.13,
-  "holding_price": 16.86,
-  "price_date": "2026-10-15",
+  "holding_price": 17.05,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001418121.json",
     "sha256": "deb44a9b7fb3b45488aec71ec2350161b27c33ffb3be9c12859356e2509a25eb",
-    "retrieved_at": "2026-10-17T22:45:23.115931+00:00",
+    "retrieved_at": "2026-10-20T12:49:59.191638+00:00",
     "raw_path": "data/raw/deb44a9b7fb3b45488aec71ec2350161b27c33ffb3be9c12859356e2509a25eb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1418121/000119312526064008/0001193125-26-064008-index.html",

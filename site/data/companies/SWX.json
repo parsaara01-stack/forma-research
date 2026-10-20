@@ -4,8 +4,8 @@
   "name": "SOUTHWEST GAS HOLDINGS",
   "group": "Utilities",
   "weight_percent": 0.22,
-  "holding_price": 86.2,
-  "price_date": "2026-10-15",
+  "holding_price": 87.45,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001692115.json",
     "sha256": "ba9574c003b135cfed78faa25f8c8291748d98b74055f6637ec5380fec17ec30",
-    "retrieved_at": "2026-10-17T22:43:41.623516+00:00",
+    "retrieved_at": "2026-10-20T12:49:16.634432+00:00",
     "raw_path": "data/raw/ba9574c003b135cfed78faa25f8c8291748d98b74055f6637ec5380fec17ec30.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1692115/000169211526000062/0001692115-26-000062-index.html",

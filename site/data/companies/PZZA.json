@@ -4,8 +4,8 @@
   "name": "PAPA JOHNS INTERNATIONAL INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 19.57,
-  "price_date": "2026-10-15",
+  "holding_price": 19.39,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000901491.json",
     "sha256": "6f5ac46aeb5e190ef9bf6df143d0731a883f04727f9d651bd9573cc98c81453d",
-    "retrieved_at": "2026-10-17T22:49:54.176951+00:00",
+    "retrieved_at": "2026-10-20T12:53:35.583204+00:00",
     "raw_path": "data/raw/6f5ac46aeb5e190ef9bf6df143d0731a883f04727f9d651bd9573cc98c81453d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/901491/000162828026011965/0001628280-26-011965-index.html",

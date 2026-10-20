@@ -3,9 +3,9 @@
   "source_ticker": "BWIN",
   "name": "BALDWIN INSURANCE GROUP CLASS A",
   "group": "Financials",
-  "weight_percent": 0.1,
-  "holding_price": 31.93,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.11,
+  "holding_price": 31.91,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001781755.json",
     "sha256": "9c052ee93469236a7eebb7c8fd733001f94bf4c6d8edeca86d28d18f08925a0e",
-    "retrieved_at": "2026-10-17T22:45:52.579290+00:00",
+    "retrieved_at": "2026-10-20T12:50:22.413050+00:00",
     "raw_path": "data/raw/9c052ee93469236a7eebb7c8fd733001f94bf4c6d8edeca86d28d18f08925a0e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1781755/000178175526000018/0001781755-26-000018-index.html",

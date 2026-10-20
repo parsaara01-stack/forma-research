@@ -3,9 +3,9 @@
   "source_ticker": "LEU",
   "name": "CENTRUS ENERGY CLASS A",
   "group": "Energy",
-  "weight_percent": 0.08,
-  "holding_price": 127.01,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.07,
+  "holding_price": 114.94,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001065059.json",
     "sha256": "f71f54b334e517e63bd3154a963bc3ca8823f3af8076dbee797c09ca0c1026dc",
-    "retrieved_at": "2026-10-17T22:46:33.628925+00:00",
+    "retrieved_at": "2026-10-20T12:51:07.940778+00:00",
     "raw_path": "data/raw/f71f54b334e517e63bd3154a963bc3ca8823f3af8076dbee797c09ca0c1026dc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026007117/0001628280-26-007117-index.html",

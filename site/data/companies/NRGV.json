@@ -4,8 +4,8 @@
   "name": "ENERGY VAULT HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 3.06,
-  "price_date": "2026-10-15",
+  "holding_price": 2.84,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828536.json",
     "sha256": "a552b979c93bd8a2efaeeaaed97520d8165f2fb20182290e1eb96c945103ee79",
-    "retrieved_at": "2026-10-17T22:51:01.981945+00:00",
+    "retrieved_at": "2026-10-20T12:54:36.256675+00:00",
     "raw_path": "data/raw/a552b979c93bd8a2efaeeaaed97520d8165f2fb20182290e1eb96c945103ee79.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000022/0001828536-26-000022-index.html",

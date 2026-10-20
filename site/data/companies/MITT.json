@@ -4,8 +4,8 @@
   "name": "TPG MORTGAGE INVESTMENT TRUST INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 5.54,
-  "price_date": "2026-10-15",
+  "holding_price": 5.36,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001514281.json",
     "sha256": "7ddd34af205c1482d55666c6137816793f6dbcd005153bcd1c1035a8187e0621",
-    "retrieved_at": "2026-10-17T22:53:21.006094+00:00",
+    "retrieved_at": "2026-10-20T12:56:20.921440+00:00",
     "raw_path": "data/raw/7ddd34af205c1482d55666c6137816793f6dbcd005153bcd1c1035a8187e0621.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1514281/000162828026011775/0001628280-26-011775-index.html",

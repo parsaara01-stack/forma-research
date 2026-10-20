@@ -3,9 +3,9 @@
   "source_ticker": "NAGE",
   "name": "NIAGEN BIOSCIENCE INC",
   "group": "Consumer Staples",
-  "weight_percent": 0.01,
-  "holding_price": 2.58,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.0,
+  "holding_price": 2.49,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001386570.json",
     "sha256": "94352bf8b6f04074c9aa98cd63fa97055bc3335ae039584aee12f63320ac36f6",
-    "retrieved_at": "2026-10-17T22:53:27.654992+00:00",
+    "retrieved_at": "2026-10-20T12:56:26.438310+00:00",
     "raw_path": "data/raw/94352bf8b6f04074c9aa98cd63fa97055bc3335ae039584aee12f63320ac36f6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1386570/000138657026000013/0001386570-26-000013-index.html",

@@ -4,8 +4,8 @@
   "name": "BEAZER HOMES",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 33.41,
-  "price_date": "2026-10-15",
+  "holding_price": 33.45,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000915840.json",
     "sha256": "ed3d2decb5bae5d70ac454554cc0beeae022e895ea4c582e14ccd570292d151f",
-    "retrieved_at": "2026-10-17T22:49:08.326296+00:00",
+    "retrieved_at": "2026-10-20T12:53:00.246527+00:00",
     "raw_path": "data/raw/ed3d2decb5bae5d70ac454554cc0beeae022e895ea4c582e14ccd570292d151f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/915840/000091584025000075/0000915840-25-000075-index.html",

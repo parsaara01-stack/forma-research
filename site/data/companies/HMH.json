@@ -4,11 +4,11 @@
   "name": "HMH HOLDING INC CLASS A",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 17.34,
-  "price_date": "2026-10-15",
+  "holding_price": 17.27,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

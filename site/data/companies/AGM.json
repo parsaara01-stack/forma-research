@@ -4,8 +4,8 @@
   "name": "FEDERAL AGRICULTURAL MORTGAGE NON",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 206.22,
-  "price_date": "2026-10-15",
+  "holding_price": 203.97,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000845877.json",
     "sha256": "886c74eac366ee4ccc9835291956cb42f813e27f9cdebfc92e815bcb4128aa82",
-    "retrieved_at": "2026-10-17T22:47:00.551676+00:00",
+    "retrieved_at": "2026-10-20T12:51:18.011140+00:00",
     "raw_path": "data/raw/886c74eac366ee4ccc9835291956cb42f813e27f9cdebfc92e815bcb4128aa82.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/845877/000084587726000014/0000845877-26-000014-index.html",

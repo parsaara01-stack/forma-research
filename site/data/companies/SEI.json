@@ -4,8 +4,8 @@
   "name": "SOLARIS ENERGY INFRASTRUCTURE INC",
   "group": "Energy",
   "weight_percent": 0.12,
-  "holding_price": 65.16,
-  "price_date": "2026-10-15",
+  "holding_price": 62.74,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001697500.json",
     "sha256": "8b7f80776afde50d260a9e207a4f08ad2e41d59f3e20ba2a1361e30699e3985b",
-    "retrieved_at": "2026-10-17T22:45:29.086569+00:00",
+    "retrieved_at": "2026-10-20T12:50:08.647248+00:00",
     "raw_path": "data/raw/8b7f80776afde50d260a9e207a4f08ad2e41d59f3e20ba2a1361e30699e3985b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1697500/000162828026012501/0001628280-26-012501-index.html",

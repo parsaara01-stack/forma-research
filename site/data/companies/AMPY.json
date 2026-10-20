@@ -4,8 +4,8 @@
   "name": "AMPLIFY ENERGY",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 4.35,
-  "price_date": "2026-10-15",
+  "holding_price": 4.43,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001533924.json",
     "sha256": "83151411c323c4107a7a9d7c2bae063b150f3a0817e629d0869786d3cd45ebc7",
-    "retrieved_at": "2026-10-17T22:53:15.736237+00:00",
+    "retrieved_at": "2026-10-20T12:56:11.608470+00:00",
     "raw_path": "data/raw/83151411c323c4107a7a9d7c2bae063b150f3a0817e629d0869786d3cd45ebc7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1533924/000110465926025299/0001104659-26-025299-index.html",

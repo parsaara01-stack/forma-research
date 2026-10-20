@@ -4,8 +4,8 @@
   "name": "QUICKLOGIC CORP",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 9.36,
-  "price_date": "2026-10-15",
+  "holding_price": 8.98,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {
@@ -115,11 +115,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000882508.json",
     "sha256": "27d1018db249f8ca886c45e870128eee3b1c935f716d670f40929499f9ab43c0",
-    "retrieved_at": "2026-10-17T22:53:19.519876+00:00",
+    "retrieved_at": "2026-10-20T12:56:21.580039+00:00",
     "raw_path": "data/raw/27d1018db249f8ca886c45e870128eee3b1c935f716d670f40929499f9ab43c0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/882508/000143774926010089/0001437749-26-010089-index.html",

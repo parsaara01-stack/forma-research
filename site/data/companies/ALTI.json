@@ -4,8 +4,8 @@
   "name": "ALTI GLOBAL CLASS A",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 2.31,
-  "price_date": "2026-10-15",
+  "holding_price": 2.58,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838615.json",
     "sha256": "8c57982ae94355df6bc79ab257277b1f7692f5d53a8a16a5fdf12e32708da889",
-    "retrieved_at": "2026-10-17T22:53:51.553342+00:00",
+    "retrieved_at": "2026-10-20T12:56:38.897133+00:00",
     "raw_path": "data/raw/8c57982ae94355df6bc79ab257277b1f7692f5d53a8a16a5fdf12e32708da889.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1838615/000162828026022450/0001628280-26-022450-index.html",

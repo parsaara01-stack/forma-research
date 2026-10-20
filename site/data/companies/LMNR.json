@@ -4,8 +4,8 @@
   "name": "LIMONEIRA",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 11.82,
-  "price_date": "2026-10-15",
+  "holding_price": 11.94,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001342423.json",
     "sha256": "ab1b727ddeffb38c8635095fa1e836d38f1c736e77dd1ee70c986b328cf53bb3",
-    "retrieved_at": "2026-10-17T22:53:05.653279+00:00",
+    "retrieved_at": "2026-10-20T12:56:05.870553+00:00",
     "raw_path": "data/raw/ab1b727ddeffb38c8635095fa1e836d38f1c736e77dd1ee70c986b328cf53bb3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1342423/000134242325000039/0001342423-25-000039-index.html",

@@ -4,8 +4,8 @@
   "name": "TEXAS CAPITAL BANCSHARES",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 90.7,
-  "price_date": "2026-10-15",
+  "holding_price": 91.15,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001077428.json",
     "sha256": "04b7f4cdf02ebd03de5475beb9d1335075be8b104e3cb0d1cd4613d29ee353c3",
-    "retrieved_at": "2026-10-17T22:45:12.532256+00:00",
+    "retrieved_at": "2026-10-20T12:49:50.837746+00:00",
     "raw_path": "data/raw/04b7f4cdf02ebd03de5475beb9d1335075be8b104e3cb0d1cd4613d29ee353c3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1077428/000107742826000010/0001077428-26-000010-index.html",

@@ -4,8 +4,8 @@
   "name": "REALLOYS INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 6.68,
-  "price_date": "2026-10-15",
+  "holding_price": 7.23,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001567900.json",
     "sha256": "b68bca8389c02580ceceaa561bf493af581a8ec96f34d211d3c1cccb063d9b9e",
-    "retrieved_at": "2026-10-17T22:51:10.391089+00:00",
+    "retrieved_at": "2026-10-20T12:54:24.978879+00:00",
     "raw_path": "data/raw/b68bca8389c02580ceceaa561bf493af581a8ec96f34d211d3c1cccb063d9b9e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1567900/000143774926005114/0001437749-26-005114-index.html",

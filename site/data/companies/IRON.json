@@ -3,9 +3,9 @@
   "source_ticker": "IRON",
   "name": "DISC MEDICINE",
   "group": "Health Care",
-  "weight_percent": 0.05,
-  "holding_price": 56.65,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.06,
+  "holding_price": 56.84,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001816736.json",
     "sha256": "421e104e527f147326319d8b61f8431e4fb5fd50582b6fa5a33306dca338477e",
-    "retrieved_at": "2026-10-17T22:47:32.351762+00:00",
+    "retrieved_at": "2026-10-20T12:51:44.025132+00:00",
     "raw_path": "data/raw/421e104e527f147326319d8b61f8431e4fb5fd50582b6fa5a33306dca338477e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526073602/0001193125-26-073602-index.html",

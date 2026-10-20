@@ -4,8 +4,8 @@
   "name": "HEALTHCARE SERVICES GROUP",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 21.43,
-  "price_date": "2026-10-15",
+  "holding_price": 21.13,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731012.json",
     "sha256": "bc4b21f5f8797bba6e02dfec553fde3791522ff63278715747a058fe30d4dd03",
-    "retrieved_at": "2026-10-17T22:47:45.124692+00:00",
+    "retrieved_at": "2026-10-20T12:51:55.332684+00:00",
     "raw_path": "data/raw/bc4b21f5f8797bba6e02dfec553fde3791522ff63278715747a058fe30d4dd03.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000009/0000731012-26-000009-index.html",

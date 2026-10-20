@@ -4,8 +4,8 @@
   "name": "CLEARPOINT NEURO INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 9.64,
-  "price_date": "2026-10-15",
+  "holding_price": 9.07,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001285550.json",
     "sha256": "42cce1b4fae43ade1c2eab56e81afab6eae0d04e4ec290dc982d64b677ec31fb",
-    "retrieved_at": "2026-10-17T22:52:11.657937+00:00",
+    "retrieved_at": "2026-10-20T12:55:31.397904+00:00",
     "raw_path": "data/raw/42cce1b4fae43ade1c2eab56e81afab6eae0d04e4ec290dc982d64b677ec31fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1285550/000119312526111231/0001193125-26-111231-index.html",

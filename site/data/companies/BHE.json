@@ -4,8 +4,8 @@
   "name": "BENCHMARK ELECTRONICS INC",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 73.22,
-  "price_date": "2026-10-15",
+  "holding_price": 70.62,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000863436.json",
     "sha256": "a6a3b7a3f63104f5e58d78fc9b3116e5556afd9d67e43307f790593473a97a4c",
-    "retrieved_at": "2026-10-17T22:46:16.323312+00:00",
+    "retrieved_at": "2026-10-20T12:50:43.209162+00:00",
     "raw_path": "data/raw/a6a3b7a3f63104f5e58d78fc9b3116e5556afd9d67e43307f790593473a97a4c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/863436/000119312526064849/0001193125-26-064849-index.html",

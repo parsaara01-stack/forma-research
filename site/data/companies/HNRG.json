@@ -3,9 +3,9 @@
   "source_ticker": "HNRG",
   "name": "HALLADOR ENERGY",
   "group": "Utilities",
-  "weight_percent": 0.02,
-  "holding_price": 12.71,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.01,
+  "holding_price": 11.71,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000788965.json",
     "sha256": "558cf8edec6532baaea5ba87123af56007ed2c14d3a68f9c7015659ec54d1b95",
-    "retrieved_at": "2026-10-17T22:50:48.620971+00:00",
+    "retrieved_at": "2026-10-20T12:54:31.095814+00:00",
     "raw_path": "data/raw/558cf8edec6532baaea5ba87123af56007ed2c14d3a68f9c7015659ec54d1b95.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/788965/000110465926027174/0001104659-26-027174-index.html",

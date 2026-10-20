@@ -4,8 +4,8 @@
   "name": "NVE CORP",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 103.7,
-  "price_date": "2026-10-15",
+  "holding_price": 99.13,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000724910.json",
     "sha256": "ae3d36b5224374097596203fdf307db82d22b60725d81c22650c35eb119b8f80",
-    "retrieved_at": "2026-10-17T22:50:29.045365+00:00",
+    "retrieved_at": "2026-10-20T12:54:08.104495+00:00",
     "raw_path": "data/raw/ae3d36b5224374097596203fdf307db82d22b60725d81c22650c35eb119b8f80.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/724910/000137647426000348/0001376474-26-000348-index.html",

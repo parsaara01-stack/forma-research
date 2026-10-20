@@ -4,8 +4,8 @@
   "name": "SILVIA",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.89,
-  "price_date": "2026-10-15",
+  "holding_price": 3.66,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002076163.json",
     "sha256": "be6ef6c653ab4feac7790b7713f87516e4db2d7e5705d12b0eae9bd32b7c72ce",
-    "retrieved_at": "2026-10-17T22:52:08.356848+00:00",
+    "retrieved_at": "2026-10-20T12:55:27.632810+00:00",
     "raw_path": "data/raw/be6ef6c653ab4feac7790b7713f87516e4db2d7e5705d12b0eae9bd32b7c72ce.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226007352/0001493152-26-007352-index.html",

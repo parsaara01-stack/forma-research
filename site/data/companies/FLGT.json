@@ -4,8 +4,8 @@
   "name": "FULGENT GENETICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 21.34,
-  "price_date": "2026-10-15",
+  "holding_price": 19.81,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001674930.json",
     "sha256": "134af1b65e64f3ae050f6d95e2f0b88ddb1b0a3533a3f5933ae06dd4a719b415",
-    "retrieved_at": "2026-10-17T22:51:19.064253+00:00",
+    "retrieved_at": "2026-10-20T12:54:52.365215+00:00",
     "raw_path": "data/raw/134af1b65e64f3ae050f6d95e2f0b88ddb1b0a3533a3f5933ae06dd4a719b415.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1674930/000119312526079169/0001193125-26-079169-index.html",

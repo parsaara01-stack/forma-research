@@ -4,8 +4,8 @@
   "name": "NET LEASE OFFICE PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.0,
-  "holding_price": 9.71,
-  "price_date": "2026-10-15",
+  "holding_price": 9.75,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001952976.json",
     "sha256": "99215f4a544359cc05b46479ff0b1792e2c2436771ad78402971c20846254bdd",
-    "retrieved_at": "2026-10-17T22:53:29.913295+00:00",
+    "retrieved_at": "2026-10-20T12:56:26.867925+00:00",
     "raw_path": "data/raw/99215f4a544359cc05b46479ff0b1792e2c2436771ad78402971c20846254bdd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1952976/000195297626000012/0001952976-26-000012-index.html",

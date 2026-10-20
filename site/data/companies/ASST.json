@@ -3,9 +3,9 @@
   "source_ticker": "ASST",
   "name": "STRIVE INC CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.07,
-  "holding_price": 25.65,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.06,
+  "holding_price": 24.09,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001920406.json",
     "sha256": "9a25bbf1ced09b0881df91e1d07b7bd89de64f6c3a6eaebb25eeed3af2e41c6a",
-    "retrieved_at": "2026-10-17T22:47:04.848185+00:00",
+    "retrieved_at": "2026-10-20T12:51:29.721306+00:00",
     "raw_path": "data/raw/9a25bbf1ced09b0881df91e1d07b7bd89de64f6c3a6eaebb25eeed3af2e41c6a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026019879/0001628280-26-019879-index.html",

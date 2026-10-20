@@ -4,8 +4,8 @@
   "name": "UNITED BANKSHARES",
   "group": "Financials",
   "weight_percent": 0.21,
-  "holding_price": 46.6,
-  "price_date": "2026-10-15",
+  "holding_price": 46.69,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000729986.json",
     "sha256": "e840c93c36ed434a0288002fcb929a39fab339d04cd9eb9f1a3dec87e57b016e",
-    "retrieved_at": "2026-10-17T22:43:45.999014+00:00",
+    "retrieved_at": "2026-10-20T12:49:19.861572+00:00",
     "raw_path": "data/raw/e840c93c36ed434a0288002fcb929a39fab339d04cd9eb9f1a3dec87e57b016e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/729986/000119312526081470/0001193125-26-081470-index.html",

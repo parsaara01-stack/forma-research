@@ -4,8 +4,8 @@
   "name": "INSTALLED BUILDING PRODUCTS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.15,
-  "holding_price": 187.94,
-  "price_date": "2026-10-15",
+  "holding_price": 185.77,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001580905.json",
     "sha256": "ccc994a6a39380007d896c904c10e539eac4c318e343e7319788e26f2a191dec",
-    "retrieved_at": "2026-10-17T22:45:00.725567+00:00",
+    "retrieved_at": "2026-10-20T12:49:42.556478+00:00",
     "raw_path": "data/raw/ccc994a6a39380007d896c904c10e539eac4c318e343e7319788e26f2a191dec.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1580905/000158090526000004/0001580905-26-000004-index.html",

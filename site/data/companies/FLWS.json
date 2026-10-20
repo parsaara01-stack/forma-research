@@ -4,8 +4,8 @@
   "name": "1-800 FLOWERS.COM CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 2.86,
-  "price_date": "2026-10-15",
+  "holding_price": 2.75,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001084869.json",
     "sha256": "e791058f21b4bb817c160998a520a35fb10175aad3dd1522cf3c59a6a35cb60c",
-    "retrieved_at": "2026-10-17T22:54:15.573580+00:00",
+    "retrieved_at": "2026-10-20T12:57:06.963024+00:00",
     "raw_path": "data/raw/e791058f21b4bb817c160998a520a35fb10175aad3dd1522cf3c59a6a35cb60c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000029/0001084869-26-000029-index.html",

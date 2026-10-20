@@ -3,9 +3,9 @@
   "source_ticker": "OSCR",
   "name": "OSCAR HEALTH CLASS A",
   "group": "Financials",
-  "weight_percent": 0.28,
-  "holding_price": 33.47,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.27,
+  "holding_price": 31.89,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001568651.json",
     "sha256": "05ad98124ddb365dc1d8d8937052f80e17a299e6a217225ae6d0f1da450601cc",
-    "retrieved_at": "2026-10-17T22:43:13.943812+00:00",
+    "retrieved_at": "2026-10-20T12:49:11.493733+00:00",
     "raw_path": "data/raw/05ad98124ddb365dc1d8d8937052f80e17a299e6a217225ae6d0f1da450601cc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000011/0001568651-26-000011-index.html",

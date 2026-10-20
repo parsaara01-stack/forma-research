@@ -4,8 +4,8 @@
   "name": "GLADSTONE COMMERCIAL REIT CORP",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 12.64,
-  "price_date": "2026-10-15",
+  "holding_price": 12.47,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001234006.json",
     "sha256": "9d265528d782dbfdd4728a782d430122b0d1a426825d21251dba02fcb02abf56",
-    "retrieved_at": "2026-10-17T22:50:02.931667+00:00",
+    "retrieved_at": "2026-10-20T12:53:44.454371+00:00",
     "raw_path": "data/raw/9d265528d782dbfdd4728a782d430122b0d1a426825d21251dba02fcb02abf56.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1234006/000123400626000005/0001234006-26-000005-index.html",

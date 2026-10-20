@@ -4,8 +4,8 @@
   "name": "LIVEWIRE GROUP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.64,
-  "price_date": "2026-10-15",
+  "holding_price": 1.55,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001898795.json",
     "sha256": "972e473c693cc77daa656c1763daa224a1fccc0791869d46e9d0f72c00009c46",
-    "retrieved_at": "2026-10-17T22:54:25.059167+00:00",
+    "retrieved_at": "2026-10-20T12:57:14.886915+00:00",
     "raw_path": "data/raw/972e473c693cc77daa656c1763daa224a1fccc0791869d46e9d0f72c00009c46.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1898795/000189879526000028/0001898795-26-000028-index.html",

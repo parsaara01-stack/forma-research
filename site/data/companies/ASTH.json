@@ -4,8 +4,8 @@
   "name": "ASTRANA HEALTH",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 38.03,
-  "price_date": "2026-10-15",
+  "holding_price": 36.81,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001083446.json",
     "sha256": "24589a8b90ad6a7cdaab8fd1b252b61b042f4e45ec87312920857f7a3d1d7dfe",
-    "retrieved_at": "2026-10-17T22:47:19.792831+00:00",
+    "retrieved_at": "2026-10-20T12:51:39.195492+00:00",
     "raw_path": "data/raw/24589a8b90ad6a7cdaab8fd1b252b61b042f4e45ec87312920857f7a3d1d7dfe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1083446/000119312526103128/0001193125-26-103128-index.html",

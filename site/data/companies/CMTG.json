@@ -5,7 +5,7 @@
   "group": "Financials",
   "weight_percent": 0.0,
   "holding_price": 1.18,
-  "price_date": "2026-10-15",
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001666291.json",
     "sha256": "b030e483572aa24ced65d4dffacb4efa968137bebf3d93794b0cca9f93bb08e7",
-    "retrieved_at": "2026-10-17T22:53:50.007076+00:00",
+    "retrieved_at": "2026-10-20T12:56:43.872152+00:00",
     "raw_path": "data/raw/b030e483572aa24ced65d4dffacb4efa968137bebf3d93794b0cca9f93bb08e7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1666291/000119312526057455/0001193125-26-057455-index.html",

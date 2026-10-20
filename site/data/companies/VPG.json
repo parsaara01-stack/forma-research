@@ -4,8 +4,8 @@
   "name": "VISHAY PRECISION GROUP",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 64.06,
-  "price_date": "2026-10-15",
+  "holding_price": 60.4,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001487952.json",
     "sha256": "84c513c5353fe7b85630be75c2e10c8f089ed412987948882b55330bb3db07a9",
-    "retrieved_at": "2026-10-17T22:49:21.617043+00:00",
+    "retrieved_at": "2026-10-20T12:53:17.851503+00:00",
     "raw_path": "data/raw/84c513c5353fe7b85630be75c2e10c8f089ed412987948882b55330bb3db07a9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1487952/000143774926005982/0001437749-26-005982-index.html",

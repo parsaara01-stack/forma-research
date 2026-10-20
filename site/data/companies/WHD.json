@@ -4,8 +4,8 @@
   "name": "CACTUS CLASS A",
   "group": "Energy",
   "weight_percent": 0.15,
-  "holding_price": 61.19,
-  "price_date": "2026-10-15",
+  "holding_price": 61.71,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001699136.json",
     "sha256": "925c11b9c1bba0eac6dd1285fd23ce97c3684d5f66d3d1a08d786dbddc8d2092",
-    "retrieved_at": "2026-10-17T22:45:06.235411+00:00",
+    "retrieved_at": "2026-10-20T12:49:46.513759+00:00",
     "raw_path": "data/raw/925c11b9c1bba0eac6dd1285fd23ce97c3684d5f66d3d1a08d786dbddc8d2092.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1699136/000162828026012377/0001628280-26-012377-index.html",

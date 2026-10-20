@@ -4,8 +4,8 @@
   "name": "CREXENDO INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 5.65,
-  "price_date": "2026-10-15",
+  "holding_price": 5.47,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001075736.json",
     "sha256": "f8943941d6f3bca971e31aa4eef08ace399fa46ac3c5cd903f2367295531cafb",
-    "retrieved_at": "2026-10-17T22:53:53.545765+00:00",
+    "retrieved_at": "2026-10-20T12:56:47.378940+00:00",
     "raw_path": "data/raw/f8943941d6f3bca971e31aa4eef08ace399fa46ac3c5cd903f2367295531cafb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1075736/000165495426001848/0001654954-26-001848-index.html",

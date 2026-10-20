@@ -4,8 +4,8 @@
   "name": "EVOLUTION PETROLEUM CORP",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 3.67,
-  "price_date": "2026-10-15",
+  "holding_price": 3.71,
+  "price_date": "2026-10-16",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006655.json",
     "sha256": "84db7c096a334ce2c4589b43d2323a678d8c569f4c95ee5ebed668c208444598",
-    "retrieved_at": "2026-10-17T22:53:51.289631+00:00",
+    "retrieved_at": "2026-10-20T12:56:43.406889+00:00",
     "raw_path": "data/raw/84db7c096a334ce2c4589b43d2323a678d8c569f4c95ee5ebed668c208444598.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926108258/0001104659-26-108258-index.html",

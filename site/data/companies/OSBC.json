@@ -3,9 +3,9 @@
   "source_ticker": "OSBC",
   "name": "OLD SECOND BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.04,
-  "holding_price": 24.85,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.05,
+  "holding_price": 24.88,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000357173.json",
     "sha256": "f4e468bff3ca7ee0aae2ac0c232e3bfc79a388aa5fcb8603e95d960ed61e9267",
-    "retrieved_at": "2026-10-17T22:48:02.137327+00:00",
+    "retrieved_at": "2026-10-20T12:52:07.593544+00:00",
     "raw_path": "data/raw/f4e468bff3ca7ee0aae2ac0c232e3bfc79a388aa5fcb8603e95d960ed61e9267.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/357173/000110465926020393/0001104659-26-020393-index.html",

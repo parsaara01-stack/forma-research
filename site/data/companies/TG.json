@@ -4,8 +4,8 @@
   "name": "TREDEGAR CORP",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 7.88,
-  "price_date": "2026-10-15",
+  "holding_price": 7.84,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000850429.json",
     "sha256": "4924b3f2a844d78d543c54af81db1992e91619fb2b63845c08091ed956355198",
-    "retrieved_at": "2026-10-17T22:52:42.762023+00:00",
+    "retrieved_at": "2026-10-20T12:55:49.920650+00:00",
     "raw_path": "data/raw/4924b3f2a844d78d543c54af81db1992e91619fb2b63845c08091ed956355198.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/850429/000162828026016665/0001628280-26-016665-index.html",

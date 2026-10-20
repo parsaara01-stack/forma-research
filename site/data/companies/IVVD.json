@@ -3,9 +3,9 @@
   "source_ticker": "IVVD",
   "name": "INVIVYD",
   "group": "Health Care",
-  "weight_percent": 0.01,
-  "holding_price": 0.67,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.0,
+  "holding_price": 0.62,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001832038.json",
     "sha256": "582063fb8aa7c9b5d5ca38b4b38dde4ec4bf00525e62d2f8b41e158ab379fad2",
-    "retrieved_at": "2026-10-17T22:53:27.779466+00:00",
+    "retrieved_at": "2026-10-20T12:56:31.002626+00:00",
     "raw_path": "data/raw/582063fb8aa7c9b5d5ca38b4b38dde4ec4bf00525e62d2f8b41e158ab379fad2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526092547/0001193125-26-092547-index.html",

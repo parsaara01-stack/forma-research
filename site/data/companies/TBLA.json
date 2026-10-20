@@ -4,8 +4,8 @@
   "name": "TABOOLA.COM LTD",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 3.54,
-  "price_date": "2026-10-15",
+  "holding_price": 3.44,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840502.json",
     "sha256": "2ff1e616cd176a2b02f4824ada7a0687cdd48d462c30b9075ea85a54fd9a6e0d",
-    "retrieved_at": "2026-10-17T22:50:45.441732+00:00",
+    "retrieved_at": "2026-10-20T12:54:21.443814+00:00",
     "raw_path": "data/raw/2ff1e616cd176a2b02f4824ada7a0687cdd48d462c30b9075ea85a54fd9a6e0d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1840502/000184050226000004/0001840502-26-000004-index.html",

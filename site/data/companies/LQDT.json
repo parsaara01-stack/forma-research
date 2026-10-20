@@ -4,8 +4,8 @@
   "name": "LIQUIDITY SERVICES INC",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 44.09,
-  "price_date": "2026-10-15",
+  "holding_price": 43.86,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001235468.json",
     "sha256": "fa25ef3c6d782248749c4827aba53ed3f5de80145dc952d3e27d7104b751a801",
-    "retrieved_at": "2026-10-17T22:48:34.363333+00:00",
+    "retrieved_at": "2026-10-20T12:52:35.908503+00:00",
     "raw_path": "data/raw/fa25ef3c6d782248749c4827aba53ed3f5de80145dc952d3e27d7104b751a801.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1235468/000119312525289159/0001193125-25-289159-index.html",

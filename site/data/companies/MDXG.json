@@ -4,8 +4,8 @@
   "name": "MIMEDX GROUP",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 4.68,
-  "price_date": "2026-10-15",
+  "holding_price": 4.43,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001376339.json",
     "sha256": "5e04729db5aedaa7bd3f6ae5bc7af9505652b1ffe2dd057948bb9a9c667e716d",
-    "retrieved_at": "2026-10-17T22:50:19.018817+00:00",
+    "retrieved_at": "2026-10-20T12:53:59.412407+00:00",
     "raw_path": "data/raw/5e04729db5aedaa7bd3f6ae5bc7af9505652b1ffe2dd057948bb9a9c667e716d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1376339/000137633926000011/0001376339-26-000011-index.html",

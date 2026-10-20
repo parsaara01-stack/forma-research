@@ -4,8 +4,8 @@
   "name": "THE REALREAL",
   "group": "Consumer Discretionary",
   "weight_percent": 0.04,
-  "holding_price": 10.54,
-  "price_date": "2026-10-15",
+  "holding_price": 10.39,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001573221.json",
     "sha256": "44a865f6f661b9e8dc492e388ccab489c7fd6baf2da55975359546aae319ae97",
-    "retrieved_at": "2026-10-17T22:48:15.242824+00:00",
+    "retrieved_at": "2026-10-20T12:52:20.398344+00:00",
     "raw_path": "data/raw/44a865f6f661b9e8dc492e388ccab489c7fd6baf2da55975359546aae319ae97.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1573221/000157322126000010/0001573221-26-000010-index.html",

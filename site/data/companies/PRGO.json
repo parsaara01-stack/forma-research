@@ -4,8 +4,8 @@
   "name": "PERRIGO PLC",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 16.48,
-  "price_date": "2026-10-15",
+  "holding_price": 16.63,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001585364.json",
     "sha256": "afa34af905a827fd64b594a74dc396295f18d003bc024a377ee0ec33718369bc",
-    "retrieved_at": "2026-10-17T22:46:36.730674+00:00",
+    "retrieved_at": "2026-10-20T12:50:55.052735+00:00",
     "raw_path": "data/raw/afa34af905a827fd64b594a74dc396295f18d003bc024a377ee0ec33718369bc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000009/0001585364-26-000009-index.html",

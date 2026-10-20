@@ -4,8 +4,8 @@
   "name": "RCM TECHNOLOGIES INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 38.21,
-  "price_date": "2026-10-15",
+  "holding_price": 37.5,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000700841.json",
     "sha256": "bdb2cd690d19e3e3f2a75e1f7c827782086543450baf997e917b6052663ca4bf",
-    "retrieved_at": "2026-10-17T22:53:06.791325+00:00",
+    "retrieved_at": "2026-10-20T12:56:09.591392+00:00",
     "raw_path": "data/raw/bdb2cd690d19e3e3f2a75e1f7c827782086543450baf997e917b6052663ca4bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/700841/000143774926011236/0001437749-26-011236-index.html",

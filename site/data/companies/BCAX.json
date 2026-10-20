@@ -4,8 +4,8 @@
   "name": "BICARA THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 17.62,
-  "price_date": "2026-10-15",
+  "holding_price": 16.78,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002023658.json",
     "sha256": "0a46d92da01c0b7bd24aec58271c8625c42b6a7e6dab7ebfc08418edd96d4d39",
-    "retrieved_at": "2026-10-17T22:49:23.265612+00:00",
+    "retrieved_at": "2026-10-20T12:53:18.731519+00:00",
     "raw_path": "data/raw/0a46d92da01c0b7bd24aec58271c8625c42b6a7e6dab7ebfc08418edd96d4d39.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2023658/000162828026022010/0001628280-26-022010-index.html",

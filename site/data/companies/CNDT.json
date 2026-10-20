@@ -4,8 +4,8 @@
   "name": "CONDUENT",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 1.57,
-  "price_date": "2026-10-15",
+  "holding_price": 1.39,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001677703.json",
     "sha256": "04cab7b898930ebacf4414f94ec831f0b2681b69b781f84322907310d265a0f2",
-    "retrieved_at": "2026-10-17T22:52:17.830892+00:00",
+    "retrieved_at": "2026-10-20T12:55:41.574056+00:00",
     "raw_path": "data/raw/04cab7b898930ebacf4414f94ec831f0b2681b69b781f84322907310d265a0f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000024/0001677703-26-000024-index.html",

@@ -4,8 +4,8 @@
   "name": "GREEN PLAINS",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 14.29,
-  "price_date": "2026-10-15",
+  "holding_price": 14.47,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,12 +343,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001309402.json",
-    "sha256": "7a7adff247dcc60f4bc4b7bdd1915c1ec305682d2a6437b5a2e0b1afc4ac602d",
-    "retrieved_at": "2026-10-17T22:48:44.389765+00:00",
-    "raw_path": "data/raw/7a7adff247dcc60f4bc4b7bdd1915c1ec305682d2a6437b5a2e0b1afc4ac602d.json.gz"
+    "sha256": "db9fcf737b51370991c1476c264eedbc3ce343daaad597e7b99da4381a56e472",
+    "retrieved_at": "2026-10-20T12:52:39.706881+00:00",
+    "raw_path": "data/raw/db9fcf737b51370991c1476c264eedbc3ce343daaad597e7b99da4381a56e472.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1309402/000130940226000019/0001309402-26-000019-index.html",
   "earnings": {

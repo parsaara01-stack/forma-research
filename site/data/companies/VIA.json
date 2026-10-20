@@ -3,9 +3,9 @@
   "source_ticker": "VIA",
   "name": "VIA TRANSPORTATION CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.06,
-  "holding_price": 33.58,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.05,
+  "holding_price": 31.93,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001603015.json",
     "sha256": "e2e9df74427a528833f28c5e47f62db8c5f5d011b8aad67552b1787786fc2497",
-    "retrieved_at": "2026-10-17T22:47:26.614993+00:00",
+    "retrieved_at": "2026-10-20T12:51:46.847519+00:00",
     "raw_path": "data/raw/e2e9df74427a528833f28c5e47f62db8c5f5d011b8aad67552b1787786fc2497.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1603015/000160301526000008/0001603015-26-000008-index.html",

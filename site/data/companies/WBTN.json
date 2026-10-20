@@ -4,8 +4,8 @@
   "name": "WEBTOON ENTERTAINMENT INC",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 8.93,
-  "price_date": "2026-10-15",
+  "holding_price": 8.72,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001997859.json",
     "sha256": "593822bc004e8339e30ac8f5cf347a3f3d313ea809d40e6e984f371960066832",
-    "retrieved_at": "2026-10-17T22:52:53.607207+00:00",
+    "retrieved_at": "2026-10-20T12:56:01.849501+00:00",
     "raw_path": "data/raw/593822bc004e8339e30ac8f5cf347a3f3d313ea809d40e6e984f371960066832.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1997859/000199785926000028/0001997859-26-000028-index.html",

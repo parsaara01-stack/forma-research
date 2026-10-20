@@ -4,8 +4,8 @@
   "name": "MCEWEN INC",
   "group": "Materials",
   "weight_percent": 0.03,
-  "holding_price": 16.21,
-  "price_date": "2026-10-15",
+  "holding_price": 16.24,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000314203.json",
     "sha256": "8ee12e048530e46a73a02ae6dc6d5c5f7c9dee6299c03500974b44ce27f73922",
-    "retrieved_at": "2026-10-17T22:49:07.790395+00:00",
+    "retrieved_at": "2026-10-20T12:53:00.663820+00:00",
     "raw_path": "data/raw/8ee12e048530e46a73a02ae6dc6d5c5f7c9dee6299c03500974b44ce27f73922.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926028705/0001104659-26-028705-index.html",

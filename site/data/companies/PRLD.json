@@ -4,8 +4,8 @@
   "name": "PRELUDE THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 3.32,
-  "price_date": "2026-10-15",
+  "holding_price": 3.26,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001678660.json",
     "sha256": "4023c74bc9e5c895b2ef77ae58b10f1e8765286041523a6da05c89cacba71998",
-    "retrieved_at": "2026-10-17T22:54:01.895046+00:00",
+    "retrieved_at": "2026-10-20T12:56:53.796484+00:00",
     "raw_path": "data/raw/4023c74bc9e5c895b2ef77ae58b10f1e8765286041523a6da05c89cacba71998.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1678660/000119312526099428/0001193125-26-099428-index.html",

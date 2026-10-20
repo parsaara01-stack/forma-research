@@ -4,8 +4,8 @@
   "name": "SALLY BEAUTY HOLDINGS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.06,
-  "holding_price": 17.12,
-  "price_date": "2026-10-15",
+  "holding_price": 16.65,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001368458.json",
     "sha256": "3778d1c1a3b56aa619db4c250e9af95ffe9c34e93fcd4cd994c954492e17bf36",
-    "retrieved_at": "2026-10-17T22:47:27.765083+00:00",
+    "retrieved_at": "2026-10-20T12:51:44.729015+00:00",
     "raw_path": "data/raw/3778d1c1a3b56aa619db4c250e9af95ffe9c34e93fcd4cd994c954492e17bf36.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1368458/000119312525280122/0001193125-25-280122-index.html",

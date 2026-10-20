@@ -4,8 +4,8 @@
   "name": "AMERISAFE INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 25.04,
-  "price_date": "2026-10-15",
+  "holding_price": 25.25,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018979.json",
     "sha256": "603c2a5c69e18246fefec7295b0218499a2d9211cc1df24d2bf68d14366d10cd",
-    "retrieved_at": "2026-10-17T22:50:30.280336+00:00",
+    "retrieved_at": "2026-10-20T12:54:01.654764+00:00",
     "raw_path": "data/raw/603c2a5c69e18246fefec7295b0218499a2d9211cc1df24d2bf68d14366d10cd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1018979/000119312526082513/0001193125-26-082513-index.html",

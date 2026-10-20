@@ -3,9 +3,9 @@
   "source_ticker": "LXP",
   "name": "LXP INDUSTRIAL TRUST",
   "group": "Real Estate",
-  "weight_percent": 0.12,
-  "holding_price": 61.01,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.13,
+  "holding_price": 61.06,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910108.json",
     "sha256": "924910bbda01d3e8b6a027e0b5d790678f4d14f194a9682c72d07a77c9b97a8b",
-    "retrieved_at": "2026-10-17T22:45:30.827125+00:00",
+    "retrieved_at": "2026-10-20T12:50:05.529533+00:00",
     "raw_path": "data/raw/924910bbda01d3e8b6a027e0b5d790678f4d14f194a9682c72d07a77c9b97a8b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/910108/000091010826000009/0000910108-26-000009-index.html",

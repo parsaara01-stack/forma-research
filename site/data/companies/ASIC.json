@@ -4,8 +4,8 @@
   "name": "ATEGRITY SPECIALTY INSURANCE COMPA",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 26.87,
-  "price_date": "2026-10-15",
+  "holding_price": 27.25,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002040491.json",
     "sha256": "5b66e1b7328450ce0a9405c5ba90401528346f56d381d183c1e058be2b2ed3f9",
-    "retrieved_at": "2026-10-17T22:52:17.569840+00:00",
+    "retrieved_at": "2026-10-20T12:55:27.992713+00:00",
     "raw_path": "data/raw/5b66e1b7328450ce0a9405c5ba90401528346f56d381d183c1e058be2b2ed3f9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2040491/000204049126000011/0002040491-26-000011-index.html",

@@ -4,8 +4,8 @@
   "name": "PRICESMART",
   "group": "Consumer Staples",
   "weight_percent": 0.15,
-  "holding_price": 169.67,
-  "price_date": "2026-10-15",
+  "holding_price": 169.81,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041803.json",
     "sha256": "ac96d742304c6e229944f8dda45e6c6873f401b8ace77c4be3da2d11c9921858",
-    "retrieved_at": "2026-10-17T22:45:01.601683+00:00",
+    "retrieved_at": "2026-10-20T12:49:41.544264+00:00",
     "raw_path": "data/raw/ac96d742304c6e229944f8dda45e6c6873f401b8ace77c4be3da2d11c9921858.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1041803/000104180325000060/0001041803-25-000060-index.html",

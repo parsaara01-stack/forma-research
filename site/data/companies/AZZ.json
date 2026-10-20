@@ -4,8 +4,8 @@
   "name": "AZZ INC",
   "group": "Industrials",
   "weight_percent": 0.13,
-  "holding_price": 130.59,
-  "price_date": "2026-10-15",
+  "holding_price": 129.56,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000008947.json",
     "sha256": "b1d0f2abb7c870ea308c19d36dcffc512cfcf0823b467ee71d2d87f726812b33",
-    "retrieved_at": "2026-10-17T22:45:17.862207+00:00",
+    "retrieved_at": "2026-10-20T12:49:57.118132+00:00",
     "raw_path": "data/raw/b1d0f2abb7c870ea308c19d36dcffc512cfcf0823b467ee71d2d87f726812b33.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000068/0000008947-26-000068-index.html",

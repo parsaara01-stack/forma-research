@@ -4,8 +4,8 @@
   "name": "SAREPTA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 17.79,
-  "price_date": "2026-10-15",
+  "holding_price": 17.1,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000873303.json",
     "sha256": "73fbffcbdadfe28b857d7fca50ab4aac61e15003102807aade5f366cc35bb6b9",
-    "retrieved_at": "2026-10-17T22:47:10.382714+00:00",
+    "retrieved_at": "2026-10-20T12:51:31.124207+00:00",
     "raw_path": "data/raw/73fbffcbdadfe28b857d7fca50ab4aac61e15003102807aade5f366cc35bb6b9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/873303/000119312526084144/0001193125-26-084144-index.html",

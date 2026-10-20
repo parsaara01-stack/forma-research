@@ -4,8 +4,8 @@
   "name": "WINNEBAGO INDUSTRIES",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 24.66,
-  "price_date": "2026-10-15",
+  "holding_price": 24.0,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000107687.json",
     "sha256": "ee29a5e0485d213e92d3b7e5ad4e70de62a20a9269a38f8c6c6271484811f054",
-    "retrieved_at": "2026-10-17T22:49:42.284176+00:00",
+    "retrieved_at": "2026-10-20T12:53:30.508469+00:00",
     "raw_path": "data/raw/ee29a5e0485d213e92d3b7e5ad4e70de62a20a9269a38f8c6c6271484811f054.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/107687/000010768725000034/0000107687-25-000034-index.html",

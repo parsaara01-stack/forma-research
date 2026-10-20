@@ -4,8 +4,8 @@
   "name": "NORTHWEST BANCSHARES INC",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 14.89,
-  "price_date": "2026-10-15",
+  "holding_price": 14.93,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001471265.json",
     "sha256": "e80d3d092058663adb5baba7e15a8b511b54c0089844c6dba4f466ac3ae517d6",
-    "retrieved_at": "2026-10-17T22:46:43.619508+00:00",
+    "retrieved_at": "2026-10-20T12:50:59.091274+00:00",
     "raw_path": "data/raw/e80d3d092058663adb5baba7e15a8b511b54c0089844c6dba4f466ac3ae517d6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1471265/000147126526000008/0001471265-26-000008-index.html",

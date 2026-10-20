@@ -4,8 +4,8 @@
   "name": "SI BONE",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 19.91,
-  "price_date": "2026-10-15",
+  "holding_price": 19.68,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001459839.json",
     "sha256": "8865bc70ed417453df6fa46b21b2d21c09c8aa77e077e43b4108d080f7907bd4",
-    "retrieved_at": "2026-10-17T22:49:04.793126+00:00",
+    "retrieved_at": "2026-10-20T12:52:59.497740+00:00",
     "raw_path": "data/raw/8865bc70ed417453df6fa46b21b2d21c09c8aa77e077e43b4108d080f7907bd4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1459839/000145983926000036/0001459839-26-000036-index.html",

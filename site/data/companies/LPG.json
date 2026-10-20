@@ -4,8 +4,8 @@
   "name": "DORIAN LPG",
   "group": "Energy",
   "weight_percent": 0.07,
-  "holding_price": 53.68,
-  "price_date": "2026-10-15",
+  "holding_price": 53.6,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596993.json",
     "sha256": "5dbb6cb66367119bc142e061218ffecb5f5a66a8694c3c8664b27a39ac2dea7d",
-    "retrieved_at": "2026-10-17T22:46:59.640867+00:00",
+    "retrieved_at": "2026-10-20T12:51:15.484437+00:00",
     "raw_path": "data/raw/5dbb6cb66367119bc142e061218ffecb5f5a66a8694c3c8664b27a39ac2dea7d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1596993/000159699326000025/0001596993-26-000025-index.html",

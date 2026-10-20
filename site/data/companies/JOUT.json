@@ -4,8 +4,8 @@
   "name": "JOHNSON OUTDOORS INC CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 43.41,
-  "price_date": "2026-10-15",
+  "holding_price": 43.44,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000788329.json",
     "sha256": "aa7665b0ec2bad7d8d1b6ac63b1795b91eb081e6000395b00e5a73917654b83e",
-    "retrieved_at": "2026-10-17T22:52:15.921353+00:00",
+    "retrieved_at": "2026-10-20T12:55:28.479270+00:00",
     "raw_path": "data/raw/aa7665b0ec2bad7d8d1b6ac63b1795b91eb081e6000395b00e5a73917654b83e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/788329/000114036125045348/0001140361-25-045348-index.html",

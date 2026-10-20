@@ -4,8 +4,8 @@
   "name": "PEOPLES FINANCIAL SERVICES CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 68.05,
-  "price_date": "2026-10-15",
+  "holding_price": 68.3,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001056943.json",
     "sha256": "32d46a19fd173169605a92d21f6b98903bd2de46b9a87aa9021bba58695d2d25",
-    "retrieved_at": "2026-10-17T22:49:40.937687+00:00",
+    "retrieved_at": "2026-10-20T12:53:25.484543+00:00",
     "raw_path": "data/raw/32d46a19fd173169605a92d21f6b98903bd2de46b9a87aa9021bba58695d2d25.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1056943/000110465926028106/0001104659-26-028106-index.html",

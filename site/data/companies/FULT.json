@@ -4,8 +4,8 @@
   "name": "FULTON FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 22.35,
-  "price_date": "2026-10-15",
+  "holding_price": 22.4,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000700564.json",
     "sha256": "fee75e4055c9cd5a51f85d8a8a279109c8c0e7eef5365e014bcf80e0415f060e",
-    "retrieved_at": "2026-10-17T22:45:11.134950+00:00",
+    "retrieved_at": "2026-10-20T12:49:50.074780+00:00",
     "raw_path": "data/raw/fee75e4055c9cd5a51f85d8a8a279109c8c0e7eef5365e014bcf80e0415f060e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/700564/000070056426000006/0000700564-26-000006-index.html",

@@ -4,8 +4,8 @@
   "name": "ORASURE TECHNOLOGIES INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.81,
-  "price_date": "2026-10-15",
+  "holding_price": 3.61,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001116463.json",
     "sha256": "0b0265cdb333779daa6691586affed52269e9bfc21be13379479db69cd5d09ec",
-    "retrieved_at": "2026-10-17T22:52:26.844097+00:00",
+    "retrieved_at": "2026-10-20T12:55:41.292275+00:00",
     "raw_path": "data/raw/0b0265cdb333779daa6691586affed52269e9bfc21be13379479db69cd5d09ec.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1116463/000111646326000016/0001116463-26-000016-index.html",

@@ -4,8 +4,8 @@
   "name": "CLEAN ENERGY FUELS",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 1.51,
-  "price_date": "2026-10-15",
+  "holding_price": 1.5,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001368265.json",
     "sha256": "eadd812f5277b96eadd584b57e45edff453c5704f748aae9a11c5515316b412c",
-    "retrieved_at": "2026-10-17T22:52:26.038235+00:00",
+    "retrieved_at": "2026-10-20T12:55:36.284567+00:00",
     "raw_path": "data/raw/eadd812f5277b96eadd584b57e45edff453c5704f748aae9a11c5515316b412c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1368265/000110465926019215/0001104659-26-019215-index.html",

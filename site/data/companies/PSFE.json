@@ -5,10 +5,10 @@
   "group": "Financials",
   "weight_percent": 0.01,
   "holding_price": 5.66,
-  "price_date": "2026-10-15",
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

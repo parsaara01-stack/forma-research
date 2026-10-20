@@ -4,8 +4,8 @@
   "name": "S AND T BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 48.53,
-  "price_date": "2026-10-15",
+  "holding_price": 48.84,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000719220.json",
     "sha256": "a0ff9998b9af11428d410ca12ee0546039c0fe4d234ba14284d58b7fa80786c2",
-    "retrieved_at": "2026-10-17T22:47:25.516233+00:00",
+    "retrieved_at": "2026-10-20T12:51:38.438693+00:00",
     "raw_path": "data/raw/a0ff9998b9af11428d410ca12ee0546039c0fe4d234ba14284d58b7fa80786c2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/719220/000071922026000030/0000719220-26-000030-index.html",

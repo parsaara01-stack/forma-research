@@ -4,8 +4,8 @@
   "name": "BREAD FINANCIAL HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 101.31,
-  "price_date": "2026-10-15",
+  "holding_price": 102.56,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001101215.json",
     "sha256": "551a4d096f789bc389c4b7172cd9dee8d1e56949ef714fc9e9c28fb96f9a0ba6",
-    "retrieved_at": "2026-10-17T22:47:00.948913+00:00",
+    "retrieved_at": "2026-10-20T12:51:13.717670+00:00",
     "raw_path": "data/raw/551a4d096f789bc389c4b7172cd9dee8d1e56949ef714fc9e9c28fb96f9a0ba6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1101215/000110121526000016/0001101215-26-000016-index.html",

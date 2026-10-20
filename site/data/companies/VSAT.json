@@ -3,9 +3,9 @@
   "source_ticker": "VSAT",
   "name": "VIASAT INC",
   "group": "Information Technology",
-  "weight_percent": 0.27,
-  "holding_price": 61.5,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.26,
+  "holding_price": 58.83,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000797721.json",
     "sha256": "b4638a0a91788680dc810196e3dae0051f74795575004e227a18f649372492d0",
-    "retrieved_at": "2026-10-17T22:43:16.483234+00:00",
+    "retrieved_at": "2026-10-20T12:49:12.011664+00:00",
     "raw_path": "data/raw/b4638a0a91788680dc810196e3dae0051f74795575004e227a18f649372492d0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/797721/000119312526248290/0001193125-26-248290-index.html",

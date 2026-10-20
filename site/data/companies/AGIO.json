@@ -4,8 +4,8 @@
   "name": "AGIOS PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 32.32,
-  "price_date": "2026-10-15",
+  "holding_price": 31.32,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001439222.json",
     "sha256": "645ad0ff8d5c2720a304e1acd1f7ac20706112192f830d9a1be52e84493b37d5",
-    "retrieved_at": "2026-10-17T22:47:05.751041+00:00",
+    "retrieved_at": "2026-10-20T12:51:26.760436+00:00",
     "raw_path": "data/raw/645ad0ff8d5c2720a304e1acd1f7ac20706112192f830d9a1be52e84493b37d5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000025/0001439222-26-000025-index.html",

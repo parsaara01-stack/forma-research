@@ -4,8 +4,8 @@
   "name": "GREIF INC CLASS A",
   "group": "Materials",
   "weight_percent": 0.07,
-  "holding_price": 80.04,
-  "price_date": "2026-10-15",
+  "holding_price": 82.12,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000043920.json",
     "sha256": "f744acd51672ba5c5709b869afd8b50dc338a269e299ed3564c88625f2c3cdae",
-    "retrieved_at": "2026-10-17T22:47:03.825001+00:00",
+    "retrieved_at": "2026-10-20T12:51:14.922970+00:00",
     "raw_path": "data/raw/f744acd51672ba5c5709b869afd8b50dc338a269e299ed3564c88625f2c3cdae.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/43920/000004392024000056/0000043920-24-000056-index.html",

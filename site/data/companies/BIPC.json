@@ -4,11 +4,11 @@
   "name": "BROOKFIELD INFRASTRUCTURE CORP CLA",
   "group": "Utilities",
   "weight_percent": 0.16,
-  "holding_price": 37.63,
-  "price_date": "2026-10-15",
+  "holding_price": 37.74,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

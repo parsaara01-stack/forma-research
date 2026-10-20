@@ -4,8 +4,8 @@
   "name": "ARTIVION",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 21.87,
-  "price_date": "2026-10-15",
+  "holding_price": 21.78,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000784199.json",
     "sha256": "dc42ea274ebdb6c2e263e7a6f54e814b250d9d0b6b09959f723b7a7b942385e2",
-    "retrieved_at": "2026-10-17T22:48:43.103461+00:00",
+    "retrieved_at": "2026-10-20T12:52:41.631815+00:00",
     "raw_path": "data/raw/dc42ea274ebdb6c2e263e7a6f54e814b250d9d0b6b09959f723b7a7b942385e2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/784199/000162828026009046/0001628280-26-009046-index.html",

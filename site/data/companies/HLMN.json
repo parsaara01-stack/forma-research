@@ -4,8 +4,8 @@
   "name": "HILLMAN SOLUTIONS",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 7.26,
-  "price_date": "2026-10-15",
+  "holding_price": 7.37,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001822492.json",
     "sha256": "980684cdcad8e9b2cb75aac2f139a55f192119af295fc5d02f87692c066af754",
-    "retrieved_at": "2026-10-17T22:47:48.113260+00:00",
+    "retrieved_at": "2026-10-20T12:51:55.902425+00:00",
     "raw_path": "data/raw/980684cdcad8e9b2cb75aac2f139a55f192119af295fc5d02f87692c066af754.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1822492/000182249226000019/0001822492-26-000019-index.html",

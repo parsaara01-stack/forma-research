@@ -3,9 +3,9 @@
   "source_ticker": "IBRX",
   "name": "IMMUNITYBIO",
   "group": "Health Care",
-  "weight_percent": 0.13,
-  "holding_price": 10.0,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.12,
+  "holding_price": 9.18,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326110.json",
     "sha256": "d59606b59d6c96ee6b6e8c010479393fd4be764b67f4119ef70d3cefa5bfbc2d",
-    "retrieved_at": "2026-10-17T22:45:21.871583+00:00",
+    "retrieved_at": "2026-10-20T12:50:08.175267+00:00",
     "raw_path": "data/raw/d59606b59d6c96ee6b6e8c010479393fd4be764b67f4119ef70d3cefa5bfbc2d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000030/0001326110-26-000030-index.html",

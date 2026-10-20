@@ -4,8 +4,8 @@
   "name": "OUTDOOR HOLDING",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 2.15,
-  "price_date": "2026-10-15",
+  "holding_price": 2.18,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001015383.json",
     "sha256": "1895ad6f697ab27c4f444a243f16f0890bb67f8786001f87279e85a796257975",
-    "retrieved_at": "2026-10-17T22:52:42.732883+00:00",
+    "retrieved_at": "2026-10-20T12:55:48.293198+00:00",
     "raw_path": "data/raw/1895ad6f697ab27c4f444a243f16f0890bb67f8786001f87279e85a796257975.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1015383/000119312526276653/0001193125-26-276653-index.html",

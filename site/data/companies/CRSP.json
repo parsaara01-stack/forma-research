@@ -3,9 +3,9 @@
   "source_ticker": "CRSP",
   "name": "CRISPR THERAPEUTICS AG",
   "group": "Health Care",
-  "weight_percent": 0.16,
-  "holding_price": 51.52,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.15,
+  "holding_price": 49.25,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001674416.json",
     "sha256": "bb57dd5f2b124e21e027bdcf9d925a06e9aa25cb8b2e84515ef679c3b5c3c413",
-    "retrieved_at": "2026-10-17T22:44:57.034452+00:00",
+    "retrieved_at": "2026-10-20T12:49:43.363826+00:00",
     "raw_path": "data/raw/bb57dd5f2b124e21e027bdcf9d925a06e9aa25cb8b2e84515ef679c3b5c3c413.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526048957/0001193125-26-048957-index.html",

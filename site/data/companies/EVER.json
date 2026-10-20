@@ -4,8 +4,8 @@
   "name": "EVERQUOTE CLASS A",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 21.58,
-  "price_date": "2026-10-15",
+  "holding_price": 21.79,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001640428.json",
     "sha256": "b2d1e5f404286e1e076624e455a25e9634971575c968df1d790669556935c6be",
-    "retrieved_at": "2026-10-17T22:50:06.891569+00:00",
+    "retrieved_at": "2026-10-20T12:53:44.141546+00:00",
     "raw_path": "data/raw/b2d1e5f404286e1e076624e455a25e9634971575c968df1d790669556935c6be.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1640428/000119312526066957/0001193125-26-066957-index.html",

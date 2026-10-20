@@ -4,8 +4,8 @@
   "name": "GRAHAM HOLDINGS COMPANY CLASS B",
   "group": "Consumer Discretionary",
   "weight_percent": 0.13,
-  "holding_price": 1198.75,
-  "price_date": "2026-10-15",
+  "holding_price": 1203.26,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000104889.json",
     "sha256": "bec011f30e31806c1ca9a0df9f63f8fde8c1f8b1f259bae97f374140195e66cc",
-    "retrieved_at": "2026-10-17T22:45:23.878289+00:00",
+    "retrieved_at": "2026-10-20T12:50:01.050196+00:00",
     "raw_path": "data/raw/bec011f30e31806c1ca9a0df9f63f8fde8c1f8b1f259bae97f374140195e66cc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/104889/000162828026011405/0001628280-26-011405-index.html",

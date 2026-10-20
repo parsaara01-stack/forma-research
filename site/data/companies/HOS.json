@@ -4,8 +4,8 @@
   "name": "HORNBECK OFFSHORE SERVICES",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 6.72,
-  "price_date": "2026-10-15",
+  "holding_price": 6.85,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000866829.json",
     "sha256": "51047de53a1422c7f22754cc59c48f96f55ee07141509a5113cfcce22d34c304",
-    "retrieved_at": "2026-10-17T22:48:53.087551+00:00",
+    "retrieved_at": "2026-10-20T12:52:46.569773+00:00",
     "raw_path": "data/raw/51047de53a1422c7f22754cc59c48f96f55ee07141509a5113cfcce22d34c304.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/866829/000086682926000008/0000866829-26-000008-index.html",

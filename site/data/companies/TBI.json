@@ -4,8 +4,8 @@
   "name": "TRUEBLUE INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 8.54,
-  "price_date": "2026-10-15",
+  "holding_price": 8.28,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000768899.json",
     "sha256": "d4ad3ef2b74079b4f0f3b07b9f383b0bacd5edc6224ee0b595a65140ed5e360b",
-    "retrieved_at": "2026-10-17T22:52:22.059520+00:00",
+    "retrieved_at": "2026-10-20T12:55:34.952710+00:00",
     "raw_path": "data/raw/d4ad3ef2b74079b4f0f3b07b9f383b0bacd5edc6224ee0b595a65140ed5e360b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/768899/000076889926000009/0000768899-26-000009-index.html",

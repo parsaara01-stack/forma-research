@@ -4,8 +4,8 @@
   "name": "MIAMI INTERNATIONAL HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 30.87,
-  "price_date": "2026-10-15",
+  "holding_price": 30.95,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001438472.json",
     "sha256": "1666bef355370e0579295f4f9be6e024295527aec305c60e616a89dbcde1aa71",
-    "retrieved_at": "2026-10-17T22:46:27.623552+00:00",
+    "retrieved_at": "2026-10-20T12:50:47.680852+00:00",
     "raw_path": "data/raw/1666bef355370e0579295f4f9be6e024295527aec305c60e616a89dbcde1aa71.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1438472/000143847226000023/0001438472-26-000023-index.html",

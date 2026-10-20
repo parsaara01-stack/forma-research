@@ -4,8 +4,8 @@
   "name": "WESTAMERICA BANCORPORATION",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 60.9,
-  "price_date": "2026-10-15",
+  "holding_price": 61.28,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000311094.json",
     "sha256": "c7f9101d9c0c11d8b787c26abf012fb4fd2742339c95a7217961d9a7e4de3c58",
-    "retrieved_at": "2026-10-17T22:47:55.099508+00:00",
+    "retrieved_at": "2026-10-20T12:52:01.849786+00:00",
     "raw_path": "data/raw/c7f9101d9c0c11d8b787c26abf012fb4fd2742339c95a7217961d9a7e4de3c58.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/311094/000117184326001195/0001171843-26-001195-index.html",

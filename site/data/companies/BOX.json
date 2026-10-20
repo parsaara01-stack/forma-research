@@ -3,9 +3,9 @@
   "source_ticker": "BOX",
   "name": "BOX INC CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.18,
-  "holding_price": 39.48,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.19,
+  "holding_price": 39.56,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001372612.json",
     "sha256": "7db6f58b4571d237221682ee4e6b4797beda0b48b27e628f6b11ecc3e5285ac0",
-    "retrieved_at": "2026-10-17T22:44:41.227603+00:00",
+    "retrieved_at": "2026-10-20T12:49:27.193846+00:00",
     "raw_path": "data/raw/7db6f58b4571d237221682ee4e6b4797beda0b48b27e628f6b11ecc3e5285ac0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526098466/0001193125-26-098466-index.html",

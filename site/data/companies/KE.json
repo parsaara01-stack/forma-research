@@ -4,8 +4,8 @@
   "name": "KIMBALL ELECTRONICS INC",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 26.5,
-  "price_date": "2026-10-15",
+  "holding_price": 25.86,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001606757.json",
     "sha256": "b8e88ab098c147a94615a77dd7efb26ebdd22efc5bc3d4fe0571808e3d45c65e",
-    "retrieved_at": "2026-10-17T22:49:57.320009+00:00",
+    "retrieved_at": "2026-10-20T12:53:41.540372+00:00",
     "raw_path": "data/raw/b8e88ab098c147a94615a77dd7efb26ebdd22efc5bc3d4fe0571808e3d45c65e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1606757/000160675726000032/0001606757-26-000032-index.html",

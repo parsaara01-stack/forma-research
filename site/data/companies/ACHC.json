@@ -4,8 +4,8 @@
   "name": "ACADIA HEALTHCARE COMPANY",
   "group": "Health Care",
   "weight_percent": 0.1,
-  "holding_price": 31.04,
-  "price_date": "2026-10-15",
+  "holding_price": 29.98,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001520697.json",
     "sha256": "b1d48d703acb9cf3f60aaa852af3b91f4c463c554bf1a3d1bbf0ae55d0e977a3",
-    "retrieved_at": "2026-10-17T22:46:00.502382+00:00",
+    "retrieved_at": "2026-10-20T12:50:33.376948+00:00",
     "raw_path": "data/raw/b1d48d703acb9cf3f60aaa852af3b91f4c463c554bf1a3d1bbf0ae55d0e977a3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1520697/000119312526078266/0001193125-26-078266-index.html",

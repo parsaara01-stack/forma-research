@@ -4,8 +4,8 @@
   "name": "RIGETTI COMPUTING",
   "group": "Information Technology",
   "weight_percent": 0.14,
-  "holding_price": 12.63,
-  "price_date": "2026-10-15",
+  "holding_price": 11.8,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838359.json",
     "sha256": "114d08772eac9ea20b1a205d8f086ff07291b2731a5652997fa4286234b5cb77",
-    "retrieved_at": "2026-10-17T22:45:07.697521+00:00",
+    "retrieved_at": "2026-10-20T12:49:54.802894+00:00",
     "raw_path": "data/raw/114d08772eac9ea20b1a205d8f086ff07291b2731a5652997fa4286234b5cb77.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926023454/0001104659-26-023454-index.html",

@@ -4,8 +4,8 @@
   "name": "ACUMEN PHARMACEUTICALS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.67,
-  "price_date": "2026-10-15",
+  "holding_price": 1.69,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576885.json",
     "sha256": "08de987027426e8291dddc89db4572c4046a051c506d88877900df4015644a70",
-    "retrieved_at": "2026-10-17T22:54:09.572309+00:00",
+    "retrieved_at": "2026-10-20T12:57:00.818607+00:00",
     "raw_path": "data/raw/08de987027426e8291dddc89db4572c4046a051c506d88877900df4015644a70.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026021413/0001628280-26-021413-index.html",

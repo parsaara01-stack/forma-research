@@ -4,8 +4,8 @@
   "name": "HOME BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 65.87,
-  "price_date": "2026-10-15",
+  "holding_price": 65.9,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001436425.json",
     "sha256": "4f6a67cfbd96868b3a8dc0c6b8de2be71600dcecd140e73f70752e513361bd5d",
-    "retrieved_at": "2026-10-17T22:50:31.763627+00:00",
+    "retrieved_at": "2026-10-20T12:54:03.261074+00:00",
     "raw_path": "data/raw/4f6a67cfbd96868b3a8dc0c6b8de2be71600dcecd140e73f70752e513361bd5d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1436425/000162828026015669/0001628280-26-015669-index.html",

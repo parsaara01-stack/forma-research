@@ -4,8 +4,8 @@
   "name": "ACLARIS THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.49,
-  "price_date": "2026-10-15",
+  "holding_price": 3.28,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001557746.json",
     "sha256": "bd067eca359ab7483085dcfaa0c6599f7d43a04b28cd32e29ba3aeb93594e610",
-    "retrieved_at": "2026-10-17T22:51:05.226247+00:00",
+    "retrieved_at": "2026-10-20T12:54:38.229390+00:00",
     "raw_path": "data/raw/bd067eca359ab7483085dcfaa0c6599f7d43a04b28cd32e29ba3aeb93594e610.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926020540/0001104659-26-020540-index.html",

@@ -4,8 +4,8 @@
   "name": "STAGWELL CLASS A",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 9.13,
-  "price_date": "2026-10-15",
+  "holding_price": 8.98,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000876883.json",
     "sha256": "5ab5d1dfb9743f9093873734334e857e191a9d919c4f61ae334b6973b1030af0",
-    "retrieved_at": "2026-10-17T22:48:50.467913+00:00",
+    "retrieved_at": "2026-10-20T12:52:48.736563+00:00",
     "raw_path": "data/raw/5ab5d1dfb9743f9093873734334e857e191a9d919c4f61ae334b6973b1030af0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/876883/000087688326000010/0000876883-26-000010-index.html",

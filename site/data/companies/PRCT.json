@@ -4,8 +4,8 @@
   "name": "PROCEPT BIOROBOTICS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 18.15,
-  "price_date": "2026-10-15",
+  "holding_price": 17.57,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001588978.json",
     "sha256": "0609bb2901d15b3507aca8fe961cf4afdf613312a1e1313df0e97c6a800cb78f",
-    "retrieved_at": "2026-10-17T22:48:38.025595+00:00",
+    "retrieved_at": "2026-10-20T12:52:42.565819+00:00",
     "raw_path": "data/raw/0609bb2901d15b3507aca8fe961cf4afdf613312a1e1313df0e97c6a800cb78f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1588978/000158897826000009/0001588978-26-000009-index.html",

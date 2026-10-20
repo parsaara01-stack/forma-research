@@ -4,8 +4,8 @@
   "name": "ALTA EQUIPMENT GROUP INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 6.03,
-  "price_date": "2026-10-15",
+  "holding_price": 5.94,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759824.json",
     "sha256": "ace24a8434b9b36f916ca985fc142bd180f1fcb6ab7c72b277d42b531e732746",
-    "retrieved_at": "2026-10-17T22:53:46.577798+00:00",
+    "retrieved_at": "2026-10-20T12:56:40.284441+00:00",
     "raw_path": "data/raw/ace24a8434b9b36f916ca985fc142bd180f1fcb6ab7c72b277d42b531e732746.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526076932/0001193125-26-076932-index.html",

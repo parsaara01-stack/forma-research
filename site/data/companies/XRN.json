@@ -4,8 +4,8 @@
   "name": "CHIRON REAL ESTATE INC",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 31.33,
-  "price_date": "2026-10-15",
+  "holding_price": 30.34,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001533615.json",
     "sha256": "89782e1e5ebfe1e389027e00d7b17e7cc3463412438f37f9813789e4f86cb3bd",
-    "retrieved_at": "2026-10-17T22:51:08.387443+00:00",
+    "retrieved_at": "2026-10-20T12:54:38.448348+00:00",
     "raw_path": "data/raw/89782e1e5ebfe1e389027e00d7b17e7cc3463412438f37f9813789e4f86cb3bd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926021956/0001104659-26-021956-index.html",

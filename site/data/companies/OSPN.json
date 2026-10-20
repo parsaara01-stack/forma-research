@@ -4,8 +4,8 @@
   "name": "ONESPAN",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 17.87,
-  "price_date": "2026-10-15",
+  "holding_price": 17.5,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001044777.json",
     "sha256": "32ae5cead11923f18383af7d37bf117c61daa6e2b1c7b512d1b66f2543cef06d",
-    "retrieved_at": "2026-10-17T22:49:42.768659+00:00",
+    "retrieved_at": "2026-10-20T12:53:30.174081+00:00",
     "raw_path": "data/raw/32ae5cead11923f18383af7d37bf117c61daa6e2b1c7b512d1b66f2543cef06d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1044777/000104477726000008/0001044777-26-000008-index.html",

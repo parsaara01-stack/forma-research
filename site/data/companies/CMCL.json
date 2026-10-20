@@ -4,11 +4,11 @@
   "name": "CALEDONIA MINING PLC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 23.7,
-  "price_date": "2026-10-15",
+  "holding_price": 23.54,
+  "price_date": "2026-10-16",
   "exchange": "Nyse Mkt Llc",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

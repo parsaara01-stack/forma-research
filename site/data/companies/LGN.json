@@ -4,8 +4,8 @@
   "name": "LEGENCE CLASS A",
   "group": "Industrials",
   "weight_percent": 0.09,
-  "holding_price": 45.3,
-  "price_date": "2026-10-15",
+  "holding_price": 43.53,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002052568.json",
     "sha256": "f741ad9dfa2c51c165cbba35c18103515af81b37868a97945ecc6e216dd10535",
-    "retrieved_at": "2026-10-17T22:46:15.475793+00:00",
+    "retrieved_at": "2026-10-20T12:50:43.462085+00:00",
     "raw_path": "data/raw/f741ad9dfa2c51c165cbba35c18103515af81b37868a97945ecc6e216dd10535.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2052568/000205256826000008/0002052568-26-000008-index.html",

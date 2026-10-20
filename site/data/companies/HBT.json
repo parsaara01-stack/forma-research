@@ -4,8 +4,8 @@
   "name": "HBT FINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 35.37,
-  "price_date": "2026-10-15",
+  "holding_price": 35.58,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000775215.json",
     "sha256": "8788545253622ce2cec863c16e6877ce8817017cee5bce8e027fdd38c8b70123",
-    "retrieved_at": "2026-10-17T22:50:06.991801+00:00",
+    "retrieved_at": "2026-10-20T12:53:44.679979+00:00",
     "raw_path": "data/raw/8788545253622ce2cec863c16e6877ce8817017cee5bce8e027fdd38c8b70123.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000025/0000775215-26-000025-index.html",

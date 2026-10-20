@@ -4,8 +4,8 @@
   "name": "KINGSWAY CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 9.71,
-  "price_date": "2026-10-15",
+  "holding_price": 9.59,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001072627.json",
     "sha256": "3afc9575c1a3b01458632e6053b9c420a4d7c826ddcea591c849dfd937088c1e",
-    "retrieved_at": "2026-10-17T22:52:49.431189+00:00",
+    "retrieved_at": "2026-10-20T12:55:56.456968+00:00",
     "raw_path": "data/raw/3afc9575c1a3b01458632e6053b9c420a4d7c826ddcea591c849dfd937088c1e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1072627/000143774926007961/0001437749-26-007961-index.html",

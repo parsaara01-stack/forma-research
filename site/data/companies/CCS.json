@@ -4,8 +4,8 @@
   "name": "CENTURY COMMUNITIES INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.05,
-  "holding_price": 55.55,
-  "price_date": "2026-10-15",
+  "holding_price": 54.59,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576940.json",
     "sha256": "fd3a5e39a132d14028ff891663c14a18f5d1ab291c84a21fa2cb8bde10c87e2f",
-    "retrieved_at": "2026-10-17T22:47:52.939350+00:00",
+    "retrieved_at": "2026-10-20T12:52:02.810637+00:00",
     "raw_path": "data/raw/fd3a5e39a132d14028ff891663c14a18f5d1ab291c84a21fa2cb8bde10c87e2f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1576940/000157694026000005/0001576940-26-000005-index.html",

@@ -4,8 +4,8 @@
   "name": "908 DEVICES",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 11.89,
-  "price_date": "2026-10-15",
+  "holding_price": 11.26,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001555279.json",
     "sha256": "d6b5a68b4068f10415d76a42c9caa07443783d8041cf5a7f86d4c1c7afea3162",
-    "retrieved_at": "2026-10-17T22:51:24.233530+00:00",
+    "retrieved_at": "2026-10-20T12:54:53.401587+00:00",
     "raw_path": "data/raw/d6b5a68b4068f10415d76a42c9caa07443783d8041cf5a7f86d4c1c7afea3162.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1555279/000110465926024877/0001104659-26-024877-index.html",

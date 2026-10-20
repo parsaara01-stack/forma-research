@@ -4,8 +4,8 @@
   "name": "NEUMORA THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 0.43,
-  "price_date": "2026-10-15",
+  "holding_price": 0.47,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001885522.json",
     "sha256": "744d61a9d79a54eed83a2f1a976860f50e18dad7263c747c141007a85fc8f73d",
-    "retrieved_at": "2026-10-17T22:54:22.011489+00:00",
+    "retrieved_at": "2026-10-20T12:57:10.921881+00:00",
     "raw_path": "data/raw/744d61a9d79a54eed83a2f1a976860f50e18dad7263c747c141007a85fc8f73d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526130388/0001193125-26-130388-index.html",

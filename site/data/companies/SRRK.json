@@ -4,8 +4,8 @@
   "name": "SCHOLAR ROCK HOLDING",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 40.64,
-  "price_date": "2026-10-15",
+  "holding_price": 39.9,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001727196.json",
     "sha256": "2cfd80eefa6d5f8a025406bff820e2d16cd3c0a90bdf6d89a228afc5f6710aec",
-    "retrieved_at": "2026-10-17T22:45:00.010391+00:00",
+    "retrieved_at": "2026-10-20T12:49:42.069403+00:00",
     "raw_path": "data/raw/2cfd80eefa6d5f8a025406bff820e2d16cd3c0a90bdf6d89a228afc5f6710aec.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1727196/000110465926022551/0001104659-26-022551-index.html",

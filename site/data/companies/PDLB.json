@@ -4,8 +4,8 @@
   "name": "PONCE FINANCIAL GROUP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 20.18,
-  "price_date": "2026-10-15",
+  "holding_price": 20.13,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001874071.json",
     "sha256": "8442b231dc6864e5f02addb20d7e898bb5700d89a7c97e483e36e3491b089bde",
-    "retrieved_at": "2026-10-17T22:51:14.638582+00:00",
+    "retrieved_at": "2026-10-20T12:54:39.530803+00:00",
     "raw_path": "data/raw/8442b231dc6864e5f02addb20d7e898bb5700d89a7c97e483e36e3491b089bde.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1874071/000119312526104610/0001193125-26-104610-index.html",

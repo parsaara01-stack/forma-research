@@ -4,8 +4,8 @@
   "name": "HUCKLEBERRY AI INC CLASS B",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 3.21,
-  "price_date": "2026-10-15",
+  "holding_price": 3.09,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001505952.json",
     "sha256": "dbe72071d927a7f34e2f5851cf698c1d63871c6a6a679a786437cfeb943e0717",
-    "retrieved_at": "2026-10-17T22:53:43.043002+00:00",
+    "retrieved_at": "2026-10-20T12:56:38.553355+00:00",
     "raw_path": "data/raw/dbe72071d927a7f34e2f5851cf698c1d63871c6a6a679a786437cfeb943e0717.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026025356/0001628280-26-025356-index.html",

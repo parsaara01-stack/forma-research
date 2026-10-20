@@ -4,8 +4,8 @@
   "name": "3D SYSTEMS CORP",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 2.96,
-  "price_date": "2026-10-15",
+  "holding_price": 2.76,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910638.json",
     "sha256": "5d899ad29681369f47fdaa81bcda3d15d5a8c721f851bd161a0b4872f12cb1da",
-    "retrieved_at": "2026-10-17T22:50:39.735577+00:00",
+    "retrieved_at": "2026-10-20T12:54:21.031064+00:00",
     "raw_path": "data/raw/5d899ad29681369f47fdaa81bcda3d15d5a8c721f851bd161a0b4872f12cb1da.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/910638/000162828026015997/0001628280-26-015997-index.html",

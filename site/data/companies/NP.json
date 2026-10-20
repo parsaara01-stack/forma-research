@@ -4,8 +4,8 @@
   "name": "NEPTUNE INSURANCE HOLDINGS CLASS A",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 29.45,
-  "price_date": "2026-10-15",
+  "holding_price": 29.36,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002067129.json",
     "sha256": "ef785d89209d738f9c2c8a2b76d4c23b40c49ab9ef599f764c3c366507f9500c",
-    "retrieved_at": "2026-10-17T22:48:22.152805+00:00",
+    "retrieved_at": "2026-10-20T12:52:25.473925+00:00",
     "raw_path": "data/raw/ef785d89209d738f9c2c8a2b76d4c23b40c49ab9ef599f764c3c366507f9500c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2067129/000206712926000007/0002067129-26-000007-index.html",

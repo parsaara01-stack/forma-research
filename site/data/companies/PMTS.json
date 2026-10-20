@@ -4,8 +4,8 @@
   "name": "CPI CARD GROUP INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 25.7,
-  "price_date": "2026-10-15",
+  "holding_price": 24.82,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001641614.json",
     "sha256": "8ab8dd982fb1757354bad95212575af1942bb2790ba7e4553b544ee83a2955c3",
-    "retrieved_at": "2026-10-17T22:52:39.242222+00:00",
+    "retrieved_at": "2026-10-20T12:55:50.527456+00:00",
     "raw_path": "data/raw/8ab8dd982fb1757354bad95212575af1942bb2790ba7e4553b544ee83a2955c3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1641614/000110465926023812/0001104659-26-023812-index.html",

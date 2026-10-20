@@ -4,8 +4,8 @@
   "name": "PBF ENERGY CLASS A",
   "group": "Energy",
   "weight_percent": 0.29,
-  "holding_price": 86.99,
-  "price_date": "2026-10-15",
+  "holding_price": 84.52,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001534504.json",
     "sha256": "69c9bdf88f9a7c83a019dfca96c725bb5d1c87432e403174c7ff8f8a38deb39f",
-    "retrieved_at": "2026-10-17T22:43:04.110045+00:00",
+    "retrieved_at": "2026-10-20T12:49:09.257919+00:00",
     "raw_path": "data/raw/69c9bdf88f9a7c83a019dfca96c725bb5d1c87432e403174c7ff8f8a38deb39f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1534504/000153450426000010/0001534504-26-000010-index.html",

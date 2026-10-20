@@ -4,8 +4,8 @@
   "name": "ENOVIS CORP",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 19.35,
-  "price_date": "2026-10-15",
+  "holding_price": 19.59,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001420800.json",
     "sha256": "30695d80f5c10a5f3e1b252f068dfadfadcce9ffad25e80eb721d0e6e98a726b",
-    "retrieved_at": "2026-10-17T22:48:24.641659+00:00",
+    "retrieved_at": "2026-10-20T12:52:26.056116+00:00",
     "raw_path": "data/raw/30695d80f5c10a5f3e1b252f068dfadfadcce9ffad25e80eb721d0e6e98a726b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1420800/000142080026000012/0001420800-26-000012-index.html",

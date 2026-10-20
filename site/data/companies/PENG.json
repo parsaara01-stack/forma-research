@@ -3,9 +3,9 @@
   "source_ticker": "PENG",
   "name": "PENGUIN SOLUTIONS INC",
   "group": "Information Technology",
-  "weight_percent": 0.11,
-  "holding_price": 61.86,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.1,
+  "holding_price": 57.1,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001616533.json",
     "sha256": "7f49ae1db8700690e6ea142ddafad7a524e5ab04b5a49e16e5be72bd82ebaca6",
-    "retrieved_at": "2026-10-17T22:45:50.766915+00:00",
+    "retrieved_at": "2026-10-20T12:50:29.224988+00:00",
     "raw_path": "data/raw/7f49ae1db8700690e6ea142ddafad7a524e5ab04b5a49e16e5be72bd82ebaca6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653325000061/0001616533-25-000061-index.html",

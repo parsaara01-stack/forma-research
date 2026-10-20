@@ -4,8 +4,8 @@
   "name": "FLUOR CORP",
   "group": "Industrials",
   "weight_percent": 0.23,
-  "holding_price": 47.67,
-  "price_date": "2026-10-15",
+  "holding_price": 46.95,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001124198.json",
     "sha256": "d95ff1e1b83b2c2eb0e71be688e654e88203a12beacc376192c63862c58a50a9",
-    "retrieved_at": "2026-10-17T22:43:33.977231+00:00",
+    "retrieved_at": "2026-10-20T12:49:16.514093+00:00",
     "raw_path": "data/raw/d95ff1e1b83b2c2eb0e71be688e654e88203a12beacc376192c63862c58a50a9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1124198/000112419826000007/0001124198-26-000007-index.html",

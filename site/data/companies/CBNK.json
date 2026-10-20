@@ -4,8 +4,8 @@
   "name": "CAPITAL BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 39.43,
-  "price_date": "2026-10-15",
+  "holding_price": 39.59,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001419536.json",
     "sha256": "8633c12acd1db8ca6d29e300496996ef76f45d59323d8e61c8bf391ba9387d9f",
-    "retrieved_at": "2026-10-17T22:50:51.701266+00:00",
+    "retrieved_at": "2026-10-20T12:54:19.340360+00:00",
     "raw_path": "data/raw/8633c12acd1db8ca6d29e300496996ef76f45d59323d8e61c8bf391ba9387d9f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000073/0001419536-26-000073-index.html",

@@ -4,8 +4,8 @@
   "name": "ESCALADE INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 18.7,
-  "price_date": "2026-10-15",
+  "holding_price": 18.49,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000033488.json",
     "sha256": "f0b273ef39613dc4cb996411d1f5e4b9f87aff6ff95ed75199c10c69ca40735d",
-    "retrieved_at": "2026-10-17T22:53:19.909378+00:00",
+    "retrieved_at": "2026-10-20T12:56:18.870651+00:00",
     "raw_path": "data/raw/f0b273ef39613dc4cb996411d1f5e4b9f87aff6ff95ed75199c10c69ca40735d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/33488/000143774926006094/0001437749-26-006094-index.html",

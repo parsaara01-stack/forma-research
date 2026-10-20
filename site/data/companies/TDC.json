@@ -4,8 +4,8 @@
   "name": "TERADATA",
   "group": "Information Technology",
   "weight_percent": 0.1,
-  "holding_price": 31.26,
-  "price_date": "2026-10-15",
+  "holding_price": 30.36,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000816761.json",
     "sha256": "cffc82d9502cd61e186cc6466a763e5d81858151a20d693df4383ffe9b75ba67",
-    "retrieved_at": "2026-10-17T22:45:56.219553+00:00",
+    "retrieved_at": "2026-10-20T12:50:27.738811+00:00",
     "raw_path": "data/raw/cffc82d9502cd61e186cc6466a763e5d81858151a20d693df4383ffe9b75ba67.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/816761/000162828026012671/0001628280-26-012671-index.html",

@@ -4,8 +4,8 @@
   "name": "SCHOLASTIC",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 38.65,
-  "price_date": "2026-10-15",
+  "holding_price": 37.67,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000866729.json",
     "sha256": "fdb4a5cfc92572febc8c7279d5c0b35f208d94bce8fda8a09c4042fdbe577795",
-    "retrieved_at": "2026-10-17T22:50:25.604781+00:00",
+    "retrieved_at": "2026-10-20T12:54:02.392106+00:00",
     "raw_path": "data/raw/fdb4a5cfc92572febc8c7279d5c0b35f208d94bce8fda8a09c4042fdbe577795.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/866729/000086672926000018/0000866729-26-000018-index.html",

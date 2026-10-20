@@ -4,8 +4,8 @@
   "name": "FUTUREFUEL CORP",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 5.65,
-  "price_date": "2026-10-15",
+  "holding_price": 5.58,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001337298.json",
     "sha256": "7a4cc846d39d772c15c5a5a76b09ea27b0ab385f721f09e9a503ff6ac4c13b23",
-    "retrieved_at": "2026-10-17T22:53:23.993976+00:00",
+    "retrieved_at": "2026-10-20T12:56:22.802887+00:00",
     "raw_path": "data/raw/7a4cc846d39d772c15c5a5a76b09ea27b0ab385f721f09e9a503ff6ac4c13b23.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1337298/000143774926008411/0001437749-26-008411-index.html",

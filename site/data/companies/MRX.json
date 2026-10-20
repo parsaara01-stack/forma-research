@@ -4,11 +4,11 @@
   "name": "MAREX GROUP LTD",
   "group": "Financials",
   "weight_percent": 0.15,
-  "holding_price": 72.3,
-  "price_date": "2026-10-15",
+  "holding_price": 70.5,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

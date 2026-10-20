@@ -4,8 +4,8 @@
   "name": "INSEEGO",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 4.15,
-  "price_date": "2026-10-15",
+  "holding_price": 4.12,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001022652.json",
     "sha256": "26e4c2068b795ad6852ce69b1e84dcff1804ad70581b4a47d4dc45c8d518c9f5",
-    "retrieved_at": "2026-10-17T22:54:17.609997+00:00",
+    "retrieved_at": "2026-10-20T12:57:07.749355+00:00",
     "raw_path": "data/raw/26e4c2068b795ad6852ce69b1e84dcff1804ad70581b4a47d4dc45c8d518c9f5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1022652/000102265226000005/0001022652-26-000005-index.html",

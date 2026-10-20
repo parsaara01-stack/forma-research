@@ -4,8 +4,8 @@
   "name": "GULFPORT ENERGY",
   "group": "Energy",
   "weight_percent": 0.09,
-  "holding_price": 163.75,
-  "price_date": "2026-10-15",
+  "holding_price": 166.0,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000874499.json",
     "sha256": "7a83327ab85cbe204792b6c8b22f453e47d47d12f8b78e01f2a5b069c56848cd",
-    "retrieved_at": "2026-10-17T22:46:18.067146+00:00",
+    "retrieved_at": "2026-10-20T12:50:40.272322+00:00",
     "raw_path": "data/raw/7a83327ab85cbe204792b6c8b22f453e47d47d12f8b78e01f2a5b069c56848cd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/874499/000162828026011487/0001628280-26-011487-index.html",

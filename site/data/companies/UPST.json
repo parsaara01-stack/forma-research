@@ -4,8 +4,8 @@
   "name": "UPSTART HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 24.75,
-  "price_date": "2026-10-15",
+  "holding_price": 23.56,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001647639.json",
     "sha256": "98112710e99795498fe45623236729dc083c9405cf0d3361f3f1e20a44b0d579",
-    "retrieved_at": "2026-10-17T22:46:51.412564+00:00",
+    "retrieved_at": "2026-10-20T12:51:12.079859+00:00",
     "raw_path": "data/raw/98112710e99795498fe45623236729dc083c9405cf0d3361f3f1e20a44b0d579.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000027/0001647639-26-000027-index.html",

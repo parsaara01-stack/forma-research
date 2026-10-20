@@ -4,8 +4,8 @@
   "name": "NETGEAR",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 22.31,
-  "price_date": "2026-10-15",
+  "holding_price": 22.05,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001122904.json",
     "sha256": "49d3035533de2358d3acc42c82b9043e25b8208ad6f18a75df05cdaf10c54c91",
-    "retrieved_at": "2026-10-17T22:50:13.535399+00:00",
+    "retrieved_at": "2026-10-20T12:53:52.097219+00:00",
     "raw_path": "data/raw/49d3035533de2358d3acc42c82b9043e25b8208ad6f18a75df05cdaf10c54c91.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1122904/000119312526051346/0001193125-26-051346-index.html",

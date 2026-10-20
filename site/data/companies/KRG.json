@@ -3,9 +3,9 @@
   "source_ticker": "KRG",
   "name": "KITE REALTY GROUP TRUST REIT",
   "group": "Real Estate",
-  "weight_percent": 0.17,
-  "holding_price": 24.52,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.18,
+  "holding_price": 24.61,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001286043.json",
     "sha256": "73b26b93a48168e1633f0ba33b447c50dfcd1ec02b3276255ee98e6f3d143973",
-    "retrieved_at": "2026-10-17T22:44:44.597120+00:00",
+    "retrieved_at": "2026-10-20T12:49:30.265465+00:00",
     "raw_path": "data/raw/73b26b93a48168e1633f0ba33b447c50dfcd1ec02b3276255ee98e6f3d143973.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000009/0001286043-26-000009-index.html",

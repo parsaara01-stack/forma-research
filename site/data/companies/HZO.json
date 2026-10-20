@@ -4,8 +4,8 @@
   "name": "MARINEMAX INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.04,
-  "holding_price": 52.35,
-  "price_date": "2026-10-15",
+  "holding_price": 52.37,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001057060.json",
     "sha256": "41069dfbb55eae57160318c65f84e42815b1531cdfea065c6ee9d2c526f95c34",
-    "retrieved_at": "2026-10-17T22:48:34.250523+00:00",
+    "retrieved_at": "2026-10-20T12:52:35.390860+00:00",
     "raw_path": "data/raw/41069dfbb55eae57160318c65f84e42815b1531cdfea065c6ee9d2c526f95c34.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1057060/000119312525284680/0001193125-25-284680-index.html",

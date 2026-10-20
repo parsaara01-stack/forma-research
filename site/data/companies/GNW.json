@@ -4,8 +4,8 @@
   "name": "GENWORTH FINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 8.94,
-  "price_date": "2026-10-15",
+  "holding_price": 9.07,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001276520.json",
     "sha256": "2b6d25fa03535c8ffe9f28a6f0105b191e206a908e8de274b94f8542fd4008fb",
-    "retrieved_at": "2026-10-17T22:45:44.697807+00:00",
+    "retrieved_at": "2026-10-20T12:50:14.091899+00:00",
     "raw_path": "data/raw/2b6d25fa03535c8ffe9f28a6f0105b191e206a908e8de274b94f8542fd4008fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1276520/000162828026012828/0001628280-26-012828-index.html",

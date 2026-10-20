@@ -4,8 +4,8 @@
   "name": "SPROUT SOCIAL CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 11.57,
-  "price_date": "2026-10-15",
+  "holding_price": 11.28,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001517375.json",
     "sha256": "19817b86c758f2ea137550a257a2fd5be5d346714144e2046c4a46706e32f2c9",
-    "retrieved_at": "2026-10-17T22:49:59.285099+00:00",
+    "retrieved_at": "2026-10-20T12:53:43.076124+00:00",
     "raw_path": "data/raw/19817b86c758f2ea137550a257a2fd5be5d346714144e2046c4a46706e32f2c9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1517375/000151737526000015/0001517375-26-000015-index.html",

@@ -4,8 +4,8 @@
   "name": "ST JOE",
   "group": "Real Estate",
   "weight_percent": 0.09,
-  "holding_price": 67.75,
-  "price_date": "2026-10-15",
+  "holding_price": 68.41,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745308.json",
     "sha256": "e0a333cf44fb84e6b2c0b36e6ed3d5476c8c589a444d521b1715120a1e7cedc7",
-    "retrieved_at": "2026-10-17T22:46:17.210828+00:00",
+    "retrieved_at": "2026-10-20T12:50:39.509957+00:00",
     "raw_path": "data/raw/e0a333cf44fb84e6b2c0b36e6ed3d5476c8c589a444d521b1715120a1e7cedc7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926019676/0001104659-26-019676-index.html",

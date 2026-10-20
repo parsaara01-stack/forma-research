@@ -4,8 +4,8 @@
   "name": "ROGERS",
   "group": "Information Technology",
   "weight_percent": 0.08,
-  "holding_price": 137.78,
-  "price_date": "2026-10-15",
+  "holding_price": 133.37,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000084748.json",
     "sha256": "a5c0b164f4a5776c91c209a9441400974b61365c58182e8be0145762435edb76",
-    "retrieved_at": "2026-10-17T22:46:22.581561+00:00",
+    "retrieved_at": "2026-10-20T12:50:49.166344+00:00",
     "raw_path": "data/raw/a5c0b164f4a5776c91c209a9441400974b61365c58182e8be0145762435edb76.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/84748/000008474826000007/0000084748-26-000007-index.html",

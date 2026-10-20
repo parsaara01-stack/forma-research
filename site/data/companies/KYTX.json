@@ -4,8 +4,8 @@
   "name": "KYVERNA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 5.97,
-  "price_date": "2026-10-15",
+  "holding_price": 5.67,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001994702.json",
     "sha256": "e3a9d4fead95b594ab9ebaedcee0f9b6962e0ff5a252aa0186e5785c98116ab3",
-    "retrieved_at": "2026-10-17T22:52:19.156380+00:00",
+    "retrieved_at": "2026-10-20T12:55:36.233703+00:00",
     "raw_path": "data/raw/e3a9d4fead95b594ab9ebaedcee0f9b6962e0ff5a252aa0186e5785c98116ab3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526126242/0001193125-26-126242-index.html",

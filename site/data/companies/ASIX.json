@@ -4,8 +4,8 @@
   "name": "ADVANSIX",
   "group": "Materials",
   "weight_percent": 0.02,
-  "holding_price": 16.5,
-  "price_date": "2026-10-15",
+  "holding_price": 16.37,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001673985.json",
     "sha256": "c2040bae3a3a917124e9fd60d5553f49f637894b6f20d02a24265c7f3d631e88",
-    "retrieved_at": "2026-10-17T22:50:49.890242+00:00",
+    "retrieved_at": "2026-10-20T12:54:20.173192+00:00",
     "raw_path": "data/raw/c2040bae3a3a917124e9fd60d5553f49f637894b6f20d02a24265c7f3d631e88.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000008/0001673985-26-000008-index.html",

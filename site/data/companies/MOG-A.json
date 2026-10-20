@@ -3,9 +3,9 @@
   "source_ticker": "MOG A",
   "name": "MOOG INC CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.35,
-  "holding_price": 365.14,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.36,
+  "holding_price": 368.6,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067887.json",
     "sha256": "bbf825f5300a07b773285e187399b8574935e9ab4bffe6a7b6fd67531c5f5a48",
-    "retrieved_at": "2026-10-17T22:42:56.123279+00:00",
+    "retrieved_at": "2026-10-20T12:49:06.472822+00:00",
     "raw_path": "data/raw/bbf825f5300a07b773285e187399b8574935e9ab4bffe6a7b6fd67531c5f5a48.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828025054103/0001628280-25-054103-index.html",

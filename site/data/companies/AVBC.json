@@ -4,8 +4,8 @@
   "name": "AVIDIA BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 21.83,
-  "price_date": "2026-10-15",
+  "holding_price": 21.96,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002058758.json",
     "sha256": "a198ff09dea31b924303746820827955ea6401a1eea03ae9a68e67d2f9079b55",
-    "retrieved_at": "2026-10-17T22:51:22.760505+00:00",
+    "retrieved_at": "2026-10-20T12:54:42.788395+00:00",
     "raw_path": "data/raw/a198ff09dea31b924303746820827955ea6401a1eea03ae9a68e67d2f9079b55.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526129221/0001193125-26-129221-index.html",

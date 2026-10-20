@@ -1,11 +1,11 @@
 {
   "ticker": "MBWM",
   "source_ticker": "MBWM",
-  "name": "MERCANTILE BANK CORP",
+  "name": "MERCANTILE BANK",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 58.32,
-  "price_date": "2026-10-15",
+  "holding_price": 58.61,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001042729.json",
     "sha256": "d62bff26f5483442d8fb9f17f9bac4e7f5487298f927b9cb69c90fdb553224a1",
-    "retrieved_at": "2026-10-17T22:48:29.831066+00:00",
+    "retrieved_at": "2026-10-20T12:52:30.286864+00:00",
     "raw_path": "data/raw/d62bff26f5483442d8fb9f17f9bac4e7f5487298f927b9cb69c90fdb553224a1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1042729/000143774926005997/0001437749-26-005997-index.html",

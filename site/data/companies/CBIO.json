@@ -4,8 +4,8 @@
   "name": "CRESCENT BIOPHARMA",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 12.48,
-  "price_date": "2026-10-15",
+  "holding_price": 11.84,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001253689.json",
     "sha256": "b4a6cd55809d9037713a6469afddaa482d358690abc0227f51b6714b6bda1dce",
-    "retrieved_at": "2026-10-17T22:51:32.014956+00:00",
+    "retrieved_at": "2026-10-20T12:54:58.756248+00:00",
     "raw_path": "data/raw/b4a6cd55809d9037713a6469afddaa482d358690abc0227f51b6714b6bda1dce.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1253689/000162828026011983/0001628280-26-011983-index.html",

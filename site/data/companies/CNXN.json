@@ -1,11 +1,11 @@
 {
   "ticker": "CNXN",
   "source_ticker": "CNXN",
-  "name": "PC CONNECTION INC",
+  "name": "PC CONNECTION",
   "group": "Information Technology",
   "weight_percent": 0.04,
-  "holding_price": 90.82,
-  "price_date": "2026-10-15",
+  "holding_price": 89.32,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001050377.json",
     "sha256": "91b3ebef46ad78ff01a9d59baf414b8c9aa429f7a2fb87a05d5ff4818e74979e",
-    "retrieved_at": "2026-10-17T22:48:32.997444+00:00",
+    "retrieved_at": "2026-10-20T12:52:36.607539+00:00",
     "raw_path": "data/raw/91b3ebef46ad78ff01a9d59baf414b8c9aa429f7a2fb87a05d5ff4818e74979e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1050377/000110465926019108/0001104659-26-019108-index.html",

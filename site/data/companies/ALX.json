@@ -4,8 +4,8 @@
   "name": "ALEXANDERS REIT INC",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 234.68,
-  "price_date": "2026-10-15",
+  "holding_price": 233.66,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000003499.json",
     "sha256": "d6a17335bc2923657aeed802162404e4e0746fe690b1714e532614a444eabc7e",
-    "retrieved_at": "2026-10-17T22:50:26.855518+00:00",
+    "retrieved_at": "2026-10-20T12:54:00.781159+00:00",
     "raw_path": "data/raw/d6a17335bc2923657aeed802162404e4e0746fe690b1714e532614a444eabc7e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/3499/000000349926000005/0000003499-26-000005-index.html",

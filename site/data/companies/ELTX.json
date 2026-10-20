@@ -4,8 +4,8 @@
   "name": "ELICIO THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.78,
-  "price_date": "2026-10-15",
+  "holding_price": 1.56,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601485.json",
     "sha256": "4658ce667672a29d8217f92b7294115160c0f599bb2841d4ee3a3278d5255354",
-    "retrieved_at": "2026-10-17T22:54:27.841867+00:00",
+    "retrieved_at": "2026-10-20T12:57:17.610671+00:00",
     "raw_path": "data/raw/4658ce667672a29d8217f92b7294115160c0f599bb2841d4ee3a3278d5255354.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1601485/000160148526000027/0001601485-26-000027-index.html",

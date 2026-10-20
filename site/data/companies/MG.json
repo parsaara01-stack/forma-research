@@ -4,8 +4,8 @@
   "name": "MISTRAS GROUP INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 20.67,
-  "price_date": "2026-10-15",
+  "holding_price": 21.46,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001436126.json",
     "sha256": "c38cc2e3553a7ed30c7c2e5dd3652d2e14b96ee055e5e31ed7f60ff4d965adf3",
-    "retrieved_at": "2026-10-17T22:51:28.373217+00:00",
+    "retrieved_at": "2026-10-20T12:54:43.244863+00:00",
     "raw_path": "data/raw/c38cc2e3553a7ed30c7c2e5dd3652d2e14b96ee055e5e31ed7f60ff4d965adf3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1436126/000162828026016765/0001628280-26-016765-index.html",

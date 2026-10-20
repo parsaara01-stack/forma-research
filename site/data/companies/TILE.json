@@ -4,8 +4,8 @@
   "name": "INTERFACE",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 35.95,
-  "price_date": "2026-10-15",
+  "holding_price": 36.23,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000715787.json",
     "sha256": "063c5529d363a6bd1c5fb5bb71b15ae0d412765bd9ef9bda4947d448c959e62a",
-    "retrieved_at": "2026-10-17T22:46:53.893631+00:00",
+    "retrieved_at": "2026-10-20T12:51:09.048459+00:00",
     "raw_path": "data/raw/063c5529d363a6bd1c5fb5bb71b15ae0d412765bd9ef9bda4947d448c959e62a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/715787/000071578726000006/0000715787-26-000006-index.html",

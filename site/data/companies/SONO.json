@@ -4,8 +4,8 @@
   "name": "SONOS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.07,
-  "holding_price": 17.69,
-  "price_date": "2026-10-15",
+  "holding_price": 17.34,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001314727.json",
     "sha256": "9f4da571f0f6ed548be9a5c9393cf5edf0cc0f0bff6539ac1394242f2a5d6a77",
-    "retrieved_at": "2026-10-17T22:46:54.353631+00:00",
+    "retrieved_at": "2026-10-20T12:51:12.323812+00:00",
     "raw_path": "data/raw/9f4da571f0f6ed548be9a5c9393cf5edf0cc0f0bff6539ac1394242f2a5d6a77.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1314727/000131472725000090/0001314727-25-000090-index.html",

@@ -4,8 +4,8 @@
   "name": "REPLIMUNE GROUP",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 11.75,
-  "price_date": "2026-10-15",
+  "holding_price": 10.86,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001737953.json",
     "sha256": "feae2f47fe80b8756ef5bf9d11d7d36e794261d2f52cd6ebf7262c01c0b0e3fb",
-    "retrieved_at": "2026-10-17T22:48:50.935428+00:00",
+    "retrieved_at": "2026-10-20T12:52:58.157737+00:00",
     "raw_path": "data/raw/feae2f47fe80b8756ef5bf9d11d7d36e794261d2f52cd6ebf7262c01c0b0e3fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1737953/000162828026045886/0001628280-26-045886-index.html",

@@ -4,8 +4,8 @@
   "name": "PRIVIA HEALTH GROUP INC",
   "group": "Health Care",
   "weight_percent": 0.09,
-  "holding_price": 22.62,
-  "price_date": "2026-10-15",
+  "holding_price": 22.52,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759655.json",
     "sha256": "3d55748ec8c53649c687e758ca6f12ca9f5a430b8cc3b37591c26465903370ab",
-    "retrieved_at": "2026-10-17T22:46:11.210598+00:00",
+    "retrieved_at": "2026-10-20T12:50:37.963541+00:00",
     "raw_path": "data/raw/3d55748ec8c53649c687e758ca6f12ca9f5a430b8cc3b37591c26465903370ab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1759655/000175965526000010/0001759655-26-000010-index.html",

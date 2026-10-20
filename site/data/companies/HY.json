@@ -4,8 +4,8 @@
   "name": "HYSTER YALE INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 30.1,
-  "price_date": "2026-10-15",
+  "holding_price": 29.21,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001173514.json",
     "sha256": "af4dad0e1d94492ab07a2d8ebeb619109e34370c4906fffbcb80b157042d173b",
-    "retrieved_at": "2026-10-17T22:51:37.525630+00:00",
+    "retrieved_at": "2026-10-20T12:54:59.919886+00:00",
     "raw_path": "data/raw/af4dad0e1d94492ab07a2d8ebeb619109e34370c4906fffbcb80b157042d173b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1173514/000117351426000049/0001173514-26-000049-index.html",

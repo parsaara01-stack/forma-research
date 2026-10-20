@@ -4,8 +4,8 @@
   "name": "ELEDON PHARMACEUTICALS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 2.27,
-  "price_date": "2026-10-15",
+  "holding_price": 2.13,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001404281.json",
     "sha256": "4f5cc5be1669d2394918add4693809b2004c1033ce5e8c4625a2a4da5c2f19a1",
-    "retrieved_at": "2026-10-17T22:53:07.496642+00:00",
+    "retrieved_at": "2026-10-20T12:56:16.058133+00:00",
     "raw_path": "data/raw/4f5cc5be1669d2394918add4693809b2004c1033ce5e8c4625a2a4da5c2f19a1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1404281/000119312526116164/0001193125-26-116164-index.html",

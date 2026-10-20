@@ -4,8 +4,8 @@
   "name": "LANTRONIX INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 5.85,
-  "price_date": "2026-10-15",
+  "holding_price": 5.61,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001114925.json",
     "sha256": "774f11a2affee774e433082548859292a0f049ce6ab865b9abf06a3e8d46fb6f",
-    "retrieved_at": "2026-10-17T22:52:36.559688+00:00",
+    "retrieved_at": "2026-10-20T12:55:50.856317+00:00",
     "raw_path": "data/raw/774f11a2affee774e433082548859292a0f049ce6ab865b9abf06a3e8d46fb6f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1114925/000168316826006754/0001683168-26-006754-index.html",

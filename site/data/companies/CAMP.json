@@ -4,8 +4,8 @@
   "name": "CAMP4 THERAPEUTICS CORP",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 3.45,
-  "price_date": "2026-10-15",
+  "holding_price": 3.17,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001736730.json",
     "sha256": "976b2813d19f35735ac5a379d72d4e02ef605440543d13665088de838976868c",
-    "retrieved_at": "2026-10-17T22:53:59.650091+00:00",
+    "retrieved_at": "2026-10-20T12:56:54.320208+00:00",
     "raw_path": "data/raw/976b2813d19f35735ac5a379d72d4e02ef605440543d13665088de838976868c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1736730/000173673026000016/0001736730-26-000016-index.html",

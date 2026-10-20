@@ -4,8 +4,8 @@
   "name": "DESIGN THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 10.48,
-  "price_date": "2026-10-15",
+  "holding_price": 10.31,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001807120.json",
     "sha256": "17e755cf4dc3ba9be3535a65aea0e4914677f8625c9662e22a7556c5fd4c086a",
-    "retrieved_at": "2026-10-17T22:51:41.718004+00:00",
+    "retrieved_at": "2026-10-20T12:55:02.046462+00:00",
     "raw_path": "data/raw/17e755cf4dc3ba9be3535a65aea0e4914677f8625c9662e22a7556c5fd4c086a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1807120/000119312526098491/0001193125-26-098491-index.html",

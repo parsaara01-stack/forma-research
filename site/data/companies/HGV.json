@@ -4,8 +4,8 @@
   "name": "HILTON GRAND VACATIONS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.08,
-  "holding_price": 36.03,
-  "price_date": "2026-10-15",
+  "holding_price": 35.44,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001674168.json",
     "sha256": "e55ebf44c6793af65ee612a59784db4fe88cd61c5475f93d65cb0806ab75c46d",
-    "retrieved_at": "2026-10-17T22:46:45.176319+00:00",
+    "retrieved_at": "2026-10-20T12:51:04.054875+00:00",
     "raw_path": "data/raw/e55ebf44c6793af65ee612a59784db4fe88cd61c5475f93d65cb0806ab75c46d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1674168/000167416826000017/0001674168-26-000017-index.html",

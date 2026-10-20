@@ -3,9 +3,9 @@
   "source_ticker": "LARK",
   "name": "LANDMARK BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.0,
-  "holding_price": 31.55,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.01,
+  "holding_price": 31.51,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001141688.json",
     "sha256": "97d6ad1b67fe93954abd36283c7a10d720805f4ce92d91a832d20241e9b891c3",
-    "retrieved_at": "2026-10-17T22:53:29.219453+00:00",
+    "retrieved_at": "2026-10-20T12:56:26.177968+00:00",
     "raw_path": "data/raw/97d6ad1b67fe93954abd36283c7a10d720805f4ce92d91a832d20241e9b891c3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1141688/000149315226016495/0001493152-26-016495-index.html",

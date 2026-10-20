@@ -4,8 +4,8 @@
   "name": "TREVI THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 12.11,
-  "price_date": "2026-10-15",
+  "holding_price": 11.88,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001563880.json",
     "sha256": "c77ee339b1ec2eee829ed5933743e8b340cee184f1a69e432d33c9af83ae2098",
-    "retrieved_at": "2026-10-17T22:48:00.471361+00:00",
+    "retrieved_at": "2026-10-20T12:52:09.067888+00:00",
     "raw_path": "data/raw/c77ee339b1ec2eee829ed5933743e8b340cee184f1a69e432d33c9af83ae2098.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1563880/000119312526110783/0001193125-26-110783-index.html",

@@ -4,8 +4,8 @@
   "name": "HAMILTON BEACH BRANDS HOLDING COMP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 34.31,
-  "price_date": "2026-10-15",
+  "holding_price": 33.85,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001709164.json",
     "sha256": "b977e7960bb09f13ba6f52d4f470159a9296fac838750aabca9910b65ee95900",
-    "retrieved_at": "2026-10-17T22:52:16.473050+00:00",
+    "retrieved_at": "2026-10-20T12:55:29.598632+00:00",
     "raw_path": "data/raw/b977e7960bb09f13ba6f52d4f470159a9296fac838750aabca9910b65ee95900.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1709164/000170916426000037/0001709164-26-000037-index.html",

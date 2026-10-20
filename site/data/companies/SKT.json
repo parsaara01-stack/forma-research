@@ -4,11 +4,11 @@
   "name": "TANGER",
   "group": "Real Estate",
   "weight_percent": 0.14,
-  "holding_price": 35.31,
-  "price_date": "2026-10-15",
+  "holding_price": 35.43,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-17"
+  "refresh_error": "No supported annual facts by 2026-10-20"
 }

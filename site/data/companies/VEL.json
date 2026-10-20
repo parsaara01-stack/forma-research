@@ -4,8 +4,8 @@
   "name": "VELOCITY FINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 14.81,
-  "price_date": "2026-10-15",
+  "holding_price": 14.71,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001692376.json",
     "sha256": "981db4c9982beee7941c9777fa9b60444f723a005442cb49d3102ce4f3b6a650",
-    "retrieved_at": "2026-10-17T22:53:02.976480+00:00",
+    "retrieved_at": "2026-10-20T12:56:06.218543+00:00",
     "raw_path": "data/raw/981db4c9982beee7941c9777fa9b60444f723a005442cb49d3102ce4f3b6a650.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1692376/000119312526102677/0001193125-26-102677-index.html",

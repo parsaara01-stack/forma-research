@@ -4,8 +4,8 @@
   "name": "PJT PARTNERS CLASS A",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 136.12,
-  "price_date": "2026-10-15",
+  "holding_price": 137.21,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001626115.json",
     "sha256": "c1fe6e1d5d525f4c0301c37c45b974174eceabc4ef04048212fd7981ccc61604",
-    "retrieved_at": "2026-10-17T22:45:35.503570+00:00",
+    "retrieved_at": "2026-10-20T12:50:09.554669+00:00",
     "raw_path": "data/raw/c1fe6e1d5d525f4c0301c37c45b974174eceabc4ef04048212fd7981ccc61604.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1626115/000119312526076969/0001193125-26-076969-index.html",

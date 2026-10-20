@@ -4,8 +4,8 @@
   "name": "8X8 INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 2.07,
-  "price_date": "2026-10-15",
+  "holding_price": 1.94,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001023731.json",
     "sha256": "f31e98d48a91a1a1ad1abdc40f0df1f2d9f94c8cf698ac737dac46bf6565a32c",
-    "retrieved_at": "2026-10-17T22:51:59.718449+00:00",
+    "retrieved_at": "2026-10-20T12:55:22.453827+00:00",
     "raw_path": "data/raw/f31e98d48a91a1a1ad1abdc40f0df1f2d9f94c8cf698ac737dac46bf6565a32c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000041/0001023731-26-000041-index.html",

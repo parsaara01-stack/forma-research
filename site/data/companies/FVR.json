@@ -4,8 +4,8 @@
   "name": "FRONTVIEW REIT",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 17.1,
-  "price_date": "2026-10-15",
+  "holding_price": 17.15,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001988494.json",
     "sha256": "7e4d0e4ee55b4eb58359b0ebe12a395b75ef1b6b7e9be7ccf010fe5c3d28b875",
-    "retrieved_at": "2026-10-17T22:51:46.618312+00:00",
+    "retrieved_at": "2026-10-20T12:55:03.398671+00:00",
     "raw_path": "data/raw/7e4d0e4ee55b4eb58359b0ebe12a395b75ef1b6b7e9be7ccf010fe5c3d28b875.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526072181/0001193125-26-072181-index.html",

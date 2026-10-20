@@ -4,8 +4,8 @@
   "name": "LIBERTY ENERGY CLASS A",
   "group": "Energy",
   "weight_percent": 0.09,
-  "holding_price": 16.7,
-  "price_date": "2026-10-15",
+  "holding_price": 16.6,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001694028.json",
     "sha256": "dfe12783b48b21e6de5924294b21ce18cade90be7401ee18b1f4de44c88976db",
-    "retrieved_at": "2026-10-17T22:46:11.949047+00:00",
+    "retrieved_at": "2026-10-20T12:50:39.024412+00:00",
     "raw_path": "data/raw/dfe12783b48b21e6de5924294b21ce18cade90be7401ee18b1f4de44c88976db.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000006/0001694028-26-000006-index.html",

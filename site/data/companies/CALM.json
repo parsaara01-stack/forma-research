@@ -4,8 +4,8 @@
   "name": "CAL MAINE FOODS",
   "group": "Consumer Staples",
   "weight_percent": 0.1,
-  "holding_price": 63.59,
-  "price_date": "2026-10-15",
+  "holding_price": 63.65,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000016160.json",
     "sha256": "d2d1a3c63d108b1da5c5af95b361cfc14653a0bb971b9e7f5e7d547ce49dfb4a",
-    "retrieved_at": "2026-10-17T22:46:04.855601+00:00",
+    "retrieved_at": "2026-10-20T12:50:32.080990+00:00",
     "raw_path": "data/raw/d2d1a3c63d108b1da5c5af95b361cfc14653a0bb971b9e7f5e7d547ce49dfb4a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000080/0001562762-26-000080-index.html",

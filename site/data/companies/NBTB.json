@@ -4,8 +4,8 @@
   "name": "NBT BANCORP",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 50.71,
-  "price_date": "2026-10-15",
+  "holding_price": 50.85,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000790359.json",
     "sha256": "a3ca4cd88104e5391c71e3c365067d886a7b9ad4c319f0f8b81ee87fbb579d9d",
-    "retrieved_at": "2026-10-17T22:46:15.412940+00:00",
+    "retrieved_at": "2026-10-20T12:50:39.449677+00:00",
     "raw_path": "data/raw/a3ca4cd88104e5391c71e3c365067d886a7b9ad4c319f0f8b81ee87fbb579d9d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/790359/000114036126007179/0001140361-26-007179-index.html",

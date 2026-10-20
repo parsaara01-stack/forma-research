@@ -4,8 +4,8 @@
   "name": "RED ROCK RESORTS ORS CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.08,
-  "holding_price": 50.48,
-  "price_date": "2026-10-15",
+  "holding_price": 49.28,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001653653.json",
     "sha256": "88a64759523a34c8a94bd49d645017f8ef54c2cff383db79ecc834283a869e40",
-    "retrieved_at": "2026-10-17T22:46:27.658756+00:00",
+    "retrieved_at": "2026-10-20T12:50:52.905525+00:00",
     "raw_path": "data/raw/88a64759523a34c8a94bd49d645017f8ef54c2cff383db79ecc834283a869e40.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1653653/000165365326000004/0001653653-26-000004-index.html",

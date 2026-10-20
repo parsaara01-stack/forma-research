@@ -4,8 +4,8 @@
   "name": "GERON",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 1.23,
-  "price_date": "2026-10-15",
+  "holding_price": 1.17,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000886744.json",
     "sha256": "86c2aec8b184d9c7d99f96c159c9a6bd2d0fc2f8eb010ce9dd13de758ec07712",
-    "retrieved_at": "2026-10-17T22:49:43.557125+00:00",
+    "retrieved_at": "2026-10-20T12:53:37.174653+00:00",
     "raw_path": "data/raw/86c2aec8b184d9c7d99f96c159c9a6bd2d0fc2f8eb010ce9dd13de758ec07712.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/886744/000088674426000008/0000886744-26-000008-index.html",

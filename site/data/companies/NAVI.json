@@ -4,8 +4,8 @@
   "name": "NAVIENT",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 9.56,
-  "price_date": "2026-10-15",
+  "holding_price": 9.28,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001593538.json",
     "sha256": "58d9f9857c6fe3b61b76a7b0e7dc588c7cb782729be5c5dcdff436f06f7fdca2",
-    "retrieved_at": "2026-10-17T22:49:59.878504+00:00",
+    "retrieved_at": "2026-10-20T12:53:43.361151+00:00",
     "raw_path": "data/raw/58d9f9857c6fe3b61b76a7b0e7dc588c7cb782729be5c5dcdff436f06f7fdca2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1593538/000119312526076753/0001193125-26-076753-index.html",

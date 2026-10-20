@@ -4,8 +4,8 @@
   "name": "AEVA TECHNOLOGIES",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 10.99,
-  "price_date": "2026-10-15",
+  "holding_price": 10.03,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001789029.json",
     "sha256": "3c26fec72a719c9a491f4c239e60639e5cfddaf1e795cccd25ac674f23f3f480",
-    "retrieved_at": "2026-10-17T22:51:11.089256+00:00",
+    "retrieved_at": "2026-10-20T12:54:50.167976+00:00",
     "raw_path": "data/raw/3c26fec72a719c9a491f4c239e60639e5cfddaf1e795cccd25ac674f23f3f480.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1789029/000119312526116518/0001193125-26-116518-index.html",

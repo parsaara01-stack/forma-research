@@ -4,8 +4,8 @@
   "name": "PUMA BIOTECHNOLOGY INC",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 10.52,
-  "price_date": "2026-10-15",
+  "holding_price": 9.83,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001401667.json",
     "sha256": "4b2b449f06e175eebf840b512ad515ef71296ad006f32415c1f427849828bc3d",
-    "retrieved_at": "2026-10-17T22:50:38.490339+00:00",
+    "retrieved_at": "2026-10-20T12:54:19.850947+00:00",
     "raw_path": "data/raw/4b2b449f06e175eebf840b512ad515ef71296ad006f32415c1f427849828bc3d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1401667/000143774926005891/0001437749-26-005891-index.html",

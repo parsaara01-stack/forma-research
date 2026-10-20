@@ -4,8 +4,8 @@
   "name": "ADC THERAPEUTICS LTD",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 1.49,
-  "price_date": "2026-10-15",
+  "holding_price": 1.4,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001771910.json",
     "sha256": "be21fbcb263f7107bfa82b6dbe3dc5cfd8b04ce8fdd22a4e11c940599a394319",
-    "retrieved_at": "2026-10-17T22:53:22.544315+00:00",
+    "retrieved_at": "2026-10-20T12:56:24.435340+00:00",
     "raw_path": "data/raw/be21fbcb263f7107bfa82b6dbe3dc5cfd8b04ce8fdd22a4e11c940599a394319.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1771910/000162828026016491/0001628280-26-016491-index.html",

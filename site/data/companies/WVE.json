@@ -4,8 +4,8 @@
   "name": "WAVE LIFE SCIENCES INC",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 3.19,
-  "price_date": "2026-10-15",
+  "holding_price": 3.13,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001631574.json",
     "sha256": "1ad5098fd78c00bad2a5f0182b438a6e07dbc37f5ad556ac2cbf843dc9b606f7",
-    "retrieved_at": "2026-10-17T22:50:52.512569+00:00",
+    "retrieved_at": "2026-10-20T12:54:23.654949+00:00",
     "raw_path": "data/raw/1ad5098fd78c00bad2a5f0182b438a6e07dbc37f5ad556ac2cbf843dc9b606f7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1631574/000119312526073472/0001193125-26-073472-index.html",

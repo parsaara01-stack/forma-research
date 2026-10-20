@@ -4,8 +4,8 @@
   "name": "UNITI GROUP INC",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 6.0,
-  "price_date": "2026-10-15",
+  "holding_price": 5.6,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002020795.json",
     "sha256": "a8f347035f8cfe2673ae7b0d5f3b338634c14033d9d204d22681047f916a4240",
-    "retrieved_at": "2026-10-17T22:48:36.279739+00:00",
+    "retrieved_at": "2026-10-20T12:52:45.924404+00:00",
     "raw_path": "data/raw/a8f347035f8cfe2673ae7b0d5f3b338634c14033d9d204d22681047f916a4240.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2020795/000162828026013196/0001628280-26-013196-index.html",

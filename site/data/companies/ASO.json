@@ -3,9 +3,9 @@
   "source_ticker": "ASO",
   "name": "ACADEMY SPORTS AND OUTDOORS",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.12,
-  "holding_price": 58.47,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.13,
+  "holding_price": 58.63,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001817358.json",
     "sha256": "44f4e0b6eb3a4696e1a7a4be4d87803809d7216ded9a060e40fe0a20431d3aa9",
-    "retrieved_at": "2026-10-17T22:45:29.106127+00:00",
+    "retrieved_at": "2026-10-20T12:50:03.486146+00:00",
     "raw_path": "data/raw/44f4e0b6eb3a4696e1a7a4be4d87803809d7216ded9a060e40fe0a20431d3aa9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1817358/000181735826000031/0001817358-26-000031-index.html",

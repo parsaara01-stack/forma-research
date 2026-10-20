@@ -4,8 +4,8 @@
   "name": "DRIVEN BRANDS HOLDINGS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 11.96,
-  "price_date": "2026-10-15",
+  "holding_price": 11.92,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001804745.json",
     "sha256": "0552217011466177da968ba706ab01cee62fb683499e8532951bffd363e7bcdf",
-    "retrieved_at": "2026-10-17T22:49:36.716969+00:00",
+    "retrieved_at": "2026-10-20T12:53:22.484183+00:00",
     "raw_path": "data/raw/0552217011466177da968ba706ab01cee62fb683499e8532951bffd363e7bcdf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1804745/000180474526000048/0001804745-26-000048-index.html",

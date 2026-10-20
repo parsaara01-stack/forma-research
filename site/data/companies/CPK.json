@@ -4,8 +4,8 @@
   "name": "CHESAPEAKE UTILITIES",
   "group": "Utilities",
   "weight_percent": 0.11,
-  "holding_price": 130.66,
-  "price_date": "2026-10-15",
+  "holding_price": 132.18,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000019745.json",
     "sha256": "ee40194ac32591b341c3d3b5a95fc1331ca2c98acf31e8783abee1338a277b71",
-    "retrieved_at": "2026-10-17T22:45:49.894479+00:00",
+    "retrieved_at": "2026-10-20T12:50:19.215753+00:00",
     "raw_path": "data/raw/ee40194ac32591b341c3d3b5a95fc1331ca2c98acf31e8783abee1338a277b71.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/19745/000162828026011753/0001628280-26-011753-index.html",

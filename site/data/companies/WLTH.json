@@ -3,9 +3,9 @@
   "source_ticker": "WLTH",
   "name": "WEALTHFRONT",
   "group": "Financials",
-  "weight_percent": 0.04,
-  "holding_price": 11.18,
-  "price_date": "2026-10-15",
+  "weight_percent": 0.03,
+  "holding_price": 10.63,
+  "price_date": "2026-10-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001524566.json",
     "sha256": "6ea66eb4e6d21fcd7364ac1bfa8b8e3534ec5bf4606a71feef8af3c0ce1fa0af",
-    "retrieved_at": "2026-10-17T22:48:33.144187+00:00",
+    "retrieved_at": "2026-10-20T12:52:40.669866+00:00",
     "raw_path": "data/raw/6ea66eb4e6d21fcd7364ac1bfa8b8e3534ec5bf4606a71feef8af3c0ce1fa0af.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1524566/000162828026027232/0001628280-26-027232-index.html",

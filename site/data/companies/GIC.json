@@ -4,8 +4,8 @@
   "name": "GLOBAL INDUSTRIAL",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 44.06,
-  "price_date": "2026-10-15",
+  "holding_price": 44.15,
+  "price_date": "2026-10-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-17",
+  "observation_cutoff": "2026-10-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000945114.json",
     "sha256": "a4341390f8c5c154f631034dad6afbf60190b28302560e08363a0c1b7296e612",
-    "retrieved_at": "2026-10-17T22:49:50.040834+00:00",
+    "retrieved_at": "2026-10-20T12:53:31.905183+00:00",
     "raw_path": "data/raw/a4341390f8c5c154f631034dad6afbf60190b28302560e08363a0c1b7296e612.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/945114/000162828026012945/0001628280-26-012945-index.html",
