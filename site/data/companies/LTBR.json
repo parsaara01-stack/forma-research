@@ -4,8 +4,8 @@
   "name": "LIGHTBRIDGE",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 5.21,
-  "price_date": "2026-10-16",
+  "holding_price": 5.41,
+  "price_date": "2026-10-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

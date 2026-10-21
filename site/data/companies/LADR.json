@@ -3,9 +3,9 @@
   "source_ticker": "LADR",
   "name": "LADDER CAPITAL CORP CLASS A",
   "group": "Financials",
-  "weight_percent": 0.04,
-  "holding_price": 9.11,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.03,
+  "holding_price": 8.83,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {

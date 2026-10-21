@@ -3,9 +3,9 @@
   "source_ticker": "ACMR",
   "name": "ACM RESEARCH CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.1,
-  "holding_price": 53.1,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.11,
+  "holding_price": 56.09,
+  "price_date": "2026-10-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

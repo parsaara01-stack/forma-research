@@ -4,8 +4,8 @@
   "name": "BRC INC CLASS A",
   "group": "Consumer Staples",
   "weight_percent": 0.0,
-  "holding_price": 10.09,
-  "price_date": "2026-10-16",
+  "holding_price": 10.0,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

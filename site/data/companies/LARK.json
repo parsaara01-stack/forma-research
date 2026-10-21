@@ -3,9 +3,9 @@
   "source_ticker": "LARK",
   "name": "LANDMARK BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 31.51,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.0,
+  "holding_price": 31.24,
+  "price_date": "2026-10-19",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

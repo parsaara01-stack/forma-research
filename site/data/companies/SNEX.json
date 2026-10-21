@@ -3,9 +3,9 @@
   "source_ticker": "SNEX",
   "name": "STONEX GROUP INC",
   "group": "Financials",
-  "weight_percent": 0.22,
-  "holding_price": 57.16,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.21,
+  "holding_price": 56.3,
+  "price_date": "2026-10-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

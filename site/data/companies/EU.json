@@ -4,8 +4,8 @@
   "name": "ENCORE ENERGY",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 0.83,
-  "price_date": "2026-10-16",
+  "holding_price": 0.8,
+  "price_date": "2026-10-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

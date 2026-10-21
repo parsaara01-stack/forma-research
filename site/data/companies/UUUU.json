@@ -3,9 +3,9 @@
   "source_ticker": "UUUU",
   "name": "ENERGY FUELS",
   "group": "Energy",
-  "weight_percent": 0.08,
-  "holding_price": 8.47,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.07,
+  "holding_price": 8.16,
+  "price_date": "2026-10-19",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {

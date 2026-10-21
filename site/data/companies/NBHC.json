@@ -4,8 +4,8 @@
   "name": "NATIONAL BANK HOLDINGS CORP CLASS",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 37.92,
-  "price_date": "2026-10-16",
+  "holding_price": 37.5,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

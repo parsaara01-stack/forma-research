@@ -4,8 +4,8 @@
   "name": "MFA FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 6.59,
-  "price_date": "2026-10-16",
+  "holding_price": 6.41,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

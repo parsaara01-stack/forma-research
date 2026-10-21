@@ -1,11 +1,11 @@
 {
   "ticker": "COTY",
   "source_ticker": "COTY",
-  "name": "COTY INC CLASS A",
+  "name": "COTY CLASS A",
   "group": "Consumer Staples",
   "weight_percent": 0.04,
-  "holding_price": 3.2,
-  "price_date": "2026-10-16",
+  "holding_price": 3.19,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

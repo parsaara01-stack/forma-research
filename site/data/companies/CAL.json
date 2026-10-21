@@ -3,9 +3,9 @@
   "source_ticker": "CAL",
   "name": "CALERES INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.02,
-  "holding_price": 12.98,
-  "price_date": "2026-10-16",
+  "weight_percent": 0.01,
+  "holding_price": 12.75,
+  "price_date": "2026-10-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
