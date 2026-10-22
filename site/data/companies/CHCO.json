@@ -3,9 +3,9 @@
   "source_ticker": "CHCO",
   "name": "CITY HOLDING",
   "group": "Financials",
-  "weight_percent": 0.07,
-  "holding_price": 140.79,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.06,
+  "holding_price": 142.1,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "EVGO",
   "name": "EVGO INC CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.0,
-  "holding_price": 1.06,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.01,
+  "holding_price": 1.1,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

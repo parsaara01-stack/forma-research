@@ -3,9 +3,9 @@
   "source_ticker": "SRCE",
   "name": "1ST SOURCE",
   "group": "Financials",
-  "weight_percent": 0.06,
-  "holding_price": 85.23,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.05,
+  "holding_price": 86.38,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {

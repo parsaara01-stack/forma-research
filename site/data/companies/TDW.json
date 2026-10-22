@@ -4,8 +4,8 @@
   "name": "TIDEWATER",
   "group": "Energy",
   "weight_percent": 0.14,
-  "holding_price": 80.81,
-  "price_date": "2026-10-19",
+  "holding_price": 80.6,
+  "price_date": "2026-10-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

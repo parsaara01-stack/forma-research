@@ -4,8 +4,8 @@
   "name": "WESBANCO",
   "group": "Financials",
   "weight_percent": 0.13,
-  "holding_price": 37.05,
-  "price_date": "2026-10-19",
+  "holding_price": 37.63,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

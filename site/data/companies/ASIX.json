@@ -3,9 +3,9 @@
   "source_ticker": "ASIX",
   "name": "ADVANSIX",
   "group": "Materials",
-  "weight_percent": 0.02,
-  "holding_price": 16.05,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.01,
+  "holding_price": 15.85,
+  "price_date": "2026-10-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

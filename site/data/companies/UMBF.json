@@ -3,9 +3,9 @@
   "source_ticker": "UMBF",
   "name": "UMB FINANCIAL",
   "group": "Financials",
-  "weight_percent": 0.33,
-  "holding_price": 129.65,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.34,
+  "holding_price": 133.09,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

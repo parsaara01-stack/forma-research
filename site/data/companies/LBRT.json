@@ -3,9 +3,9 @@
   "source_ticker": "LBRT",
   "name": "LIBERTY ENERGY CLASS A",
   "group": "Energy",
-  "weight_percent": 0.1,
-  "holding_price": 17.09,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.09,
+  "holding_price": 16.58,
+  "price_date": "2026-10-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

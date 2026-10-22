@@ -1,11 +1,11 @@
 {
   "ticker": "DNTH",
   "source_ticker": "DNTH",
-  "name": "DIANTHUS THERAPEUTICS INC",
+  "name": "DIANTHUS THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.12,
-  "holding_price": 74.54,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.13,
+  "holding_price": 78.75,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

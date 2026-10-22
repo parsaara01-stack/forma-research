@@ -3,9 +3,9 @@
   "source_ticker": "ABR",
   "name": "ARBOR REALTY TRUST REIT",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 2.67,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.02,
+  "holding_price": 2.89,
+  "price_date": "2026-10-20",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {

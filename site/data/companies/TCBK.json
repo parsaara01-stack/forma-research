@@ -3,9 +3,9 @@
   "source_ticker": "TCBK",
   "name": "TRICO BANCSHARES",
   "group": "Financials",
-  "weight_percent": 0.06,
-  "holding_price": 51.92,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.05,
+  "holding_price": 52.87,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "FRME",
   "name": "FIRST MERCHANTS",
   "group": "Financials",
-  "weight_percent": 0.09,
-  "holding_price": 39.38,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.08,
+  "holding_price": 40.11,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

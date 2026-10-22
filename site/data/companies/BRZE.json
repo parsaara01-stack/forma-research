@@ -3,9 +3,9 @@
   "source_ticker": "BRZE",
   "name": "BRAZE CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.1,
-  "holding_price": 30.04,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.15,
+  "holding_price": 45.57,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

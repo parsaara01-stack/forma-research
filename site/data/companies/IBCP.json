@@ -3,9 +3,9 @@
   "source_ticker": "IBCP",
   "name": "INDEPENDENT BANK CORP",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 35.61,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.03,
+  "holding_price": 36.33,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

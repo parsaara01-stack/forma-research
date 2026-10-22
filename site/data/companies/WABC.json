@@ -3,9 +3,9 @@
   "source_ticker": "WABC",
   "name": "WESTAMERICA BANCORPORATION",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 60.1,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.04,
+  "holding_price": 61.0,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

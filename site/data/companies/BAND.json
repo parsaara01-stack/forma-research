@@ -3,9 +3,9 @@
   "source_ticker": "BAND",
   "name": "BANDWIDTH CLASS A",
   "group": "Communication",
-  "weight_percent": 0.04,
-  "holding_price": 43.5,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.05,
+  "holding_price": 44.71,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

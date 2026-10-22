@@ -4,8 +4,8 @@
   "name": "PBF ENERGY CLASS A",
   "group": "Energy",
   "weight_percent": 0.28,
-  "holding_price": 81.26,
-  "price_date": "2026-10-19",
+  "holding_price": 83.0,
+  "price_date": "2026-10-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

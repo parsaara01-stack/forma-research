@@ -4,8 +4,8 @@
   "name": "USCB FINANCIAL HOLDINGS INC CLASS",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 22.24,
-  "price_date": "2026-10-19",
+  "holding_price": 22.49,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

@@ -3,9 +3,9 @@
   "source_ticker": "ACTG",
   "name": "ACACIA RESEARCH",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 4.17,
-  "price_date": "2026-10-19",
+  "weight_percent": 0.0,
+  "holding_price": 4.2,
+  "price_date": "2026-10-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
