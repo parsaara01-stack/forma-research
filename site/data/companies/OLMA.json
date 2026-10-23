@@ -4,8 +4,8 @@
   "name": "OLEMA PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 7.25,
-  "price_date": "2026-10-20",
+  "holding_price": 7.05,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001750284.json",
     "sha256": "da65fa393546d9e828e1cb762081d6acb4e811c6139402448811b8c592a3be4a",
-    "retrieved_at": "2026-10-20T12:54:02.035626+00:00",
+    "retrieved_at": "2026-10-23T12:47:47.042766+00:00",
     "raw_path": "data/raw/da65fa393546d9e828e1cb762081d6acb4e811c6139402448811b8c592a3be4a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1750284/000119312526107169/0001193125-26-107169-index.html",

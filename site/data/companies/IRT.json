@@ -4,8 +4,8 @@
   "name": "INDEPENDENCE REALTY",
   "group": "Real Estate",
   "weight_percent": 0.12,
-  "holding_price": 14.85,
-  "price_date": "2026-10-20",
+  "holding_price": 14.82,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001466085.json",
     "sha256": "cee7d72e70087779805ecfe973458adafdb92cad720b5483a8d3249e3e977813",
-    "retrieved_at": "2026-10-20T12:50:06.312399+00:00",
+    "retrieved_at": "2026-10-23T12:43:50.377136+00:00",
     "raw_path": "data/raw/cee7d72e70087779805ecfe973458adafdb92cad720b5483a8d3249e3e977813.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926004376/0001437749-26-004376-index.html",

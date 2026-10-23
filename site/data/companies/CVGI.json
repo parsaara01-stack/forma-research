@@ -4,8 +4,8 @@
   "name": "COMMERCIAL VEHICLE GROUP INC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 2.76,
-  "price_date": "2026-10-20",
+  "holding_price": 2.86,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001290900.json",
     "sha256": "29101ffdeba19e533687795baec7bb0c444a1e73ab36a38ba7d25eb7a7319bb3",
-    "retrieved_at": "2026-10-20T12:56:49.635066+00:00",
+    "retrieved_at": "2026-10-23T12:50:41.929742+00:00",
     "raw_path": "data/raw/29101ffdeba19e533687795baec7bb0c444a1e73ab36a38ba7d25eb7a7319bb3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1290900/000162828026016520/0001628280-26-016520-index.html",

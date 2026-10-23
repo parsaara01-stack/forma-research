@@ -4,8 +4,8 @@
   "name": "DIAMONDROCK HOSPITALITY",
   "group": "Real Estate",
   "weight_percent": 0.1,
-  "holding_price": 13.79,
-  "price_date": "2026-10-20",
+  "holding_price": 13.94,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001298946.json",
     "sha256": "ce1fd98bdb580d64f6d4311e7d7aa60f7c5aa6164028aeec95952ae8c3d0ddee",
-    "retrieved_at": "2026-10-20T12:50:33.864414+00:00",
+    "retrieved_at": "2026-10-23T12:44:14.642469+00:00",
     "raw_path": "data/raw/ce1fd98bdb580d64f6d4311e7d7aa60f7c5aa6164028aeec95952ae8c3d0ddee.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1298946/000129894626000013/0001298946-26-000013-index.html",

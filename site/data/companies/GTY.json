@@ -4,8 +4,8 @@
   "name": "GETTY REALTY REIT",
   "group": "Real Estate",
   "weight_percent": 0.06,
-  "holding_price": 28.04,
-  "price_date": "2026-10-20",
+  "holding_price": 27.47,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001052752.json",
-    "sha256": "0ab853313432a0afafcbd187c59fbe33dfa2fa7d5d2dbc1481db45bde5301d1b",
-    "retrieved_at": "2026-10-20T12:51:37.567381+00:00",
-    "raw_path": "data/raw/0ab853313432a0afafcbd187c59fbe33dfa2fa7d5d2dbc1481db45bde5301d1b.json.gz"
+    "sha256": "d76dbe39dd400407b357ac9ab1c7788bd5d6dd6352b1c6e0c4c936c8b84412e6",
+    "retrieved_at": "2026-10-23T12:45:29.200562+00:00",
+    "raw_path": "data/raw/d76dbe39dd400407b357ac9ab1c7788bd5d6dd6352b1c6e0c4c936c8b84412e6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312526048965/0001193125-26-048965-index.html",
   "earnings": {

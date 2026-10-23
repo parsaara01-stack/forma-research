@@ -4,8 +4,8 @@
   "name": "HUNTSMAN CORP",
   "group": "Materials",
   "weight_percent": 0.05,
-  "holding_price": 8.34,
-  "price_date": "2026-10-20",
+  "holding_price": 8.23,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001307954.json",
     "sha256": "9ce9f70cf4f63bd203cd4974f1cbde6a62f9f91b122ede6060c00e535aa2612d",
-    "retrieved_at": "2026-10-20T12:51:56.926655+00:00",
+    "retrieved_at": "2026-10-23T12:45:49.638653+00:00",
     "raw_path": "data/raw/9ce9f70cf4f63bd203cd4974f1cbde6a62f9f91b122ede6060c00e535aa2612d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1307954/000143774926004524/0001437749-26-004524-index.html",

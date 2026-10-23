@@ -4,8 +4,8 @@
   "name": "NATIONAL PRESTO INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 149.25,
-  "price_date": "2026-10-20",
+  "holding_price": 150.11,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000080172.json",
     "sha256": "0f512e8670882f4d201d24252e31ab457f512be1aa6ac9b7243d3b8ec820e19f",
-    "retrieved_at": "2026-10-20T12:53:07.804683+00:00",
+    "retrieved_at": "2026-10-23T12:46:53.298937+00:00",
     "raw_path": "data/raw/0f512e8670882f4d201d24252e31ab457f512be1aa6ac9b7243d3b8ec820e19f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/80172/000143774926008214/0001437749-26-008214-index.html",

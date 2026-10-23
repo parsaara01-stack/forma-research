@@ -4,8 +4,8 @@
   "name": "ENOVA INTERNATIONAL",
   "group": "Financials",
   "weight_percent": 0.15,
-  "holding_price": 179.45,
-  "price_date": "2026-10-20",
+  "holding_price": 180.05,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001529864.json",
-    "sha256": "029ff9304a46f981bc997e8eb1f41fe9afc40341e00f20d418b681fa8131e4a8",
-    "retrieved_at": "2026-10-20T12:49:45.378003+00:00",
-    "raw_path": "data/raw/029ff9304a46f981bc997e8eb1f41fe9afc40341e00f20d418b681fa8131e4a8.json.gz"
+    "sha256": "c68f867333478731ad5de2be9942062d6b5cc89eba980aa78e98060e4195c230",
+    "retrieved_at": "2026-10-23T12:43:27.524397+00:00",
+    "raw_path": "data/raw/c68f867333478731ad5de2be9942062d6b5cc89eba980aa78e98060e4195c230.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526060461/0001193125-26-060461-index.html",
   "earnings": {

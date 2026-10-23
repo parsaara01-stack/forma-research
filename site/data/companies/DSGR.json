@@ -4,8 +4,8 @@
   "name": "DISTRIBUTION SOLUTIONS GROUP",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 35.04,
-  "price_date": "2026-10-20",
+  "holding_price": 35.05,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000703604.json",
     "sha256": "1c0774c0d3fb64cc33a7d5fb5862edaaf357350a64b707bcab80ee25494b678c",
-    "retrieved_at": "2026-10-20T12:55:04.160815+00:00",
+    "retrieved_at": "2026-10-23T12:48:56.216656+00:00",
     "raw_path": "data/raw/1c0774c0d3fb64cc33a7d5fb5862edaaf357350a64b707bcab80ee25494b678c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/703604/000070360426000008/0000703604-26-000008-index.html",

@@ -4,8 +4,8 @@
   "name": "JOHN MARSHALL BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 22.8,
-  "price_date": "2026-10-20",
+  "holding_price": 22.94,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001710482.json",
     "sha256": "e7467cbe3458daec406bde713b43ed56adb54bbd15ceb9069755962e16d5c356",
-    "retrieved_at": "2026-10-20T12:55:12.349624+00:00",
+    "retrieved_at": "2026-10-23T12:49:04.330545+00:00",
     "raw_path": "data/raw/e7467cbe3458daec406bde713b43ed56adb54bbd15ceb9069755962e16d5c356.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926027378/0001104659-26-027378-index.html",

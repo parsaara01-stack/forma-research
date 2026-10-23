@@ -4,8 +4,8 @@
   "name": "MACROGENICS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.49,
-  "price_date": "2026-10-20",
+  "holding_price": 3.59,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001125345.json",
     "sha256": "b98f37ad513447e13e54e3c8aab52fa06dadb3378578ec24da5fc8f74c693219",
-    "retrieved_at": "2026-10-20T12:55:57.571842+00:00",
+    "retrieved_at": "2026-10-23T12:49:38.803185+00:00",
     "raw_path": "data/raw/b98f37ad513447e13e54e3c8aab52fa06dadb3378578ec24da5fc8f74c693219.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1125345/000112534526000017/0001125345-26-000017-index.html",

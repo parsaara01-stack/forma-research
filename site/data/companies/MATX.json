@@ -3,9 +3,9 @@
   "source_ticker": "MATX",
   "name": "MATSON INC",
   "group": "Industrials",
-  "weight_percent": 0.25,
-  "holding_price": 237.27,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.24,
+  "holding_price": 235.07,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000003453.json",
     "sha256": "3e6a697ff210d1af84cae8d732d19785be30ee010b3bf72be79ee84f29a1ffcc",
-    "retrieved_at": "2026-10-20T12:49:13.337045+00:00",
+    "retrieved_at": "2026-10-23T12:42:55.685082+00:00",
     "raw_path": "data/raw/3e6a697ff210d1af84cae8d732d19785be30ee010b3bf72be79ee84f29a1ffcc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/3453/000110465926020944/0001104659-26-020944-index.html",

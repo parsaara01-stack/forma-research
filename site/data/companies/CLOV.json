@@ -4,8 +4,8 @@
   "name": "CLOVER HEALTH INVESTMENTS CLASS A",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 4.8,
-  "price_date": "2026-10-20",
+  "holding_price": 4.78,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001801170.json",
     "sha256": "6383e6f4f3ea4c84dd1748601b1d62101b05ab7eaf3432a5f262b9ccd837740b",
-    "retrieved_at": "2026-10-20T12:51:23.544389+00:00",
+    "retrieved_at": "2026-10-23T12:45:02.068033+00:00",
     "raw_path": "data/raw/6383e6f4f3ea4c84dd1748601b1d62101b05ab7eaf3432a5f262b9ccd837740b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1801170/000180117026000057/0001801170-26-000057-index.html",

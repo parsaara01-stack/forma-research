@@ -4,8 +4,8 @@
   "name": "PENNANT GROUP",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 41.48,
-  "price_date": "2026-10-20",
+  "holding_price": 41.04,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001766400.json",
     "sha256": "a690fcdbe1f550891e4183758ea22e9714282be231e5e865970a4580845595ba",
-    "retrieved_at": "2026-10-20T12:51:59.518617+00:00",
+    "retrieved_at": "2026-10-23T12:45:47.078920+00:00",
     "raw_path": "data/raw/a690fcdbe1f550891e4183758ea22e9714282be231e5e865970a4580845595ba.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1766400/000176640026000014/0001766400-26-000014-index.html",

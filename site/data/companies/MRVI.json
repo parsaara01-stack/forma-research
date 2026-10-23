@@ -4,8 +4,8 @@
   "name": "MARAVAI LIFESCIENCES HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 7.2,
-  "price_date": "2026-10-20",
+  "holding_price": 7.57,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001823239.json",
     "sha256": "4a1bb0d55c90035b98fc998ff3aae34955ab43a3a850892587f0c60c08ffd515",
-    "retrieved_at": "2026-10-20T12:53:13.207684+00:00",
+    "retrieved_at": "2026-10-23T12:46:47.444802+00:00",
     "raw_path": "data/raw/4a1bb0d55c90035b98fc998ff3aae34955ab43a3a850892587f0c60c08ffd515.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1823239/000182323926000011/0001823239-26-000011-index.html",

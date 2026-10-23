@@ -4,8 +4,8 @@
   "name": "AMERICAN SUPERCONDUCTOR CORP",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 25.7,
-  "price_date": "2026-10-20",
+  "holding_price": 26.64,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000880807.json",
     "sha256": "73eb3405648a57ec5e421b294b34586b6f9389e955bcb9a209a11054bded7116",
-    "retrieved_at": "2026-10-20T12:52:17.135403+00:00",
+    "retrieved_at": "2026-10-23T12:45:57.955210+00:00",
     "raw_path": "data/raw/73eb3405648a57ec5e421b294b34586b6f9389e955bcb9a209a11054bded7116.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/880807/000143774926018542/0001437749-26-018542-index.html",

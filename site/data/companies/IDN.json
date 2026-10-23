@@ -4,8 +4,8 @@
   "name": "INTELLICHECK INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 2.22,
-  "price_date": "2026-10-20",
+  "holding_price": 2.27,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001040896.json",
     "sha256": "149863c7cf7a285a3f93a4a2b6ebd2bf8fe878992e4f29c2e72adafb41f97681",
-    "retrieved_at": "2026-10-20T12:57:13.932432+00:00",
+    "retrieved_at": "2026-10-23T12:51:03.968921+00:00",
     "raw_path": "data/raw/149863c7cf7a285a3f93a4a2b6ebd2bf8fe878992e4f29c2e72adafb41f97681.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1040896/000104089626000009/0001040896-26-000009-index.html",

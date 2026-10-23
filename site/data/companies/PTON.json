@@ -3,9 +3,9 @@
   "source_ticker": "PTON",
   "name": "PELOTON INTERACTIVE CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.08,
-  "holding_price": 5.45,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.07,
+  "holding_price": 5.24,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001639825.json",
     "sha256": "fe132179288dd7074e2318ca669155cb687b177f67ec02c9ce8d1386858f46b6",
-    "retrieved_at": "2026-10-20T12:51:05.763241+00:00",
+    "retrieved_at": "2026-10-23T12:44:52.672746+00:00",
     "raw_path": "data/raw/fe132179288dd7074e2318ca669155cb687b177f67ec02c9ce8d1386858f46b6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1639825/000163982526000038/0001639825-26-000038-index.html",

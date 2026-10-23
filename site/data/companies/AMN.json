@@ -4,8 +4,8 @@
   "name": "AMN HEALTHCARE",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 41.62,
-  "price_date": "2026-10-20",
+  "holding_price": 43.01,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001142750.json",
     "sha256": "f3719f7af63be506b50a0b557111519c267ef962470439ff88ff366094799c13",
-    "retrieved_at": "2026-10-20T12:51:45.854647+00:00",
+    "retrieved_at": "2026-10-23T12:45:24.464372+00:00",
     "raw_path": "data/raw/f3719f7af63be506b50a0b557111519c267ef962470439ff88ff366094799c13.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1142750/000162828026009918/0001628280-26-009918-index.html",

@@ -4,8 +4,8 @@
   "name": "REDWOOD TRUST REIT",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.02,
-  "price_date": "2026-10-20",
+  "holding_price": 3.01,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000930236.json",
     "sha256": "4a52a3a4682efda9135cff5d3c85dde81d0ecebd6e75176e23d6b383f121d448",
-    "retrieved_at": "2026-10-20T12:54:43.975974+00:00",
+    "retrieved_at": "2026-10-23T12:48:36.830323+00:00",
     "raw_path": "data/raw/4a52a3a4682efda9135cff5d3c85dde81d0ecebd6e75176e23d6b383f121d448.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/930236/000093023626000007/0000930236-26-000007-index.html",

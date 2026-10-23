@@ -4,8 +4,8 @@
   "name": "COHERUS ONCOLOGY INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.0,
-  "price_date": "2026-10-20",
+  "holding_price": 1.02,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001512762.json",
     "sha256": "5c5765981b2a86ba6afe797bbe14b15cb57f0db8164b0eb431640837c7af90f8",
-    "retrieved_at": "2026-10-20T12:56:36.804703+00:00",
+    "retrieved_at": "2026-10-23T12:50:27.446406+00:00",
     "raw_path": "data/raw/5c5765981b2a86ba6afe797bbe14b15cb57f0db8164b0eb431640837c7af90f8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1512762/000110465926025308/0001104659-26-025308-index.html",

@@ -4,8 +4,8 @@
   "name": "REPAY HOLDINGS CORP CLASS A",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 4.07,
-  "price_date": "2026-10-20",
+  "holding_price": 4.16,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001720592.json",
     "sha256": "774c740a4cc40af55dd106b532378b87d6cdd5a6b11976488f89b04faa9ba746",
-    "retrieved_at": "2026-10-20T12:55:19.621996+00:00",
+    "retrieved_at": "2026-10-23T12:49:09.500790+00:00",
     "raw_path": "data/raw/774c740a4cc40af55dd106b532378b87d6cdd5a6b11976488f89b04faa9ba746.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1720592/000119312526098518/0001193125-26-098518-index.html",

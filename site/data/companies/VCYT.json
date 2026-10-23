@@ -3,9 +3,9 @@
   "source_ticker": "VCYT",
   "name": "VERACYTE",
   "group": "Health Care",
-  "weight_percent": 0.12,
-  "holding_price": 44.79,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.13,
+  "holding_price": 46.22,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001384101.json",
     "sha256": "a8d1f6e0b4495f60405b5194763bd3fd90b9a5083bead39f43aeb5bf31736f15",
-    "retrieved_at": "2026-10-20T12:50:09.106904+00:00",
+    "retrieved_at": "2026-10-23T12:43:47.675423+00:00",
     "raw_path": "data/raw/a8d1f6e0b4495f60405b5194763bd3fd90b9a5083bead39f43aeb5bf31736f15.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1384101/000138410126000010/0001384101-26-000010-index.html",

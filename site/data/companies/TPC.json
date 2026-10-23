@@ -4,8 +4,8 @@
   "name": "TUTOR PERINI",
   "group": "Industrials",
   "weight_percent": 0.12,
-  "holding_price": 77.9,
-  "price_date": "2026-10-20",
+  "holding_price": 80.16,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077543.json",
     "sha256": "c59c72cef0d4fa67a1328fd0b9938f894503500d8bab32fc914d8eb5a2b73951",
-    "retrieved_at": "2026-10-20T12:50:07.176126+00:00",
+    "retrieved_at": "2026-10-23T12:43:48.876371+00:00",
     "raw_path": "data/raw/c59c72cef0d4fa67a1328fd0b9938f894503500d8bab32fc914d8eb5a2b73951.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/77543/000007754326000028/0000077543-26-000028-index.html",

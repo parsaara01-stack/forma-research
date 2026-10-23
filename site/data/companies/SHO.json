@@ -4,8 +4,8 @@
   "name": "SUNSTONE HOTEL INVESTORS REIT INC",
   "group": "Real Estate",
   "weight_percent": 0.08,
-  "holding_price": 12.4,
-  "price_date": "2026-10-20",
+  "holding_price": 12.61,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001295810.json",
     "sha256": "f783e7b8fb9e4608a681e9e4b66e88b088da99d85a0ab321449c653bbe0b9c2d",
-    "retrieved_at": "2026-10-20T12:51:07.117729+00:00",
+    "retrieved_at": "2026-10-23T12:44:45.638923+00:00",
     "raw_path": "data/raw/f783e7b8fb9e4608a681e9e4b66e88b088da99d85a0ab321449c653bbe0b9c2d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1295810/000110465926021440/0001104659-26-021440-index.html",

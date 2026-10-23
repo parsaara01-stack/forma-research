@@ -4,8 +4,8 @@
   "name": "SELECTIVE INSURANCE GROUP",
   "group": "Financials",
   "weight_percent": 0.19,
-  "holding_price": 89.44,
-  "price_date": "2026-10-20",
+  "holding_price": 91.08,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000230557.json",
     "sha256": "c6f85cab26a8eb4c6f9e236a49747a10096a301a31a5324ad7d05bc414559081",
-    "retrieved_at": "2026-10-20T12:49:26.021494+00:00",
+    "retrieved_at": "2026-10-23T12:43:07.988970+00:00",
     "raw_path": "data/raw/c6f85cab26a8eb4c6f9e236a49747a10096a301a31a5324ad7d05bc414559081.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000006/0000230557-26-000006-index.html",

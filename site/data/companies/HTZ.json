@@ -4,8 +4,8 @@
   "name": "HERTZ GLOBAL HLDGS INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 1.92,
-  "price_date": "2026-10-20",
+  "holding_price": 2.07,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657853.json",
     "sha256": "55e58c385f14407a31e40ff71d3b850f04f33c8cbb92fb426226c58cd53e83d8",
-    "retrieved_at": "2026-10-20T12:55:33.087347+00:00",
+    "retrieved_at": "2026-10-23T12:49:06.553322+00:00",
     "raw_path": "data/raw/55e58c385f14407a31e40ff71d3b850f04f33c8cbb92fb426226c58cd53e83d8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/0001657853-26-000008-index.html",

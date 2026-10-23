@@ -4,8 +4,8 @@
   "name": "OXFORD INDUSTRIES INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 26.92,
-  "price_date": "2026-10-20",
+  "holding_price": 26.05,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000075288.json",
     "sha256": "4324bea54fdefa1df1be62f59861b80d70e6b61c76d902e8c4e4c324c697a690",
-    "retrieved_at": "2026-10-20T12:54:41.608519+00:00",
+    "retrieved_at": "2026-10-23T12:48:36.352649+00:00",
     "raw_path": "data/raw/4324bea54fdefa1df1be62f59861b80d70e6b61c76d902e8c4e4c324c697a690.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/75288/000007528826000026/0000075288-26-000026-index.html",

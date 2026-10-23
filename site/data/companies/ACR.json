@@ -4,8 +4,8 @@
   "name": "ACRES COMMERCIAL REALTY",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 10.47,
-  "price_date": "2026-10-20",
+  "holding_price": 10.48,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001332551.json",
     "sha256": "6ca918ae64581db34d5b8b8d88d3bec140515f73ea687901ac3bee00c7eec375",
-    "retrieved_at": "2026-10-20T12:57:07.229015+00:00",
+    "retrieved_at": "2026-10-23T12:50:58.134546+00:00",
     "raw_path": "data/raw/6ca918ae64581db34d5b8b8d88d3bec140515f73ea687901ac3bee00c7eec375.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1332551/000119312526098916/0001193125-26-098916-index.html",

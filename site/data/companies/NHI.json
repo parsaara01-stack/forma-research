@@ -4,8 +4,8 @@
   "name": "NATIONAL HEALTH INVESTORS REIT",
   "group": "Real Estate",
   "weight_percent": 0.11,
-  "holding_price": 66.35,
-  "price_date": "2026-10-20",
+  "holding_price": 64.92,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000877860.json",
     "sha256": "800d4eb06d8d005c13461b54ffacc4cde98eabd76680f56a43c825e171984500",
-    "retrieved_at": "2026-10-20T12:50:16.502483+00:00",
+    "retrieved_at": "2026-10-23T12:44:04.583406+00:00",
     "raw_path": "data/raw/800d4eb06d8d005c13461b54ffacc4cde98eabd76680f56a43c825e171984500.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/877860/000087786026000053/0000877860-26-000053-index.html",

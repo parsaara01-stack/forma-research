@@ -4,8 +4,8 @@
   "name": "AMYLYX PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.1,
-  "holding_price": 28.77,
-  "price_date": "2026-10-20",
+  "holding_price": 29.03,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001658551.json",
     "sha256": "61333bff081cd95153f9c3b6a6d7088e53acd3f880438d3dc887c28126ad3c94",
-    "retrieved_at": "2026-10-20T12:50:36.172076+00:00",
+    "retrieved_at": "2026-10-23T12:44:10.907700+00:00",
     "raw_path": "data/raw/61333bff081cd95153f9c3b6a6d7088e53acd3f880438d3dc887c28126ad3c94.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1658551/000119312526086645/0001193125-26-086645-index.html",

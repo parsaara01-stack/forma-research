@@ -4,8 +4,8 @@
   "name": "VALUE LINE INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 41.45,
-  "price_date": "2026-10-20",
+  "holding_price": 41.13,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000717720.json",
     "sha256": "dfa1c10cbe9b4b13efa25af05170517324eb3076182818bdfae4effa53598e53",
-    "retrieved_at": "2026-10-20T12:57:10.476022+00:00",
+    "retrieved_at": "2026-10-23T12:51:02.355550+00:00",
     "raw_path": "data/raw/dfa1c10cbe9b4b13efa25af05170517324eb3076182818bdfae4effa53598e53.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/717720/000143774926024817/0001437749-26-024817-index.html",

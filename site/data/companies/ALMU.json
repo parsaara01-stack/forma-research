@@ -4,8 +4,8 @@
   "name": "AELUMA INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 7.68,
-  "price_date": "2026-10-20",
+  "holding_price": 7.71,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828805.json",
     "sha256": "cd0fd51b1d33dee839c57a7b7b4b2f0a2900f81558c64a2973e39d35db95f2af",
-    "retrieved_at": "2026-10-20T12:56:38.300371+00:00",
+    "retrieved_at": "2026-10-23T12:50:32.924946+00:00",
     "raw_path": "data/raw/cd0fd51b1d33dee839c57a7b7b4b2f0a2900f81558c64a2973e39d35db95f2af.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1828805/000121390026100584/0001213900-26-100584-index.html",

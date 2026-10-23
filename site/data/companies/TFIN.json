@@ -4,8 +4,8 @@
   "name": "TRIUMPH FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 62.22,
-  "price_date": "2026-10-20",
+  "holding_price": 61.99,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001539638.json",
-    "sha256": "fda2c32bb4700b8cbacf5b59093dbc8dcb8cadb844fa8e04d25bb51b1ac39252",
-    "retrieved_at": "2026-10-20T12:51:59.821739+00:00",
-    "raw_path": "data/raw/fda2c32bb4700b8cbacf5b59093dbc8dcb8cadb844fa8e04d25bb51b1ac39252.json.gz"
+    "sha256": "db3f666ac236ea48c61a92c58c74560d80c4636befac3c7d96183cff153529e8",
+    "retrieved_at": "2026-10-23T12:45:43.173889+00:00",
+    "raw_path": "data/raw/db3f666ac236ea48c61a92c58c74560d80c4636befac3c7d96183cff153529e8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1539638/000153963826000007/0001539638-26-000007-index.html",
   "earnings": {

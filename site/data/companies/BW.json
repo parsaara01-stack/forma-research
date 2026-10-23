@@ -4,8 +4,8 @@
   "name": "BABCOCK AND WILCOX ENTERPRISES",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 4.57,
-  "price_date": "2026-10-20",
+  "holding_price": 4.63,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001630805.json",
     "sha256": "0c4388dea5775d803a7ecc9252e8d94099cd59a53c75a19282262e5b868537ed",
-    "retrieved_at": "2026-10-20T12:53:29.873441+00:00",
+    "retrieved_at": "2026-10-23T12:47:21.347324+00:00",
     "raw_path": "data/raw/0c4388dea5775d803a7ecc9252e8d94099cd59a53c75a19282262e5b868537ed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000018/0001630805-26-000018-index.html",

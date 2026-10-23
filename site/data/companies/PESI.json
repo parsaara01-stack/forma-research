@@ -4,8 +4,8 @@
   "name": "PERMA FIX ENVIRONMENTAL SERVICES I",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 12.38,
-  "price_date": "2026-10-20",
+  "holding_price": 12.47,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000891532.json",
     "sha256": "93fb6636da992f1c48c316913107675069cf710d26f5f9fab8e39536fa99cc81",
-    "retrieved_at": "2026-10-20T12:55:34.536440+00:00",
+    "retrieved_at": "2026-10-23T12:49:27.669987+00:00",
     "raw_path": "data/raw/93fb6636da992f1c48c316913107675069cf710d26f5f9fab8e39536fa99cc81.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/891532/000149315226012314/0001493152-26-012314-index.html",

@@ -4,8 +4,8 @@
   "name": "SPOK HOLDINGS INC",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 10.55,
-  "price_date": "2026-10-20",
+  "holding_price": 10.36,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001289945.json",
     "sha256": "a51d005fe467412f83c38795d2aea10972e933386ed9674a7d4b1c97994ce5d9",
-    "retrieved_at": "2026-10-20T12:55:51.622173+00:00",
+    "retrieved_at": "2026-10-23T12:49:45.900861+00:00",
     "raw_path": "data/raw/a51d005fe467412f83c38795d2aea10972e933386ed9674a7d4b1c97994ce5d9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1289945/000128994526000010/0001289945-26-000010-index.html",

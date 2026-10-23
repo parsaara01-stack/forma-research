@@ -4,8 +4,8 @@
   "name": "PRESTIGE CONSUMER HEALTHCARE",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 49.36,
-  "price_date": "2026-10-20",
+  "holding_price": 47.92,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001295947.json",
     "sha256": "7743f3e37e670fd69592b0c4961b7707545f13f7bed382d3a14d3019f6d3b4c6",
-    "retrieved_at": "2026-10-20T12:50:53.726900+00:00",
+    "retrieved_at": "2026-10-23T12:44:46.493905+00:00",
     "raw_path": "data/raw/7743f3e37e670fd69592b0c4961b7707545f13f7bed382d3a14d3019f6d3b4c6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1295947/000129594726000016/0001295947-26-000016-index.html",

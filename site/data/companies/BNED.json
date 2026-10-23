@@ -4,8 +4,8 @@
   "name": "BARNES AND NOBLE EDUCATION INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 13.48,
-  "price_date": "2026-10-20",
+  "holding_price": 13.75,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001634117.json",
     "sha256": "ba6764f52dd90f26e632943b00093d273e6e04d7e382885a7000636a2548b50a",
-    "retrieved_at": "2026-10-20T12:55:46.206711+00:00",
+    "retrieved_at": "2026-10-23T12:49:33.215969+00:00",
     "raw_path": "data/raw/ba6764f52dd90f26e632943b00093d273e6e04d7e382885a7000636a2548b50a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1634117/000163411726000070/0001634117-26-000070-index.html",

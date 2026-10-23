@@ -3,9 +3,9 @@
   "source_ticker": "CLSK",
   "name": "CLEANSPARK",
   "group": "Information Technology",
-  "weight_percent": 0.07,
-  "holding_price": 8.43,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.08,
+  "holding_price": 8.75,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000827876.json",
     "sha256": "ac32bbc4ed23d42bbc6ab70aa3fb8896bdd061a735c83f537c5032a1e6eb0fe0",
-    "retrieved_at": "2026-10-20T12:51:07.967452+00:00",
+    "retrieved_at": "2026-10-23T12:44:50.068864+00:00",
     "raw_path": "data/raw/ac32bbc4ed23d42bbc6ab70aa3fb8896bdd061a735c83f537c5032a1e6eb0fe0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/0001193125-25-297510-index.html",

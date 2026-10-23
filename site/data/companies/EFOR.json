@@ -4,8 +4,8 @@
   "name": "EVERFORTH",
   "group": "Information Technology",
   "weight_percent": 0.05,
-  "holding_price": 39.17,
-  "price_date": "2026-10-20",
+  "holding_price": 39.47,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000890564.json",
     "sha256": "6194a3f9ca0e901fce5e7ca132bc03bb5c11ec035b41a866ffa677e4fdab79f7",
-    "retrieved_at": "2026-10-20T12:51:47.283933+00:00",
+    "retrieved_at": "2026-10-23T12:45:29.520751+00:00",
     "raw_path": "data/raw/6194a3f9ca0e901fce5e7ca132bc03bb5c11ec035b41a866ffa677e4fdab79f7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/890564/000089056426000013/0000890564-26-000013-index.html",

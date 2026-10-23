@@ -4,8 +4,8 @@
   "name": "GALECTIN THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.43,
-  "price_date": "2026-10-20",
+  "holding_price": 3.37,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001133416.json",
     "sha256": "a71b20b17d46660e3922068a899944305ca73aa3a89c0125fe582d2667496776",
-    "retrieved_at": "2026-10-20T12:56:17.690829+00:00",
+    "retrieved_at": "2026-10-23T12:50:13.272309+00:00",
     "raw_path": "data/raw/a71b20b17d46660e3922068a899944305ca73aa3a89c0125fe582d2667496776.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126012155/0001140361-26-012155-index.html",

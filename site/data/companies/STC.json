@@ -4,8 +4,8 @@
   "name": "STEWART INFO SERVICES CORP",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 52.42,
-  "price_date": "2026-10-20",
+  "holding_price": 52.57,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000094344.json",
     "sha256": "86e88ca329071497ddc4192abaa8bf88ed0ff10b30eecfe68e4bfd0185f80c77",
-    "retrieved_at": "2026-10-20T12:51:38.133007+00:00",
+    "retrieved_at": "2026-10-23T12:45:30.066661+00:00",
     "raw_path": "data/raw/86e88ca329071497ddc4192abaa8bf88ed0ff10b30eecfe68e4bfd0185f80c77.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/94344/000009434426000007/0000094344-26-000007-index.html",

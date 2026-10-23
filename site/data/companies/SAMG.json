@@ -4,8 +4,8 @@
   "name": "SILVERCREST ASSET MANAGEMENT GROUP",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 10.27,
-  "price_date": "2026-10-20",
+  "holding_price": 10.32,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001549966.json",
     "sha256": "3b318213f733e4e137fbdb3818652759f7df3483805a4b43dbe1f3ef5e8be713",
-    "retrieved_at": "2026-10-20T12:56:45.088665+00:00",
+    "retrieved_at": "2026-10-23T12:50:38.503116+00:00",
     "raw_path": "data/raw/3b318213f733e4e137fbdb3818652759f7df3483805a4b43dbe1f3ef5e8be713.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1549966/000119312526108402/0001193125-26-108402-index.html",

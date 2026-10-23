@@ -4,8 +4,8 @@
   "name": "MAXIMUS",
   "group": "Industrials",
   "weight_percent": 0.11,
-  "holding_price": 61.09,
-  "price_date": "2026-10-20",
+  "holding_price": 62.07,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001032220.json",
     "sha256": "319bd1c03ca434c36119916f04df6fc90846629f0d4d97a8eb6c9391ac136452",
-    "retrieved_at": "2026-10-20T12:50:14.794113+00:00",
+    "retrieved_at": "2026-10-23T12:43:57.624350+00:00",
     "raw_path": "data/raw/319bd1c03ca434c36119916f04df6fc90846629f0d4d97a8eb6c9391ac136452.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222025000053/0001032220-25-000053-index.html",

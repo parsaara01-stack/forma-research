@@ -4,8 +4,8 @@
   "name": "ADAMAS",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 7.53,
-  "price_date": "2026-10-20",
+  "holding_price": 7.44,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001273685.json",
     "sha256": "4d7dea07ee011f01860df66eb585035328ef6a13e170e825c738c589d7682ad4",
-    "retrieved_at": "2026-10-20T12:53:35.472969+00:00",
+    "retrieved_at": "2026-10-23T12:47:31.431951+00:00",
     "raw_path": "data/raw/4d7dea07ee011f01860df66eb585035328ef6a13e170e825c738c589d7682ad4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368526000029/0001273685-26-000029-index.html",

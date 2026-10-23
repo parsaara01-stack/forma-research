@@ -4,8 +4,8 @@
   "name": "CRESCENT ENERGY CLASS A",
   "group": "Energy",
   "weight_percent": 0.15,
-  "holding_price": 13.51,
-  "price_date": "2026-10-20",
+  "holding_price": 13.5,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001866175.json",
     "sha256": "cbe8dc62cca4a892d6a24869247309be0fdd05b8175acda4d9897ff407b4445f",
-    "retrieved_at": "2026-10-20T12:49:44.664684+00:00",
+    "retrieved_at": "2026-10-23T12:43:31.252719+00:00",
     "raw_path": "data/raw/cbe8dc62cca4a892d6a24869247309be0fdd05b8175acda4d9897ff407b4445f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000026/0001866175-26-000026-index.html",

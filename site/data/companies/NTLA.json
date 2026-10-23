@@ -3,9 +3,9 @@
   "source_ticker": "NTLA",
   "name": "INTELLIA THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 11.84,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.05,
+  "holding_price": 11.65,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652130.json",
     "sha256": "554ffcb9aec19f194819e1de5938020c2541fd6cb0f18fc951c7fec552d678be",
-    "retrieved_at": "2026-10-20T12:51:48.044185+00:00",
+    "retrieved_at": "2026-10-23T12:45:31.589197+00:00",
     "raw_path": "data/raw/554ffcb9aec19f194819e1de5938020c2541fd6cb0f18fc951c7fec552d678be.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526076550/0001193125-26-076550-index.html",

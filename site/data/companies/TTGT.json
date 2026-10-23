@@ -5,7 +5,7 @@
   "group": "Communication",
   "weight_percent": 0.0,
   "holding_price": 3.68,
-  "price_date": "2026-10-20",
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002018064.json",
     "sha256": "6d514732fb170643ee200ba361f3b1030422be624cd21a7fc7893304cdb8256c",
-    "retrieved_at": "2026-10-20T12:56:42.246474+00:00",
+    "retrieved_at": "2026-10-23T12:50:36.740860+00:00",
     "raw_path": "data/raw/6d514732fb170643ee200ba361f3b1030422be624cd21a7fc7893304cdb8256c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2018064/000119312526102183/0001193125-26-102183-index.html",

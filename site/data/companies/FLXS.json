@@ -4,8 +4,8 @@
   "name": "FLEXSTEEL INDUSTRIES INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 84.38,
-  "price_date": "2026-10-20",
+  "holding_price": 83.56,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000037472.json",
     "sha256": "cfc6f8240667768ffe82ceef4868e93bf61c6eaa0e666020f5929983b0b1583c",
-    "retrieved_at": "2026-10-20T12:55:20.931124+00:00",
+    "retrieved_at": "2026-10-23T12:49:13.669983+00:00",
     "raw_path": "data/raw/cfc6f8240667768ffe82ceef4868e93bf61c6eaa0e666020f5929983b0b1583c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/37472/000119312526357097/0001193125-26-357097-index.html",

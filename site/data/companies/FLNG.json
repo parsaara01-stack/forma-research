@@ -4,11 +4,11 @@
   "name": "FLEX LNG",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 27.65,
-  "price_date": "2026-10-20",
+  "holding_price": 27.93,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

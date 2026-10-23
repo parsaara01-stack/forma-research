@@ -4,8 +4,8 @@
   "name": "IMMUNOME",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 17.92,
-  "price_date": "2026-10-20",
+  "holding_price": 18.0,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001472012.json",
     "sha256": "2c5284d23548eb8b1191613352068727369e0ec2247c992446e1cd51179638b6",
-    "retrieved_at": "2026-10-20T12:51:34.953568+00:00",
+    "retrieved_at": "2026-10-23T12:45:09.884058+00:00",
     "raw_path": "data/raw/2c5284d23548eb8b1191613352068727369e0ec2247c992446e1cd51179638b6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1472012/000119312526088172/0001193125-26-088172-index.html",

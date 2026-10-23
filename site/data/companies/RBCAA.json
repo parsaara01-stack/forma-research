@@ -4,8 +4,8 @@
   "name": "REPUBLIC BANCORP INC CLASS A",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 91.96,
-  "price_date": "2026-10-20",
+  "holding_price": 90.69,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000921557.json",
     "sha256": "f4344e3bb1cc8dba8c7e25809296be2aaf938e519b4ca1d54b5982225f95009a",
-    "retrieved_at": "2026-10-20T12:53:01.341370+00:00",
+    "retrieved_at": "2026-10-23T12:46:50.286941+00:00",
     "raw_path": "data/raw/f4344e3bb1cc8dba8c7e25809296be2aaf938e519b4ca1d54b5982225f95009a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926024523/0001104659-26-024523-index.html",

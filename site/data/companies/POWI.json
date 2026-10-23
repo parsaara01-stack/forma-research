@@ -4,8 +4,8 @@
   "name": "POWER INTEGRATIONS",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 46.97,
-  "price_date": "2026-10-20",
+  "holding_price": 48.25,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000833640.json",
     "sha256": "845626c61757889b7582d72562f897e908292e33a299e1a24ab4b0a40f400cc7",
-    "retrieved_at": "2026-10-20T12:50:45.076827+00:00",
+    "retrieved_at": "2026-10-23T12:44:22.489683+00:00",
     "raw_path": "data/raw/845626c61757889b7582d72562f897e908292e33a299e1a24ab4b0a40f400cc7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/833640/000083364026000037/0000833640-26-000037-index.html",

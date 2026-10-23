@@ -4,8 +4,8 @@
   "name": "1ST SOURCE",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 86.38,
-  "price_date": "2026-10-20",
+  "holding_price": 85.81,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000034782.json",
-    "sha256": "cc14a5a3955cc130d4cb85e488ddc79a06ff6174bea9fce05591137d2559a390",
-    "retrieved_at": "2026-10-20T12:51:43.103125+00:00",
-    "raw_path": "data/raw/cc14a5a3955cc130d4cb85e488ddc79a06ff6174bea9fce05591137d2559a390.json.gz"
+    "sha256": "11886f62406ab423841746729979d31a2fd1d6e3282d01f407bc69a7d0df20c2",
+    "retrieved_at": "2026-10-23T12:45:30.296433+00:00",
+    "raw_path": "data/raw/11886f62406ab423841746729979d31a2fd1d6e3282d01f407bc69a7d0df20c2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/34782/000003478226000011/0000034782-26-000011-index.html",
   "earnings": {

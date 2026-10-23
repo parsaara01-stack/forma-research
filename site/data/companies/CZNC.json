@@ -4,8 +4,8 @@
   "name": "CITIZENS AND NORTHERN CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 25.7,
-  "price_date": "2026-10-20",
+  "holding_price": 25.63,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000810958.json",
     "sha256": "f06e0c790bd5d8cc2d721852bebff5393df37688def8d9caddbb6f3b1a65b9bf",
-    "retrieved_at": "2026-10-20T12:54:18.653220+00:00",
+    "retrieved_at": "2026-10-23T12:48:11.361985+00:00",
     "raw_path": "data/raw/f06e0c790bd5d8cc2d721852bebff5393df37688def8d9caddbb6f3b1a65b9bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926024613/0001104659-26-024613-index.html",

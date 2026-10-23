@@ -4,8 +4,8 @@
   "name": "STRIDE INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.11,
-  "holding_price": 78.95,
-  "price_date": "2026-10-20",
+  "holding_price": 76.39,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001157408.json",
-    "sha256": "b1cb12e6d75ae18e0a551fc9827ef5696904efd01db23aa668e77a7f5b22e55e",
-    "retrieved_at": "2026-10-20T12:50:08.853123+00:00",
-    "raw_path": "data/raw/b1cb12e6d75ae18e0a551fc9827ef5696904efd01db23aa668e77a7f5b22e55e.json.gz"
+    "sha256": "0671ee43d29d8184914ac35e60843d8140ba4c41dae311a691da362ff4bf2243",
+    "retrieved_at": "2026-10-23T12:44:01.587643+00:00",
+    "raw_path": "data/raw/0671ee43d29d8184914ac35e60843d8140ba4c41dae311a691da362ff4bf2243.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1157408/000110465926090515/0001104659-26-090515-index.html",
   "earnings": {

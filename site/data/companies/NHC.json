@@ -3,9 +3,9 @@
   "source_ticker": "NHC",
   "name": "NATIONAL HEALTHCARE CORP",
   "group": "Health Care",
-  "weight_percent": 0.11,
-  "holding_price": 247.94,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.1,
+  "holding_price": 235.6,
+  "price_date": "2026-10-21",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001047335.json",
     "sha256": "9c3ea67de396a939aced4fe07208413dd480336d3699f0e8528f4594e302cb2c",
-    "retrieved_at": "2026-10-20T12:50:19.400864+00:00",
+    "retrieved_at": "2026-10-23T12:44:09.028740+00:00",
     "raw_path": "data/raw/9c3ea67de396a939aced4fe07208413dd480336d3699f0e8528f4594e302cb2c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1047335/000143774926005910/0001437749-26-005910-index.html",

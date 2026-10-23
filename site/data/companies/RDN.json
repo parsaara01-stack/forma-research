@@ -4,8 +4,8 @@
   "name": "RADIAN GROUP",
   "group": "Financials",
   "weight_percent": 0.15,
-  "holding_price": 34.68,
-  "price_date": "2026-10-20",
+  "holding_price": 33.98,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000890926.json",
     "sha256": "60eaa5bc46787b5da18a328bab66b3cd3d544ce4001f04ae2a33561b01ea8e42",
-    "retrieved_at": "2026-10-20T12:49:37.256921+00:00",
+    "retrieved_at": "2026-10-23T12:43:26.030367+00:00",
     "raw_path": "data/raw/60eaa5bc46787b5da18a328bab66b3cd3d544ce4001f04ae2a33561b01ea8e42.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/890926/000119312526061383/0001193125-26-061383-index.html",

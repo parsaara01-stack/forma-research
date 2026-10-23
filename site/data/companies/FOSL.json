@@ -4,8 +4,8 @@
   "name": "FOSSIL GROUP INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 6.81,
-  "price_date": "2026-10-20",
+  "holding_price": 6.75,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000883569.json",
     "sha256": "c7a07222cec67667cea95b6fec81aa48ba4d2d6bc21b799087ebd8d8448649ca",
-    "retrieved_at": "2026-10-20T12:54:36.793955+00:00",
+    "retrieved_at": "2026-10-23T12:48:32.950592+00:00",
     "raw_path": "data/raw/c7a07222cec67667cea95b6fec81aa48ba4d2d6bc21b799087ebd8d8448649ca.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/883569/000088356926000017/0000883569-26-000017-index.html",

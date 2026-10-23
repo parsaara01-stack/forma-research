@@ -4,8 +4,8 @@
   "name": "TSS INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 7.19,
-  "price_date": "2026-10-20",
+  "holding_price": 7.49,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001320760.json",
     "sha256": "746de8e616a53f36435a4479c9aff2fc43b063bed942fce32814f42a6660599a",
-    "retrieved_at": "2026-10-20T12:56:00.428871+00:00",
+    "retrieved_at": "2026-10-23T12:49:45.691722+00:00",
     "raw_path": "data/raw/746de8e616a53f36435a4479c9aff2fc43b063bed942fce32814f42a6660599a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1320760/000165495426002342/0001654954-26-002342-index.html",

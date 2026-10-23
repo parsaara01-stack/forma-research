@@ -4,8 +4,8 @@
   "name": "STONERIDGE INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 5.9,
-  "price_date": "2026-10-20",
+  "holding_price": 5.94,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001043337.json",
     "sha256": "5f68802a38e201ed19846687ce076ca49b604625ae529ba48a7a41f496fb757e",
-    "retrieved_at": "2026-10-20T12:56:10.748658+00:00",
+    "retrieved_at": "2026-10-23T12:50:00.110914+00:00",
     "raw_path": "data/raw/5f68802a38e201ed19846687ce076ca49b604625ae529ba48a7a41f496fb757e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1043337/000104333726000023/0001043337-26-000023-index.html",

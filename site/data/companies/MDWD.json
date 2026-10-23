@@ -5,10 +5,10 @@
   "group": "Health Care",
   "weight_percent": 0.0,
   "holding_price": 12.1,
-  "price_date": "2026-10-20",
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

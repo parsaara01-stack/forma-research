@@ -4,8 +4,8 @@
   "name": "CYTOKINETICS",
   "group": "Health Care",
   "weight_percent": 0.29,
-  "holding_price": 63.95,
-  "price_date": "2026-10-20",
+  "holding_price": 62.86,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001061983.json",
     "sha256": "3f285d099e85e8f676aa27a587c2a7f62b31ddcaa4f296c2bd5345f75199413c",
-    "retrieved_at": "2026-10-20T12:49:09.683342+00:00",
+    "retrieved_at": "2026-10-23T12:42:51.664361+00:00",
     "raw_path": "data/raw/3f285d099e85e8f676aa27a587c2a7f62b31ddcaa4f296c2bd5345f75199413c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1061983/000119312526076495/0001193125-26-076495-index.html",

@@ -4,8 +4,8 @@
   "name": "CAREDX",
   "group": "Health Care",
   "weight_percent": 0.12,
-  "holding_price": 69.2,
-  "price_date": "2026-10-20",
+  "holding_price": 70.74,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001217234.json",
     "sha256": "0c6d4aa1a61636e4342c924849e0a0ffa885a4f0165ba4ea83943ad1d4755710",
-    "retrieved_at": "2026-10-20T12:50:14.651706+00:00",
+    "retrieved_at": "2026-10-23T12:43:50.614423+00:00",
     "raw_path": "data/raw/0c6d4aa1a61636e4342c924849e0a0ffa885a4f0165ba4ea83943ad1d4755710.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1217234/000121723426000018/0001217234-26-000018-index.html",

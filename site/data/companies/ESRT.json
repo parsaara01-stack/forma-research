@@ -4,8 +4,8 @@
   "name": "EMPIRE STATE REALTY REIT CLASS A",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 4.71,
-  "price_date": "2026-10-20",
+  "holding_price": 4.67,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001541401.json",
     "sha256": "9976e4c5d463b6967cdbaf57b4cd88aa34420140cc2b847773fd4a0f4d1a50a0",
-    "retrieved_at": "2026-10-20T12:53:32.616024+00:00",
+    "retrieved_at": "2026-10-23T12:47:23.390787+00:00",
     "raw_path": "data/raw/9976e4c5d463b6967cdbaf57b4cd88aa34420140cc2b847773fd4a0f4d1a50a0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1541401/000154140126000008/0001541401-26-000008-index.html",

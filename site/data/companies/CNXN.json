@@ -4,8 +4,8 @@
   "name": "PC CONNECTION",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 86.58,
-  "price_date": "2026-10-20",
+  "holding_price": 87.73,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001050377.json",
     "sha256": "91b3ebef46ad78ff01a9d59baf414b8c9aa429f7a2fb87a05d5ff4818e74979e",
-    "retrieved_at": "2026-10-20T12:52:36.607539+00:00",
+    "retrieved_at": "2026-10-23T12:46:25.149779+00:00",
     "raw_path": "data/raw/91b3ebef46ad78ff01a9d59baf414b8c9aa429f7a2fb87a05d5ff4818e74979e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1050377/000110465926019108/0001104659-26-019108-index.html",

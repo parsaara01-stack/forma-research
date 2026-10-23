@@ -4,8 +4,8 @@
   "name": "LIVANOVA PLC",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 79.71,
-  "price_date": "2026-10-20",
+  "holding_price": 78.44,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001639691.json",
     "sha256": "4a9dca476e86842f319df8973097c996695da952b12db87f32bad394c61d8033",
-    "retrieved_at": "2026-10-20T12:49:46.275764+00:00",
+    "retrieved_at": "2026-10-23T12:43:28.883703+00:00",
     "raw_path": "data/raw/4a9dca476e86842f319df8973097c996695da952b12db87f32bad394c61d8033.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000010/0001639691-26-000010-index.html",

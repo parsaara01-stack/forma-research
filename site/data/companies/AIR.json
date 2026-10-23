@@ -3,9 +3,9 @@
   "source_ticker": "AIR",
   "name": "AAR",
   "group": "Industrials",
-  "weight_percent": 0.14,
-  "holding_price": 99.8,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.13,
+  "holding_price": 99.64,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000001750.json",
     "sha256": "68cd2263e381f8f1521377b94279b51791058f8c51721fd02a01639b781c1284",
-    "retrieved_at": "2026-10-20T12:49:55.232595+00:00",
+    "retrieved_at": "2026-10-23T12:43:40.786132+00:00",
     "raw_path": "data/raw/68cd2263e381f8f1521377b94279b51791058f8c51721fd02a01639b781c1284.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1750/000110465926085459/0001104659-26-085459-index.html",

@@ -4,8 +4,8 @@
   "name": "NATIONAL BEVERAGE",
   "group": "Consumer Staples",
   "weight_percent": 0.03,
-  "holding_price": 35.13,
-  "price_date": "2026-10-20",
+  "holding_price": 34.83,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000069891.json",
     "sha256": "1885b23292c96abdd8d8719ffa075dffddff627eaf59ab70d431d04c80a924be",
-    "retrieved_at": "2026-10-20T12:53:00.603766+00:00",
+    "retrieved_at": "2026-10-23T12:46:48.689025+00:00",
     "raw_path": "data/raw/1885b23292c96abdd8d8719ffa075dffddff627eaf59ab70d431d04c80a924be.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/69891/000143774926022315/0001437749-26-022315-index.html",

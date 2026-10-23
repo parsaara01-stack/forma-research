@@ -4,8 +4,8 @@
   "name": "TITAN MACHINERY INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 22.15,
-  "price_date": "2026-10-20",
+  "holding_price": 22.89,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409171.json",
     "sha256": "18da792cd05c54668b15b8d5c2e875bad6ef1d02b084e64f91d4478fa1662d2a",
-    "retrieved_at": "2026-10-20T12:54:12.273710+00:00",
+    "retrieved_at": "2026-10-23T12:48:00.005311+00:00",
     "raw_path": "data/raw/18da792cd05c54668b15b8d5c2e875bad6ef1d02b084e64f91d4478fa1662d2a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026022376/0001628280-26-022376-index.html",

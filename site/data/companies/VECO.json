@@ -3,9 +3,9 @@
   "source_ticker": "VECO",
   "name": "VEECO INSTRUMENTS",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 44.57,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.1,
+  "holding_price": 46.66,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000103145.json",
     "sha256": "3df127f86f7238e65efe9710917423244aa5ccc094baef70abe3c45c5b45392c",
-    "retrieved_at": "2026-10-20T12:50:41.985699+00:00",
+    "retrieved_at": "2026-10-23T12:44:16.594437+00:00",
     "raw_path": "data/raw/3df127f86f7238e65efe9710917423244aa5ccc094baef70abe3c45c5b45392c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/103145/000110465926019711/0001104659-26-019711-index.html",

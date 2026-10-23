@@ -4,8 +4,8 @@
   "name": "WESBANCO",
   "group": "Financials",
   "weight_percent": 0.13,
-  "holding_price": 37.63,
-  "price_date": "2026-10-20",
+  "holding_price": 37.65,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000203596.json",
     "sha256": "09c531e0203b8d9bf4bb368321d27d080b0ff8f3e0efe076c95e0747c0f175d1",
-    "retrieved_at": "2026-10-20T12:50:05.167965+00:00",
+    "retrieved_at": "2026-10-23T12:43:45.532225+00:00",
     "raw_path": "data/raw/09c531e0203b8d9bf4bb368321d27d080b0ff8f3e0efe076c95e0747c0f175d1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/203596/000119312526085463/0001193125-26-085463-index.html",

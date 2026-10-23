@@ -4,8 +4,8 @@
   "name": "KAISER ALUMINIUM",
   "group": "Materials",
   "weight_percent": 0.09,
-  "holding_price": 152.54,
-  "price_date": "2026-10-20",
+  "holding_price": 153.95,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000811596.json",
-    "sha256": "953b654ab471b76b1b302898e3f250d00dfd0e0862355d61389d116dd3015102",
-    "retrieved_at": "2026-10-20T12:50:47.985026+00:00",
-    "raw_path": "data/raw/953b654ab471b76b1b302898e3f250d00dfd0e0862355d61389d116dd3015102.json.gz"
+    "sha256": "7506f79bd11e56917305c1065535f588a8138ebabfd248c302b29ef2cbab1650",
+    "retrieved_at": "2026-10-23T12:44:30.382694+00:00",
+    "raw_path": "data/raw/7506f79bd11e56917305c1065535f588a8138ebabfd248c302b29ef2cbab1650.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/811596/000119312526059575/0001193125-26-059575-index.html",
   "earnings": {

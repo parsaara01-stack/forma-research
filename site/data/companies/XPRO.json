@@ -4,11 +4,11 @@
   "name": "EXPRO LTD",
   "group": "Energy",
   "weight_percent": 0.05,
-  "holding_price": 16.36,
-  "price_date": "2026-10-20",
+  "holding_price": 16.77,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

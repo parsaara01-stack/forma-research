@@ -3,9 +3,9 @@
   "source_ticker": "VAL",
   "name": "VALARIS LTD",
   "group": "Energy",
-  "weight_percent": 0.17,
-  "holding_price": 88.35,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.18,
+  "holding_price": 91.72,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000314808.json",
     "sha256": "ebaf121f38259ea78161098f27cf3b3ec649bf77a389fc4beca9d7d461fbf992",
-    "retrieved_at": "2026-10-20T12:49:33.884202+00:00",
+    "retrieved_at": "2026-10-23T12:43:11.494195+00:00",
     "raw_path": "data/raw/ebaf121f38259ea78161098f27cf3b3ec649bf77a389fc4beca9d7d461fbf992.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000029/0000314808-26-000029-index.html",

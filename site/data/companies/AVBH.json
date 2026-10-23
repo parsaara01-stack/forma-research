@@ -5,7 +5,7 @@
   "group": "Financials",
   "weight_percent": 0.01,
   "holding_price": 31.06,
-  "price_date": "2026-10-20",
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001443575.json",
     "sha256": "00fe899dff5054c1b892177098c9526420c359b3c67efb7bb2a17f91927d2716",
-    "retrieved_at": "2026-10-20T12:55:32.820962+00:00",
+    "retrieved_at": "2026-10-23T12:49:26.544874+00:00",
     "raw_path": "data/raw/00fe899dff5054c1b892177098c9526420c359b3c67efb7bb2a17f91927d2716.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926008852/0001437749-26-008852-index.html",

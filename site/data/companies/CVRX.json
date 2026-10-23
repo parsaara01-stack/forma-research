@@ -4,8 +4,8 @@
   "name": "CVRX INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.39,
-  "price_date": "2026-10-20",
+  "holding_price": 1.37,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001235912.json",
     "sha256": "9fe302007222f93e8b8392ed90320fea549fa40104758f07882615f91d312170",
-    "retrieved_at": "2026-10-20T12:57:17.872613+00:00",
+    "retrieved_at": "2026-10-23T12:51:09.251348+00:00",
     "raw_path": "data/raw/9fe302007222f93e8b8392ed90320fea549fa40104758f07882615f91d312170.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1235912/000110465926014708/0001104659-26-014708-index.html",

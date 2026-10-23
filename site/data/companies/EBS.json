@@ -4,8 +4,8 @@
   "name": "EMERGENT BIOSOLUTIONS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 6.29,
-  "price_date": "2026-10-20",
+  "holding_price": 6.2,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001367644.json",
     "sha256": "fee6e59ce7e95c700b040df0c0b0b4e54545eee9eb1b957c18ae2e591985b5cb",
-    "retrieved_at": "2026-10-20T12:54:57.787367+00:00",
+    "retrieved_at": "2026-10-23T12:48:52.301142+00:00",
     "raw_path": "data/raw/fee6e59ce7e95c700b040df0c0b0b4e54545eee9eb1b957c18ae2e591985b5cb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000015/0001367644-26-000015-index.html",

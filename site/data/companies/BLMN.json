@@ -4,8 +4,8 @@
   "name": "BLOOMIN BRANDS INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 10.34,
-  "price_date": "2026-10-20",
+  "holding_price": 10.05,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001546417.json",
     "sha256": "3692e04e8bda536f3ffec17bcbc116e33c783ca88e4f6f9eda0bfed043ae589f",
-    "retrieved_at": "2026-10-20T12:52:58.686500+00:00",
+    "retrieved_at": "2026-10-23T12:46:44.878674+00:00",
     "raw_path": "data/raw/3692e04e8bda536f3ffec17bcbc116e33c783ca88e4f6f9eda0bfed043ae589f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1546417/000154641726000009/0001546417-26-000009-index.html",

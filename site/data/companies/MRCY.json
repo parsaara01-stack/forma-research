@@ -4,8 +4,8 @@
   "name": "MERCURY SYSTEMS INC",
   "group": "Industrials",
   "weight_percent": 0.14,
-  "holding_price": 74.53,
-  "price_date": "2026-10-20",
+  "holding_price": 75.49,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001049521.json",
     "sha256": "bc92d13c3b05a8670368dedc1f888d8edae3bf2f11a68a56c7dfd8074426a78a",
-    "retrieved_at": "2026-10-20T12:49:49.119920+00:00",
+    "retrieved_at": "2026-10-23T12:43:33.145760+00:00",
     "raw_path": "data/raw/bc92d13c3b05a8670368dedc1f888d8edae3bf2f11a68a56c7dfd8074426a78a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000045/0001049521-26-000045-index.html",

@@ -4,8 +4,8 @@
   "name": "IDAHO STRATEGIC RESOURCES INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 21.4,
-  "price_date": "2026-10-20",
+  "holding_price": 21.35,
+  "price_date": "2026-10-21",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001030192.json",
     "sha256": "d4671eff66224a52633ef18d6dc6a9f8c89a4e294026da354c470062b3002ecc",
-    "retrieved_at": "2026-10-20T12:55:00.619775+00:00",
+    "retrieved_at": "2026-10-23T12:48:53.918268+00:00",
     "raw_path": "data/raw/d4671eff66224a52633ef18d6dc6a9f8c89a4e294026da354c470062b3002ecc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1030192/000165495426002560/0001654954-26-002560-index.html",

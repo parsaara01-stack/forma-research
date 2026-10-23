@@ -4,8 +4,8 @@
   "name": "COMMUNITY WEST BANCSHARES",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 25.72,
-  "price_date": "2026-10-20",
+  "holding_price": 25.58,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001127371.json",
     "sha256": "efb4aac3b99fa4a8c22a6cf01515039db2451576868f8fa2e12f0af767bbef6a",
-    "retrieved_at": "2026-10-20T12:53:35.920719+00:00",
+    "retrieved_at": "2026-10-23T12:47:28.789439+00:00",
     "raw_path": "data/raw/efb4aac3b99fa4a8c22a6cf01515039db2451576868f8fa2e12f0af767bbef6a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1127371/000162828026016895/0001628280-26-016895-index.html",

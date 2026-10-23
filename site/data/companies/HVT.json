@@ -5,7 +5,7 @@
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
   "holding_price": 28.54,
-  "price_date": "2026-10-20",
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000216085.json",
     "sha256": "e4813239570f44abf11dae34e647d1a5ce0a6da3e6a2b644322870889014f629",
-    "retrieved_at": "2026-10-20T12:54:39.368265+00:00",
+    "retrieved_at": "2026-10-23T12:48:29.242287+00:00",
     "raw_path": "data/raw/e4813239570f44abf11dae34e647d1a5ce0a6da3e6a2b644322870889014f629.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828026012199/0001628280-26-012199-index.html",

@@ -4,8 +4,8 @@
   "name": "ICU MEDICAL",
   "group": "Health Care",
   "weight_percent": 0.13,
-  "holding_price": 161.08,
-  "price_date": "2026-10-20",
+  "holding_price": 160.84,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000883984.json",
     "sha256": "a6f2ca2661e1877968f211fa3ef6d6d5afc7e113c6a28a09e74d7c55271e5402",
-    "retrieved_at": "2026-10-20T12:49:53.160455+00:00",
+    "retrieved_at": "2026-10-23T12:43:40.722305+00:00",
     "raw_path": "data/raw/a6f2ca2661e1877968f211fa3ef6d6d5afc7e113c6a28a09e74d7c55271e5402.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/883984/000088398426000008/0000883984-26-000008-index.html",

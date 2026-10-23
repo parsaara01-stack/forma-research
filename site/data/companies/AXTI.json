@@ -3,9 +3,9 @@
   "source_ticker": "AXTI",
   "name": "AXT",
   "group": "Information Technology",
-  "weight_percent": 0.12,
-  "holding_price": 57.09,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.13,
+  "holding_price": 59.28,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001051627.json",
     "sha256": "76220cf02b2c4e2067fa257d2096ea62192d03eae8641ef5a6dadf6ff5361216",
-    "retrieved_at": "2026-10-20T12:50:15.168203+00:00",
+    "retrieved_at": "2026-10-23T12:43:46.046178+00:00",
     "raw_path": "data/raw/76220cf02b2c4e2067fa257d2096ea62192d03eae8641ef5a6dadf6ff5361216.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1051627/000143774926008612/0001437749-26-008612-index.html",

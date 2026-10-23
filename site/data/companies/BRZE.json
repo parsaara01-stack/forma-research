@@ -4,8 +4,8 @@
   "name": "BRAZE CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.15,
-  "holding_price": 45.57,
-  "price_date": "2026-10-20",
+  "holding_price": 45.68,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001676238.json",
     "sha256": "e3c3c8b049141f7a94570cbe3bf32507d693abf42b08593a3dae623dfed99723",
-    "retrieved_at": "2026-10-20T12:50:33.535571+00:00",
+    "retrieved_at": "2026-10-23T12:43:28.856517+00:00",
     "raw_path": "data/raw/e3c3c8b049141f7a94570cbe3bf32507d693abf42b08593a3dae623dfed99723.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1676238/000167623826000013/0001676238-26-000013-index.html",

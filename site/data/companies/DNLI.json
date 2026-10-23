@@ -4,8 +4,8 @@
   "name": "DENALI THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.09,
-  "holding_price": 18.93,
-  "price_date": "2026-10-20",
+  "holding_price": 18.68,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001714899.json",
     "sha256": "ed49dcb6d43f19d029bffef3b462b7e1aaeca52861675a4b29abb3bb2fffcc85",
-    "retrieved_at": "2026-10-20T12:50:42.674097+00:00",
+    "retrieved_at": "2026-10-23T12:44:20.483963+00:00",
     "raw_path": "data/raw/ed49dcb6d43f19d029bffef3b462b7e1aaeca52861675a4b29abb3bb2fffcc85.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000021/0001714899-26-000021-index.html",

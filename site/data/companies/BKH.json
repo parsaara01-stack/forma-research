@@ -4,8 +4,8 @@
   "name": "BLACK HILLS CORP",
   "group": "Utilities",
   "weight_percent": 0.21,
-  "holding_price": 77.53,
-  "price_date": "2026-10-20",
+  "holding_price": 78.55,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001130464.json",
     "sha256": "53df92a79a7d6dab4c3efb22296c357fe1694012bc342c6f6e217894d29a6bb0",
-    "retrieved_at": "2026-10-20T12:49:21.434559+00:00",
+    "retrieved_at": "2026-10-23T12:43:02.948923+00:00",
     "raw_path": "data/raw/53df92a79a7d6dab4c3efb22296c357fe1694012bc342c6f6e217894d29a6bb0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526046028/0001193125-26-046028-index.html",

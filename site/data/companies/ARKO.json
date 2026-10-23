@@ -4,8 +4,8 @@
   "name": "ARKO",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 4.03,
-  "price_date": "2026-10-20",
+  "holding_price": 3.99,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001823794.json",
     "sha256": "b43891b992564d383db8243cd33225fe949576bbf565d874185dba91c5c632e3",
-    "retrieved_at": "2026-10-20T12:55:09.347170+00:00",
+    "retrieved_at": "2026-10-23T12:49:05.162468+00:00",
     "raw_path": "data/raw/b43891b992564d383db8243cd33225fe949576bbf565d874185dba91c5c632e3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1823794/000119312526071464/0001193125-26-071464-index.html",

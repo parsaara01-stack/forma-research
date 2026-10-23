@@ -3,9 +3,9 @@
   "source_ticker": "BTSG",
   "name": "BRIGHTSPRING HEALTH SERVICES INC",
   "group": "Health Care",
-  "weight_percent": 0.36,
-  "holding_price": 62.42,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.35,
+  "holding_price": 62.36,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001865782.json",
     "sha256": "30495e827f80ab46b14a08d94f0e43de2e8ed653419f7ab5f026bd03687eda9b",
-    "retrieved_at": "2026-10-20T12:49:06.267183+00:00",
+    "retrieved_at": "2026-10-23T12:42:47.809151+00:00",
     "raw_path": "data/raw/30495e827f80ab46b14a08d94f0e43de2e8ed653419f7ab5f026bd03687eda9b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1865782/000119312526079454/0001193125-26-079454-index.html",

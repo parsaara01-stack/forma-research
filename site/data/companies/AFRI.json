@@ -4,11 +4,11 @@
   "name": "FORAFRIC GLOBAL PLC",
   "group": "Consumer Staples",
   "weight_percent": 0.0,
-  "holding_price": 11.78,
-  "price_date": "2026-10-20",
+  "holding_price": 11.97,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

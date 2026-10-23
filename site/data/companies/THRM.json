@@ -4,8 +4,8 @@
   "name": "GENTHERM",
   "group": "Consumer Discretionary",
   "weight_percent": 0.05,
-  "holding_price": 29.27,
-  "price_date": "2026-10-20",
+  "holding_price": 28.44,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000903129.json",
-    "sha256": "00229628485b6e7a2f31d89481b6570049a7568559e541ecdd81adee38a6a577",
-    "retrieved_at": "2026-10-20T12:51:52.239959+00:00",
-    "raw_path": "data/raw/00229628485b6e7a2f31d89481b6570049a7568559e541ecdd81adee38a6a577.json.gz"
+    "sha256": "1b62a46de93dceba7e57f5505c34cf8983466b4c79080f726dd577224fa24aab",
+    "retrieved_at": "2026-10-23T12:45:40.133585+00:00",
+    "raw_path": "data/raw/1b62a46de93dceba7e57f5505c34cf8983466b4c79080f726dd577224fa24aab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526059602/0001193125-26-059602-index.html",
   "earnings": {

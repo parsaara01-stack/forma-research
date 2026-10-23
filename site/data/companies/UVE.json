@@ -4,8 +4,8 @@
   "name": "UNIVERSAL INSURANCE HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 47.89,
-  "price_date": "2026-10-20",
+  "holding_price": 47.73,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000891166.json",
     "sha256": "b85aae63efbeb7729cdd321ff3620ad2878b260e9427306f519fe7df847a7138",
-    "retrieved_at": "2026-10-20T12:52:11.919486+00:00",
+    "retrieved_at": "2026-10-23T12:45:57.657247+00:00",
     "raw_path": "data/raw/b85aae63efbeb7729cdd321ff3620ad2878b260e9427306f519fe7df847a7138.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/891166/000089116626000010/0000891166-26-000010-index.html",

@@ -4,8 +4,8 @@
   "name": "CALIFORNIA WATER SERVICE GROUP",
   "group": "Utilities",
   "weight_percent": 0.1,
-  "holding_price": 46.47,
-  "price_date": "2026-10-20",
+  "holding_price": 45.91,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001035201.json",
     "sha256": "6f162e9a7cd6becaaed59dc0b372c005bfccc86b05e8e23c1d17492ac4402421",
-    "retrieved_at": "2026-10-20T12:50:30.682120+00:00",
+    "retrieved_at": "2026-10-23T12:44:16.461455+00:00",
     "raw_path": "data/raw/6f162e9a7cd6becaaed59dc0b372c005bfccc86b05e8e23c1d17492ac4402421.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1035201/000162828026012444/0001628280-26-012444-index.html",

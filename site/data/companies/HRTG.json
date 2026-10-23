@@ -4,8 +4,8 @@
   "name": "HERITAGE INSURANCE HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 36.98,
-  "price_date": "2026-10-20",
+  "holding_price": 37.08,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001598665.json",
     "sha256": "6e97a3fb4250cf7c4f0da830eb0c5650c2d7a2dc046529916223894778cc9419",
-    "retrieved_at": "2026-10-20T12:52:53.703344+00:00",
+    "retrieved_at": "2026-10-23T12:46:37.488666+00:00",
     "raw_path": "data/raw/6e97a3fb4250cf7c4f0da830eb0c5650c2d7a2dc046529916223894778cc9419.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1598665/000119312526103715/0001193125-26-103715-index.html",

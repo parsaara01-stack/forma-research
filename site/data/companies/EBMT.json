@@ -4,8 +4,8 @@
   "name": "EAGLE BANCORP MONTANA INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 20.73,
-  "price_date": "2026-10-20",
+  "holding_price": 20.99,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001478454.json",
     "sha256": "832f72c7be73644f723981045d11e9721a0b9f3fbf8db1b888677ca0699561d0",
-    "retrieved_at": "2026-10-20T12:56:10.597390+00:00",
+    "retrieved_at": "2026-10-23T12:50:01.393180+00:00",
     "raw_path": "data/raw/832f72c7be73644f723981045d11e9721a0b9f3fbf8db1b888677ca0699561d0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1478454/000143774926007330/0001437749-26-007330-index.html",

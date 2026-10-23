@@ -4,8 +4,8 @@
   "name": "CHEFS WAREHOUSE INC",
   "group": "Consumer Staples",
   "weight_percent": 0.14,
-  "holding_price": 110.88,
-  "price_date": "2026-10-20",
+  "holding_price": 110.1,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001517175.json",
     "sha256": "401bcd73b27e2a495794b88fa727329bed499c8dc3aae9fa71216403dbfb6a98",
-    "retrieved_at": "2026-10-20T12:49:47.765988+00:00",
+    "retrieved_at": "2026-10-23T12:43:38.058889+00:00",
     "raw_path": "data/raw/401bcd73b27e2a495794b88fa727329bed499c8dc3aae9fa71216403dbfb6a98.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1517175/000151717526000005/0001517175-26-000005-index.html",

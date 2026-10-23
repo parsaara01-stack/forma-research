@@ -4,8 +4,8 @@
   "name": "LEXICON PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 1.58,
-  "price_date": "2026-10-20",
+  "holding_price": 1.56,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001062822.json",
     "sha256": "6892e4a70040629ec55c0f3f5c93b207e6e0406bb1510e70eff56172a2cc9a0b",
-    "retrieved_at": "2026-10-20T12:54:54.837425+00:00",
+    "retrieved_at": "2026-10-23T12:48:44.633447+00:00",
     "raw_path": "data/raw/6892e4a70040629ec55c0f3f5c93b207e6e0406bb1510e70eff56172a2cc9a0b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1062822/000106282226000050/0001062822-26-000050-index.html",

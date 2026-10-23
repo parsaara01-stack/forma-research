@@ -4,11 +4,11 @@
   "name": "GENERATE BIOMEDICINES INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 12.9,
-  "price_date": "2026-10-20",
+  "holding_price": 13.11,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

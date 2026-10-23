@@ -4,8 +4,8 @@
   "name": "KINDERCARE LEARNING COMPANIES INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.7,
-  "price_date": "2026-10-20",
+  "holding_price": 1.66,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873529.json",
     "sha256": "c5d6a3e94c8595166bf32578913e187a87939d126d3cc754c13c547a3c6a0d86",
-    "retrieved_at": "2026-10-20T12:57:06.112454+00:00",
+    "retrieved_at": "2026-10-23T12:50:58.964941+00:00",
     "raw_path": "data/raw/c5d6a3e94c8595166bf32578913e187a87939d126d3cc754c13c547a3c6a0d86.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1873529/000119312526106342/0001193125-26-106342-index.html",

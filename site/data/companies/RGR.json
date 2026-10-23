@@ -4,8 +4,8 @@
   "name": "STURM RUGER",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 48.74,
-  "price_date": "2026-10-20",
+  "holding_price": 50.1,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000095029.json",
     "sha256": "379fb55a78a90a32534eca93ef7543c083f82c5ac53b6c93bcd90644f71b3d4f",
-    "retrieved_at": "2026-10-20T12:53:49.429096+00:00",
+    "retrieved_at": "2026-10-23T12:47:21.436474+00:00",
     "raw_path": "data/raw/379fb55a78a90a32534eca93ef7543c083f82c5ac53b6c93bcd90644f71b3d4f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/95029/000117494726000243/0001174947-26-000243-index.html",

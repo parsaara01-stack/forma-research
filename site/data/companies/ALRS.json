@@ -4,8 +4,8 @@
   "name": "ALERUS FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 31.5,
-  "price_date": "2026-10-20",
+  "holding_price": 31.34,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000903419.json",
     "sha256": "1c7a78903086593dc855d06f4e605bf5d917d838e70bedc72c35a3fb0d38cd12",
-    "retrieved_at": "2026-10-20T12:53:15.463883+00:00",
+    "retrieved_at": "2026-10-23T12:47:02.380978+00:00",
     "raw_path": "data/raw/1c7a78903086593dc855d06f4e605bf5d917d838e70bedc72c35a3fb0d38cd12.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/903419/000143774926006820/0001437749-26-006820-index.html",

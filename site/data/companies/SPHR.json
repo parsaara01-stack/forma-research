@@ -4,8 +4,8 @@
   "name": "SPHERE ENTERTAINMENT CLASS A",
   "group": "Communication",
   "weight_percent": 0.11,
-  "holding_price": 112.84,
-  "price_date": "2026-10-20",
+  "holding_price": 114.07,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001795250.json",
     "sha256": "7520cf719c49a7b6961e605e706b5d1be410d8c398ea35be99e83e65b9682da7",
-    "retrieved_at": "2026-10-20T12:50:29.481945+00:00",
+    "retrieved_at": "2026-10-23T12:44:03.747737+00:00",
     "raw_path": "data/raw/7520cf719c49a7b6961e605e706b5d1be410d8c398ea35be99e83e65b9682da7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1795250/000162828026007760/0001628280-26-007760-index.html",

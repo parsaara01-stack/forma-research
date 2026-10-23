@@ -4,8 +4,8 @@
   "name": "CNB FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 34.58,
-  "price_date": "2026-10-20",
+  "holding_price": 34.54,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000736772.json",
     "sha256": "d0e06f00a60ef9c35e144a881d488713e58b2d3f31b111a6ea013c14017d0f82",
-    "retrieved_at": "2026-10-20T12:52:34.592135+00:00",
+    "retrieved_at": "2026-10-23T12:46:18.848601+00:00",
     "raw_path": "data/raw/d0e06f00a60ef9c35e144a881d488713e58b2d3f31b111a6ea013c14017d0f82.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/736772/000073677226000031/0000736772-26-000031-index.html",

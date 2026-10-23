@@ -4,8 +4,8 @@
   "name": "MEDIAALPHA CLASS A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 11.79,
-  "price_date": "2026-10-20",
+  "holding_price": 11.52,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001818383.json",
     "sha256": "92259445707d4ccd4513fef0d642615cf20a90d9b90fc28636332399e3b271ee",
-    "retrieved_at": "2026-10-20T12:54:57.500500+00:00",
+    "retrieved_at": "2026-10-23T12:48:50.392714+00:00",
     "raw_path": "data/raw/92259445707d4ccd4513fef0d642615cf20a90d9b90fc28636332399e3b271ee.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000049/0001818383-26-000049-index.html",

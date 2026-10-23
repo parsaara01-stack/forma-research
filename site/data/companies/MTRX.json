@@ -4,8 +4,8 @@
   "name": "MATRIX SERVICE",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 10.09,
-  "price_date": "2026-10-20",
+  "holding_price": 10.14,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000866273.json",
     "sha256": "96734ebde254f6fa4421ee0d6dafe7e11a7dababdf55022011debcb64eaeabed",
-    "retrieved_at": "2026-10-20T12:55:27.193590+00:00",
+    "retrieved_at": "2026-10-23T12:49:18.395294+00:00",
     "raw_path": "data/raw/96734ebde254f6fa4421ee0d6dafe7e11a7dababdf55022011debcb64eaeabed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/866273/000086627326000057/0000866273-26-000057-index.html",

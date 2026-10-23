@@ -4,8 +4,8 @@
   "name": "MESA LABORATORIES",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 125.16,
-  "price_date": "2026-10-20",
+  "holding_price": 129.2,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000724004.json",
     "sha256": "45d683688d6e28e05ee54f4cf64fbc330b6ea273bd92abd776df20af894cd458",
-    "retrieved_at": "2026-10-20T12:53:30.917513+00:00",
+    "retrieved_at": "2026-10-23T12:47:16.397091+00:00",
     "raw_path": "data/raw/45d683688d6e28e05ee54f4cf64fbc330b6ea273bd92abd776df20af894cd458.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/724004/000072400426000047/0000724004-26-000047-index.html",

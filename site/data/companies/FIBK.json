@@ -4,8 +4,8 @@
   "name": "FIRST INTERSTATE BANCSYSTEM",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 35.56,
-  "price_date": "2026-10-20",
+  "holding_price": 35.67,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000860413.json",
     "sha256": "034d98c137654444354001a02e85f8b68d619f63589bf1967d782836f83288e0",
-    "retrieved_at": "2026-10-20T12:50:20.183152+00:00",
+    "retrieved_at": "2026-10-23T12:44:02.794793+00:00",
     "raw_path": "data/raw/034d98c137654444354001a02e85f8b68d619f63589bf1967d782836f83288e0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000011/0000860413-26-000011-index.html",

@@ -4,8 +4,8 @@
   "name": "CARGURUS CLASS A",
   "group": "Communication",
   "weight_percent": 0.08,
-  "holding_price": 31.66,
-  "price_date": "2026-10-20",
+  "holding_price": 31.19,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001494259.json",
     "sha256": "78b67d6544657ffee49d7b40ab3bf4d5d0dfef4fadc67e46bb44953213e2dc0b",
-    "retrieved_at": "2026-10-20T12:50:57.731110+00:00",
+    "retrieved_at": "2026-10-23T12:44:42.079083+00:00",
     "raw_path": "data/raw/78b67d6544657ffee49d7b40ab3bf4d5d0dfef4fadc67e46bb44953213e2dc0b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1494259/000119312526059435/0001193125-26-059435-index.html",

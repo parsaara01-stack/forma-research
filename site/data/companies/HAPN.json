@@ -4,8 +4,8 @@
   "name": "HAPPEN",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 14.58,
-  "price_date": "2026-10-20",
+  "holding_price": 14.72,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409970.json",
     "sha256": "8e6b65a4f314bf9c7a69a846c760673fca376a733ddd852725fc5a487a569e08",
-    "retrieved_at": "2026-10-20T12:51:35.838753+00:00",
+    "retrieved_at": "2026-10-23T12:45:20.145151+00:00",
     "raw_path": "data/raw/8e6b65a4f314bf9c7a69a846c760673fca376a733ddd852725fc5a487a569e08.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1409970/000140997026000018/0001409970-26-000018-index.html",

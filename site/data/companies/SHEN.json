@@ -4,8 +4,8 @@
   "name": "SHENANDOAH TELECOMMUNICATIONS",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 10.14,
-  "price_date": "2026-10-20",
+  "holding_price": 9.76,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354963.json",
     "sha256": "bb09dd167b82baef94fb4a29db9914d3730d14b31b0d320bde3320892d1c07c4",
-    "retrieved_at": "2026-10-20T12:54:04.516690+00:00",
+    "retrieved_at": "2026-10-23T12:48:02.287716+00:00",
     "raw_path": "data/raw/bb09dd167b82baef94fb4a29db9914d3730d14b31b0d320bde3320892d1c07c4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/354963/000035496326000125/0000354963-26-000125-index.html",

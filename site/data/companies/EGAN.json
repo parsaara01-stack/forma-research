@@ -4,8 +4,8 @@
   "name": "EGAIN CORP",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 5.68,
-  "price_date": "2026-10-20",
+  "holding_price": 5.67,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001066194.json",
     "sha256": "09b5080b6602958114fca25423ef68a3d8550fa78fff04df73e15cb2639146ab",
-    "retrieved_at": "2026-10-20T12:56:51.705961+00:00",
+    "retrieved_at": "2026-10-23T12:50:43.252414+00:00",
     "raw_path": "data/raw/09b5080b6602958114fca25423ef68a3d8550fa78fff04df73e15cb2639146ab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1066194/000110465926106739/0001104659-26-106739-index.html",

@@ -4,8 +4,8 @@
   "name": "WASHINGTON TRUST BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 38.11,
-  "price_date": "2026-10-20",
+  "holding_price": 38.47,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000737468.json",
     "sha256": "19f9971fd349091d723784dc21d0520ec58fdc1b14275d5c4cd224158197e626",
-    "retrieved_at": "2026-10-20T12:53:15.966214+00:00",
+    "retrieved_at": "2026-10-23T12:46:57.779261+00:00",
     "raw_path": "data/raw/19f9971fd349091d723784dc21d0520ec58fdc1b14275d5c4cd224158197e626.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/737468/000073746826000034/0000737468-26-000034-index.html",

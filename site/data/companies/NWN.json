@@ -4,8 +4,8 @@
   "name": "NORTHWEST NATURAL HOLDING COMPANY",
   "group": "Utilities",
   "weight_percent": 0.07,
-  "holding_price": 48.89,
-  "price_date": "2026-10-20",
+  "holding_price": 48.8,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001733998.json",
     "sha256": "25b8a661587ea1631214e2b32b1e7c385ad0a341023be0c3aab4abb2d0b90abb",
-    "retrieved_at": "2026-10-20T12:51:09.841871+00:00",
+    "retrieved_at": "2026-10-23T12:44:56.312699+00:00",
     "raw_path": "data/raw/25b8a661587ea1631214e2b32b1e7c385ad0a341023be0c3aab4abb2d0b90abb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1733998/000173399826000012/0001733998-26-000012-index.html",

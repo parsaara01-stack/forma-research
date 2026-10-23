@@ -4,8 +4,8 @@
   "name": "OSI SYSTEMS",
   "group": "Information Technology",
   "weight_percent": 0.11,
-  "holding_price": 194.86,
-  "price_date": "2026-10-20",
+  "holding_price": 196.93,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001039065.json",
     "sha256": "5687fe2f602463530aae10999ccc9e166d0c6b4df22b968af14a1e9f4a9370e4",
-    "retrieved_at": "2026-10-20T12:50:21.697574+00:00",
+    "retrieved_at": "2026-10-23T12:44:05.372727+00:00",
     "raw_path": "data/raw/5687fe2f602463530aae10999ccc9e166d0c6b4df22b968af14a1e9f4a9370e4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1039065/000110465926099752/0001104659-26-099752-index.html",

@@ -5,7 +5,7 @@
   "group": "Health Care",
   "weight_percent": 0.01,
   "holding_price": 2.3,
-  "price_date": "2026-10-20",
+  "price_date": "2026-10-21",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "operating_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000728387.json",
     "sha256": "80792777921b49454c9d29f110283a1024ec5ce2a3749610d4c1319da49650fe",
-    "retrieved_at": "2026-10-20T12:55:43.409587+00:00",
+    "retrieved_at": "2026-10-23T12:49:31.483114+00:00",
     "raw_path": "data/raw/80792777921b49454c9d29f110283a1024ec5ce2a3749610d4c1319da49650fe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/728387/000072838726000004/0000728387-26-000004-index.html",

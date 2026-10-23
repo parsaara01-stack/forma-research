@@ -4,8 +4,8 @@
   "name": "MASTERBRAND",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 6.69,
-  "price_date": "2026-10-20",
+  "holding_price": 6.76,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001941365.json",
     "sha256": "625fa81bde880604fc8186c43e2f3177375d066c871f164ddecaae42d956c8cd",
-    "retrieved_at": "2026-10-20T12:52:02.688767+00:00",
+    "retrieved_at": "2026-10-23T12:45:51.295614+00:00",
     "raw_path": "data/raw/625fa81bde880604fc8186c43e2f3177375d066c871f164ddecaae42d956c8cd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1941365/000194136526000006/0001941365-26-000006-index.html",

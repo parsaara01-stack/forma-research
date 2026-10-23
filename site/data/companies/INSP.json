@@ -4,8 +4,8 @@
   "name": "INSPIRE MEDICAL SYSTEMS",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 71.34,
-  "price_date": "2026-10-20",
+  "holding_price": 71.07,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001609550.json",
     "sha256": "34ab26804128582b0f27b7da555ba7c84fcbc74f86ce7bd77e4beecd5f5a0297",
-    "retrieved_at": "2026-10-20T12:51:16.875540+00:00",
+    "retrieved_at": "2026-10-23T12:44:58.866319+00:00",
     "raw_path": "data/raw/34ab26804128582b0f27b7da555ba7c84fcbc74f86ce7bd77e4beecd5f5a0297.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1609550/000160955026000016/0001609550-26-000016-index.html",

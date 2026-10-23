@@ -4,8 +4,8 @@
   "name": "ALBANY INTERNATIONAL CORP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.06,
-  "holding_price": 64.43,
-  "price_date": "2026-10-20",
+  "holding_price": 65.0,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000819793.json",
     "sha256": "0a5ca326c863c6c5ade3f8c1dbe276af9d21bef2249e961499438a8fdf761af1",
-    "retrieved_at": "2026-10-20T12:51:33.399538+00:00",
+    "retrieved_at": "2026-10-23T12:45:11.449031+00:00",
     "raw_path": "data/raw/0a5ca326c863c6c5ade3f8c1dbe276af9d21bef2249e961499438a8fdf761af1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/819793/000162828026012906/0001628280-26-012906-index.html",

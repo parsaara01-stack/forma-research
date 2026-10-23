@@ -3,9 +3,9 @@
   "source_ticker": "ONB",
   "name": "OLD NATIONAL BANCORP",
   "group": "Financials",
-  "weight_percent": 0.3,
-  "holding_price": 25.34,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.29,
+  "holding_price": 24.59,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000707179.json",
     "sha256": "ef32fff77b0e8d610629bb964e9574d6019b6684425c6b6d1ec7e328788fecae",
-    "retrieved_at": "2026-10-20T12:49:08.423500+00:00",
+    "retrieved_at": "2026-10-23T12:42:50.813530+00:00",
     "raw_path": "data/raw/ef32fff77b0e8d610629bb964e9574d6019b6684425c6b6d1ec7e328788fecae.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/707179/000070717926000010/0000707179-26-000010-index.html",

@@ -4,8 +4,8 @@
   "name": "FRANKLIN BSP REALTY TRUST",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 6.09,
-  "price_date": "2026-10-20",
+  "holding_price": 6.02,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001562528.json",
     "sha256": "df0b1482cd4d0efcc878d96dfa88d7be137be87f61ef0a88bf4239a6d60897b2",
-    "retrieved_at": "2026-10-20T12:54:03.077254+00:00",
+    "retrieved_at": "2026-10-23T12:47:58.761575+00:00",
     "raw_path": "data/raw/df0b1482cd4d0efcc878d96dfa88d7be137be87f61ef0a88bf4239a6d60897b2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1562528/000156252826000008/0001562528-26-000008-index.html",

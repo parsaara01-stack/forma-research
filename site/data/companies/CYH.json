@@ -4,8 +4,8 @@
   "name": "COMMUNITY HEALTH SYSTEMS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 2.85,
-  "price_date": "2026-10-20",
+  "holding_price": 2.82,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001108109.json",
     "sha256": "c3c5b335e128d27144b4eeb7cd289a82e7095115cdf4ae233f5f92ef6e65878c",
-    "retrieved_at": "2026-10-20T12:54:49.215006+00:00",
+    "retrieved_at": "2026-10-23T12:48:45.466575+00:00",
     "raw_path": "data/raw/c3c5b335e128d27144b4eeb7cd289a82e7095115cdf4ae233f5f92ef6e65878c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1108109/000119312526059509/0001193125-26-059509-index.html",

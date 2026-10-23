@@ -4,8 +4,8 @@
   "name": "KVH INDUSTRIES INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 6.34,
-  "price_date": "2026-10-20",
+  "holding_price": 6.55,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001007587.json",
     "sha256": "914d28e5b9f9d91fb8c6587d08f5dbb91ba9b98461bbd2aaf27c0edd2276c449",
-    "retrieved_at": "2026-10-20T12:57:01.979905+00:00",
+    "retrieved_at": "2026-10-23T12:50:50.098069+00:00",
     "raw_path": "data/raw/914d28e5b9f9d91fb8c6587d08f5dbb91ba9b98461bbd2aaf27c0edd2276c449.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1007587/000100758726000004/0001007587-26-000004-index.html",

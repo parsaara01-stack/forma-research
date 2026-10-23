@@ -4,8 +4,8 @@
   "name": "MBIA INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 4.42,
-  "price_date": "2026-10-20",
+  "holding_price": 4.41,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000814585.json",
     "sha256": "0b93eb98aea45cf3902fea82351e8144f22af4ea2ce59648b5ca8fbdddc0d962",
-    "retrieved_at": "2026-10-20T12:56:02.229900+00:00",
+    "retrieved_at": "2026-10-23T12:49:56.128944+00:00",
     "raw_path": "data/raw/0b93eb98aea45cf3902fea82351e8144f22af4ea2ce59648b5ca8fbdddc0d962.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/814585/000119312526076834/0001193125-26-076834-index.html",

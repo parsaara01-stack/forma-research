@@ -4,8 +4,8 @@
   "name": "DYNEX CAPITAL REIT",
   "group": "Financials",
   "weight_percent": 0.1,
-  "holding_price": 10.96,
-  "price_date": "2026-10-20",
+  "holding_price": 11.05,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000826675.json",
     "sha256": "0992689d6c469a10f452e2e86a42ff893481dc96645bdf3cb7731cfb0b80d524",
-    "retrieved_at": "2026-10-20T12:50:32.053842+00:00",
+    "retrieved_at": "2026-10-23T12:44:16.000709+00:00",
     "raw_path": "data/raw/0992689d6c469a10f452e2e86a42ff893481dc96645bdf3cb7731cfb0b80d524.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000017/0000826675-26-000017-index.html",

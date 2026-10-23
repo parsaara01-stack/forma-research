@@ -4,8 +4,8 @@
   "name": "ARMOUR RESIDENTIAL REIT",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 12.68,
-  "price_date": "2026-10-20",
+  "holding_price": 12.81,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001428205.json",
-    "sha256": "294377233b792ede38aa93b0876674d2572a620f21585628cd715e9578a222a4",
-    "retrieved_at": "2026-10-20T12:51:20.616414+00:00",
-    "raw_path": "data/raw/294377233b792ede38aa93b0876674d2572a620f21585628cd715e9578a222a4.json.gz"
+    "sha256": "6bc6d15970764d4e9b965de6ef3f4eb100c6be2cc804ed692b51895f9e5e0226",
+    "retrieved_at": "2026-10-23T12:45:11.776887+00:00",
+    "raw_path": "data/raw/6bc6d15970764d4e9b965de6ef3f4eb100c6be2cc804ed692b51895f9e5e0226.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1428205/000142820526000029/0001428205-26-000029-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "ALPHA TEKNOVA",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 7.39,
-  "price_date": "2026-10-20",
+  "holding_price": 5.85,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001850902.json",
-    "sha256": "574c0a9a254b1d5f8cad3acbb03e80fc007e5e7f8c81bd06470b3df85f7ee4cc",
-    "retrieved_at": "2026-10-20T12:56:56.718401+00:00",
-    "raw_path": "data/raw/574c0a9a254b1d5f8cad3acbb03e80fc007e5e7f8c81bd06470b3df85f7ee4cc.json.gz"
+    "sha256": "51e8c48fd6c1e53624b01186ca2498295557a8ef7639ba12425be2ecf61a6261",
+    "retrieved_at": "2026-10-23T12:50:53.271231+00:00",
+    "raw_path": "data/raw/51e8c48fd6c1e53624b01186ca2498295557a8ef7639ba12425be2ecf61a6261.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1850902/000185090226000002/0001850902-26-000002-index.html",
   "earnings": {

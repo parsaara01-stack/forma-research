@@ -4,8 +4,8 @@
   "name": "WINMARK",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 305.1,
-  "price_date": "2026-10-20",
+  "holding_price": 280.77,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000908315.json",
     "sha256": "ba9b1dfe6595e5baca1b6bf2bf840fd2a29ae046f6c008033652e10bfd3c2fa5",
-    "retrieved_at": "2026-10-20T12:52:50.853738+00:00",
+    "retrieved_at": "2026-10-23T12:46:52.096206+00:00",
     "raw_path": "data/raw/ba9b1dfe6595e5baca1b6bf2bf840fd2a29ae046f6c008033652e10bfd3c2fa5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000007/0000908315-26-000007-index.html",

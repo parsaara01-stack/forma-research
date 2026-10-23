@@ -4,8 +4,8 @@
   "name": "INSTEEL INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 30.29,
-  "price_date": "2026-10-20",
+  "holding_price": 30.39,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000764401.json",
     "sha256": "c3078b931c4f94dc78b7ceedfcb8c2d33a628694fefaef3c438e43f86ab31818",
-    "retrieved_at": "2026-10-20T12:53:54.059627+00:00",
+    "retrieved_at": "2026-10-23T12:47:45.277932+00:00",
     "raw_path": "data/raw/c3078b931c4f94dc78b7ceedfcb8c2d33a628694fefaef3c438e43f86ab31818.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/764401/000143774925031597/0001437749-25-031597-index.html",

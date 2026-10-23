@@ -4,11 +4,11 @@
   "name": "COSTAMARE BULKERS HOLDINGS LTD",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 19.57,
-  "price_date": "2026-10-20",
+  "holding_price": 19.76,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

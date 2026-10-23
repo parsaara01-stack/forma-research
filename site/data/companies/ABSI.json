@@ -4,8 +4,8 @@
   "name": "ABSCI CORP",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 9.07,
-  "price_date": "2026-10-20",
+  "holding_price": 10.04,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001672688.json",
     "sha256": "0a304c12efacdd2cda26a53143056768b9d49970467d718010d6e6dcaa072e39",
-    "retrieved_at": "2026-10-20T12:52:13.387734+00:00",
+    "retrieved_at": "2026-10-23T12:45:38.916593+00:00",
     "raw_path": "data/raw/0a304c12efacdd2cda26a53143056768b9d49970467d718010d6e6dcaa072e39.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1672688/000167268826000068/0001672688-26-000068-index.html",

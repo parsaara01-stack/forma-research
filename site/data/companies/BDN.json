@@ -4,8 +4,8 @@
   "name": "BRANDYWINE REALTY TRUST REIT",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 2.68,
-  "price_date": "2026-10-20",
+  "holding_price": 2.7,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000790816.json",
     "sha256": "512a15c02b09e6955b790566d7213b8b4ac27699a34cf74a710f7c140fb6eb96",
-    "retrieved_at": "2026-10-20T12:54:20.710056+00:00",
+    "retrieved_at": "2026-10-23T12:48:11.123318+00:00",
     "raw_path": "data/raw/512a15c02b09e6955b790566d7213b8b4ac27699a34cf74a710f7c140fb6eb96.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000008/0000790816-26-000008-index.html",

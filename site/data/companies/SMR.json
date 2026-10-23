@@ -3,9 +3,9 @@
   "source_ticker": "SMR",
   "name": "NUSCALE POWER CORP CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.07,
-  "holding_price": 5.58,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.06,
+  "holding_price": 5.5,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001822966.json",
     "sha256": "01b4dfce3d0b5fc2b0365f5128226083f05830b9109ee059827b04367b156bfd",
-    "retrieved_at": "2026-10-20T12:51:15.018863+00:00",
+    "retrieved_at": "2026-10-23T12:45:08.944855+00:00",
     "raw_path": "data/raw/01b4dfce3d0b5fc2b0365f5128226083f05830b9109ee059827b04367b156bfd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.html",

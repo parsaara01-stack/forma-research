@@ -4,8 +4,8 @@
   "name": "GRANITE RIDGE RESOURCES",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 5.66,
-  "price_date": "2026-10-20",
+  "holding_price": 5.67,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001928446.json",
     "sha256": "caed75359d59466e2008333d5cc79ae14366baf5fd1c69e18c11b35d72f359dc",
-    "retrieved_at": "2026-10-20T12:55:08.195971+00:00",
+    "retrieved_at": "2026-10-23T12:48:55.939905+00:00",
     "raw_path": "data/raw/caed75359d59466e2008333d5cc79ae14366baf5fd1c69e18c11b35d72f359dc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1928446/000192844626000007/0001928446-26-000007-index.html",

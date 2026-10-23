@@ -4,8 +4,8 @@
   "name": "LCNB CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 19.24,
-  "price_date": "2026-10-20",
+  "holding_price": 19.05,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001074902.json",
     "sha256": "8415bc4afeb3bac7fa179034a8f68df529d328cc4e3e44981aa427f24bb7730c",
-    "retrieved_at": "2026-10-20T12:55:30.045652+00:00",
+    "retrieved_at": "2026-10-23T12:49:22.275755+00:00",
     "raw_path": "data/raw/8415bc4afeb3bac7fa179034a8f68df529d328cc4e3e44981aa427f24bb7730c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1074902/000143774926007758/0001437749-26-007758-index.html",

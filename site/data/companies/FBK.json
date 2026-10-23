@@ -4,8 +4,8 @@
   "name": "FB FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 52.25,
-  "price_date": "2026-10-20",
+  "holding_price": 52.1,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001649749.json",
     "sha256": "0eafab6e9068739cd96ab70a0ff259f964a82075583e6bd2c68bba7406d12f89",
-    "retrieved_at": "2026-10-20T12:50:42.144192+00:00",
+    "retrieved_at": "2026-10-23T12:44:26.772728+00:00",
     "raw_path": "data/raw/0eafab6e9068739cd96ab70a0ff259f964a82075583e6bd2c68bba7406d12f89.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1649749/000164974926000012/0001649749-26-000012-index.html",

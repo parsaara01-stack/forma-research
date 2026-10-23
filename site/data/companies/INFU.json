@@ -4,8 +4,8 @@
   "name": "INFUSYSTEM HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 14.23,
-  "price_date": "2026-10-20",
+  "holding_price": 14.05,
+  "price_date": "2026-10-21",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001337013.json",
     "sha256": "4725d57c0e2030e9aac627f155145b2494f8e9d2717d8b4ccee0c4a7f97a07fe",
-    "retrieved_at": "2026-10-20T12:55:31.984520+00:00",
+    "retrieved_at": "2026-10-23T12:49:19.043203+00:00",
     "raw_path": "data/raw/4725d57c0e2030e9aac627f155145b2494f8e9d2717d8b4ccee0c4a7f97a07fe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1337013/000162828026012804/0001628280-26-012804-index.html",

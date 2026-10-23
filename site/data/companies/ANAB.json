@@ -4,8 +4,8 @@
   "name": "ANAPTYSBIO",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 45.43,
-  "price_date": "2026-10-20",
+  "holding_price": 47.94,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001370053.json",
     "sha256": "ec4a76b54613eb80a688b16f0c661c74344806d68381c6f1d1db947e69774e3b",
-    "retrieved_at": "2026-10-20T12:52:48.772544+00:00",
+    "retrieved_at": "2026-10-23T12:46:30.709091+00:00",
     "raw_path": "data/raw/ec4a76b54613eb80a688b16f0c661c74344806d68381c6f1d1db947e69774e3b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526088290/0001193125-26-088290-index.html",

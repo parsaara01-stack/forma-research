@@ -4,8 +4,8 @@
   "name": "BRT APARTMENTS CORP",
   "group": "Real Estate",
   "weight_percent": 0.0,
-  "holding_price": 13.36,
-  "price_date": "2026-10-20",
+  "holding_price": 12.85,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014846.json",
     "sha256": "4091cea79d8b318bc2f1199a5349b8ef36a3cb7cfcb8b7089aa5a6975efdf2ed",
-    "retrieved_at": "2026-10-20T12:56:32.110374+00:00",
+    "retrieved_at": "2026-10-23T12:50:28.372322+00:00",
     "raw_path": "data/raw/4091cea79d8b318bc2f1199a5349b8ef36a3cb7cfcb8b7089aa5a6975efdf2ed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/14846/000001484626000007/0000014846-26-000007-index.html",

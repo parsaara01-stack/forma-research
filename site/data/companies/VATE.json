@@ -4,8 +4,8 @@
   "name": "INNOVATE CORP",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 5.92,
-  "price_date": "2026-10-20",
+  "holding_price": 5.68,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006837.json",
     "sha256": "dc6d064845a180bc2c28fc5439ae70805e17a8de4ecf33836a8c8516fa7e0284",
-    "retrieved_at": "2026-10-20T12:57:16.254610+00:00",
+    "retrieved_at": "2026-10-23T12:51:07.599038+00:00",
     "raw_path": "data/raw/dc6d064845a180bc2c28fc5439ae70805e17a8de4ecf33836a8c8516fa7e0284.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1006837/000100683726000014/0001006837-26-000014-index.html",

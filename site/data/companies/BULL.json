@@ -4,11 +4,11 @@
   "name": "WEBULL CORP CLASS A",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 6.03,
-  "price_date": "2026-10-20",
+  "holding_price": 6.09,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

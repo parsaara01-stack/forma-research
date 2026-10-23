@@ -4,8 +4,8 @@
   "name": "UTZ BRANDS CLASS A",
   "group": "Consumer Staples",
   "weight_percent": 0.04,
-  "holding_price": 14.29,
-  "price_date": "2026-10-20",
+  "holding_price": 14.31,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001739566.json",
     "sha256": "f9e71b76e18c1d9206cd1dba2de30fe599dc10e768037ee143fbc92264267ee5",
-    "retrieved_at": "2026-10-20T12:52:33.277577+00:00",
+    "retrieved_at": "2026-10-23T12:46:19.387470+00:00",
     "raw_path": "data/raw/f9e71b76e18c1d9206cd1dba2de30fe599dc10e768037ee143fbc92264267ee5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026007757/0001628280-26-007757-index.html",

@@ -4,8 +4,8 @@
   "name": "FIRST FINANCIAL BANCORP",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 31.84,
-  "price_date": "2026-10-20",
+  "holding_price": 31.65,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000708955.json",
     "sha256": "9a75b579027e56cdaab8f0f61f82cb6469790ff7a0c7fd6bbfe65da963c0e90e",
-    "retrieved_at": "2026-10-20T12:50:12.727504+00:00",
+    "retrieved_at": "2026-10-23T12:43:53.500375+00:00",
     "raw_path": "data/raw/9a75b579027e56cdaab8f0f61f82cb6469790ff7a0c7fd6bbfe65da963c0e90e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/708955/000070895526000028/0000708955-26-000028-index.html",

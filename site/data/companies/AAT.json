@@ -4,8 +4,8 @@
   "name": "AMERICAN ASSETS TRUST REIT",
   "group": "Real Estate",
   "weight_percent": 0.04,
-  "holding_price": 20.75,
-  "price_date": "2026-10-20",
+  "holding_price": 20.47,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001500217.json",
     "sha256": "7a5697c6a56c3cc7d3086f1127f9208e1eaccad3f392728cc038aad56fbc87e1",
-    "retrieved_at": "2026-10-20T12:52:29.953582+00:00",
+    "retrieved_at": "2026-10-23T12:46:21.688023+00:00",
     "raw_path": "data/raw/7a5697c6a56c3cc7d3086f1127f9208e1eaccad3f392728cc038aad56fbc87e1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000008/0001500217-26-000008-index.html",

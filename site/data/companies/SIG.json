@@ -4,8 +4,8 @@
   "name": "SIGNET JEWELERS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.15,
-  "holding_price": 115.72,
-  "price_date": "2026-10-20",
+  "holding_price": 114.77,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000832988.json",
     "sha256": "6ccb72131c8afd75ae3b0ea1c6082f249d976747c4587334bb8ce4940b02f72d",
-    "retrieved_at": "2026-10-20T12:49:39.639164+00:00",
+    "retrieved_at": "2026-10-23T12:43:26.658314+00:00",
     "raw_path": "data/raw/6ccb72131c8afd75ae3b0ea1c6082f249d976747c4587334bb8ce4940b02f72d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/832988/000083298826000055/0000832988-26-000055-index.html",

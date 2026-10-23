@@ -4,8 +4,8 @@
   "name": "TPG RE FINANCE TRUST INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 5.86,
-  "price_date": "2026-10-20",
+  "holding_price": 5.85,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001630472.json",
     "sha256": "928670292a2615761ec0ca136f8511d926de4a36069e658e46045c64ed5f1fba",
-    "retrieved_at": "2026-10-20T12:54:27.759893+00:00",
+    "retrieved_at": "2026-10-23T12:48:18.808333+00:00",
     "raw_path": "data/raw/928670292a2615761ec0ca136f8511d926de4a36069e658e46045c64ed5f1fba.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000004/0001630472-26-000004-index.html",

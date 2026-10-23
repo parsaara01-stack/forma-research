@@ -4,8 +4,8 @@
   "name": "COGENT BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.18,
-  "holding_price": 31.24,
-  "price_date": "2026-10-20",
+  "holding_price": 31.43,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001622229.json",
     "sha256": "b9d94be9f80e344ba0abf34d342bf5afaf417f0105914abe7ecc95aac8b475bf",
-    "retrieved_at": "2026-10-20T12:49:31.983463+00:00",
+    "retrieved_at": "2026-10-23T12:43:12.292880+00:00",
     "raw_path": "data/raw/b9d94be9f80e344ba0abf34d342bf5afaf417f0105914abe7ecc95aac8b475bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526053334/0001193125-26-053334-index.html",

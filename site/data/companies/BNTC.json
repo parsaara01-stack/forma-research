@@ -4,8 +4,8 @@
   "name": "BENITEC BIOPHARMA INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 9.04,
-  "price_date": "2026-10-20",
+  "holding_price": 8.5,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001808898.json",
-    "sha256": "5e480ea95fca693766ea54d2240ca5fcd8d8365f495fbc1d6c61e630b07edab5",
-    "retrieved_at": "2026-10-20T12:56:16.396019+00:00",
-    "raw_path": "data/raw/5e480ea95fca693766ea54d2240ca5fcd8d8365f495fbc1d6c61e630b07edab5.json.gz"
+    "sha256": "53d940e59f525ee5fe9eb525317553fce2ae957033a5945896a4654888ca4809",
+    "retrieved_at": "2026-10-23T12:50:01.652133+00:00",
+    "raw_path": "data/raw/53d940e59f525ee5fe9eb525317553fce2ae957033a5945896a4654888ca4809.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526390570/0001193125-26-390570-index.html",
   "earnings": {

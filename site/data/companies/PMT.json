@@ -4,8 +4,8 @@
   "name": "PENNYMAC MORTGAGE INVESTMENT TRUST",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 6.91,
-  "price_date": "2026-10-20",
+  "holding_price": 6.84,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001464423.json",
     "sha256": "f95c23e42501745f773b441b69769d76cbe2bf6475afa5955b44691cdde166f4",
-    "retrieved_at": "2026-10-20T12:53:21.765358+00:00",
+    "retrieved_at": "2026-10-23T12:47:16.334072+00:00",
     "raw_path": "data/raw/f95c23e42501745f773b441b69769d76cbe2bf6475afa5955b44691cdde166f4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1464423/000119312526057041/0001193125-26-057041-index.html",

@@ -4,8 +4,8 @@
   "name": "KENNAMETAL",
   "group": "Industrials",
   "weight_percent": 0.08,
-  "holding_price": 31.21,
-  "price_date": "2026-10-20",
+  "holding_price": 31.11,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000055242.json",
     "sha256": "40862485c974808efac01591f3073961d41c41266d608813edcc0dc9b08e0b88",
-    "retrieved_at": "2026-10-20T12:50:52.304976+00:00",
+    "retrieved_at": "2026-10-23T12:44:37.424423+00:00",
     "raw_path": "data/raw/40862485c974808efac01591f3073961d41c41266d608813edcc0dc9b08e0b88.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/55242/000162828026056143/0001628280-26-056143-index.html",

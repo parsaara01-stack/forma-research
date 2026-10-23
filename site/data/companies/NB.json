@@ -3,9 +3,9 @@
   "source_ticker": "NB",
   "name": "NIOCORP DEVELOPMENTS",
   "group": "Materials",
-  "weight_percent": 0.01,
-  "holding_price": 3.03,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.02,
+  "holding_price": 3.13,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001512228.json",
     "sha256": "ebf16e81e68dd4f61c82b224a293597b0e0ddea0a0606f5409900d059149d7f3",
-    "retrieved_at": "2026-10-20T12:54:18.844526+00:00",
+    "retrieved_at": "2026-10-23T12:48:13.678017+00:00",
     "raw_path": "data/raw/ebf16e81e68dd4f61c82b224a293597b0e0ddea0a0606f5409900d059149d7f3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1512228/000119312526402806/0001193125-26-402806-index.html",

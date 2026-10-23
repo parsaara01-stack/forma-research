@@ -3,9 +3,9 @@
   "source_ticker": "GTM",
   "name": "ZOOMINFO TECHNOLOGIES",
   "group": "Communication",
-  "weight_percent": 0.03,
-  "holding_price": 4.1,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.04,
+  "holding_price": 4.21,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001794515.json",
     "sha256": "4b484f3726fb27c083ae3dc2827339817a16a25143169b1ed238bfabcd6827a3",
-    "retrieved_at": "2026-10-20T12:52:48.993860+00:00",
+    "retrieved_at": "2026-10-23T12:46:21.321844+00:00",
     "raw_path": "data/raw/4b484f3726fb27c083ae3dc2827339817a16a25143169b1ed238bfabcd6827a3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000012/0001794515-26-000012-index.html",

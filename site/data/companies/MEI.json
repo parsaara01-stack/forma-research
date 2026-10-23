@@ -4,8 +4,8 @@
   "name": "METHODE ELECTRONICS",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 14.15,
-  "price_date": "2026-10-20",
+  "holding_price": 14.56,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000065270.json",
     "sha256": "f77c70c1b979c88ce9584e5d49e12911dc24eb31a1ecc54b35f6bca1a611d361",
-    "retrieved_at": "2026-10-20T12:54:11.726610+00:00",
+    "retrieved_at": "2026-10-23T12:47:53.386782+00:00",
     "raw_path": "data/raw/f77c70c1b979c88ce9584e5d49e12911dc24eb31a1ecc54b35f6bca1a611d361.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/65270/000006527026000031/0000065270-26-000031-index.html",

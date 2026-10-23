@@ -4,8 +4,8 @@
   "name": "GENCOR INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 17.64,
-  "price_date": "2026-10-20",
+  "holding_price": 17.5,
+  "price_date": "2026-10-21",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000064472.json",
     "sha256": "b1824244bae7f4864e1db37d1c7d0fb2ef08485db02d231080fbb1304522c750",
-    "retrieved_at": "2026-10-20T12:56:11.113231+00:00",
+    "retrieved_at": "2026-10-23T12:50:03.628228+00:00",
     "raw_path": "data/raw/b1824244bae7f4864e1db37d1c7d0fb2ef08485db02d231080fbb1304522c750.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/64472/000119312525312742/0001193125-25-312742-index.html",

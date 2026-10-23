@@ -4,8 +4,8 @@
   "name": "INNOVIVA",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 21.28,
-  "price_date": "2026-10-20",
+  "holding_price": 20.91,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001080014.json",
     "sha256": "d084df02bec89144279593397678f389908322991ec5479affbceaa1df2c492d",
-    "retrieved_at": "2026-10-20T12:51:48.428369+00:00",
+    "retrieved_at": "2026-10-23T12:45:33.826025+00:00",
     "raw_path": "data/raw/d084df02bec89144279593397678f389908322991ec5479affbceaa1df2c492d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1080014/000119312526071776/0001193125-26-071776-index.html",

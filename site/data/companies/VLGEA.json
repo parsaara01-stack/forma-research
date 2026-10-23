@@ -4,8 +4,8 @@
   "name": "VILLAGE SUPER MARKET INC CLASS A",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 43.11,
-  "price_date": "2026-10-20",
+  "holding_price": 43.4,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000103595.json",
     "sha256": "311b4161cca9d1c36f7ff8ea128641d9b34ebe64debe1b78945f082fd0da3b3c",
-    "retrieved_at": "2026-10-20T12:54:30.517515+00:00",
+    "retrieved_at": "2026-10-23T12:48:22.447507+00:00",
     "raw_path": "data/raw/311b4161cca9d1c36f7ff8ea128641d9b34ebe64debe1b78945f082fd0da3b3c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/103595/000010359526000018/0000103595-26-000018-index.html",

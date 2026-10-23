@@ -4,8 +4,8 @@
   "name": "BALLY S",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 13.69,
-  "price_date": "2026-10-20",
+  "holding_price": 13.79,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001747079.json",
     "sha256": "72d3756031f6c1c20d84a57eef5e53d7f06c3b9c484d4e7b15f9a3df29d43310",
-    "retrieved_at": "2026-10-20T12:56:32.270079+00:00",
+    "retrieved_at": "2026-10-23T12:50:20.025899+00:00",
     "raw_path": "data/raw/72d3756031f6c1c20d84a57eef5e53d7f06c3b9c484d4e7b15f9a3df29d43310.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000019/0001747079-26-000019-index.html",

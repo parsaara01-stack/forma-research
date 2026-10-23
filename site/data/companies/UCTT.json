@@ -4,8 +4,8 @@
   "name": "ULTRA CLEAN HOLDINGS INC",
   "group": "Information Technology",
   "weight_percent": 0.08,
-  "holding_price": 51.57,
-  "price_date": "2026-10-20",
+  "holding_price": 52.22,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001275014.json",
     "sha256": "3979fe8f54d0f3583ca3cb73d173f726c862fc3587c75996a9d80d5ae10c4c43",
-    "retrieved_at": "2026-10-20T12:50:56.913665+00:00",
+    "retrieved_at": "2026-10-23T12:44:42.854940+00:00",
     "raw_path": "data/raw/3979fe8f54d0f3583ca3cb73d173f726c862fc3587c75996a9d80d5ae10c4c43.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1275014/000162828026010744/0001628280-26-010744-index.html",

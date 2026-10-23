@@ -3,9 +3,9 @@
   "source_ticker": "FUN",
   "name": "SIX FLAGS ENTERTAINMENT CORP",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.03,
-  "holding_price": 7.86,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.02,
+  "holding_price": 7.07,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001999001.json",
     "sha256": "4f7f0fbdebe452d82f08f1aede7ceb2a3b26b93e0f3aa4f71a02e426810e6649",
-    "retrieved_at": "2026-10-20T12:53:10.847606+00:00",
+    "retrieved_at": "2026-10-23T12:47:20.246638+00:00",
     "raw_path": "data/raw/4f7f0fbdebe452d82f08f1aede7ceb2a3b26b93e0f3aa4f71a02e426810e6649.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1999001/000199900126000048/0001999001-26-000048-index.html",

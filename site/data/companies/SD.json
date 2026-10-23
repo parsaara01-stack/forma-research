@@ -4,8 +4,8 @@
   "name": "SANDRIDGE ENERGY INC",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 14.28,
-  "price_date": "2026-10-20",
+  "holding_price": 14.26,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001349436.json",
     "sha256": "9fc6b1be296cf87e16a35427ee75980b6e2fbc1b17d0a9916580e0f5f8ab969c",
-    "retrieved_at": "2026-10-20T12:54:15.019846+00:00",
+    "retrieved_at": "2026-10-23T12:48:06.443269+00:00",
     "raw_path": "data/raw/9fc6b1be296cf87e16a35427ee75980b6e2fbc1b17d0a9916580e0f5f8ab969c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1349436/000162828026015318/0001628280-26-015318-index.html",

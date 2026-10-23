@@ -4,11 +4,11 @@
   "name": "NEUTRON HOLDINGS INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 26.28,
-  "price_date": "2026-10-20",
+  "holding_price": 27.65,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

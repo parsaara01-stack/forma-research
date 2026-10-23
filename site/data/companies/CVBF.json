@@ -4,8 +4,8 @@
   "name": "CVB FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.13,
-  "holding_price": 22.16,
-  "price_date": "2026-10-20",
+  "holding_price": 22.24,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354647.json",
     "sha256": "08df78869fa102c73f6a468e22952234e6d89f93eef0b3c6ed0fddfdd975bf5b",
-    "retrieved_at": "2026-10-20T12:50:01.647424+00:00",
+    "retrieved_at": "2026-10-23T12:43:41.398703+00:00",
     "raw_path": "data/raw/08df78869fa102c73f6a468e22952234e6d89f93eef0b3c6ed0fddfdd975bf5b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/354647/000119312526083221/0001193125-26-083221-index.html",

@@ -4,8 +4,8 @@
   "name": "SONIC AUTOMOTIVE INC CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 64.03,
-  "price_date": "2026-10-20",
+  "holding_price": 60.68,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001043509.json",
     "sha256": "8274005e2ecfe54b7d31184ef2fbcdf63a58bb4b7caaf68c1309cfe6ee665205",
-    "retrieved_at": "2026-10-20T12:53:11.970727+00:00",
+    "retrieved_at": "2026-10-23T12:47:10.327759+00:00",
     "raw_path": "data/raw/8274005e2ecfe54b7d31184ef2fbcdf63a58bb4b7caaf68c1309cfe6ee665205.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1043509/000162828026010570/0001628280-26-010570-index.html",

@@ -4,8 +4,8 @@
   "name": "AIRO GROUP HOLDINGS INC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 4.97,
-  "price_date": "2026-10-20",
+  "holding_price": 5.1,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001927958.json",
     "sha256": "9637403ed4e890fed824e0314ed3ecf12ea5b07100cf3fc0ee2369624a9e01cb",
-    "retrieved_at": "2026-10-20T12:56:41.252479+00:00",
+    "retrieved_at": "2026-10-23T12:50:35.417651+00:00",
     "raw_path": "data/raw/9637403ed4e890fed824e0314ed3ecf12ea5b07100cf3fc0ee2369624a9e01cb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226014116/0001493152-26-014116-index.html",

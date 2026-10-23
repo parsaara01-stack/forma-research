@@ -4,8 +4,8 @@
   "name": "ALUMIS",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 6.7,
-  "price_date": "2026-10-20",
+  "holding_price": 6.81,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001847367.json",
     "sha256": "f45afd82aee8740582742d1e04ac7e36a0c352dadfce53a9745f777e37a60078",
-    "retrieved_at": "2026-10-20T12:54:10.283253+00:00",
+    "retrieved_at": "2026-10-23T12:47:50.636003+00:00",
     "raw_path": "data/raw/f45afd82aee8740582742d1e04ac7e36a0c352dadfce53a9745f777e37a60078.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1847367/000184736726000006/0001847367-26-000006-index.html",

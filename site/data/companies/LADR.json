@@ -3,9 +3,9 @@
   "source_ticker": "LADR",
   "name": "LADDER CAPITAL CORP CLASS A",
   "group": "Financials",
-  "weight_percent": 0.04,
-  "holding_price": 9.05,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.03,
+  "holding_price": 8.96,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001577670.json",
     "sha256": "3ecb7ea6c7e9707385da5dabce9deb753e78f76e1846f70016564779eeb66873",
-    "retrieved_at": "2026-10-20T12:52:34.286476+00:00",
+    "retrieved_at": "2026-10-23T12:46:22.926123+00:00",
     "raw_path": "data/raw/3ecb7ea6c7e9707385da5dabce9deb753e78f76e1846f70016564779eeb66873.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1577670/000157767026000011/0001577670-26-000011-index.html",

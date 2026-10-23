@@ -4,8 +4,8 @@
   "name": "ENERGIZER HOLDINGS",
   "group": "Consumer Staples",
   "weight_percent": 0.05,
-  "holding_price": 22.24,
-  "price_date": "2026-10-20",
+  "holding_price": 22.76,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001632790.json",
     "sha256": "30160db83c625025b61f46dfa37bd8a075b28a322478f38508e901b5898ccf86",
-    "retrieved_at": "2026-10-20T12:52:03.993368+00:00",
+    "retrieved_at": "2026-10-23T12:45:43.504373+00:00",
     "raw_path": "data/raw/30160db83c625025b61f46dfa37bd8a075b28a322478f38508e901b5898ccf86.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1632790/000163279025000091/0001632790-25-000091-index.html",

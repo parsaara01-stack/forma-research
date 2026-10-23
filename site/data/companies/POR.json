@@ -4,8 +4,8 @@
   "name": "PORTLAND GENERAL ELECTRIC",
   "group": "Utilities",
   "weight_percent": 0.18,
-  "holding_price": 44.31,
-  "price_date": "2026-10-20",
+  "holding_price": 43.92,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000784977.json",
     "sha256": "6c04bde4ab9c97e9853d91786046f856fe2cde0312f07aede754c467bf047322",
-    "retrieved_at": "2026-10-20T12:49:28.440185+00:00",
+    "retrieved_at": "2026-10-23T12:43:11.566614+00:00",
     "raw_path": "data/raw/6c04bde4ab9c97e9853d91786046f856fe2cde0312f07aede754c467bf047322.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/784977/000119312526052750/0001193125-26-052750-index.html",

@@ -4,8 +4,8 @@
   "name": "GREENBRIER",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 37.61,
-  "price_date": "2026-10-20",
+  "holding_price": 37.69,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000923120.json",
     "sha256": "dfd518f3e49c9117165c157a486e8a72f079a8330aa7ccae2c889155a948ce60",
-    "retrieved_at": "2026-10-20T12:52:14.117699+00:00",
+    "retrieved_at": "2026-10-23T12:46:04.969746+00:00",
     "raw_path": "data/raw/dfd518f3e49c9117165c157a486e8a72f079a8330aa7ccae2c889155a948ce60.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312525253612/0001193125-25-253612-index.html",

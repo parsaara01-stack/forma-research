@@ -3,9 +3,9 @@
   "source_ticker": "TMDX",
   "name": "TRANSMEDICS GROUP",
   "group": "Health Care",
-  "weight_percent": 0.09,
-  "holding_price": 74.75,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.08,
+  "holding_price": 72.4,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001756262.json",
     "sha256": "8096066125323b72557bd9d582cfab4bcdec59b814cee4e082ede5ade1a800ab",
-    "retrieved_at": "2026-10-20T12:50:49.905264+00:00",
+    "retrieved_at": "2026-10-23T12:44:33.778450+00:00",
     "raw_path": "data/raw/8096066125323b72557bd9d582cfab4bcdec59b814cee4e082ede5ade1a800ab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1756262/000119312526067032/0001193125-26-067032-index.html",

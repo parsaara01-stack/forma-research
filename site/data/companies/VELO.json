@@ -4,8 +4,8 @@
   "name": "VELO3D INC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 6.62,
-  "price_date": "2026-10-20",
+  "holding_price": 6.92,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001825079.json",
     "sha256": "61873222c6c509b9497bbfc97c201cd262d297c48ab12cc60917acf728711ec0",
-    "retrieved_at": "2026-10-20T12:56:41.606178+00:00",
+    "retrieved_at": "2026-10-23T12:50:33.799481+00:00",
     "raw_path": "data/raw/61873222c6c509b9497bbfc97c201cd262d297c48ab12cc60917acf728711ec0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1825079/000119312526134997/0001193125-26-134997-index.html",

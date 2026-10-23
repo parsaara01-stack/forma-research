@@ -4,8 +4,8 @@
   "name": "CB FINANCIAL SERVICES INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 37.55,
-  "price_date": "2026-10-20",
+  "holding_price": 37.6,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001605301.json",
     "sha256": "15d45960d7a6be786b1143fe0e60ccffac22589907de5f48320dafd363840335",
-    "retrieved_at": "2026-10-20T12:56:28.881217+00:00",
+    "retrieved_at": "2026-10-23T12:50:21.971437+00:00",
     "raw_path": "data/raw/15d45960d7a6be786b1143fe0e60ccffac22589907de5f48320dafd363840335.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000009/0001605301-26-000009-index.html",

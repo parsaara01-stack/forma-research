@@ -3,9 +3,9 @@
   "source_ticker": "PCVX",
   "name": "VAXCYTE",
   "group": "Health Care",
-  "weight_percent": 0.31,
-  "holding_price": 66.23,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.29,
+  "holding_price": 63.23,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001649094.json",
     "sha256": "b02cd19633ac9eeb1de015fe54d4dfbb6cab038feed01716ad500a64be5b401c",
-    "retrieved_at": "2026-10-20T12:49:09.068260+00:00",
+    "retrieved_at": "2026-10-23T12:42:50.647442+00:00",
     "raw_path": "data/raw/b02cd19633ac9eeb1de015fe54d4dfbb6cab038feed01716ad500a64be5b401c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1649094/000164909426000007/0001649094-26-000007-index.html",

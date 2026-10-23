@@ -4,8 +4,8 @@
   "name": "NEXTDOOR HOLDINGS CLASS A",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 2.56,
-  "price_date": "2026-10-20",
+  "holding_price": 2.63,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001846069.json",
     "sha256": "74d5cc90e5ca4ea9c9e34f6f44785040bf2ee9051a0e9376dffebb383638d071",
-    "retrieved_at": "2026-10-20T12:53:52.560870+00:00",
+    "retrieved_at": "2026-10-23T12:47:38.113918+00:00",
     "raw_path": "data/raw/74d5cc90e5ca4ea9c9e34f6f44785040bf2ee9051a0e9376dffebb383638d071.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1846069/000184606926000023/0001846069-26-000023-index.html",

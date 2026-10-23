@@ -4,8 +4,8 @@
   "name": "BLACK DIAMOND THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 2.07,
-  "price_date": "2026-10-20",
+  "holding_price": 2.08,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001701541.json",
     "sha256": "83c9b39ed87bea5941c5d66910af8cb00c0034506f171838a44f7760e1828384",
-    "retrieved_at": "2026-10-20T12:56:58.498229+00:00",
+    "retrieved_at": "2026-10-23T12:50:42.793208+00:00",
     "raw_path": "data/raw/83c9b39ed87bea5941c5d66910af8cb00c0034506f171838a44f7760e1828384.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1701541/000170154126000009/0001701541-26-000009-index.html",

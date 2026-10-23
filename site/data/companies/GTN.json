@@ -4,8 +4,8 @@
   "name": "GRAY MEDIA INC",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 4.63,
-  "price_date": "2026-10-20",
+  "holding_price": 4.62,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000043196.json",
     "sha256": "8a64f368ed1b1267b735b0a9b467d4409fc3b6fb620a8776027e684f9ea1ffdc",
-    "retrieved_at": "2026-10-20T12:54:35.222192+00:00",
+    "retrieved_at": "2026-10-23T12:48:20.214015+00:00",
     "raw_path": "data/raw/8a64f368ed1b1267b735b0a9b467d4409fc3b6fb620a8776027e684f9ea1ffdc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926005803/0001437749-26-005803-index.html",

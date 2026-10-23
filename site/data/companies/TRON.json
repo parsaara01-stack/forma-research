@@ -4,8 +4,8 @@
   "name": "TRON INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.22,
-  "price_date": "2026-10-20",
+  "holding_price": 1.24,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001956744.json",
     "sha256": "d514027c50746aa321ec89414f2595b5d317c05d8227c9d680782b4ae2270c7a",
-    "retrieved_at": "2026-10-20T12:57:06.424263+00:00",
+    "retrieved_at": "2026-10-23T12:50:55.262736+00:00",
     "raw_path": "data/raw/d514027c50746aa321ec89414f2595b5d317c05d8227c9d680782b4ae2270c7a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1956744/000149315226012723/0001493152-26-012723-index.html",

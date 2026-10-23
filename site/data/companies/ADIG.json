@@ -4,11 +4,11 @@
   "name": "ADI GLOBAL DISTRIBUTION",
   "group": "Information Technology",
   "weight_percent": 0.04,
-  "holding_price": 15.97,
-  "price_date": "2026-10-20",
+  "holding_price": 16.55,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-20"
+  "refresh_error": "No supported annual facts by 2026-10-23"
 }

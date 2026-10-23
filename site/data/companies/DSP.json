@@ -4,8 +4,8 @@
   "name": "VIANT TECHNOLOGY INC CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 13.45,
-  "price_date": "2026-10-20",
+  "holding_price": 13.54,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828791.json",
     "sha256": "6910ca06acf51f6cdf11dabf8c5c36c83f38cc401e730beaedc6c3498cf9d363",
-    "retrieved_at": "2026-10-20T12:55:39.044843+00:00",
+    "retrieved_at": "2026-10-23T12:49:25.820461+00:00",
     "raw_path": "data/raw/6910ca06acf51f6cdf11dabf8c5c36c83f38cc401e730beaedc6c3498cf9d363.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1828791/000182879126000019/0001828791-26-000019-index.html",

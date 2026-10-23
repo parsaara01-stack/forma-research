@@ -4,8 +4,8 @@
   "name": "HELIOS TECHNOLOGIES INC",
   "group": "Industrials",
   "weight_percent": 0.08,
-  "holding_price": 68.04,
-  "price_date": "2026-10-20",
+  "holding_price": 69.48,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001024795.json",
     "sha256": "748802c227dfe8e27959ecd8f87f418e97c9d2d6846a003bc13858fb6825cccb",
-    "retrieved_at": "2026-10-20T12:50:59.453086+00:00",
+    "retrieved_at": "2026-10-23T12:44:43.801182+00:00",
     "raw_path": "data/raw/748802c227dfe8e27959ecd8f87f418e97c9d2d6846a003bc13858fb6825cccb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1024795/000119312526087747/0001193125-26-087747-index.html",

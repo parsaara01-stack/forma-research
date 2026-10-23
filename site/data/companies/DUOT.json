@@ -4,8 +4,8 @@
   "name": "DUOS TECHNOLOGIES GROUP INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 5.8,
-  "price_date": "2026-10-20",
+  "holding_price": 6.29,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001396536.json",
     "sha256": "70be7013b1b4271e3515ed08d19223e8e7cf1e5f9a34e9fa22fbb26c6e0f6ee7",
-    "retrieved_at": "2026-10-20T12:56:16.286317+00:00",
+    "retrieved_at": "2026-10-23T12:49:50.967342+00:00",
     "raw_path": "data/raw/70be7013b1b4271e3515ed08d19223e8e7cf1e5f9a34e9fa22fbb26c6e0f6ee7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326000405/0001079973-26-000405-index.html",

@@ -4,8 +4,8 @@
   "name": "MEIRAGTX HOLDINGS PLC",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 9.97,
-  "price_date": "2026-10-20",
+  "holding_price": 9.86,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001735438.json",
     "sha256": "459022defd6ac6156c52f2ef3489ff67248e475c56fb9a8c0174f2bfb4a97d6c",
-    "retrieved_at": "2026-10-20T12:53:56.342637+00:00",
+    "retrieved_at": "2026-10-23T12:47:42.669227+00:00",
     "raw_path": "data/raw/459022defd6ac6156c52f2ef3489ff67248e475c56fb9a8c0174f2bfb4a97d6c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926036494/0001104659-26-036494-index.html",

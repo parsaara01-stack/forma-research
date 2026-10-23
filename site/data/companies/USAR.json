@@ -3,9 +3,9 @@
   "source_ticker": "USAR",
   "name": "USA RARE EARTH CLASS A",
   "group": "Materials",
-  "weight_percent": 0.07,
-  "holding_price": 10.06,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.08,
+  "holding_price": 10.23,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001970622.json",
     "sha256": "111a8a999431d9129b93bad68e59ba761f964e59e46a393a61a0e94d85b663d5",
-    "retrieved_at": "2026-10-20T12:50:56.502385+00:00",
+    "retrieved_at": "2026-10-23T12:44:49.171040+00:00",
     "raw_path": "data/raw/111a8a999431d9129b93bad68e59ba761f964e59e46a393a61a0e94d85b663d5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000021/0001970622-26-000021-index.html",

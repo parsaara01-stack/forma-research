@@ -3,9 +3,9 @@
   "source_ticker": "GPRO",
   "name": "GOPRO INC CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.01,
-  "holding_price": 1.1,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.0,
+  "holding_price": 1.06,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001500435.json",
     "sha256": "28bd2e96891951126a786159778697953c4fac7bb06aa12a76c840a1702315b9",
-    "retrieved_at": "2026-10-20T12:56:27.044833+00:00",
+    "retrieved_at": "2026-10-23T12:50:17.744430+00:00",
     "raw_path": "data/raw/28bd2e96891951126a786159778697953c4fac7bb06aa12a76c840a1702315b9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1500435/000150043526000006/0001500435-26-000006-index.html",

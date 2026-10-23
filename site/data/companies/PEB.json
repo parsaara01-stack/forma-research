@@ -4,8 +4,8 @@
   "name": "PEBBLEBROOK HOTEL TRUST REIT",
   "group": "Real Estate",
   "weight_percent": 0.08,
-  "holding_price": 20.71,
-  "price_date": "2026-10-20",
+  "holding_price": 21.1,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001474098.json",
     "sha256": "e31e2a1096d149992b88bf5fb895f2e941fc8fd70dc685b69a66f55eeddcfdef",
-    "retrieved_at": "2026-10-20T12:51:01.859847+00:00",
+    "retrieved_at": "2026-10-23T12:44:38.170391+00:00",
     "raw_path": "data/raw/e31e2a1096d149992b88bf5fb895f2e941fc8fd70dc685b69a66f55eeddcfdef.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1474098/000147409826000015/0001474098-26-000015-index.html",

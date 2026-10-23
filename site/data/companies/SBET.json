@@ -3,9 +3,9 @@
   "source_ticker": "SBET",
   "name": "SHARPLINK INC",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 7.87,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.06,
+  "holding_price": 8.35,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001981535.json",
     "sha256": "7e8c790e055c78fbddf8e73cb876ec8c58cf7cc35f71e45d6f10ae880fe6533c",
-    "retrieved_at": "2026-10-20T12:51:51.601333+00:00",
+    "retrieved_at": "2026-10-23T12:45:26.220603+00:00",
     "raw_path": "data/raw/7e8c790e055c78fbddf8e73cb876ec8c58cf7cc35f71e45d6f10ae880fe6533c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226009214/0001493152-26-009214-index.html",

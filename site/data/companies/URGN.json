@@ -4,8 +4,8 @@
   "name": "UROGEN PHARMA",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 35.01,
-  "price_date": "2026-10-20",
+  "holding_price": 35.48,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001668243.json",
     "sha256": "c0f9fceebc685f0377739af490e9f9cff0a1b4a6e8cf3110d6b22e5d217158cf",
-    "retrieved_at": "2026-10-20T12:51:54.914461+00:00",
+    "retrieved_at": "2026-10-23T12:45:38.094710+00:00",
     "raw_path": "data/raw/c0f9fceebc685f0377739af490e9f9cff0a1b4a6e8cf3110d6b22e5d217158cf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1668243/000143774926006234/0001437749-26-006234-index.html",

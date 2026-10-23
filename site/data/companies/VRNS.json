@@ -4,8 +4,8 @@
   "name": "VARONIS SYSTEMS",
   "group": "Information Technology",
   "weight_percent": 0.19,
-  "holding_price": 48.68,
-  "price_date": "2026-10-20",
+  "holding_price": 48.69,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001361113.json",
     "sha256": "5c7576b0fa53ccb95eac41b4bb2859484614b21a670c8a3b610da2be91cacc8a",
-    "retrieved_at": "2026-10-20T12:49:25.639744+00:00",
+    "retrieved_at": "2026-10-23T12:43:08.370680+00:00",
     "raw_path": "data/raw/5c7576b0fa53ccb95eac41b4bb2859484614b21a670c8a3b610da2be91cacc8a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1361113/000162828026005450/0001628280-26-005450-index.html",

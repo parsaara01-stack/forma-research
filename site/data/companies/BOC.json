@@ -4,8 +4,8 @@
   "name": "BOSTON OMAHA CORP CLASS A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 12.59,
-  "price_date": "2026-10-20",
+  "holding_price": 12.53,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001494582.json",
     "sha256": "be943bd311b4c8887d8a9ae75089ccf750ccc13f5087ba513eb35f6663869331",
-    "retrieved_at": "2026-10-20T12:55:30.780172+00:00",
+    "retrieved_at": "2026-10-23T12:49:23.910522+00:00",
     "raw_path": "data/raw/be943bd311b4c8887d8a9ae75089ccf750ccc13f5087ba513eb35f6663869331.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926010341/0001437749-26-010341-index.html",

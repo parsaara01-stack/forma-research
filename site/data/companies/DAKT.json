@@ -4,8 +4,8 @@
   "name": "DAKTRONICS INC",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 18.92,
-  "price_date": "2026-10-20",
+  "holding_price": 19.11,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000915779.json",
     "sha256": "ec287fed11867ec76a4f1d4f711a6f5cff4a2d011a5ff0f22ecd7c6c91c28973",
-    "retrieved_at": "2026-10-20T12:53:12.644264+00:00",
+    "retrieved_at": "2026-10-23T12:46:53.712911+00:00",
     "raw_path": "data/raw/ec287fed11867ec76a4f1d4f711a6f5cff4a2d011a5ff0f22ecd7c6c91c28973.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026045262/0001628280-26-045262-index.html",

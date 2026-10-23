@@ -4,8 +4,8 @@
   "name": "CORE NATURAL RESOURCES",
   "group": "Energy",
   "weight_percent": 0.15,
-  "holding_price": 87.31,
-  "price_date": "2026-10-20",
+  "holding_price": 87.55,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001710366.json",
     "sha256": "fef21b2bc92c7db27c9023c71a1f9fd2b2ec6d85ac55b0a4f64277d146083dde",
-    "retrieved_at": "2026-10-20T12:49:40.103834+00:00",
+    "retrieved_at": "2026-10-23T12:43:26.903819+00:00",
     "raw_path": "data/raw/fef21b2bc92c7db27c9023c71a1f9fd2b2ec6d85ac55b0a4f64277d146083dde.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1710366/000171036626000007/0001710366-26-000007-index.html",

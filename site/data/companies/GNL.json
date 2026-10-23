@@ -4,8 +4,8 @@
   "name": "GLOBAL NET LEASE INC",
   "group": "Real Estate",
   "weight_percent": 0.05,
-  "holding_price": 7.36,
-  "price_date": "2026-10-20",
+  "holding_price": 7.12,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001526113.json",
     "sha256": "273221b9156cad0e17ff56724da5b9d958220ffc3e3639e96cd34a30b0379951",
-    "retrieved_at": "2026-10-20T12:51:48.973454+00:00",
+    "retrieved_at": "2026-10-23T12:45:39.298613+00:00",
     "raw_path": "data/raw/273221b9156cad0e17ff56724da5b9d958220ffc3e3639e96cd34a30b0379951.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1526113/000162828026011696/0001628280-26-011696-index.html",

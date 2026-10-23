@@ -4,8 +4,8 @@
   "name": "VISTEON",
   "group": "Consumer Discretionary",
   "weight_percent": 0.08,
-  "holding_price": 87.78,
-  "price_date": "2026-10-20",
+  "holding_price": 84.83,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001111335.json",
-    "sha256": "016792d6301124e2ee1d56035cd73418da927cb6489de55cafe9db11dd4f6e90",
-    "retrieved_at": "2026-10-20T12:50:50.142023+00:00",
-    "raw_path": "data/raw/016792d6301124e2ee1d56035cd73418da927cb6489de55cafe9db11dd4f6e90.json.gz"
+    "sha256": "0ec42016ee8773dd1d4f0f625f458a4d9b2ba99f770df849c8b1ea6362fd0298",
+    "retrieved_at": "2026-10-23T12:44:42.626626+00:00",
+    "raw_path": "data/raw/0ec42016ee8773dd1d4f0f625f458a4d9b2ba99f770df849c8b1ea6362fd0298.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000006/0001111335-26-000006-index.html",
   "earnings": {

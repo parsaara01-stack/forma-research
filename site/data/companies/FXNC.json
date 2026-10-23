@@ -4,8 +4,8 @@
   "name": "FIRST NATIONAL CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 29.68,
-  "price_date": "2026-10-20",
+  "holding_price": 29.51,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000719402.json",
     "sha256": "f9d368c278317e59a53c68fc7937f794140e1983b463ad838655e5c094ede851",
-    "retrieved_at": "2026-10-20T12:55:30.692399+00:00",
+    "retrieved_at": "2026-10-23T12:49:22.933576+00:00",
     "raw_path": "data/raw/f9d368c278317e59a53c68fc7937f794140e1983b463ad838655e5c094ede851.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/719402/000143774926009748/0001437749-26-009748-index.html",

@@ -4,8 +4,8 @@
   "name": "FIRSTCASH HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.3,
-  "holding_price": 214.78,
-  "price_date": "2026-10-20",
+  "holding_price": 216.75,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000840489.json",
     "sha256": "22b1242e97498951c23c165991e82939f38fd220f59a635057b6571bfce2520c",
-    "retrieved_at": "2026-10-20T12:49:08.108279+00:00",
+    "retrieved_at": "2026-10-23T12:42:49.579220+00:00",
     "raw_path": "data/raw/22b1242e97498951c23c165991e82939f38fd220f59a635057b6571bfce2520c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000032/0000840489-26-000032-index.html",

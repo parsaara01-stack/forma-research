@@ -4,8 +4,8 @@
   "name": "NOVAVAX",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 11.43,
-  "price_date": "2026-10-20",
+  "holding_price": 11.01,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001000694.json",
     "sha256": "0fb56a11efd6cc96d61f018dff603b80c35a0c72f25cb72fbb22841851b792af",
-    "retrieved_at": "2026-10-20T12:51:35.902861+00:00",
+    "retrieved_at": "2026-10-23T12:45:25.131787+00:00",
     "raw_path": "data/raw/0fb56a11efd6cc96d61f018dff603b80c35a0c72f25cb72fbb22841851b792af.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1000694/000100069426000007/0001000694-26-000007-index.html",

@@ -3,9 +3,9 @@
   "source_ticker": "ORKA",
   "name": "ORUKA THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.13,
-  "holding_price": 79.09,
-  "price_date": "2026-10-20",
+  "weight_percent": 0.14,
+  "holding_price": 79.92,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000907654.json",
     "sha256": "3e23b48bd43d48690cc2da8767bd994ea7ae37e724c61a9cefa6f2950dc21518",
-    "retrieved_at": "2026-10-20T12:50:05.891215+00:00",
+    "retrieved_at": "2026-10-23T12:43:40.543962+00:00",
     "raw_path": "data/raw/3e23b48bd43d48690cc2da8767bd994ea7ae37e724c61a9cefa6f2950dc21518.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026026929/0001213900-26-026929-index.html",

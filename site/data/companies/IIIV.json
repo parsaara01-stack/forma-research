@@ -4,8 +4,8 @@
   "name": "I3 VERTICALS CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 17.07,
-  "price_date": "2026-10-20",
+  "holding_price": 16.94,
+  "price_date": "2026-10-21",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001728688.json",
     "sha256": "5027a0b23f21ea25f3ebb1cd57164231da8f5331c86ce03bb3332ae6a5b2bc53",
-    "retrieved_at": "2026-10-20T12:54:51.249269+00:00",
+    "retrieved_at": "2026-10-23T12:48:40.120731+00:00",
     "raw_path": "data/raw/5027a0b23f21ea25f3ebb1cd57164231da8f5331c86ce03bb3332ae6a5b2bc53.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1728688/000172868825000122/0001728688-25-000122-index.html",

@@ -4,8 +4,8 @@
   "name": "FORUM ENERGY TECHNOLOGIES INC",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 84.2,
-  "price_date": "2026-10-20",
+  "holding_price": 86.73,
+  "price_date": "2026-10-21",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-20",
+  "observation_cutoff": "2026-10-23",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001401257.json",
     "sha256": "144669b0c1191bc1b8b97286714ed6a242915355832e3267d60f24d5665ab82b",
-    "retrieved_at": "2026-10-20T12:53:01.816781+00:00",
+    "retrieved_at": "2026-10-23T12:46:38.563665+00:00",
     "raw_path": "data/raw/144669b0c1191bc1b8b97286714ed6a242915355832e3267d60f24d5665ab82b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1401257/000140125726000015/0001401257-26-000015-index.html",
