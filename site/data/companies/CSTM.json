@@ -3,9 +3,9 @@
   "source_ticker": "CSTM",
   "name": "CONSTELLIUM SE CLASS A",
   "group": "Materials",
-  "weight_percent": 0.11,
-  "holding_price": 25.58,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.1,
+  "holding_price": 23.22,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

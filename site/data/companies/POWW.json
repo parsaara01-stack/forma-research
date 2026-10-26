@@ -2,10 +2,10 @@
   "ticker": "POWW",
   "source_ticker": "POWW",
   "name": "OUTDOOR HOLDING",
-  "group": "Other",
+  "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 2.34,
-  "price_date": "2026-10-21",
+  "holding_price": 2.46,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

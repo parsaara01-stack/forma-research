@@ -3,9 +3,9 @@
   "source_ticker": "NVAX",
   "name": "NOVAVAX",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 11.01,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.05,
+  "holding_price": 9.7,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

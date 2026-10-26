@@ -3,9 +3,9 @@
   "source_ticker": "HNI",
   "name": "HNI",
   "group": "Industrials",
-  "weight_percent": 0.11,
-  "holding_price": 45.06,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.12,
+  "holding_price": 47.57,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

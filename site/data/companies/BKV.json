@@ -4,8 +4,8 @@
   "name": "BKV",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 22.29,
-  "price_date": "2026-10-21",
+  "holding_price": 20.36,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,10 +3,10 @@
   "source_ticker": "TCBI",
   "name": "TEXAS CAPITAL BANCSHARES",
   "group": "Financials",
-  "weight_percent": 0.14,
-  "holding_price": 93.49,
-  "price_date": "2026-10-21",
-  "exchange": "TXE",
+  "weight_percent": 0.15,
+  "holding_price": 101.99,
+  "price_date": "2026-10-23",
+  "exchange": "NASDAQ",
   "facts": {
     "net_income": {
       "value": 330244000,

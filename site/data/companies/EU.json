@@ -3,9 +3,9 @@
   "source_ticker": "EU",
   "name": "ENCORE ENERGY",
   "group": "Energy",
-  "weight_percent": 0.01,
-  "holding_price": 0.8,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.0,
+  "holding_price": 0.7,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

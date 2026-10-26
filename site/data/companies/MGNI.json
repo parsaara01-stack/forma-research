@@ -3,9 +3,9 @@
   "source_ticker": "MGNI",
   "name": "MAGNITE",
   "group": "Communication",
-  "weight_percent": 0.12,
-  "holding_price": 23.62,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.11,
+  "holding_price": 22.89,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

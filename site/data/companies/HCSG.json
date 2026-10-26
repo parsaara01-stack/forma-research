@@ -3,9 +3,9 @@
   "source_ticker": "HCSG",
   "name": "HEALTHCARE SERVICES GROUP",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 21.71,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.06,
+  "holding_price": 25.3,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

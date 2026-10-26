@@ -3,9 +3,9 @@
   "source_ticker": "SBET",
   "name": "SHARPLINK INC",
   "group": "Financials",
-  "weight_percent": 0.06,
-  "holding_price": 8.35,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.05,
+  "holding_price": 7.63,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

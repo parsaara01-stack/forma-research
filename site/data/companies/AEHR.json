@@ -3,9 +3,9 @@
   "source_ticker": "AEHR",
   "name": "AEHR TEST SYSTEMS",
   "group": "Information Technology",
-  "weight_percent": 0.07,
-  "holding_price": 63.88,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.06,
+  "holding_price": 55.31,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "ENVA",
   "name": "ENOVA INTERNATIONAL",
   "group": "Financials",
-  "weight_percent": 0.15,
-  "holding_price": 180.05,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.14,
+  "holding_price": 165.07,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

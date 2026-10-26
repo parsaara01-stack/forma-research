@@ -4,8 +4,8 @@
   "name": "BAYCOM CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 31.13,
-  "price_date": "2026-10-21",
+  "holding_price": 30.45,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

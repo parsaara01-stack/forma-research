@@ -3,9 +3,9 @@
   "source_ticker": "GPOR",
   "name": "GULFPORT ENERGY",
   "group": "Energy",
-  "weight_percent": 0.08,
-  "holding_price": 158.01,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.09,
+  "holding_price": 166.18,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

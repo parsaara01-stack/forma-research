@@ -3,9 +3,9 @@
   "source_ticker": "NESR",
   "name": "NATIONAL ENERGY SERVICES REUNITED",
   "group": "Energy",
-  "weight_percent": 0.05,
-  "holding_price": 21.69,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.04,
+  "holding_price": 20.46,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

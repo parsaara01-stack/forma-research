@@ -3,9 +3,9 @@
   "source_ticker": "ROG",
   "name": "ROGERS",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 140.51,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.08,
+  "holding_price": 124.96,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

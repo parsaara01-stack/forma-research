@@ -1,11 +1,11 @@
 {
   "ticker": "ESTA",
   "source_ticker": "ESTA",
-  "name": "ESTABLISHMENT LABS INC",
+  "name": "ESTABLISHMENT LABS",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 62.28,
-  "price_date": "2026-10-21",
+  "holding_price": 63.8,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

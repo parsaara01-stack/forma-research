@@ -3,9 +3,9 @@
   "source_ticker": "CTRE",
   "name": "CARETRUST REIT",
   "group": "Real Estate",
-  "weight_percent": 0.29,
-  "holding_price": 35.65,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.3,
+  "holding_price": 36.62,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

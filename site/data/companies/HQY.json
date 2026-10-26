@@ -3,9 +3,9 @@
   "source_ticker": "HQY",
   "name": "HEALTHEQUITY",
   "group": "Health Care",
-  "weight_percent": 0.28,
-  "holding_price": 97.88,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.3,
+  "holding_price": 103.97,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

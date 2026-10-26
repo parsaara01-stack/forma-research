@@ -4,8 +4,8 @@
   "name": "CACTUS CLASS A",
   "group": "Energy",
   "weight_percent": 0.15,
-  "holding_price": 64.17,
-  "price_date": "2026-10-21",
+  "holding_price": 63.15,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

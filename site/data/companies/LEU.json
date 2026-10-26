@@ -3,9 +3,9 @@
   "source_ticker": "LEU",
   "name": "CENTRUS ENERGY CLASS A",
   "group": "Energy",
-  "weight_percent": 0.07,
-  "holding_price": 108.91,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.06,
+  "holding_price": 102.45,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

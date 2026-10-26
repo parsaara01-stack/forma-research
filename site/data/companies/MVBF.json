@@ -4,8 +4,8 @@
   "name": "MVB FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 29.12,
-  "price_date": "2026-10-21",
+  "holding_price": 30.0,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {

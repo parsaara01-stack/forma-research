@@ -3,9 +3,9 @@
   "source_ticker": "PROK",
   "name": "PROKIDNEY CORP CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.01,
-  "holding_price": 1.44,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.0,
+  "holding_price": 1.41,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

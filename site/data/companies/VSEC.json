@@ -3,9 +3,9 @@
   "source_ticker": "VSEC",
   "name": "VSE CORP",
   "group": "Industrials",
-  "weight_percent": 0.15,
-  "holding_price": 153.67,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.14,
+  "holding_price": 142.17,
+  "price_date": "2026-10-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

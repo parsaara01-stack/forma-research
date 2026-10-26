@@ -3,9 +3,9 @@
   "source_ticker": "ACA",
   "name": "ARCOSA",
   "group": "Industrials",
-  "weight_percent": 0.25,
-  "holding_price": 149.03,
-  "price_date": "2026-10-21",
+  "weight_percent": 0.0,
+  "holding_price": 150.0,
+  "price_date": "2026-10-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
