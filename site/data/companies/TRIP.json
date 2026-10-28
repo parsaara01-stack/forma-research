@@ -3,9 +3,9 @@
   "source_ticker": "TRIP",
   "name": "TRIPADVISOR",
   "group": "Communication",
-  "weight_percent": 0.04,
-  "holding_price": 9.41,
-  "price_date": "2026-10-23",
+  "weight_percent": 0.03,
+  "holding_price": 8.98,
+  "price_date": "2026-10-27",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

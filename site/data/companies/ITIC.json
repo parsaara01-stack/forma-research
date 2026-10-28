@@ -3,9 +3,9 @@
   "source_ticker": "ITIC",
   "name": "INVESTORS TITLE",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 281.73,
-  "price_date": "2026-10-23",
+  "weight_percent": 0.01,
+  "holding_price": 272.81,
+  "price_date": "2026-10-27",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

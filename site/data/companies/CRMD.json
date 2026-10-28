@@ -4,8 +4,8 @@
   "name": "CORMEDIX",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 7.85,
-  "price_date": "2026-10-23",
+  "holding_price": 8.0,
+  "price_date": "2026-10-27",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

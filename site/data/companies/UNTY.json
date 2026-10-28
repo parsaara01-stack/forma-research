@@ -3,9 +3,9 @@
   "source_ticker": "UNTY",
   "name": "UNITY BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 58.14,
-  "price_date": "2026-10-23",
+  "weight_percent": 0.01,
+  "holding_price": 57.93,
+  "price_date": "2026-10-27",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

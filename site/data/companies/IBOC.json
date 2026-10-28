@@ -3,10 +3,10 @@
   "source_ticker": "IBOC",
   "name": "INTERNATIONAL BANCSHARES CORP",
   "group": "Financials",
-  "weight_percent": 0.13,
-  "holding_price": 67.16,
-  "price_date": "2026-10-23",
-  "exchange": "NASDAQ",
+  "weight_percent": 0.12,
+  "holding_price": 66.67,
+  "price_date": "2026-10-27",
+  "exchange": "TXE",
   "facts": {
     "net_income": {
       "value": 412293000,

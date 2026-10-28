@@ -4,8 +4,8 @@
   "name": "GLOBAL INDUSTRIAL",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 44.46,
-  "price_date": "2026-10-23",
+  "holding_price": 44.6,
+  "price_date": "2026-10-27",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

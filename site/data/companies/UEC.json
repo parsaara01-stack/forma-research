@@ -3,9 +3,9 @@
   "source_ticker": "UEC",
   "name": "URANIUM ENERGY",
   "group": "Energy",
-  "weight_percent": 0.12,
-  "holding_price": 7.35,
-  "price_date": "2026-10-23",
+  "weight_percent": 0.13,
+  "holding_price": 8.04,
+  "price_date": "2026-10-27",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {

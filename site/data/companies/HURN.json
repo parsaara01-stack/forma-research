@@ -3,9 +3,9 @@
   "source_ticker": "HURN",
   "name": "HURON CONSULTING GROUP",
   "group": "Industrials",
-  "weight_percent": 0.11,
-  "holding_price": 195.69,
-  "price_date": "2026-10-23",
+  "weight_percent": 0.1,
+  "holding_price": 195.8,
+  "price_date": "2026-10-27",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
