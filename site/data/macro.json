@@ -1,18 +1,14 @@
 {
-  "asof_cutoff": "2026-10-28",
+  "asof_cutoff": "2026-10-29",
   "series": [
     {
       "series": "DFF",
       "label": "Policy rate",
       "unit": "%",
       "value": 3.88,
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "change_90d": 0.25,
       "history": [
-        {
-          "date": "2025-09-23",
-          "value": 4.09
-        },
         {
           "date": "2025-09-24",
           "value": 4.09
@@ -1604,6 +1600,10 @@
         {
           "date": "2026-10-26",
           "value": 3.88
+        },
+        {
+          "date": "2026-10-27",
+          "value": 3.88
         }
       ],
       "source_url": "https://fred.stlouisfed.org/series/DFF",
@@ -1613,14 +1613,10 @@
       "series": "DGS10",
       "label": "10-year Treasury",
       "unit": "%",
-      "value": 5.0,
-      "date": "2026-10-26",
-      "change_90d": 0.3899999999999997,
+      "value": 4.99,
+      "date": "2026-10-27",
+      "change_90d": 0.3200000000000003,
       "history": [
-        {
-          "date": "2025-09-23",
-          "value": 4.12
-        },
         {
           "date": "2025-09-24",
           "value": 4.16
@@ -2708,6 +2704,10 @@
         {
           "date": "2026-10-26",
           "value": 5.0
+        },
+        {
+          "date": "2026-10-27",
+          "value": 4.99
         }
       ],
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
@@ -2717,14 +2717,10 @@
       "series": "T10Y2Y",
       "label": "10-year minus 2-year yield",
       "unit": "percentage points",
-      "value": 0.29,
-      "date": "2026-10-27",
-      "change_90d": -0.16000000000000003,
+      "value": 0.38,
+      "date": "2026-10-28",
+      "change_90d": -0.07,
       "history": [
-        {
-          "date": "2025-09-23",
-          "value": 0.59
-        },
         {
           "date": "2025-09-24",
           "value": 0.59
@@ -3816,6 +3812,10 @@
         {
           "date": "2026-10-27",
           "value": 0.29
+        },
+        {
+          "date": "2026-10-28",
+          "value": 0.38
         }
       ],
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
@@ -3936,9 +3936,9 @@
   ],
   "note": "Current FRED database vintage; dates are observation dates, not release dates \u2014 not valid historical trading inputs",
   "source_document": {
-    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-28",
-    "sha256": "23dbff6d7ca4ad6877cfd45500dc9aaa390d8032abb135ab536ecc2ed6c32f5c",
-    "raw_path": "data/macro/23dbff6d7ca4ad6877cfd45500dc9aaa390d8032abb135ab536ecc2ed6c32f5c.bin.gz",
-    "retrieved_at": "2026-10-28T14:09:35.381984+00:00"
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,DGS10,T10Y2Y,UNRATE,CPIAUCSL&cosd=2024-01-01&coed=2026-10-29",
+    "sha256": "c9018c60b1e5b78ca460b70b75a98a55c4d4e3c8b5237fbe640467581c051efd",
+    "raw_path": "data/macro/c9018c60b1e5b78ca460b70b75a98a55c4d4e3c8b5237fbe640467581c051efd.bin.gz",
+    "retrieved_at": "2026-10-29T14:30:40.911853+00:00"
   }
 }
