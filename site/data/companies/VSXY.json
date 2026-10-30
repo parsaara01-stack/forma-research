@@ -4,8 +4,8 @@
   "name": "VICTORIA S SECRET",
   "group": "Consumer Discretionary",
   "weight_percent": 0.23,
-  "holding_price": 92.27,
-  "price_date": "2026-10-27",
+  "holding_price": 95.4,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001856437.json",
     "sha256": "ff8e4aa4e1d4cab9232f3c1923b04907f5693a194f8a03f5fa06a34e5efa793b",
-    "retrieved_at": "2026-10-27T13:24:29.890914+00:00",
+    "retrieved_at": "2026-10-30T14:22:59.346388+00:00",
     "raw_path": "data/raw/ff8e4aa4e1d4cab9232f3c1923b04907f5693a194f8a03f5fa06a34e5efa793b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000004/0001856437-26-000004-index.html",

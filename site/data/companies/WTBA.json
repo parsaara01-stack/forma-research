@@ -4,8 +4,8 @@
   "name": "WEST BANCORPORATION INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 30.43,
-  "price_date": "2026-10-27",
+  "holding_price": 30.46,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001166928.json",
-    "sha256": "2e97ab0a85215c5cc68956014707ddc6117afb56bc963370d83c37148e3caff2",
-    "retrieved_at": "2026-10-27T13:29:18.187482+00:00",
-    "raw_path": "data/raw/2e97ab0a85215c5cc68956014707ddc6117afb56bc963370d83c37148e3caff2.json.gz"
+    "sha256": "54bda6dc8a5a7810fb4f0f6d7860ecba6dbae7921022ad4dd2cdcb9a731bae39",
+    "retrieved_at": "2026-10-30T14:27:58.403815+00:00",
+    "raw_path": "data/raw/54bda6dc8a5a7810fb4f0f6d7860ecba6dbae7921022ad4dd2cdcb9a731bae39.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1166928/000116692826000010/0001166928-26-000010-index.html",
   "earnings": {

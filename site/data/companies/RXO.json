@@ -3,9 +3,9 @@
   "source_ticker": "RXO",
   "name": "RXO INC",
   "group": "Industrials",
-  "weight_percent": 0.16,
-  "holding_price": 29.1,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.15,
+  "holding_price": 27.6,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001929561.json",
-    "sha256": "960108340c032c16b983154fb42c2f557f9bb69578cca5debd52f42bc35a0b9e",
-    "retrieved_at": "2026-10-27T13:24:48.663710+00:00",
-    "raw_path": "data/raw/960108340c032c16b983154fb42c2f557f9bb69578cca5debd52f42bc35a0b9e.json.gz"
+    "sha256": "76a5a1bf52dbda082dc943f05779f6aea09d8743d748ce7945d48c444003bb68",
+    "retrieved_at": "2026-10-30T14:23:26.235616+00:00",
+    "raw_path": "data/raw/76a5a1bf52dbda082dc943f05779f6aea09d8743d748ce7945d48c444003bb68.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000013/0001929561-26-000013-index.html",
   "earnings": {

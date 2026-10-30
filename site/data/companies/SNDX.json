@@ -4,8 +4,8 @@
   "name": "SYNDAX PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 13.69,
-  "price_date": "2026-10-27",
+  "holding_price": 14.32,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001395937.json",
     "sha256": "34bb57c63e172e7ddf8a6dc4a5886210e64bd006fb59459f7113dac7ea3f0a8b",
-    "retrieved_at": "2026-10-27T13:27:33.568057+00:00",
+    "retrieved_at": "2026-10-30T14:26:00.516417+00:00",
     "raw_path": "data/raw/34bb57c63e172e7ddf8a6dc4a5886210e64bd006fb59459f7113dac7ea3f0a8b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526076536/0001193125-26-076536-index.html",

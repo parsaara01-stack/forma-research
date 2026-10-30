@@ -4,8 +4,8 @@
   "name": "ASHLAND",
   "group": "Materials",
   "weight_percent": 0.11,
-  "holding_price": 72.78,
-  "price_date": "2026-10-27",
+  "holding_price": 72.67,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001674862.json",
     "sha256": "8d4289d492726150f37f23f244638a84b8efe77166b0068a603dbb578292ec02",
-    "retrieved_at": "2026-10-27T13:25:26.296355+00:00",
+    "retrieved_at": "2026-10-30T14:23:59.055350+00:00",
     "raw_path": "data/raw/8d4289d492726150f37f23f244638a84b8efe77166b0068a603dbb578292ec02.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1674862/000119312525289248/0001193125-25-289248-index.html",

@@ -4,8 +4,8 @@
   "name": "MAXLINEAR",
   "group": "Information Technology",
   "weight_percent": 0.22,
-  "holding_price": 74.67,
-  "price_date": "2026-10-27",
+  "holding_price": 75.14,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001288469.json",
     "sha256": "4f5917422b74df924e5197e0a1e784a6f391fa8bf63bcf54c23f118006a1c562",
-    "retrieved_at": "2026-10-27T13:24:40.115224+00:00",
+    "retrieved_at": "2026-10-30T14:23:02.045352+00:00",
     "raw_path": "data/raw/4f5917422b74df924e5197e0a1e784a6f391fa8bf63bcf54c23f118006a1c562.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1288469/000128846926000011/0001288469-26-000011-index.html",

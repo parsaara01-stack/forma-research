@@ -4,8 +4,8 @@
   "name": "GENCO SHIPPING AND TRADING",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 25.64,
-  "price_date": "2026-10-27",
+  "holding_price": 25.63,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326200.json",
     "sha256": "ef589a8e95eb0a5bcf1d3c4a9e13692c093f89512c34c4b1951f37855235d20e",
-    "retrieved_at": "2026-10-27T13:28:16.825529+00:00",
+    "retrieved_at": "2026-10-30T14:26:53.528791+00:00",
     "raw_path": "data/raw/ef589a8e95eb0a5bcf1d3c4a9e13692c093f89512c34c4b1951f37855235d20e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1326200/000110465926017117/0001104659-26-017117-index.html",

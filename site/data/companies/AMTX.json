@@ -4,8 +4,8 @@
   "name": "AEMETIS INC",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 1.31,
-  "price_date": "2026-10-27",
+  "holding_price": 1.3,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000738214.json",
     "sha256": "2e76dabd0fe248a89cc2573b0feb1ddd7c27e27a1c37a08550b47a9fc484b2d8",
-    "retrieved_at": "2026-10-27T13:32:10.153827+00:00",
+    "retrieved_at": "2026-10-30T14:30:47.816838+00:00",
     "raw_path": "data/raw/2e76dabd0fe248a89cc2573b0feb1ddd7c27e27a1c37a08550b47a9fc484b2d8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/738214/000143774926008289/0001437749-26-008289-index.html",

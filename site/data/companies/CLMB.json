@@ -4,8 +4,8 @@
   "name": "CLIMB GLOBAL SOLUTIONS INC",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 32.16,
-  "price_date": "2026-10-27",
+  "holding_price": 33.13,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000945983.json",
-    "sha256": "9d648d98f3e0be80433c86af3c096efa9ec2f9c838f8a29b4aca1be577c61232",
-    "retrieved_at": "2026-10-27T13:29:05.258054+00:00",
-    "raw_path": "data/raw/9d648d98f3e0be80433c86af3c096efa9ec2f9c838f8a29b4aca1be577c61232.json.gz"
+    "sha256": "148ba772d5eb65876a98eda355ff0f9930c447b309fee36c1291d801163032f8",
+    "retrieved_at": "2026-10-30T14:27:43.756081+00:00",
+    "raw_path": "data/raw/148ba772d5eb65876a98eda355ff0f9930c447b309fee36c1291d801163032f8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/945983/000143774926006072/0001437749-26-006072-index.html",
   "earnings": {

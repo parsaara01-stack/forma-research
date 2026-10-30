@@ -4,8 +4,8 @@
   "name": "PRIORITY TECHNOLOGY HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 7.83,
-  "price_date": "2026-10-27",
+  "holding_price": 7.85,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001653558.json",
     "sha256": "ee10483b480a5b2494f2a4a652dbfbdb485538bc797d61673b08fb7a06e9a0d1",
-    "retrieved_at": "2026-10-27T13:30:19.762404+00:00",
+    "retrieved_at": "2026-10-30T14:29:02.805204+00:00",
     "raw_path": "data/raw/ee10483b480a5b2494f2a4a652dbfbdb485538bc797d61673b08fb7a06e9a0d1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1653558/000165355826000066/0001653558-26-000066-index.html",

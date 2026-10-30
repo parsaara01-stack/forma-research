@@ -4,8 +4,8 @@
   "name": "CORVUS PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 10.54,
-  "price_date": "2026-10-27",
+  "holding_price": 10.52,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001626971.json",
     "sha256": "efaff8dff6bd932c7ac2851cff10f1e493b250491e3b60ca38d6cd7189bac6f4",
-    "retrieved_at": "2026-10-27T13:28:44.300776+00:00",
+    "retrieved_at": "2026-10-30T14:27:24.209395+00:00",
     "raw_path": "data/raw/efaff8dff6bd932c7ac2851cff10f1e493b250491e3b60ca38d6cd7189bac6f4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1626971/000110465926027047/0001104659-26-027047-index.html",

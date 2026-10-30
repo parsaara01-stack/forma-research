@@ -4,8 +4,8 @@
   "name": "USCB FINANCIAL HOLDINGS INC CLASS",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 20.04,
-  "price_date": "2026-10-27",
+  "holding_price": 19.92,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001901637.json",
     "sha256": "837a9bb0cfff5fba8102fa782f367d8ef73d900f6073774d996c1b2a9f0389a5",
-    "retrieved_at": "2026-10-27T13:30:48.872709+00:00",
+    "retrieved_at": "2026-10-30T14:29:26.653490+00:00",
     "raw_path": "data/raw/837a9bb0cfff5fba8102fa782f367d8ef73d900f6073774d996c1b2a9f0389a5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000156276226000027/0001562762-26-000027-index.html",

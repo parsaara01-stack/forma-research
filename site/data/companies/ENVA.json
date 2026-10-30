@@ -3,9 +3,9 @@
   "source_ticker": "ENVA",
   "name": "ENOVA INTERNATIONAL",
   "group": "Financials",
-  "weight_percent": 0.14,
-  "holding_price": 171.31,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.15,
+  "holding_price": 179.82,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001529864.json",
     "sha256": "c68f867333478731ad5de2be9942062d6b5cc89eba980aa78e98060e4195c230",
-    "retrieved_at": "2026-10-27T13:25:07.082803+00:00",
+    "retrieved_at": "2026-10-30T14:23:29.982801+00:00",
     "raw_path": "data/raw/c68f867333478731ad5de2be9942062d6b5cc89eba980aa78e98060e4195c230.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526060461/0001193125-26-060461-index.html",

@@ -4,8 +4,8 @@
   "name": "SEADRILL",
   "group": "Energy",
   "weight_percent": 0.11,
-  "holding_price": 50.96,
-  "price_date": "2026-10-27",
+  "holding_price": 52.48,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001737706.json",
     "sha256": "c6c883077d7c0c7c976fcfccdf41d9bd7d5d4c6f22edb6e602414ee02ba7def5",
-    "retrieved_at": "2026-10-27T13:25:27.780004+00:00",
+    "retrieved_at": "2026-10-30T14:24:00.620410+00:00",
     "raw_path": "data/raw/c6c883077d7c0c7c976fcfccdf41d9bd7d5d4c6f22edb6e602414ee02ba7def5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000010/0001737706-26-000010-index.html",

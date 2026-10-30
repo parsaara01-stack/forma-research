@@ -4,8 +4,8 @@
   "name": "UNITED FIRE GROUP INC",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 57.2,
-  "price_date": "2026-10-27",
+  "holding_price": 56.32,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000101199.json",
     "sha256": "893e5682a0a70f332753f5abba9e320ede1e3963559f5c21001c8b9971cb9aa6",
-    "retrieved_at": "2026-10-27T13:27:21.832372+00:00",
+    "retrieved_at": "2026-10-30T14:25:59.364429+00:00",
     "raw_path": "data/raw/893e5682a0a70f332753f5abba9e320ede1e3963559f5c21001c8b9971cb9aa6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/101199/000010119926000015/0000101199-26-000015-index.html",

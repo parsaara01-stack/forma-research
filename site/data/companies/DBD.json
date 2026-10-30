@@ -4,8 +4,8 @@
   "name": "DIEBOLD NIXDORF INC",
   "group": "Information Technology",
   "weight_percent": 0.05,
-  "holding_price": 66.68,
-  "price_date": "2026-10-27",
+  "holding_price": 58.07,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000028823.json",
-    "sha256": "ba56b329856d42c8e1e3211bcdfb316a441b9f14307f620b7e91b887fac9c02a",
-    "retrieved_at": "2026-10-27T13:26:57.166751+00:00",
-    "raw_path": "data/raw/ba56b329856d42c8e1e3211bcdfb316a441b9f14307f620b7e91b887fac9c02a.json.gz"
+    "sha256": "1b31b654f7f87c2c797e8f806d9aec301439740e50f3b4cd8a1f127e07ff11a1",
+    "retrieved_at": "2026-10-30T14:25:50.995725+00:00",
+    "raw_path": "data/raw/1b31b654f7f87c2c797e8f806d9aec301439740e50f3b4cd8a1f127e07ff11a1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/28823/000002882326000008/0000028823-26-000008-index.html",
   "earnings": {

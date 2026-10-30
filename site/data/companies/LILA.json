@@ -4,8 +4,8 @@
   "name": "LIBERTY LATIN AMERICA CLASS A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 7.91,
-  "price_date": "2026-10-27",
+  "holding_price": 8.1,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001712184.json",
     "sha256": "facfb34cc93bf982843094e84cd55c2db31622b0be24cbc113e230087e71ca34",
-    "retrieved_at": "2026-10-27T13:28:02.072923+00:00",
+    "retrieved_at": "2026-10-30T14:26:38.132281+00:00",
     "raw_path": "data/raw/facfb34cc93bf982843094e84cd55c2db31622b0be24cbc113e230087e71ca34.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000023/0001712184-26-000023-index.html",

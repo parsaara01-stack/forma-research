@@ -4,8 +4,8 @@
   "name": "CAPITAL CITY BANK INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 51.22,
-  "price_date": "2026-10-27",
+  "holding_price": 50.81,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000726601.json",
     "sha256": "7d387e56fe8974f878b20eaa70d38fc9f2fda7ae6c5cb3db522c43cbf824f9c4",
-    "retrieved_at": "2026-10-27T13:28:32.293837+00:00",
+    "retrieved_at": "2026-10-30T14:27:11.063395+00:00",
     "raw_path": "data/raw/7d387e56fe8974f878b20eaa70d38fc9f2fda7ae6c5cb3db522c43cbf824f9c4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/726601/000072660126000007/0000726601-26-000007-index.html",

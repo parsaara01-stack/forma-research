@@ -4,8 +4,8 @@
   "name": "BLACKSKY TECHNOLOGY CLASS A",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 19.15,
-  "price_date": "2026-10-27",
+  "holding_price": 19.11,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001753539.json",
     "sha256": "4db6c254753656f3a5987a4b9eb2b9c4e5f0bc14a9a69b5832ec03343d27a708",
-    "retrieved_at": "2026-10-27T13:28:49.080054+00:00",
+    "retrieved_at": "2026-10-30T14:27:16.869341+00:00",
     "raw_path": "data/raw/4db6c254753656f3a5987a4b9eb2b9c4e5f0bc14a9a69b5832ec03343d27a708.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000032/0001753539-26-000032-index.html",

@@ -4,8 +4,8 @@
   "name": "INSIGHT ENTERPRISES INC",
   "group": "Information Technology",
   "weight_percent": 0.18,
-  "holding_price": 178.35,
-  "price_date": "2026-10-27",
+  "holding_price": 177.84,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000932696.json",
     "sha256": "ffe5b2bdf0ce51ef11e76888cda036fa1e1018fd21d6c009b6b87a87f96a9fa6",
-    "retrieved_at": "2026-10-27T13:24:42.068275+00:00",
+    "retrieved_at": "2026-10-30T14:23:13.729900+00:00",
     "raw_path": "data/raw/ffe5b2bdf0ce51ef11e76888cda036fa1e1018fd21d6c009b6b87a87f96a9fa6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000007/0000932696-26-000007-index.html",

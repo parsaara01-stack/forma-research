@@ -4,8 +4,8 @@
   "name": "PAYSIGN INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 14.54,
-  "price_date": "2026-10-27",
+  "holding_price": 13.97,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001496443.json",
     "sha256": "b3f28ed3cc603062499145af90e08fe917c8ccef839880fc59db5177972cacaf",
-    "retrieved_at": "2026-10-27T13:28:40.794309+00:00",
+    "retrieved_at": "2026-10-30T14:27:29.686484+00:00",
     "raw_path": "data/raw/b3f28ed3cc603062499145af90e08fe917c8ccef839880fc59db5177972cacaf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1496443/000168316826002180/0001683168-26-002180-index.html",

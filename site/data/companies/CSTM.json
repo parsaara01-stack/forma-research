@@ -3,9 +3,9 @@
   "source_ticker": "CSTM",
   "name": "CONSTELLIUM SE CLASS A",
   "group": "Materials",
-  "weight_percent": 0.11,
-  "holding_price": 24.56,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.1,
+  "holding_price": 24.43,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001563411.json",
-    "sha256": "97c1b609aead58f4846f8f5bee4b7bf78ff81de1052d0df9c1ba294af39a0f9a",
-    "retrieved_at": "2026-10-27T13:25:41.102021+00:00",
-    "raw_path": "data/raw/97c1b609aead58f4846f8f5bee4b7bf78ff81de1052d0df9c1ba294af39a0f9a.json.gz"
+    "sha256": "06e48d5af18d4cf49f5d104ff59c4e33f0aaa91462fda3b0e074961e70638984",
+    "retrieved_at": "2026-10-30T14:24:08.219990+00:00",
+    "raw_path": "data/raw/06e48d5af18d4cf49f5d104ff59c4e33f0aaa91462fda3b0e074961e70638984.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000057/0001563411-26-000057-index.html",
   "earnings": {

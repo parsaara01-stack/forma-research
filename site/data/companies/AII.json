@@ -4,8 +4,8 @@
   "name": "AMERICAN INTEGRITY INSURANCE GROUP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 28.59,
-  "price_date": "2026-10-27",
+  "holding_price": 28.0,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002007587.json",
     "sha256": "4de5587f381b358cda2abd29937cf853c1a9532063bf6dd40ab5c08d6bcf3cb7",
-    "retrieved_at": "2026-10-27T13:29:52.744216+00:00",
+    "retrieved_at": "2026-10-30T14:28:39.646314+00:00",
     "raw_path": "data/raw/4de5587f381b358cda2abd29937cf853c1a9532063bf6dd40ab5c08d6bcf3cb7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2007587/000200758726000016/0002007587-26-000016-index.html",

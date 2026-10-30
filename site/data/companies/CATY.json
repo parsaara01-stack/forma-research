@@ -4,8 +4,8 @@
   "name": "CATHAY GENERAL BANCORP",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 64.69,
-  "price_date": "2026-10-27",
+  "holding_price": 64.66,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000861842.json",
     "sha256": "1a13dc8954d4baaac170c82788466e07a9884172b53cd3fbd9fe58161457e565",
-    "retrieved_at": "2026-10-27T13:25:02.280297+00:00",
+    "retrieved_at": "2026-10-30T14:23:35.289134+00:00",
     "raw_path": "data/raw/1a13dc8954d4baaac170c82788466e07a9884172b53cd3fbd9fe58161457e565.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926006157/0001437749-26-006157-index.html",

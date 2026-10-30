@@ -5,7 +5,7 @@
   "group": "Energy",
   "weight_percent": 0.0,
   "holding_price": 1.54,
-  "price_date": "2026-10-27",
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001842279.json",
     "sha256": "06f54f7ae1a0f48e837c7da84122c984a0290c53d72e1fcdaa855bd654982565",
-    "retrieved_at": "2026-10-27T13:32:24.481347+00:00",
+    "retrieved_at": "2026-10-30T14:31:01.321588+00:00",
     "raw_path": "data/raw/06f54f7ae1a0f48e837c7da84122c984a0290c53d72e1fcdaa855bd654982565.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1842279/000162828026017908/0001628280-26-017908-index.html",

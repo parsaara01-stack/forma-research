@@ -4,8 +4,8 @@
   "name": "STEVEN MADDEN",
   "group": "Consumer Discretionary",
   "weight_percent": 0.1,
-  "holding_price": 42.78,
-  "price_date": "2026-10-27",
+  "holding_price": 42.68,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913241.json",
     "sha256": "e5aa906507bdb8c79a00cda069b40c6f0a4ca03c209474bc46812ecf2463aea0",
-    "retrieved_at": "2026-10-27T13:25:33.789866+00:00",
+    "retrieved_at": "2026-10-30T14:24:09.102950+00:00",
     "raw_path": "data/raw/e5aa906507bdb8c79a00cda069b40c6f0a4ca03c209474bc46812ecf2463aea0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/913241/000162828026012995/0001628280-26-012995-index.html",

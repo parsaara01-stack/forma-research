@@ -3,9 +3,9 @@
   "source_ticker": "HAE",
   "name": "HAEMONETICS CORP",
   "group": "Health Care",
-  "weight_percent": 0.19,
-  "holding_price": 119.97,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.18,
+  "holding_price": 118.32,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313143.json",
     "sha256": "2e33f4ca1a7afeb7423d92ea983bf865e708216490b0c193ce73ffd299c712d1",
-    "retrieved_at": "2026-10-27T13:24:41.513836+00:00",
+    "retrieved_at": "2026-10-30T14:23:13.359630+00:00",
     "raw_path": "data/raw/2e33f4ca1a7afeb7423d92ea983bf865e708216490b0c193ce73ffd299c712d1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000050/0000313143-26-000050-index.html",

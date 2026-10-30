@@ -3,9 +3,9 @@
   "source_ticker": "IDCC",
   "name": "INTERDIGITAL INC",
   "group": "Information Technology",
-  "weight_percent": 0.29,
-  "holding_price": 328.81,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.28,
+  "holding_price": 320.56,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001405495.json",
-    "sha256": "9366fa1f601b4c68d2e743b0e3823710ee509c5d1919dd05f26533d3b732fcd0",
-    "retrieved_at": "2026-10-27T13:24:22.424074+00:00",
-    "raw_path": "data/raw/9366fa1f601b4c68d2e743b0e3823710ee509c5d1919dd05f26533d3b732fcd0.json.gz"
+    "sha256": "013959111f5eff985fc8be29cbbd577e67e3d33046ad8673db8584f0ffa28acf",
+    "retrieved_at": "2026-10-30T14:22:55.235444+00:00",
+    "raw_path": "data/raw/013959111f5eff985fc8be29cbbd577e67e3d33046ad8673db8584f0ffa28acf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1405495/000140549526000011/0001405495-26-000011-index.html",
   "earnings": {

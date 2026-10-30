@@ -4,8 +4,8 @@
   "name": "ORGANOGENESIS HOLDINGS CLASS A",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 0.9,
-  "price_date": "2026-10-27",
+  "holding_price": 0.82,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001661181.json",
     "sha256": "00567c72bddd95f26714e330ccb5a1d718329e6452ae6dde7dc8540102fedb47",
-    "retrieved_at": "2026-10-27T13:32:13.152095+00:00",
+    "retrieved_at": "2026-10-30T14:30:55.539580+00:00",
     "raw_path": "data/raw/00567c72bddd95f26714e330ccb5a1d718329e6452ae6dde7dc8540102fedb47.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1661181/000119312526076730/0001193125-26-076730-index.html",

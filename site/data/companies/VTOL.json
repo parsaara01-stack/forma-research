@@ -4,8 +4,8 @@
   "name": "BRISTOW GROUP",
   "group": "Energy",
   "weight_percent": 0.04,
-  "holding_price": 40.97,
-  "price_date": "2026-10-27",
+  "holding_price": 41.44,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001525221.json",
     "sha256": "11099f1dc0cfbcfa831a7979248916376b91671da45e9597076be37e27ffdc75",
-    "retrieved_at": "2026-10-27T13:27:44.704391+00:00",
+    "retrieved_at": "2026-10-30T14:26:18.675307+00:00",
     "raw_path": "data/raw/11099f1dc0cfbcfa831a7979248916376b91671da45e9597076be37e27ffdc75.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1525221/000152522126000013/0001525221-26-000013-index.html",

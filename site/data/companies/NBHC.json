@@ -4,8 +4,8 @@
   "name": "NATIONAL BANK HOLDINGS CORP CLASS",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 38.98,
-  "price_date": "2026-10-27",
+  "holding_price": 37.48,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001475841.json",
     "sha256": "4d427d8e4184da990542b52fd0ffac9bbd98697388417b339f6a352a70bcc54d",
-    "retrieved_at": "2026-10-27T13:26:58.601538+00:00",
+    "retrieved_at": "2026-10-30T14:25:37.542690+00:00",
     "raw_path": "data/raw/4d427d8e4184da990542b52fd0ffac9bbd98697388417b339f6a352a70bcc54d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1475841/000110465926019119/0001104659-26-019119-index.html",

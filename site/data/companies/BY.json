@@ -4,8 +4,8 @@
   "name": "BYLINE BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 38.68,
-  "price_date": "2026-10-27",
+  "holding_price": 38.67,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001702750.json",
     "sha256": "b2b5d8e15695f4a1afa6e3edb525aa6bf2e0283f31f5d417f7d59e44da57b23f",
-    "retrieved_at": "2026-10-27T13:27:28.193568+00:00",
+    "retrieved_at": "2026-10-30T14:26:02.698903+00:00",
     "raw_path": "data/raw/b2b5d8e15695f4a1afa6e3edb525aa6bf2e0283f31f5d417f7d59e44da57b23f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1702750/000119312526083194/0001193125-26-083194-index.html",

@@ -5,7 +5,7 @@
   "group": "Real Estate",
   "weight_percent": 0.12,
   "holding_price": 61.14,
-  "price_date": "2026-10-27",
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910108.json",
-    "sha256": "924910bbda01d3e8b6a027e0b5d790678f4d14f194a9682c72d07a77c9b97a8b",
-    "retrieved_at": "2026-10-27T13:25:19.128082+00:00",
-    "raw_path": "data/raw/924910bbda01d3e8b6a027e0b5d790678f4d14f194a9682c72d07a77c9b97a8b.json.gz"
+    "sha256": "b9871edaa6ba9ee07e6dd1ff2068995bb5e41b5642a79f920d527dd2dd940562",
+    "retrieved_at": "2026-10-30T14:23:53.623375+00:00",
+    "raw_path": "data/raw/b9871edaa6ba9ee07e6dd1ff2068995bb5e41b5642a79f920d527dd2dd940562.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/910108/000091010826000009/0000910108-26-000009-index.html",
   "earnings": {

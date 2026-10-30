@@ -4,8 +4,8 @@
   "name": "HCI GROUP INC",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 199.96,
-  "price_date": "2026-10-27",
+  "holding_price": 195.24,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001400810.json",
     "sha256": "47c78b3c4c5847e867e34afd23528ef7d3cc2b0abd2c41e6dafc41eef230de8a",
-    "retrieved_at": "2026-10-27T13:26:07.651227+00:00",
+    "retrieved_at": "2026-10-30T14:24:49.243486+00:00",
     "raw_path": "data/raw/47c78b3c4c5847e867e34afd23528ef7d3cc2b0abd2c41e6dafc41eef230de8a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1400810/000119312526076743/0001193125-26-076743-index.html",

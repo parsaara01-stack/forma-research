@@ -4,8 +4,8 @@
   "name": "NMI HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 42.58,
-  "price_date": "2026-10-27",
+  "holding_price": 42.11,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001547903.json",
     "sha256": "29eb74282d356d17712b2e6be0031e181807234a21bcba3758a96832d233c197",
-    "retrieved_at": "2026-10-27T13:25:25.144225+00:00",
+    "retrieved_at": "2026-10-30T14:23:59.601481+00:00",
     "raw_path": "data/raw/29eb74282d356d17712b2e6be0031e181807234a21bcba3758a96832d233c197.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1547903/000154790326000011/0001547903-26-000011-index.html",

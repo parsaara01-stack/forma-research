@@ -4,8 +4,8 @@
   "name": "SPIRE INC",
   "group": "Utilities",
   "weight_percent": 0.17,
-  "holding_price": 86.05,
-  "price_date": "2026-10-27",
+  "holding_price": 85.5,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001126956.json",
     "sha256": "fd5864b535e4be341e4420a37bc204e5b49d19e66d44269be71e4374c152d315",
-    "retrieved_at": "2026-10-27T13:24:45.292899+00:00",
+    "retrieved_at": "2026-10-30T14:23:18.438969+00:00",
     "raw_path": "data/raw/fd5864b535e4be341e4420a37bc204e5b49d19e66d44269be71e4374c152d315.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1126956/000119312525282583/0001193125-25-282583-index.html",

@@ -4,8 +4,8 @@
   "name": "FORTREA HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 24.43,
-  "price_date": "2026-10-27",
+  "holding_price": 25.88,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001965040.json",
-    "sha256": "42c7d01759969ec14e07e03f1bfd488eaa672556759d23c7e18336644b2b073f",
-    "retrieved_at": "2026-10-27T13:26:11.146860+00:00",
-    "raw_path": "data/raw/42c7d01759969ec14e07e03f1bfd488eaa672556759d23c7e18336644b2b073f.json.gz"
+    "sha256": "30c3eafbbfae9fc193784d91f2731566c7152f95a2fdfc21c9b7ce198728f4bb",
+    "retrieved_at": "2026-10-30T14:24:36.450736+00:00",
+    "raw_path": "data/raw/30c3eafbbfae9fc193784d91f2731566c7152f95a2fdfc21c9b7ce198728f4bb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1965040/000162828026012244/0001628280-26-012244-index.html",
   "earnings": {

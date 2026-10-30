@@ -4,8 +4,8 @@
   "name": "ENANTA PHARMACEUTICALS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 12.18,
-  "price_date": "2026-10-27",
+  "holding_price": 11.55,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001177648.json",
     "sha256": "80fddde6209a85211c99bf9c410a8d05c029ccda8597cc49f72b1775c18d6d7b",
-    "retrieved_at": "2026-10-27T13:30:12.739221+00:00",
+    "retrieved_at": "2026-10-30T14:28:54.438146+00:00",
     "raw_path": "data/raw/80fddde6209a85211c99bf9c410a8d05c029ccda8597cc49f72b1775c18d6d7b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1177648/000119312525288121/0001193125-25-288121-index.html",

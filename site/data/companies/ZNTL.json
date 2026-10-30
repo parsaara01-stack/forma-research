@@ -4,8 +4,8 @@
   "name": "ZENTALIS PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.98,
-  "price_date": "2026-10-27",
+  "holding_price": 2.06,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001725160.json",
     "sha256": "54c6d1c54d3a4543b4fc4822693bfe782e6a69677007cf585f2b53a46df2979d",
-    "retrieved_at": "2026-10-27T13:31:55.953158+00:00",
+    "retrieved_at": "2026-10-30T14:30:37.798490+00:00",
     "raw_path": "data/raw/54c6d1c54d3a4543b4fc4822693bfe782e6a69677007cf585f2b53a46df2979d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000014/0001725160-26-000014-index.html",

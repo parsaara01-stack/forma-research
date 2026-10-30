@@ -4,8 +4,8 @@
   "name": "STOCK YARDS BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 78.39,
-  "price_date": "2026-10-27",
+  "holding_price": 76.81,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000835324.json",
     "sha256": "82b348234672e28b51566e1e527e36cbd3c00b6cf689d0f809faadbdd6882047",
-    "retrieved_at": "2026-10-27T13:26:20.884691+00:00",
+    "retrieved_at": "2026-10-30T14:24:59.079728+00:00",
     "raw_path": "data/raw/82b348234672e28b51566e1e527e36cbd3c00b6cf689d0f809faadbdd6882047.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/835324/000143774926005830/0001437749-26-005830-index.html",

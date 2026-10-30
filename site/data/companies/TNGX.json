@@ -3,9 +3,9 @@
   "source_ticker": "TNGX",
   "name": "TANGO THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.11,
-  "holding_price": 22.89,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.1,
+  "holding_price": 22.23,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819133.json",
     "sha256": "c8f05c3fa6a80adb6687298dee3456672460b56037993a536638892dc1b0365a",
-    "retrieved_at": "2026-10-27T13:25:29.477057+00:00",
+    "retrieved_at": "2026-10-30T14:24:08.109153+00:00",
     "raw_path": "data/raw/c8f05c3fa6a80adb6687298dee3456672460b56037993a536638892dc1b0365a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819133/000119312526092518/0001193125-26-092518-index.html",

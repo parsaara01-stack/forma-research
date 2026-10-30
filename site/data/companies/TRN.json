@@ -4,8 +4,8 @@
   "name": "TRINITY INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 25.5,
-  "price_date": "2026-10-27",
+  "holding_price": 25.56,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000099780.json",
-    "sha256": "a12efa1029ffe6ce5efa932dbe936bb73c4e8a2f66137731891246f36824162c",
-    "retrieved_at": "2026-10-27T13:26:25.694291+00:00",
-    "raw_path": "data/raw/a12efa1029ffe6ce5efa932dbe936bb73c4e8a2f66137731891246f36824162c.json.gz"
+    "sha256": "d5650acf0a998791209bb10196a72a8805e3b240c039b329370713dafbc853f3",
+    "retrieved_at": "2026-10-30T14:25:01.079487+00:00",
+    "raw_path": "data/raw/d5650acf0a998791209bb10196a72a8805e3b240c039b329370713dafbc853f3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000014/0000099780-26-000014-index.html",
   "earnings": {

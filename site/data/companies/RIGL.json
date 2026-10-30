@@ -4,8 +4,8 @@
   "name": "RIGEL PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 50.55,
-  "price_date": "2026-10-27",
+  "holding_price": 50.74,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001034842.json",
     "sha256": "9f0177d88ba5586af93641453dcdab47e911a8e5133c48ff075ae0e979641d1a",
-    "retrieved_at": "2026-10-27T13:28:10.456568+00:00",
+    "retrieved_at": "2026-10-30T14:26:42.436605+00:00",
     "raw_path": "data/raw/9f0177d88ba5586af93641453dcdab47e911a8e5133c48ff075ae0e979641d1a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1034842/000103484226000015/0001034842-26-000015-index.html",

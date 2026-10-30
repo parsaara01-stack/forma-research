@@ -4,8 +4,8 @@
   "name": "CONCRETE PUMPING HOLDINGS INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 9.73,
-  "price_date": "2026-10-27",
+  "holding_price": 9.95,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001703956.json",
     "sha256": "ddc63d1cd0237d46ae052f317238153961a9babaf193bb58301313c74b010261",
-    "retrieved_at": "2026-10-27T13:31:13.599667+00:00",
+    "retrieved_at": "2026-10-30T14:29:46.448411+00:00",
     "raw_path": "data/raw/ddc63d1cd0237d46ae052f317238153961a9babaf193bb58301313c74b010261.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1703956/000143774926001203/0001437749-26-001203-index.html",

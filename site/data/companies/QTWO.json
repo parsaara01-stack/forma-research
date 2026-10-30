@@ -3,9 +3,9 @@
   "source_ticker": "QTWO",
   "name": "Q2 HOLDINGS INC",
   "group": "Information Technology",
-  "weight_percent": 0.15,
-  "holding_price": 68.13,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.14,
+  "holding_price": 67.91,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001410384.json",
-    "sha256": "00552b71c338438a06cb3370d052c0790553f7fdcbbfd5c39d9e51656f9994bb",
-    "retrieved_at": "2026-10-27T13:24:59.108962+00:00",
-    "raw_path": "data/raw/00552b71c338438a06cb3370d052c0790553f7fdcbbfd5c39d9e51656f9994bb.json.gz"
+    "sha256": "fc7cd8f1ccc4a4b323e8ce59adc053d6b02de8047aa57a14a297f9e686b93670",
+    "retrieved_at": "2026-10-30T14:23:33.192570+00:00",
+    "raw_path": "data/raw/fc7cd8f1ccc4a4b323e8ce59adc053d6b02de8047aa57a14a297f9e686b93670.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1410384/000141038426000006/0001410384-26-000006-index.html",
   "earnings": {

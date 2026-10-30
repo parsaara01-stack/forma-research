@@ -4,8 +4,8 @@
   "name": "MERITAGE CORP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.14,
-  "holding_price": 63.94,
-  "price_date": "2026-10-27",
+  "holding_price": 62.02,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000833079.json",
     "sha256": "3664cf19855caad952398ad4e3ef5298cf91fef685546e1860a7e607320b8e70",
-    "retrieved_at": "2026-10-27T13:25:05.302108+00:00",
+    "retrieved_at": "2026-10-30T14:23:44.157205+00:00",
     "raw_path": "data/raw/3664cf19855caad952398ad4e3ef5298cf91fef685546e1860a7e607320b8e70.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/833079/000083307926000010/0000833079-26-000010-index.html",

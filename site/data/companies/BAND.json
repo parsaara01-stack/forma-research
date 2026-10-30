@@ -4,8 +4,8 @@
   "name": "BANDWIDTH CLASS A",
   "group": "Communication",
   "weight_percent": 0.05,
-  "holding_price": 49.27,
-  "price_date": "2026-10-27",
+  "holding_price": 48.45,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001514416.json",
-    "sha256": "4994fb321942c430297efebade88a4dd2e26a8f0227490c36d9e0cd95821bc58",
-    "retrieved_at": "2026-10-27T13:27:20.263563+00:00",
-    "raw_path": "data/raw/4994fb321942c430297efebade88a4dd2e26a8f0227490c36d9e0cd95821bc58.json.gz"
+    "sha256": "1839549d24df6da39da91a9e0e75145188656a36af2acec504b4b92f44aada36",
+    "retrieved_at": "2026-10-30T14:25:45.074739+00:00",
+    "raw_path": "data/raw/1839549d24df6da39da91a9e0e75145188656a36af2acec504b4b92f44aada36.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1514416/000151441626000017/0001514416-26-000017-index.html",
   "earnings": {

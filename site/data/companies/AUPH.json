@@ -4,8 +4,8 @@
   "name": "AURINIA PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 17.25,
-  "price_date": "2026-10-27",
+  "holding_price": 17.36,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001600620.json",
-    "sha256": "485b2322f410facf7f975635d1472ec076c5ca3ca22b945d0c8fc0591bc4e10e",
-    "retrieved_at": "2026-10-27T13:26:28.716442+00:00",
-    "raw_path": "data/raw/485b2322f410facf7f975635d1472ec076c5ca3ca22b945d0c8fc0591bc4e10e.json.gz"
+    "sha256": "fb1d5cf4e05648b0c7a8a420d49db98bd9f5ac136d4ae8a15b18396dd408d748",
+    "retrieved_at": "2026-10-30T14:24:59.744639+00:00",
+    "raw_path": "data/raw/fb1d5cf4e05648b0c7a8a420d49db98bd9f5ac136d4ae8a15b18396dd408d748.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000017/0001600620-26-000017-index.html",
   "earnings": {

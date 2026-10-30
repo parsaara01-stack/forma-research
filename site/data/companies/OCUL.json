@@ -4,8 +4,8 @@
   "name": "OCULAR THERAPEUTIX",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 6.72,
-  "price_date": "2026-10-27",
+  "holding_price": 7.29,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001393434.json",
     "sha256": "49208a819b449e933d340040d01c62c3d6db52e27de000c4850c8c33e540bcb2",
-    "retrieved_at": "2026-10-27T13:27:12.794008+00:00",
+    "retrieved_at": "2026-10-30T14:25:36.317133+00:00",
     "raw_path": "data/raw/49208a819b449e933d340040d01c62c3d6db52e27de000c4850c8c33e540bcb2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926010664/0001104659-26-010664-index.html",

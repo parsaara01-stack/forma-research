@@ -3,12 +3,12 @@
   "source_ticker": "MRX",
   "name": "MAREX GROUP LTD",
   "group": "Financials",
-  "weight_percent": 0.15,
-  "holding_price": 69.5,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.14,
+  "holding_price": 66.28,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

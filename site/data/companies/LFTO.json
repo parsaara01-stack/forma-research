@@ -4,11 +4,11 @@
   "name": "LIFTOFF MOBILE INC",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 17.1,
-  "price_date": "2026-10-27",
+  "holding_price": 16.13,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

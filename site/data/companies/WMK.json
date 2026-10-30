@@ -4,8 +4,8 @@
   "name": "WEIS MARKETS",
   "group": "Consumer Staples",
   "weight_percent": 0.04,
-  "holding_price": 75.9,
-  "price_date": "2026-10-27",
+  "holding_price": 74.28,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105418.json",
     "sha256": "541b42abf646b70212a5be69c275c73b3409f259041c76d97babc5aec2a84049",
-    "retrieved_at": "2026-10-27T13:27:24.794676+00:00",
+    "retrieved_at": "2026-10-30T14:26:05.173653+00:00",
     "raw_path": "data/raw/541b42abf646b70212a5be69c275c73b3409f259041c76d97babc5aec2a84049.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000024/0000105418-26-000024-index.html",

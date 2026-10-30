@@ -4,8 +4,8 @@
   "name": "AERSALE CORP",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 4.72,
-  "price_date": "2026-10-27",
+  "holding_price": 4.58,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001754170.json",
     "sha256": "aab4bf290a9a8c3f15beaf79588e69c3a26eb664ab6afa15d2cc03d68749f686",
-    "retrieved_at": "2026-10-27T13:31:26.416131+00:00",
+    "retrieved_at": "2026-10-30T14:30:08.252691+00:00",
     "raw_path": "data/raw/aab4bf290a9a8c3f15beaf79588e69c3a26eb664ab6afa15d2cc03d68749f686.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1754170/000110465926025574/0001104659-26-025574-index.html",

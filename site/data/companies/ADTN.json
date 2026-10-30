@@ -4,8 +4,8 @@
   "name": "ADTRAN HOLDINGS INC",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 6.88,
-  "price_date": "2026-10-27",
+  "holding_price": 6.96,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000926282.json",
     "sha256": "a974e795bb9be21839d6cf014d91b0c90c2270a853a02b77349a80fe6894221b",
-    "retrieved_at": "2026-10-27T13:29:18.254059+00:00",
+    "retrieved_at": "2026-10-30T14:27:50.387816+00:00",
     "raw_path": "data/raw/a974e795bb9be21839d6cf014d91b0c90c2270a853a02b77349a80fe6894221b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/926282/000119312526073878/0001193125-26-073878-index.html",

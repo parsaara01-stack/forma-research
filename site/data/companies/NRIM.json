@@ -4,8 +4,8 @@
   "name": "NORTHRIM BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 23.74,
-  "price_date": "2026-10-27",
+  "holding_price": 23.98,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001163370.json",
     "sha256": "3ae10e4bb8d7b2a1f6ab8e3f7e554d0281ce3bc82c7e742b93ebc69412c58ba3",
-    "retrieved_at": "2026-10-27T13:29:06.343835+00:00",
+    "retrieved_at": "2026-10-30T14:27:46.332183+00:00",
     "raw_path": "data/raw/3ae10e4bb8d7b2a1f6ab8e3f7e554d0281ce3bc82c7e742b93ebc69412c58ba3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000007/0001163370-26-000007-index.html",

@@ -4,8 +4,8 @@
   "name": "NACCO INDUSTRIES INC CLASS A",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 34.79,
-  "price_date": "2026-10-27",
+  "holding_price": 35.01,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789933.json",
     "sha256": "7f1974de58c6b80b8224578d8610b4a0c877c8464a1911d88bb86ef3d38896dc",
-    "retrieved_at": "2026-10-27T13:31:48.080238+00:00",
+    "retrieved_at": "2026-10-30T14:30:25.061231+00:00",
     "raw_path": "data/raw/7f1974de58c6b80b8224578d8610b4a0c877c8464a1911d88bb86ef3d38896dc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/789933/000078993326000070/0000789933-26-000070-index.html",

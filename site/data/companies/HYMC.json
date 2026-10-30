@@ -4,8 +4,8 @@
   "name": "HYCROFT MINING HOLDING CORP CLASS",
   "group": "Materials",
   "weight_percent": 0.03,
-  "holding_price": 16.9,
-  "price_date": "2026-10-27",
+  "holding_price": 17.44,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001718405.json",
     "sha256": "6cdf8c3d19bfa5c8333e3e764cf38194e8e2c391aa4aa29b838815818b2d196f",
-    "retrieved_at": "2026-10-27T13:28:14.253692+00:00",
+    "retrieved_at": "2026-10-30T14:26:36.130879+00:00",
     "raw_path": "data/raw/6cdf8c3d19bfa5c8333e3e764cf38194e8e2c391aa4aa29b838815818b2d196f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1718405/000171840526000009/0001718405-26-000009-index.html",

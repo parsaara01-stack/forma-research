@@ -4,8 +4,8 @@
   "name": "PTC THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.17,
-  "holding_price": 62.09,
-  "price_date": "2026-10-27",
+  "holding_price": 63.02,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001070081.json",
-    "sha256": "d748041dc0149cc4539c2407042aaa6286795ec2b9d1722f0cb5484cca6764d4",
-    "retrieved_at": "2026-10-27T13:24:46.997604+00:00",
-    "raw_path": "data/raw/d748041dc0149cc4539c2407042aaa6286795ec2b9d1722f0cb5484cca6764d4.json.gz"
+    "sha256": "da0766bdb0ba8f876ee34e964c7e807e88ef5a0cdb484e7aa58308ac5d9eef95",
+    "retrieved_at": "2026-10-30T14:23:15.813086+00:00",
+    "raw_path": "data/raw/da0766bdb0ba8f876ee34e964c7e807e88ef5a0cdb484e7aa58308ac5d9eef95.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1070081/000110465926017575/0001104659-26-017575-index.html",
   "earnings": {

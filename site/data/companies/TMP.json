@@ -4,8 +4,8 @@
   "name": "TOMPKINS FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 102.19,
-  "price_date": "2026-10-27",
+  "holding_price": 101.1,
+  "price_date": "2026-10-28",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001005817.json",
     "sha256": "bb8f040de7523d5f19d68cc955d53d85f59e218e1b200146476b906369f3c1b0",
-    "retrieved_at": "2026-10-27T13:27:12.279945+00:00",
+    "retrieved_at": "2026-10-30T14:25:49.231313+00:00",
     "raw_path": "data/raw/bb8f040de7523d5f19d68cc955d53d85f59e218e1b200146476b906369f3c1b0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000027/0001005817-26-000027-index.html",

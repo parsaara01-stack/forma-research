@@ -4,8 +4,8 @@
   "name": "HERITAGE FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 29.11,
-  "price_date": "2026-10-27",
+  "holding_price": 28.68,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001046025.json",
     "sha256": "0108001daa2d38863522c56968260ea30061d4f06a4523bd3df762815ab2ac58",
-    "retrieved_at": "2026-10-27T13:27:29.709135+00:00",
+    "retrieved_at": "2026-10-30T14:26:08.045062+00:00",
     "raw_path": "data/raw/0108001daa2d38863522c56968260ea30061d4f06a4523bd3df762815ab2ac58.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1046025/000162828026012703/0001628280-26-012703-index.html",

@@ -4,8 +4,8 @@
   "name": "UMB FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.33,
-  "holding_price": 133.8,
-  "price_date": "2026-10-27",
+  "holding_price": 132.34,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000101382.json",
-    "sha256": "e061937b39d22c5a88ac3349b0d29cb4272eb9b2f3b3309e1f14d35a972ea68c",
-    "retrieved_at": "2026-10-27T13:24:20.145499+00:00",
-    "raw_path": "data/raw/e061937b39d22c5a88ac3349b0d29cb4272eb9b2f3b3309e1f14d35a972ea68c.json.gz"
+    "sha256": "901ac349c27a8d690bccb267db964c859485630deb6f5e9dd80eb47f06e5ccc6",
+    "retrieved_at": "2026-10-30T14:22:52.073062+00:00",
+    "raw_path": "data/raw/901ac349c27a8d690bccb267db964c859485630deb6f5e9dd80eb47f06e5ccc6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/101382/000119312526076496/0001193125-26-076496-index.html",
   "earnings": {

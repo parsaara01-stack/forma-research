@@ -3,9 +3,9 @@
   "source_ticker": "LGN",
   "name": "LEGENCE CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.07,
-  "holding_price": 38.06,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.08,
+  "holding_price": 40.81,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002052568.json",
     "sha256": "f741ad9dfa2c51c165cbba35c18103515af81b37868a97945ecc6e216dd10535",
-    "retrieved_at": "2026-10-27T13:26:22.979209+00:00",
+    "retrieved_at": "2026-10-30T14:24:40.304202+00:00",
     "raw_path": "data/raw/f741ad9dfa2c51c165cbba35c18103515af81b37868a97945ecc6e216dd10535.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2052568/000205256826000008/0002052568-26-000008-index.html",

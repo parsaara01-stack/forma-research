@@ -4,8 +4,8 @@
   "name": "HORIZON BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 20.85,
-  "price_date": "2026-10-27",
+  "holding_price": 20.69,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000706129.json",
     "sha256": "05a4cb61ba53c71fca4d01ca922783cb3acdac4a74641a1e03aed4adffd792f9",
-    "retrieved_at": "2026-10-27T13:27:44.798858+00:00",
+    "retrieved_at": "2026-10-30T14:26:19.134460+00:00",
     "raw_path": "data/raw/05a4cb61ba53c71fca4d01ca922783cb3acdac4a74641a1e03aed4adffd792f9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000024/0000706129-26-000024-index.html",

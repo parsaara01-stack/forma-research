@@ -4,8 +4,8 @@
   "name": "HILLTOP HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 36.66,
-  "price_date": "2026-10-27",
+  "holding_price": 36.68,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001265131.json",
     "sha256": "b99ee376f26604742f5d329284b37fe88cc44c8a27bb21b92fa68f36786ff5ac",
-    "retrieved_at": "2026-10-27T13:27:08.160829+00:00",
+    "retrieved_at": "2026-10-30T14:25:41.659044+00:00",
     "raw_path": "data/raw/b99ee376f26604742f5d329284b37fe88cc44c8a27bb21b92fa68f36786ff5ac.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1265131/000110465926015264/0001104659-26-015264-index.html",

@@ -4,8 +4,8 @@
   "name": "GATX",
   "group": "Industrials",
   "weight_percent": 0.2,
-  "holding_price": 167.48,
-  "price_date": "2026-10-27",
+  "holding_price": 168.87,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000040211.json",
     "sha256": "a41f9372d00fb2987d7e201d28b644198d9d9593b1e6df4be15233cae1ef5c49",
-    "retrieved_at": "2026-10-27T13:24:36.954251+00:00",
+    "retrieved_at": "2026-10-30T14:23:07.206650+00:00",
     "raw_path": "data/raw/a41f9372d00fb2987d7e201d28b644198d9d9593b1e6df4be15233cae1ef5c49.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/40211/000004021126000018/0000040211-26-000018-index.html",

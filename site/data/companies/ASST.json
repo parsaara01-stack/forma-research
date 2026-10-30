@@ -4,8 +4,8 @@
   "name": "STRIVE INC CLASS A",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 27.14,
-  "price_date": "2026-10-27",
+  "holding_price": 27.53,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001920406.json",
     "sha256": "86c496fb2ce99ce83d869325f04b14a4898f5eef567a4d39188f45c155756e83",
-    "retrieved_at": "2026-10-27T13:26:17.883711+00:00",
+    "retrieved_at": "2026-10-30T14:25:00.552507+00:00",
     "raw_path": "data/raw/86c496fb2ce99ce83d869325f04b14a4898f5eef567a4d39188f45c155756e83.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026019879/0001628280-26-019879-index.html",

@@ -4,8 +4,8 @@
   "name": "LEGALZOOM COM",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 6.58,
-  "price_date": "2026-10-27",
+  "holding_price": 6.61,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001286139.json",
     "sha256": "4fcf60971fe9f345f57491a085f197fd05097d399990b3a27b571827efd09620",
-    "retrieved_at": "2026-10-27T13:28:15.539773+00:00",
+    "retrieved_at": "2026-10-30T14:27:00.730890+00:00",
     "raw_path": "data/raw/4fcf60971fe9f345f57491a085f197fd05097d399990b3a27b571827efd09620.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1286139/000128613926000012/0001286139-26-000012-index.html",

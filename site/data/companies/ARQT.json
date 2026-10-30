@@ -4,8 +4,8 @@
   "name": "ARCUTIS BIOTHERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.12,
-  "holding_price": 31.68,
-  "price_date": "2026-10-27",
+  "holding_price": 31.45,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001787306.json",
     "sha256": "e10fdeb472e3eb1460936c194c8109f22df3f8bd8bc987f00f57e5a3a517070f",
-    "retrieved_at": "2026-10-27T13:25:20.509251+00:00",
+    "retrieved_at": "2026-10-30T14:23:53.248976+00:00",
     "raw_path": "data/raw/e10fdeb472e3eb1460936c194c8109f22df3f8bd8bc987f00f57e5a3a517070f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000018/0001787306-26-000018-index.html",

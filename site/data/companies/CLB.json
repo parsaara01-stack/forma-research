@@ -4,8 +4,8 @@
   "name": "CORE LABORATORIES",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 10.33,
-  "price_date": "2026-10-27",
+  "holding_price": 10.49,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001958086.json",
-    "sha256": "ba2b01fc390cce29e7c921b0a556f847efd31e5d7ccf57eb654ce1539b63e2cf",
-    "retrieved_at": "2026-10-27T13:29:28.144838+00:00",
-    "raw_path": "data/raw/ba2b01fc390cce29e7c921b0a556f847efd31e5d7ccf57eb654ce1539b63e2cf.json.gz"
+    "sha256": "2724c4ce1e8690c1c224f5d16ceeeb550c17b755eef8c3361d005d75831a1890",
+    "retrieved_at": "2026-10-30T14:27:59.253164+00:00",
+    "raw_path": "data/raw/2724c4ce1e8690c1c224f5d16ceeeb550c17b755eef8c3361d005d75831a1890.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1958086/000119312526118177/0001193125-26-118177-index.html",
   "earnings": {

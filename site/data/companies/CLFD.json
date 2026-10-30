@@ -4,8 +4,8 @@
   "name": "CLEARFIELD INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 30.64,
-  "price_date": "2026-10-27",
+  "holding_price": 31.95,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000796505.json",
     "sha256": "18b5be317dd546fce0ab0f974ed9eca21788c8d13b4fbd1cad066e27a69d9a47",
-    "retrieved_at": "2026-10-27T13:30:28.070069+00:00",
+    "retrieved_at": "2026-10-30T14:28:53.445574+00:00",
     "raw_path": "data/raw/18b5be317dd546fce0ab0f974ed9eca21788c8d13b4fbd1cad066e27a69d9a47.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/796505/000117184325007594/0001171843-25-007594-index.html",

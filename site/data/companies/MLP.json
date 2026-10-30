@@ -4,8 +4,8 @@
   "name": "MAUI LAND AND PINEAPPLE INC",
   "group": "Real Estate",
   "weight_percent": 0.0,
-  "holding_price": 14.15,
-  "price_date": "2026-10-27",
+  "holding_price": 14.31,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063330.json",
     "sha256": "4240d6b8c2e0eef2ad73e6c5e60d350714d907dfee25de0401a9314d3026f070",
-    "retrieved_at": "2026-10-27T13:32:00.143534+00:00",
+    "retrieved_at": "2026-10-30T14:30:38.553666+00:00",
     "raw_path": "data/raw/4240d6b8c2e0eef2ad73e6c5e60d350714d907dfee25de0401a9314d3026f070.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/63330/000143774926010765/0001437749-26-010765-index.html",

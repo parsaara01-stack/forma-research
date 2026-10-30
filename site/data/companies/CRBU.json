@@ -4,8 +4,8 @@
   "name": "CARIBOU BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 0.46,
-  "price_date": "2026-10-27",
+  "holding_price": 0.49,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001619856.json",
     "sha256": "674cba4755e35dd8dffc48c6e0cce1da57694421900f490c9b675b483b710872",
-    "retrieved_at": "2026-10-27T13:32:21.382923+00:00",
+    "retrieved_at": "2026-10-30T14:30:59.644974+00:00",
     "raw_path": "data/raw/674cba4755e35dd8dffc48c6e0cce1da57694421900f490c9b675b483b710872.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1619856/000161985626000008/0001619856-26-000008-index.html",

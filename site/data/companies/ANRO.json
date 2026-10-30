@@ -1,11 +1,11 @@
 {
   "ticker": "ANRO",
   "source_ticker": "ANRO",
-  "name": "ALTO NEUROSCIENCE INC",
+  "name": "ALTO NEUROSCIENCE",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 23.19,
-  "price_date": "2026-10-27",
+  "holding_price": 23.33,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001999480.json",
     "sha256": "13ed8559d37fc496342cfe3c17d532f383f4d056c7ae86d3398968ac0fdb4744",
-    "retrieved_at": "2026-10-27T13:28:38.003427+00:00",
+    "retrieved_at": "2026-10-30T14:27:07.587179+00:00",
     "raw_path": "data/raw/13ed8559d37fc496342cfe3c17d532f383f4d056c7ae86d3398968ac0fdb4744.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1999480/000199948026000002/0001999480-26-000002-index.html",

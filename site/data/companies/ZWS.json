@@ -3,9 +3,9 @@
   "source_ticker": "ZWS",
   "name": "ZURN ELKAY WATER SOLUTIONS CORP",
   "group": "Industrials",
-  "weight_percent": 0.25,
-  "holding_price": 49.15,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.22,
+  "holding_price": 43.5,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001439288.json",
-    "sha256": "56f39ec45b3561f813e93e95c5041a24cc5c663767b3e012105979f363de368f",
-    "retrieved_at": "2026-10-27T13:24:25.975552+00:00",
-    "raw_path": "data/raw/56f39ec45b3561f813e93e95c5041a24cc5c663767b3e012105979f363de368f.json.gz"
+    "sha256": "2d5cd90533ee1fb0ff45609edc07f0a25113e95127727ec3d00b973e4b852050",
+    "retrieved_at": "2026-10-30T14:23:02.733662+00:00",
+    "raw_path": "data/raw/2d5cd90533ee1fb0ff45609edc07f0a25113e95127727ec3d00b973e4b852050.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1439288/000162828026006372/0001628280-26-006372-index.html",
   "earnings": {

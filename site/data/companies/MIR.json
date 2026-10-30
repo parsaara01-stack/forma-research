@@ -3,9 +3,9 @@
   "source_ticker": "MIR",
   "name": "MIRION TECHNOLOGIES CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.13,
-  "holding_price": 15.41,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.14,
+  "holding_price": 16.75,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001809987.json",
-    "sha256": "6cb1eff06525104e92f928e737c102d194ee04eb1dd62c6a1c46cc19b4dd3dc1",
-    "retrieved_at": "2026-10-27T13:25:19.763355+00:00",
-    "raw_path": "data/raw/6cb1eff06525104e92f928e737c102d194ee04eb1dd62c6a1c46cc19b4dd3dc1.json.gz"
+    "sha256": "0f7dc4ee6c83b9e4f4857c79229212f587a31a47eeedd460b8d81d885e882e07",
+    "retrieved_at": "2026-10-30T14:23:43.649248+00:00",
+    "raw_path": "data/raw/0f7dc4ee6c83b9e4f4857c79229212f587a31a47eeedd460b8d81d885e882e07.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026009869/0001628280-26-009869-index.html",
   "earnings": {

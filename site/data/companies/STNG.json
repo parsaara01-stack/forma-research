@@ -4,11 +4,11 @@
   "name": "SCORPIO TANKERS",
   "group": "Energy",
   "weight_percent": 0.13,
-  "holding_price": 85.33,
-  "price_date": "2026-10-27",
+  "holding_price": 88.72,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

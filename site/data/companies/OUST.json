@@ -4,8 +4,8 @@
   "name": "OUSTER",
   "group": "Information Technology",
   "weight_percent": 0.07,
-  "holding_price": 32.79,
-  "price_date": "2026-10-27",
+  "holding_price": 33.61,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001816581.json",
     "sha256": "0ecfaefa3a050d96f823e8223910fd26b5ee157c4a92633f83cdaee2331641e7",
-    "retrieved_at": "2026-10-27T13:26:30.918276+00:00",
+    "retrieved_at": "2026-10-30T14:24:50.167556+00:00",
     "raw_path": "data/raw/0ecfaefa3a050d96f823e8223910fd26b5ee157c4a92633f83cdaee2331641e7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1816581/000162828026013313/0001628280-26-013313-index.html",

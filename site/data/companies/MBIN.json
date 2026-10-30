@@ -4,8 +4,8 @@
   "name": "MERCHANTS BANCORP",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 49.72,
-  "price_date": "2026-10-27",
+  "holding_price": 49.13,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001629019.json",
     "sha256": "42dc2b70468471e2f6f7a1fb44672373c9ef951d636614f485f1e5c9f92e81dd",
-    "retrieved_at": "2026-10-27T13:27:23.428363+00:00",
+    "retrieved_at": "2026-10-30T14:25:56.802837+00:00",
     "raw_path": "data/raw/42dc2b70468471e2f6f7a1fb44672373c9ef951d636614f485f1e5c9f92e81dd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1629019/000110465926021549/0001104659-26-021549-index.html",

@@ -4,8 +4,8 @@
   "name": "LAUREATE EDUCATION",
   "group": "Consumer Discretionary",
   "weight_percent": 0.15,
-  "holding_price": 37.64,
-  "price_date": "2026-10-27",
+  "holding_price": 36.36,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912766.json",
-    "sha256": "b16b40f41a476c7331ea7488f76dc5b1748bcff58c8a9897da4b8892ff93c8ef",
-    "retrieved_at": "2026-10-27T13:24:50.958545+00:00",
-    "raw_path": "data/raw/b16b40f41a476c7331ea7488f76dc5b1748bcff58c8a9897da4b8892ff93c8ef.json.gz"
+    "sha256": "94d414bd2c6fddad0d34215d6e32cc74eb9e80a724ade834c06f3f27a51f0734",
+    "retrieved_at": "2026-10-30T14:23:31.459643+00:00",
+    "raw_path": "data/raw/94d414bd2c6fddad0d34215d6e32cc74eb9e80a724ade834c06f3f27a51f0734.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/912766/000162828026009479/0001628280-26-009479-index.html",
   "earnings": {

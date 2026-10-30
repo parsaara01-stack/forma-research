@@ -3,9 +3,9 @@
   "source_ticker": "ENS",
   "name": "ENERSYS",
   "group": "Industrials",
-  "weight_percent": 0.22,
-  "holding_price": 174.17,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.21,
+  "holding_price": 171.45,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001289308.json",
     "sha256": "3cb2af95344377d0dbf4379b817fa22403afe2707ed97d402ad3f32bcf38d3cf",
-    "retrieved_at": "2026-10-27T13:24:34.374503+00:00",
+    "retrieved_at": "2026-10-30T14:23:05.044847+00:00",
     "raw_path": "data/raw/3cb2af95344377d0dbf4379b817fa22403afe2707ed97d402ad3f32bcf38d3cf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1289308/000162828026036900/0001628280-26-036900-index.html",

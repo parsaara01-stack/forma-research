@@ -4,8 +4,8 @@
   "name": "IMMERSION CORP",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 7.2,
-  "price_date": "2026-10-27",
+  "holding_price": 7.23,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001058811.json",
     "sha256": "e814bf379d31a6f578b1bd7dcd50c6ed594e2fe05c2d9ef7e76ca3b77e554136",
-    "retrieved_at": "2026-10-27T13:31:00.418527+00:00",
+    "retrieved_at": "2026-10-30T14:29:37.366427+00:00",
     "raw_path": "data/raw/e814bf379d31a6f578b1bd7dcd50c6ed594e2fe05c2d9ef7e76ca3b77e554136.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1058811/000119312526316089/0001193125-26-316089-index.html",

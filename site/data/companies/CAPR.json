@@ -4,8 +4,8 @@
   "name": "CAPRICOR THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 6.1,
-  "price_date": "2026-10-27",
+  "holding_price": 6.23,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001133869.json",
     "sha256": "b9f947143784aa2a5b7cc0470638338f21bd5664475f1be49c554014f98dbf5c",
-    "retrieved_at": "2026-10-27T13:30:14.600205+00:00",
+    "retrieved_at": "2026-10-30T14:28:51.209542+00:00",
     "raw_path": "data/raw/b9f947143784aa2a5b7cc0470638338f21bd5664475f1be49c554014f98dbf5c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926029580/0001104659-26-029580-index.html",

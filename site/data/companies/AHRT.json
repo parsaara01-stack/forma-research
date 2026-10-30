@@ -4,8 +4,8 @@
   "name": "AH REALTY INC",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 6.09,
-  "price_date": "2026-10-27",
+  "holding_price": 6.04,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001569187.json",
     "sha256": "b2a085195d9ae1390827a2f5064bd1d845a53ddf5cfdb78a1bf28f30a674b3d4",
-    "retrieved_at": "2026-10-27T13:29:23.531371+00:00",
+    "retrieved_at": "2026-10-30T14:28:03.752673+00:00",
     "raw_path": "data/raw/b2a085195d9ae1390827a2f5064bd1d845a53ddf5cfdb78a1bf28f30a674b3d4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1569187/000156918726000019/0001569187-26-000019-index.html",

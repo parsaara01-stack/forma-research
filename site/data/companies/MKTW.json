@@ -4,8 +4,8 @@
   "name": "MARKETWISE INC CLASS A",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 19.7,
-  "price_date": "2026-10-27",
+  "holding_price": 20.18,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001805651.json",
     "sha256": "c1e5e54982d56e49f4366632a13ad79e12a008c4d9e375acdb6ef988e3fb51c8",
-    "retrieved_at": "2026-10-27T13:32:20.137369+00:00",
+    "retrieved_at": "2026-10-30T14:30:56.291147+00:00",
     "raw_path": "data/raw/c1e5e54982d56e49f4366632a13ad79e12a008c4d9e375acdb6ef988e3fb51c8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1805651/000180565126000016/0001805651-26-000016-index.html",

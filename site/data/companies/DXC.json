@@ -4,8 +4,8 @@
   "name": "DXC TECHNOLOGY",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 15.84,
-  "price_date": "2026-10-27",
+  "holding_price": 16.09,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001688568.json",
-    "sha256": "24347be5fed2a72ebc00f9d1573e010c7e2405759185196d521749f32143cb0b",
-    "retrieved_at": "2026-10-27T13:25:50.217683+00:00",
-    "raw_path": "data/raw/24347be5fed2a72ebc00f9d1573e010c7e2405759185196d521749f32143cb0b.json.gz"
+    "sha256": "0c149d2ce635cad61bf74f1f31f6d8630a314ec5b6a9c25fe4089305450fde4b",
+    "retrieved_at": "2026-10-30T14:24:24.814663+00:00",
+    "raw_path": "data/raw/0c149d2ce635cad61bf74f1f31f6d8630a314ec5b6a9c25fe4089305450fde4b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1688568/000168856826000022/0001688568-26-000022-index.html",
   "earnings": {

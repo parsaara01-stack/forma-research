@@ -4,11 +4,11 @@
   "name": "ELMET GROUP",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 22.58,
-  "price_date": "2026-10-27",
+  "holding_price": 23.62,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

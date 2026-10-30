@@ -4,8 +4,8 @@
   "name": "CURIOSITYSTREAM INC CLASS A",
   "group": "Communication",
   "weight_percent": 0.0,
-  "holding_price": 2.8,
-  "price_date": "2026-10-27",
+  "holding_price": 2.59,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001776909.json",
     "sha256": "b6a2b6daccd6b1c53afc3704c9fbda26811e7d4b7c7b5f972a97515ea8ffc803",
-    "retrieved_at": "2026-10-27T13:31:48.202768+00:00",
+    "retrieved_at": "2026-10-30T14:30:32.307423+00:00",
     "raw_path": "data/raw/b6a2b6daccd6b1c53afc3704c9fbda26811e7d4b7c7b5f972a97515ea8ffc803.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1776909/000162828026017346/0001628280-26-017346-index.html",

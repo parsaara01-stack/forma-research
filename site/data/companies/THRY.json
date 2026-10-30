@@ -4,8 +4,8 @@
   "name": "THRYV HOLDINGS INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 1.22,
-  "price_date": "2026-10-27",
+  "holding_price": 1.28,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001556739.json",
     "sha256": "350200a8fc7948b07910b0515a259edab9e4fac60caabde33f4c1bbffe282e84",
-    "retrieved_at": "2026-10-27T13:32:22.886266+00:00",
+    "retrieved_at": "2026-10-30T14:30:58.782598+00:00",
     "raw_path": "data/raw/350200a8fc7948b07910b0515a259edab9e4fac60caabde33f4c1bbffe282e84.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1556739/000155673926000013/0001556739-26-000013-index.html",

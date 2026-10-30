@@ -4,8 +4,8 @@
   "name": "EVOLV TECHNOLOGIES HOLDINGS CLASS",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 4.58,
-  "price_date": "2026-10-27",
+  "holding_price": 4.76,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001805385.json",
     "sha256": "df3360e1b56ddc69052ca0360ce58d3f190de86eb00eba5205d9c2b53c392085",
-    "retrieved_at": "2026-10-27T13:28:24.538346+00:00",
+    "retrieved_at": "2026-10-30T14:26:57.358863+00:00",
     "raw_path": "data/raw/df3360e1b56ddc69052ca0360ce58d3f190de86eb00eba5205d9c2b53c392085.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1805385/000180538526000012/0001805385-26-000012-index.html",

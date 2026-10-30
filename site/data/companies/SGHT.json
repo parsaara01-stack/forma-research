@@ -4,8 +4,8 @@
   "name": "SIGHT SCIENCES",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 9.03,
-  "price_date": "2026-10-27",
+  "holding_price": 9.24,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001531177.json",
     "sha256": "52997d6956e5a1e6e19f43b61419926554d9ee276ae892d10499b1041a7eb97c",
-    "retrieved_at": "2026-10-27T13:30:03.145143+00:00",
+    "retrieved_at": "2026-10-30T14:28:39.109484+00:00",
     "raw_path": "data/raw/52997d6956e5a1e6e19f43b61419926554d9ee276ae892d10499b1041a7eb97c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1531177/000119312526091558/0001193125-26-091558-index.html",

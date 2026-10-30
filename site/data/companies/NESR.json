@@ -4,8 +4,8 @@
   "name": "NATIONAL ENERGY SERVICES REUNITED",
   "group": "Energy",
   "weight_percent": 0.04,
-  "holding_price": 21.16,
-  "price_date": "2026-10-27",
+  "holding_price": 21.74,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001698514.json",
     "sha256": "52f0f7d167035857ec2fc922e0b30c956884a41b8aebbd8a790bfb2872858e11",
-    "retrieved_at": "2026-10-27T13:27:25.174614+00:00",
+    "retrieved_at": "2026-10-30T14:25:53.011694+00:00",
     "raw_path": "data/raw/52f0f7d167035857ec2fc922e0b30c956884a41b8aebbd8a790bfb2872858e11.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1698514/000149315226009139/0001493152-26-009139-index.html",

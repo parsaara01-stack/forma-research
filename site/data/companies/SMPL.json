@@ -4,8 +4,8 @@
   "name": "THE SIMPLY GOOD FOODS COMPANY",
   "group": "Consumer Staples",
   "weight_percent": 0.03,
-  "holding_price": 9.75,
-  "price_date": "2026-10-27",
+  "holding_price": 10.84,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001702744.json",
     "sha256": "8532d907f14b58bc7d5ec0af555d5acbcd36ff0529794bb9bfcbe61f95619640",
-    "retrieved_at": "2026-10-27T13:28:13.531140+00:00",
+    "retrieved_at": "2026-10-30T14:26:46.786222+00:00",
     "raw_path": "data/raw/8532d907f14b58bc7d5ec0af555d5acbcd36ff0529794bb9bfcbe61f95619640.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1702744/000170274426000031/0001702744-26-000031-index.html",

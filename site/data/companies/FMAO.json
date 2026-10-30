@@ -4,8 +4,8 @@
   "name": "FARMERS AND MERCHANTS BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 36.45,
-  "price_date": "2026-10-27",
+  "holding_price": 36.57,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,12 +151,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000792966.json",
-    "sha256": "c0defccf42cfa25e558bcd80f462f4c524733f9fe0a87489c34cdfd0083ae493",
-    "retrieved_at": "2026-10-27T13:29:13.216708+00:00",
-    "raw_path": "data/raw/c0defccf42cfa25e558bcd80f462f4c524733f9fe0a87489c34cdfd0083ae493.json.gz"
+    "sha256": "2c8cd4d106009af17bce3d6b031fed287ea9259f6cb6468dd319548fb3cc1799",
+    "retrieved_at": "2026-10-30T14:27:52.853542+00:00",
+    "raw_path": "data/raw/2c8cd4d106009af17bce3d6b031fed287ea9259f6cb6468dd319548fb3cc1799.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/792966/000119312526081475/0001193125-26-081475-index.html",
   "earnings": {

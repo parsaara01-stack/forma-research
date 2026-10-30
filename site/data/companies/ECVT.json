@@ -4,8 +4,8 @@
   "name": "ECOVYST",
   "group": "Materials",
   "weight_percent": 0.04,
-  "holding_price": 9.97,
-  "price_date": "2026-10-27",
+  "holding_price": 10.19,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001708035.json",
     "sha256": "a1bb68eaa78880c4ebf04e94841b129ea7800a1efc952baab660b5f416700668",
-    "retrieved_at": "2026-10-27T13:27:47.313508+00:00",
+    "retrieved_at": "2026-10-30T14:26:16.633663+00:00",
     "raw_path": "data/raw/a1bb68eaa78880c4ebf04e94841b129ea7800a1efc952baab660b5f416700668.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1708035/000170803526000053/0001708035-26-000053-index.html",

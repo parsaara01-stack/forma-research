@@ -4,8 +4,8 @@
   "name": "NOVOCURE",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 14.62,
-  "price_date": "2026-10-27",
+  "holding_price": 14.17,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001645113.json",
-    "sha256": "341f267dfdfd4e13271c12e8417a069d35bde3287b9036eee37c7d8e5e7e91f9",
-    "retrieved_at": "2026-10-27T13:27:01.069143+00:00",
-    "raw_path": "data/raw/341f267dfdfd4e13271c12e8417a069d35bde3287b9036eee37c7d8e5e7e91f9.json.gz"
+    "sha256": "4f7192c36c8f57033f82dd23140b56a761830350cc2cb051d5e4db69de3a8bf2",
+    "retrieved_at": "2026-10-30T14:25:39.718793+00:00",
+    "raw_path": "data/raw/4f7192c36c8f57033f82dd23140b56a761830350cc2cb051d5e4db69de3a8bf2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000017/0001645113-26-000017-index.html",
   "earnings": {

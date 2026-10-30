@@ -3,9 +3,9 @@
   "source_ticker": "RBBN",
   "name": "RIBBON COMMUNICATIONS",
   "group": "Information Technology",
-  "weight_percent": 0.0,
-  "holding_price": 1.4,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.01,
+  "holding_price": 1.63,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001708055.json",
-    "sha256": "b806563a765e6ba1eb40de7cb91e5f0262a05439245671cbba2576f59b05f90a",
-    "retrieved_at": "2026-10-27T13:31:46.378549+00:00",
-    "raw_path": "data/raw/b806563a765e6ba1eb40de7cb91e5f0262a05439245671cbba2576f59b05f90a.json.gz"
+    "sha256": "58c62539ce6b1f2f9fb3bc053cd6578bb3f4134a5aefbba5a17eaa2f3c7b716f",
+    "retrieved_at": "2026-10-30T14:30:13.341423+00:00",
+    "raw_path": "data/raw/58c62539ce6b1f2f9fb3bc053cd6578bb3f4134a5aefbba5a17eaa2f3c7b716f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1708055/000170805526000012/0001708055-26-000012-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "ABR",
   "name": "ARBOR REALTY TRUST REIT",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 2.88,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.02,
+  "holding_price": 2.95,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001253986.json",
-    "sha256": "90e87afdf6869ed20d7914ba6b4866fd1528cfe32df260ea75d3b415e99810f2",
-    "retrieved_at": "2026-10-27T13:29:30.696592+00:00",
-    "raw_path": "data/raw/90e87afdf6869ed20d7914ba6b4866fd1528cfe32df260ea75d3b415e99810f2.json.gz"
+    "sha256": "8010d5d59e518e0696560b576684a27a3950750fee0cad59dc8699092c108285",
+    "retrieved_at": "2026-10-30T14:28:10.503248+00:00",
+    "raw_path": "data/raw/8010d5d59e518e0696560b576684a27a3950750fee0cad59dc8699092c108285.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1253986/000125398626000019/0001253986-26-000019-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "ADAPTIVE BIOTECHNOLOGIES",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 27.66,
-  "price_date": "2026-10-27",
+  "holding_price": 28.37,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001478320.json",
     "sha256": "2deab3b0302b42f5bca7f049684da17a3e834dfbc3dbe128e51ed398b3d69a92",
-    "retrieved_at": "2026-10-27T13:25:07.699172+00:00",
+    "retrieved_at": "2026-10-30T14:23:27.536713+00:00",
     "raw_path": "data/raw/2deab3b0302b42f5bca7f049684da17a3e834dfbc3dbe128e51ed398b3d69a92.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1478320/000119312526076902/0001193125-26-076902-index.html",

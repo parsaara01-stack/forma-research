@@ -3,9 +3,9 @@
   "source_ticker": "SPSC",
   "name": "SPS COMMERCE",
   "group": "Information Technology",
-  "weight_percent": 0.11,
-  "holding_price": 86.24,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.1,
+  "holding_price": 85.59,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001092699.json",
-    "sha256": "c836a91aa42d9c6c3c38ebe9867e9b9f494bb7dc1f98635473d7a36facc1d55c",
-    "retrieved_at": "2026-10-27T13:25:25.713759+00:00",
-    "raw_path": "data/raw/c836a91aa42d9c6c3c38ebe9867e9b9f494bb7dc1f98635473d7a36facc1d55c.json.gz"
+    "sha256": "9ed8d9dd977d9b5f73745ccaa1eb526dbcd5cec789c962b1c5077ebbec6920ae",
+    "retrieved_at": "2026-10-30T14:24:07.628838+00:00",
+    "raw_path": "data/raw/9ed8d9dd977d9b5f73745ccaa1eb526dbcd5cec789c962b1c5077ebbec6920ae.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1092699/000109269926000012/0001092699-26-000012-index.html",
   "earnings": {

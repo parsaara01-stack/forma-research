@@ -4,8 +4,8 @@
   "name": "INDIVIOR PHARMACEUTICALS INC",
   "group": "Health Care",
   "weight_percent": 0.14,
-  "holding_price": 34.72,
-  "price_date": "2026-10-27",
+  "holding_price": 34.77,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,12 +343,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001625297.json",
-    "sha256": "624f228e5872dd6744664c7b0cb0d609339e94001927139882e8e7b85e1c1b6c",
-    "retrieved_at": "2026-10-27T13:25:06.302660+00:00",
-    "raw_path": "data/raw/624f228e5872dd6744664c7b0cb0d609339e94001927139882e8e7b85e1c1b6c.json.gz"
+    "sha256": "ec2462c0285c39d2adc4523803369b981938ccd6be590d2367e9866d3fad7a5e",
+    "retrieved_at": "2026-10-30T14:23:37.809436+00:00",
+    "raw_path": "data/raw/ec2462c0285c39d2adc4523803369b981938ccd6be590d2367e9866d3fad7a5e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1625297/000162828026012237/0001628280-26-012237-index.html",
   "earnings": {

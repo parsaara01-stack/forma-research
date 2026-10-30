@@ -4,8 +4,8 @@
   "name": "ESCO TECHNOLOGIES",
   "group": "Industrials",
   "weight_percent": 0.21,
-  "holding_price": 238.23,
-  "price_date": "2026-10-27",
+  "holding_price": 240.0,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000866706.json",
     "sha256": "f346db5eb3de3e733aa341198f61d5993f554fc528be215f9649b07c89d100d2",
-    "retrieved_at": "2026-10-27T13:24:33.902501+00:00",
+    "retrieved_at": "2026-10-30T14:23:04.541245+00:00",
     "raw_path": "data/raw/f346db5eb3de3e733aa341198f61d5993f554fc528be215f9649b07c89d100d2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/866706/000110465925117276/0001104659-25-117276-index.html",

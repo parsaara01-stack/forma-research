@@ -4,8 +4,8 @@
   "name": "SLIDE INSURANCE HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 28.39,
-  "price_date": "2026-10-27",
+  "holding_price": 27.19,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001886428.json",
-    "sha256": "9983e5e906189ecb4a7b2fc2c39eadd2b416670ba833b979e21dc702d2cdf6ac",
-    "retrieved_at": "2026-10-27T13:26:31.659180+00:00",
-    "raw_path": "data/raw/9983e5e906189ecb4a7b2fc2c39eadd2b416670ba833b979e21dc702d2cdf6ac.json.gz"
+    "sha256": "1ecfb157cddf7d9b961fc15b9c634fab498e65bc98b95921421371bf8c10b46b",
+    "retrieved_at": "2026-10-30T14:25:14.077933+00:00",
+    "raw_path": "data/raw/1ecfb157cddf7d9b961fc15b9c634fab498e65bc98b95921421371bf8c10b46b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1886428/000119312526083277/0001193125-26-083277-index.html",
   "earnings": {

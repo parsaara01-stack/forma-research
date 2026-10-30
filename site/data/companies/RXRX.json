@@ -4,8 +4,8 @@
   "name": "RECURSION PHARMACEUTICALS CLASS A",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 4.05,
-  "price_date": "2026-10-27",
+  "holding_price": 4.35,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601830.json",
     "sha256": "b016b41a28174b635cb851e1e96697b5ffbda42a0a8ce3df7df0c5ef499bd8b6",
-    "retrieved_at": "2026-10-27T13:26:36.928242+00:00",
+    "retrieved_at": "2026-10-30T14:24:50.528358+00:00",
     "raw_path": "data/raw/b016b41a28174b635cb851e1e96697b5ffbda42a0a8ce3df7df0c5ef499bd8b6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000039/0001601830-26-000039-index.html",

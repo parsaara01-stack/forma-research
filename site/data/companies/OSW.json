@@ -3,9 +3,9 @@
   "source_ticker": "OSW",
   "name": "ONESPAWORLD HOLDINGS LTD",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.08,
-  "holding_price": 24.95,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.09,
+  "holding_price": 28.07,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001758488.json",
-    "sha256": "267b76a5ae43b6fe144ffb8fcacbbe66824aaf5725519ee4034aab79fc9032a3",
-    "retrieved_at": "2026-10-27T13:26:04.280541+00:00",
-    "raw_path": "data/raw/267b76a5ae43b6fe144ffb8fcacbbe66824aaf5725519ee4034aab79fc9032a3.json.gz"
+    "sha256": "0b7c61323206de970ff9c1b743b477ed85475c05712353c34508c86a811252d5",
+    "retrieved_at": "2026-10-30T14:24:21.048254+00:00",
+    "raw_path": "data/raw/0b7c61323206de970ff9c1b743b477ed85475c05712353c34508c86a811252d5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526062456/0001193125-26-062456-index.html",
   "earnings": {

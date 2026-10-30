@@ -4,8 +4,8 @@
   "name": "KADANT INC",
   "group": "Industrials",
   "weight_percent": 0.11,
-  "holding_price": 268.41,
-  "price_date": "2026-10-27",
+  "holding_price": 265.8,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000886346.json",
     "sha256": "62b2da18cfd4c6006023be92958c7996136e0c65d8a83eb587eda3a165257920",
-    "retrieved_at": "2026-10-27T13:25:34.827727+00:00",
+    "retrieved_at": "2026-10-30T14:24:05.745733+00:00",
     "raw_path": "data/raw/62b2da18cfd4c6006023be92958c7996136e0c65d8a83eb587eda3a165257920.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/886346/000088634626000018/0000886346-26-000018-index.html",

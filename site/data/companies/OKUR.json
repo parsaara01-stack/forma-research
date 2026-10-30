@@ -4,8 +4,8 @@
   "name": "ONKURE THERAPEUTICS INC CLASS A",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 2.6,
-  "price_date": "2026-10-27",
+  "holding_price": 2.63,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001637715.json",
     "sha256": "ab599239a09de00af4c364ae8d2efaacdab40a29b1c6a3d8520289f7fad75481",
-    "retrieved_at": "2026-10-27T13:32:18.689082+00:00",
+    "retrieved_at": "2026-10-30T14:30:55.050104+00:00",
     "raw_path": "data/raw/ab599239a09de00af4c364ae8d2efaacdab40a29b1c6a3d8520289f7fad75481.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1637715/000119312526104147/0001193125-26-104147-index.html",

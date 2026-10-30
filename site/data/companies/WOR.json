@@ -4,8 +4,8 @@
   "name": "WORTHINGTON ENTERPRISES",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 63.4,
-  "price_date": "2026-10-27",
+  "holding_price": 63.58,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000108516.json",
     "sha256": "efb0250cad623a8e9c82d60b133ec276a185b70f0ec9bbb31fdf3b8eee446233",
-    "retrieved_at": "2026-10-27T13:26:30.283311+00:00",
+    "retrieved_at": "2026-10-30T14:25:05.320938+00:00",
     "raw_path": "data/raw/efb0250cad623a8e9c82d60b133ec276a185b70f0ec9bbb31fdf3b8eee446233.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526325872/0001193125-26-325872-index.html",

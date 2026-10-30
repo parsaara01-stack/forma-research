@@ -4,8 +4,8 @@
   "name": "ITRON",
   "group": "Information Technology",
   "weight_percent": 0.14,
-  "holding_price": 94.55,
-  "price_date": "2026-10-27",
+  "holding_price": 92.59,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,12 +343,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000780571.json",
-    "sha256": "d345776001a003e0f59c256be520d916728f9a316a66d97b7d560599e9ed2880",
-    "retrieved_at": "2026-10-27T13:25:12.184564+00:00",
-    "raw_path": "data/raw/d345776001a003e0f59c256be520d916728f9a316a66d97b7d560599e9ed2880.json.gz"
+    "sha256": "a204894b8bead0faeb34c2df3ea88da7d93b73d7149d6f79969feb683b513728",
+    "retrieved_at": "2026-10-30T14:23:42.436480+00:00",
+    "raw_path": "data/raw/a204894b8bead0faeb34c2df3ea88da7d93b73d7149d6f79969feb683b513728.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/780571/000078057126000033/0000780571-26-000033-index.html",
   "earnings": {

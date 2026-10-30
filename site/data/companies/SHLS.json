@@ -4,8 +4,8 @@
   "name": "SHOALS TECHNOLOGIES GROUP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 7.47,
-  "price_date": "2026-10-27",
+  "holding_price": 7.56,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001831651.json",
     "sha256": "718032d428a53a119fbac16c5b2ea53740f117f6f0fff0e1e0d2f94fc33dc0d8",
-    "retrieved_at": "2026-10-27T13:27:19.949178+00:00",
+    "retrieved_at": "2026-10-30T14:25:54.466719+00:00",
     "raw_path": "data/raw/718032d428a53a119fbac16c5b2ea53740f117f6f0fff0e1e0d2f94fc33dc0d8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1831651/000183165126000021/0001831651-26-000021-index.html",

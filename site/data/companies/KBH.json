@@ -3,9 +3,9 @@
   "source_ticker": "KBH",
   "name": "KB HOME",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.1,
-  "holding_price": 46.77,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.09,
+  "holding_price": 46.17,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000795266.json",
     "sha256": "97b2408cb06c65bba811409f034bf83a419c5be8a986aba35cfadfaf3147b238",
-    "retrieved_at": "2026-10-27T13:25:45.060028+00:00",
+    "retrieved_at": "2026-10-30T14:24:21.598813+00:00",
     "raw_path": "data/raw/97b2408cb06c65bba811409f034bf83a419c5be8a986aba35cfadfaf3147b238.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/795266/000079526626000017/0000795266-26-000017-index.html",

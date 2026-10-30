@@ -4,8 +4,8 @@
   "name": "US GOLD CORP",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 11.22,
-  "price_date": "2026-10-27",
+  "holding_price": 11.49,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027093.json",
     "sha256": "99ecebcdd82aa58e860d5cbddbbb38b938028f503707563e703e380cbe4dfce2",
-    "retrieved_at": "2026-10-27T13:31:33.071394+00:00",
+    "retrieved_at": "2026-10-30T14:30:08.501062+00:00",
     "raw_path": "data/raw/99ecebcdd82aa58e860d5cbddbbb38b938028f503707563e703e380cbe4dfce2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/27093/000149315226035188/0001493152-26-035188-index.html",

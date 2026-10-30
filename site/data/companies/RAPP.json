@@ -3,9 +3,9 @@
   "source_ticker": "RAPP",
   "name": "RAPPORT THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 27.54,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.02,
+  "holding_price": 22.5,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002012593.json",
-    "sha256": "c85599e790354d601ba4d1fe529289653292200857d79f1a88fcf306fd63be80",
-    "retrieved_at": "2026-10-27T13:28:22.826449+00:00",
-    "raw_path": "data/raw/c85599e790354d601ba4d1fe529289653292200857d79f1a88fcf306fd63be80.json.gz"
+    "sha256": "b5b87610cbbc03026b4f675f7a6c1ef40e785c8f17bac6bae29d770099bb2ea2",
+    "retrieved_at": "2026-10-30T14:27:20.361888+00:00",
+    "raw_path": "data/raw/b5b87610cbbc03026b4f675f7a6c1ef40e785c8f17bac6bae29d770099bb2ea2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526099360/0001193125-26-099360-index.html",
   "earnings": {

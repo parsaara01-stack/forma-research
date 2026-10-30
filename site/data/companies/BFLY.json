@@ -3,9 +3,9 @@
   "source_ticker": "BFLY",
   "name": "BUTTERFLY NETWORK CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.05,
-  "holding_price": 7.38,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.06,
+  "holding_price": 7.81,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001804176.json",
-    "sha256": "85c2693114ad166386246ed3aadc6dd67a98046774360e7fb541b14e9afd3221",
-    "retrieved_at": "2026-10-27T13:27:05.958153+00:00",
-    "raw_path": "data/raw/85c2693114ad166386246ed3aadc6dd67a98046774360e7fb541b14e9afd3221.json.gz"
+    "sha256": "0b9acdd3e70c66d756ba62e856d058f43c30dc817b1ac2a2a45c46c0ad7c1ea3",
+    "retrieved_at": "2026-10-30T14:25:24.019394+00:00",
+    "raw_path": "data/raw/0b9acdd3e70c66d756ba62e856d058f43c30dc817b1ac2a2a45c46c0ad7c1ea3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000009/0001804176-26-000009-index.html",
   "earnings": {

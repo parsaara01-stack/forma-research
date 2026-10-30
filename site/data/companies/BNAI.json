@@ -4,8 +4,8 @@
   "name": "BRAND ENGAGEMENT NETWORK INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 4.85,
-  "price_date": "2026-10-27",
+  "holding_price": 4.58,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838163.json",
     "sha256": "2885f0a7dd5c36bcc0c04eb136ac8c2a82d0ce66574e8e6bba3e633e23309625",
-    "retrieved_at": "2026-10-27T13:32:25.306248+00:00",
+    "retrieved_at": "2026-10-30T14:31:02.311357+00:00",
     "raw_path": "data/raw/2885f0a7dd5c36bcc0c04eb136ac8c2a82d0ce66574e8e6bba3e633e23309625.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226016954/0001493152-26-016954-index.html",

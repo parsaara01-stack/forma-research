@@ -3,9 +3,9 @@
   "source_ticker": "PSMT",
   "name": "PRICESMART",
   "group": "Consumer Staples",
-  "weight_percent": 0.15,
-  "holding_price": 166.49,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.14,
+  "holding_price": 161.46,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041803.json",
     "sha256": "c4bc382865daceedac30b4effb7cd3b4863d63e05753e565b8fa5601fda2ba29",
-    "retrieved_at": "2026-10-27T13:24:55.266649+00:00",
+    "retrieved_at": "2026-10-30T14:23:35.438268+00:00",
     "raw_path": "data/raw/c4bc382865daceedac30b4effb7cd3b4863d63e05753e565b8fa5601fda2ba29.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1041803/000104180326000039/0001041803-26-000039-index.html",

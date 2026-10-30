@@ -3,9 +3,9 @@
   "source_ticker": "MNKD",
   "name": "MANNKIND",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 3.29,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.04,
+  "holding_price": 3.43,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000899460.json",
     "sha256": "9e60e1dbc525d55e2835e43f90f53d225ddf4cef3e77b95b2429df8b145d4806",
-    "retrieved_at": "2026-10-27T13:27:54.366809+00:00",
+    "retrieved_at": "2026-10-30T14:26:20.806006+00:00",
     "raw_path": "data/raw/9e60e1dbc525d55e2835e43f90f53d225ddf4cef3e77b95b2429df8b145d4806.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/899460/000119312526073516/0001193125-26-073516-index.html",

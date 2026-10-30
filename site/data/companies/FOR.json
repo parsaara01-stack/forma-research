@@ -4,8 +4,8 @@
   "name": "FORESTAR GROUP INC",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 26.26,
-  "price_date": "2026-10-27",
+  "holding_price": 25.92,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406587.json",
     "sha256": "b6ac310e1b86842b778d43405413691cf76ffb4f816284c5bacd660d8f232219",
-    "retrieved_at": "2026-10-27T13:29:12.605824+00:00",
+    "retrieved_at": "2026-10-30T14:27:53.358779+00:00",
     "raw_path": "data/raw/b6ac310e1b86842b778d43405413691cf76ffb4f816284c5bacd660d8f232219.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1406587/000162828025053125/0001628280-25-053125-index.html",

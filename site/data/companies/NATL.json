@@ -3,9 +3,9 @@
   "source_ticker": "NATL",
   "name": "NCR ATLEOS",
   "group": "Financials",
-  "weight_percent": 0.12,
-  "holding_price": 46.44,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.11,
+  "holding_price": 45.29,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001974138.json",
     "sha256": "81759ad4cc11667ff8b909ce5911a18e18162d173cf7fb841d43247459561bd9",
-    "retrieved_at": "2026-10-27T13:25:22.823272+00:00",
+    "retrieved_at": "2026-10-30T14:23:57.958965+00:00",
     "raw_path": "data/raw/81759ad4cc11667ff8b909ce5911a18e18162d173cf7fb841d43247459561bd9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1974138/000162828026012576/0001628280-26-012576-index.html",

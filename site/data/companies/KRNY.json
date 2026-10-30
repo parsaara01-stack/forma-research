@@ -4,8 +4,8 @@
   "name": "KEARNY FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 9.26,
-  "price_date": "2026-10-27",
+  "holding_price": 9.22,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001617242.json",
     "sha256": "613f5be3d14a9784b6718d99a0867ce68e00239e84e534e44632c95a3b0f1ed0",
-    "retrieved_at": "2026-10-27T13:29:02.797388+00:00",
+    "retrieved_at": "2026-10-30T14:27:42.671003+00:00",
     "raw_path": "data/raw/613f5be3d14a9784b6718d99a0867ce68e00239e84e534e44632c95a3b0f1ed0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1617242/000161724226000020/0001617242-26-000020-index.html",

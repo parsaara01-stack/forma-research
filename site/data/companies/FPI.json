@@ -4,8 +4,8 @@
   "name": "FARMLAND PARTNERS INC",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 10.32,
-  "price_date": "2026-10-27",
+  "holding_price": 10.13,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001591670.json",
-    "sha256": "10ef968f5c76b1d2a9e1c740aca61281931461e2892cfff64251b41cdb36bf43",
-    "retrieved_at": "2026-10-27T13:29:36.654149+00:00",
-    "raw_path": "data/raw/10ef968f5c76b1d2a9e1c740aca61281931461e2892cfff64251b41cdb36bf43.json.gz"
+    "sha256": "56539e30289ea56a1070389fc639a3e80309d2978842c3526a48bdf7fe11224a",
+    "retrieved_at": "2026-10-30T14:28:18.901525+00:00",
+    "raw_path": "data/raw/56539e30289ea56a1070389fc639a3e80309d2978842c3526a48bdf7fe11224a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1591670/000110465926017533/0001104659-26-017533-index.html",
   "earnings": {

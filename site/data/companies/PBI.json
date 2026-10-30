@@ -4,8 +4,8 @@
   "name": "PITNEY BOWES",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 17.29,
-  "price_date": "2026-10-27",
+  "holding_price": 17.44,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000078814.json",
-    "sha256": "aa76407aa171efe6302fba30ed8486311a13d17b9102b43fb4c15a692065426e",
-    "retrieved_at": "2026-10-27T13:26:59.213834+00:00",
-    "raw_path": "data/raw/aa76407aa171efe6302fba30ed8486311a13d17b9102b43fb4c15a692065426e.json.gz"
+    "sha256": "e78e7e450d252fc576a1f3de490e931e63279fa22b70b5dab37963098c98adb6",
+    "retrieved_at": "2026-10-30T14:25:35.710331+00:00",
+    "raw_path": "data/raw/e78e7e450d252fc576a1f3de490e931e63279fa22b70b5dab37963098c98adb6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/78814/000162828026009650/0001628280-26-009650-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "KINIKSA PHARMACEUTICALS INTERNATIO",
   "group": "Health Care",
   "weight_percent": 0.14,
-  "holding_price": 89.2,
-  "price_date": "2026-10-27",
+  "holding_price": 95.18,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001730430.json",
-    "sha256": "7ac39126cd7aa650b0d16d10307687303dda905aa75dd8c219ce84c8d08b8668",
-    "retrieved_at": "2026-10-27T13:25:22.460993+00:00",
-    "raw_path": "data/raw/7ac39126cd7aa650b0d16d10307687303dda905aa75dd8c219ce84c8d08b8668.json.gz"
+    "sha256": "d18891ba51d888424f2c14bfd07a267c3767f8d0e28e8f4a88a1620616b46a4e",
+    "retrieved_at": "2026-10-30T14:23:32.605514+00:00",
+    "raw_path": "data/raw/d18891ba51d888424f2c14bfd07a267c3767f8d0e28e8f4a88a1620616b46a4e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1730430/000110465926019168/0001104659-26-019168-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "ORION GROUP INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 9.15,
-  "price_date": "2026-10-27",
+  "holding_price": 8.3,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001402829.json",
-    "sha256": "4b0271b2e91a2f2453e5a0f11eec0c71d892eb44b384dec8dc81548b06ea665d",
-    "retrieved_at": "2026-10-27T13:30:07.902666+00:00",
-    "raw_path": "data/raw/4b0271b2e91a2f2453e5a0f11eec0c71d892eb44b384dec8dc81548b06ea665d.json.gz"
+    "sha256": "2e20c09cf231db7da055eed500c5cfefa7ef02d32fecad96b3648ad9829b7a4a",
+    "retrieved_at": "2026-10-30T14:28:54.944740+00:00",
+    "raw_path": "data/raw/2e20c09cf231db7da055eed500c5cfefa7ef02d32fecad96b3648ad9829b7a4a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1402829/000140282926000011/0001402829-26-000011-index.html",
   "earnings": {

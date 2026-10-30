@@ -4,8 +4,8 @@
   "name": "SMITH MIDLAND CORP",
   "group": "Materials",
   "weight_percent": 0.0,
-  "holding_price": 21.26,
-  "price_date": "2026-10-27",
+  "holding_price": 21.49,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000924719.json",
     "sha256": "8071312d3a87137c3890340b3d9afdac73ac0212e6cde6f59df1784acc1b6cbd",
-    "retrieved_at": "2026-10-27T13:32:17.637890+00:00",
+    "retrieved_at": "2026-10-30T14:30:54.604155+00:00",
     "raw_path": "data/raw/8071312d3a87137c3890340b3d9afdac73ac0212e6cde6f59df1784acc1b6cbd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/924719/000165495426003505/0001654954-26-003505-index.html",

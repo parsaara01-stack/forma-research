@@ -4,8 +4,8 @@
   "name": "METALLUS INC",
   "group": "Materials",
   "weight_percent": 0.03,
-  "holding_price": 21.13,
-  "price_date": "2026-10-27",
+  "holding_price": 21.17,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001598428.json",
     "sha256": "e2c62972009c5e0f2ceb543f9b2c0bd7fb34eab591658faa76d9416e62f22df7",
-    "retrieved_at": "2026-10-27T13:28:32.027274+00:00",
+    "retrieved_at": "2026-10-30T14:27:04.699470+00:00",
     "raw_path": "data/raw/e2c62972009c5e0f2ceb543f9b2c0bd7fb34eab591658faa76d9416e62f22df7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1598428/000119312526061042/0001193125-26-061042-index.html",

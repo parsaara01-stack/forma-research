@@ -4,8 +4,8 @@
   "name": "FINWISE BANCORP",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 10.45,
-  "price_date": "2026-10-27",
+  "holding_price": 10.82,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001856365.json",
     "sha256": "5dc8865dfac81b30f9f7e1c01a27d4da06317b02c9a136b32889dae0cc6bbf94",
-    "retrieved_at": "2026-10-27T13:32:04.937118+00:00",
+    "retrieved_at": "2026-10-30T14:30:42.990845+00:00",
     "raw_path": "data/raw/5dc8865dfac81b30f9f7e1c01a27d4da06317b02c9a136b32889dae0cc6bbf94.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000006/0001856365-26-000006-index.html",

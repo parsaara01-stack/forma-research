@@ -3,9 +3,9 @@
   "source_ticker": "FSS",
   "name": "FEDERAL SIGNAL CORP",
   "group": "Industrials",
-  "weight_percent": 0.24,
-  "holding_price": 115.81,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.23,
+  "holding_price": 113.45,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000277509.json",
-    "sha256": "a4adc194f07327350d1e9735157ec91ff5dbdf57ec30f2025b58587f8b0ff75d",
-    "retrieved_at": "2026-10-27T13:24:29.188063+00:00",
-    "raw_path": "data/raw/a4adc194f07327350d1e9735157ec91ff5dbdf57ec30f2025b58587f8b0ff75d.json.gz"
+    "sha256": "f9fe07502f30c1e93539a16157a4a3a163d3a6280c31c85c4e981ef4e8edb0b3",
+    "retrieved_at": "2026-10-30T14:23:00.447639+00:00",
+    "raw_path": "data/raw/f9fe07502f30c1e93539a16157a4a3a163d3a6280c31c85c4e981ef4e8edb0b3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/277509/000162828026011576/0001628280-26-011576-index.html",
   "earnings": {

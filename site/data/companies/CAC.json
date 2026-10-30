@@ -4,8 +4,8 @@
   "name": "CAMDEN NATIONAL CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 57.54,
-  "price_date": "2026-10-27",
+  "holding_price": 58.29,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000750686.json",
     "sha256": "05f5b1fb33a942b79ebff22a5a1ea27627480edfd41936110e65a9bb7674ac62",
-    "retrieved_at": "2026-10-27T13:27:50.776786+00:00",
+    "retrieved_at": "2026-10-30T14:26:24.814465+00:00",
     "raw_path": "data/raw/05f5b1fb33a942b79ebff22a5a1ea27627480edfd41936110e65a9bb7674ac62.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/750686/000075068626000010/0000750686-26-000010-index.html",

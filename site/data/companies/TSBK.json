@@ -4,8 +4,8 @@
   "name": "TIMBERLAND BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 47.9,
-  "price_date": "2026-10-27",
+  "holding_price": 47.08,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001046050.json",
     "sha256": "1b5be829d0ff9a9a806602c3bfc043085c2a85e95df5ead1b8ce7e7bddf7babe",
-    "retrieved_at": "2026-10-27T13:29:59.498007+00:00",
+    "retrieved_at": "2026-10-30T14:28:40.090504+00:00",
     "raw_path": "data/raw/1b5be829d0ff9a9a806602c3bfc043085c2a85e95df5ead1b8ce7e7bddf7babe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1046050/000093905725000319/0000939057-25-000319-index.html",

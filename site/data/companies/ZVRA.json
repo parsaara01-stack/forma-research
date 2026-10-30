@@ -4,8 +4,8 @@
   "name": "ZEVRA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 10.06,
-  "price_date": "2026-10-27",
+  "holding_price": 10.31,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001434647.json",
     "sha256": "e6444155e299482d8e745cbcf52e94d14227a2668e6d953fd1eb25cffef79d18",
-    "retrieved_at": "2026-10-27T13:29:05.094421+00:00",
+    "retrieved_at": "2026-10-30T14:27:39.294084+00:00",
     "raw_path": "data/raw/e6444155e299482d8e745cbcf52e94d14227a2668e6d953fd1eb25cffef79d18.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1434647/000143464726000011/0001434647-26-000011-index.html",

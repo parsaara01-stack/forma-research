@@ -4,8 +4,8 @@
   "name": "MCGRATH RENT",
   "group": "Industrials",
   "weight_percent": 0.1,
-  "holding_price": 119.56,
-  "price_date": "2026-10-27",
+  "holding_price": 118.78,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000752714.json",
-    "sha256": "e50ad4350de21420b78b19e78f0826cb496120074f47775929e420284c80ca62",
-    "retrieved_at": "2026-10-27T13:25:42.831688+00:00",
-    "raw_path": "data/raw/e50ad4350de21420b78b19e78f0826cb496120074f47775929e420284c80ca62.json.gz"
+    "sha256": "6034fd1e51eca64c24fcd01e991b92209808b4c77d58d37e9458447ba59b5664",
+    "retrieved_at": "2026-10-30T14:24:17.369628+00:00",
+    "raw_path": "data/raw/6034fd1e51eca64c24fcd01e991b92209808b4c77d58d37e9458447ba59b5664.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/752714/000119312526071463/0001193125-26-071463-index.html",
   "earnings": {

@@ -4,11 +4,11 @@
   "name": "ONCE UPON A FARM PBC",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 16.08,
-  "price_date": "2026-10-27",
+  "holding_price": 16.25,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

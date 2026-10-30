@@ -3,9 +3,9 @@
   "source_ticker": "PACB",
   "name": "PACIFIC BIOSCIENCES OF CALIFORNIA",
   "group": "Health Care",
-  "weight_percent": 0.02,
-  "holding_price": 2.45,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.03,
+  "holding_price": 2.83,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001299130.json",
     "sha256": "7b172fa3ecdfe14ed783ae308e1ecf060ed1c8d9877d8ba12301ef372f8f695e",
-    "retrieved_at": "2026-10-27T13:28:59.528722+00:00",
+    "retrieved_at": "2026-10-30T14:26:55.817178+00:00",
     "raw_path": "data/raw/7b172fa3ecdfe14ed783ae308e1ecf060ed1c8d9877d8ba12301ef372f8f695e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1299130/000129913026000034/0001299130-26-000034-index.html",

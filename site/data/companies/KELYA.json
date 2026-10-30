@@ -4,8 +4,8 @@
   "name": "KELLY SERVICES INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 16.45,
-  "price_date": "2026-10-27",
+  "holding_price": 16.47,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000055135.json",
     "sha256": "8b40b85cf8ec33b3e0ea8fae68f843b38e6ab6e5481a61ecf4bd4cd4411bad4e",
-    "retrieved_at": "2026-10-27T13:29:20.647183+00:00",
+    "retrieved_at": "2026-10-30T14:28:02.971522+00:00",
     "raw_path": "data/raw/8b40b85cf8ec33b3e0ea8fae68f843b38e6ab6e5481a61ecf4bd4cd4411bad4e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/55135/000005513526000053/0000055135-26-000053-index.html",

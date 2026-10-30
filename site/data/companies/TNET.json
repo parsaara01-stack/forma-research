@@ -4,8 +4,8 @@
   "name": "TRINET GROUPINARY",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 71.62,
-  "price_date": "2026-10-27",
+  "holding_price": 70.41,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000937098.json",
-    "sha256": "518cebb3dabfabbd97d807e44abc74e88a27a0736e360b90153a98d7b71822a6",
-    "retrieved_at": "2026-10-27T13:26:21.024821+00:00",
-    "raw_path": "data/raw/518cebb3dabfabbd97d807e44abc74e88a27a0736e360b90153a98d7b71822a6.json.gz"
+    "sha256": "3a029911694b684dcee473a0b99024c4321a8a56dc7402501023799270c244bf",
+    "retrieved_at": "2026-10-30T14:25:05.045839+00:00",
+    "raw_path": "data/raw/3a029911694b684dcee473a0b99024c4321a8a56dc7402501023799270c244bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/937098/000093709826000010/0000937098-26-000010-index.html",
   "earnings": {

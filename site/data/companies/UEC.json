@@ -3,9 +3,9 @@
   "source_ticker": "UEC",
   "name": "URANIUM ENERGY",
   "group": "Energy",
-  "weight_percent": 0.13,
-  "holding_price": 8.04,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.14,
+  "holding_price": 8.34,
+  "price_date": "2026-10-28",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001334933.json",
     "sha256": "89c82bce1145762ae139ec6bc8cec63cfb1c3da0bdb1fdf54c11acbb93d61798",
-    "retrieved_at": "2026-10-27T13:25:18.375938+00:00",
+    "retrieved_at": "2026-10-30T14:23:39.392847+00:00",
     "raw_path": "data/raw/89c82bce1145762ae139ec6bc8cec63cfb1c3da0bdb1fdf54c11acbb93d61798.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1334933/000143774926031414/0001437749-26-031414-index.html",

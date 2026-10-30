@@ -4,8 +4,8 @@
   "name": "OIL DRI CORPORATION OF AMERICA",
   "group": "Consumer Staples",
   "weight_percent": 0.02,
-  "holding_price": 74.66,
-  "price_date": "2026-10-27",
+  "holding_price": 75.03,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000074046.json",
-    "sha256": "77b5614a39eb390e1cdbbd263182ddcb1aac7d8077adcae8c9ce64a55dc6a30c",
-    "retrieved_at": "2026-10-27T13:28:29.538037+00:00",
-    "raw_path": "data/raw/77b5614a39eb390e1cdbbd263182ddcb1aac7d8077adcae8c9ce64a55dc6a30c.json.gz"
+    "sha256": "37e81058c24d4fa87a59e81db851fad8706f49de5a8b4042c1b87cf21f80e545",
+    "retrieved_at": "2026-10-30T14:27:10.081596+00:00",
+    "raw_path": "data/raw/37e81058c24d4fa87a59e81db851fad8706f49de5a8b4042c1b87cf21f80e545.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065453/0001628280-26-065453-index.html",
   "earnings": {

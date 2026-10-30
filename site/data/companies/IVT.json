@@ -4,8 +4,8 @@
   "name": "INVENTRUST PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.08,
-  "holding_price": 30.33,
-  "price_date": "2026-10-27",
+  "holding_price": 30.08,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001307748.json",
-    "sha256": "4c73b8eaba6016db1b718328efe9338558a064c93d375b3f0007e3ba67f3e670",
-    "retrieved_at": "2026-10-27T13:26:10.432726+00:00",
-    "raw_path": "data/raw/4c73b8eaba6016db1b718328efe9338558a064c93d375b3f0007e3ba67f3e670.json.gz"
+    "sha256": "824bdf8373b4760dfa6aedff12249e08a4d5256177953c24cfa9608c879b026e",
+    "retrieved_at": "2026-10-30T14:24:47.816086+00:00",
+    "raw_path": "data/raw/824bdf8373b4760dfa6aedff12249e08a4d5256177953c24cfa9608c879b026e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1307748/000130774826000045/0001307748-26-000045-index.html",
   "earnings": {

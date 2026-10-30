@@ -4,8 +4,8 @@
   "name": "UNIVERSAL",
   "group": "Consumer Staples",
   "weight_percent": 0.03,
-  "holding_price": 39.56,
-  "price_date": "2026-10-27",
+  "holding_price": 39.55,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000102037.json",
     "sha256": "6c16c913e55bbba701cb1b3de6cb285dda453dd30c13a216b4737797804206db",
-    "retrieved_at": "2026-10-27T13:27:52.714696+00:00",
+    "retrieved_at": "2026-10-30T14:26:27.227105+00:00",
     "raw_path": "data/raw/6c16c913e55bbba701cb1b3de6cb285dda453dd30c13a216b4737797804206db.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/102037/000162828026039511/0001628280-26-039511-index.html",

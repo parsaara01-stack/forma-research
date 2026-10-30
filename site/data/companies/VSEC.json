@@ -4,8 +4,8 @@
   "name": "VSE CORP",
   "group": "Industrials",
   "weight_percent": 0.14,
-  "holding_price": 148.45,
-  "price_date": "2026-10-27",
+  "holding_price": 146.11,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000102752.json",
     "sha256": "ba8e79c4e2caf2b0e71f81903f6fc7bc46c4b9c28d65a407af512e8ec63b9c08",
-    "retrieved_at": "2026-10-27T13:25:08.819692+00:00",
+    "retrieved_at": "2026-10-30T14:23:40.126946+00:00",
     "raw_path": "data/raw/ba8e79c4e2caf2b0e71f81903f6fc7bc46c4b9c28d65a407af512e8ec63b9c08.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/102752/000010275226000015/0000102752-26-000015-index.html",

@@ -4,8 +4,8 @@
   "name": "ARROW FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 38.44,
-  "price_date": "2026-10-27",
+  "holding_price": 38.03,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000717538.json",
     "sha256": "696bbb04e0ae477baad1416d45a643d959c694b3616de8eb736104c9decbc2d6",
-    "retrieved_at": "2026-10-27T13:28:43.337651+00:00",
+    "retrieved_at": "2026-10-30T14:27:24.508997+00:00",
     "raw_path": "data/raw/696bbb04e0ae477baad1416d45a643d959c694b3616de8eb736104c9decbc2d6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/717538/000071753826000037/0000717538-26-000037-index.html",

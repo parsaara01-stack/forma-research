@@ -4,8 +4,8 @@
   "name": "UPBOUND GROUP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 16.95,
-  "price_date": "2026-10-27",
+  "holding_price": 16.91,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000933036.json",
-    "sha256": "a7cbe68c1a5b4da2cc0142a7464b1ba23aec88db8fd6ae48221c52266258aad3",
-    "retrieved_at": "2026-10-27T13:27:57.890391+00:00",
-    "raw_path": "data/raw/a7cbe68c1a5b4da2cc0142a7464b1ba23aec88db8fd6ae48221c52266258aad3.json.gz"
+    "sha256": "15f37ce8624c3fb40117d78cdfdd7e1116b35129f32d4c7e9279a42a84c3c5dc",
+    "retrieved_at": "2026-10-30T14:26:33.938862+00:00",
+    "raw_path": "data/raw/15f37ce8624c3fb40117d78cdfdd7e1116b35129f32d4c7e9279a42a84c3c5dc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/933036/000093303626000008/0000933036-26-000008-index.html",
   "earnings": {

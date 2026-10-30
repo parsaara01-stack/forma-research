@@ -4,8 +4,8 @@
   "name": "MONARCH CASINO AND RESORT",
   "group": "Consumer Discretionary",
   "weight_percent": 0.05,
-  "holding_price": 115.28,
-  "price_date": "2026-10-27",
+  "holding_price": 112.26,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000907242.json",
     "sha256": "14e945999cff8a0a4962b037cbf2f1cd8a509c31e4bd6011871b0ce666197bf8",
-    "retrieved_at": "2026-10-27T13:27:14.112530+00:00",
+    "retrieved_at": "2026-10-30T14:25:50.811512+00:00",
     "raw_path": "data/raw/14e945999cff8a0a4962b037cbf2f1cd8a509c31e4bd6011871b0ce666197bf8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/907242/000110465926018717/0001104659-26-018717-index.html",

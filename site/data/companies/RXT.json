@@ -4,8 +4,8 @@
   "name": "RACKSPACE TECHNOLOGY INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 2.87,
-  "price_date": "2026-10-27",
+  "holding_price": 2.89,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001810019.json",
     "sha256": "12965e94b85a877207f0e853335d8e1bda9013bf738ebf5961a895c65ebe3b76",
-    "retrieved_at": "2026-10-27T13:30:13.246443+00:00",
+    "retrieved_at": "2026-10-30T14:28:51.923063+00:00",
     "raw_path": "data/raw/12965e94b85a877207f0e853335d8e1bda9013bf738ebf5961a895c65ebe3b76.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1810019/000181001926000015/0001810019-26-000015-index.html",

@@ -3,9 +3,9 @@
   "source_ticker": "COMP",
   "name": "COMPASS INC CLASS A",
   "group": "Real Estate",
-  "weight_percent": 0.24,
-  "holding_price": 9.73,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.22,
+  "holding_price": 9.17,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001563190.json",
     "sha256": "770545ce47f01dcaddb2df911c9be750497bc947ea21b3b0e957219cedd5cb01",
-    "retrieved_at": "2026-10-27T13:24:26.527533+00:00",
+    "retrieved_at": "2026-10-30T14:23:01.615381+00:00",
     "raw_path": "data/raw/770545ce47f01dcaddb2df911c9be750497bc947ea21b3b0e957219cedd5cb01.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000057/0001563190-26-000057-index.html",

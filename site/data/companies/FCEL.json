@@ -4,8 +4,8 @@
   "name": "FUELCELL ENERGY INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 12.18,
-  "price_date": "2026-10-27",
+  "holding_price": 12.38,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000886128.json",
     "sha256": "fd3997da1474791e9787ed8a6e99cc33d09f4089fbd0e55abe3d46e75f679896",
-    "retrieved_at": "2026-10-27T13:29:00.256423+00:00",
+    "retrieved_at": "2026-10-30T14:27:25.441047+00:00",
     "raw_path": "data/raw/fd3997da1474791e9787ed8a6e99cc33d09f4089fbd0e55abe3d46e75f679896.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/886128/000110465925122302/0001104659-25-122302-index.html",

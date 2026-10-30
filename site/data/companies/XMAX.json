@@ -4,8 +4,8 @@
   "name": "XMAX INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 8.45,
-  "price_date": "2026-10-27",
+  "holding_price": 8.17,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001473334.json",
     "sha256": "204bd86aae97fc8e0d799483199c001dd0c83582b14335f7a216d10466a9ae08",
-    "retrieved_at": "2026-10-27T13:29:12.455481+00:00",
+    "retrieved_at": "2026-10-30T14:27:58.643929+00:00",
     "raw_path": "data/raw/204bd86aae97fc8e0d799483199c001dd0c83582b14335f7a216d10466a9ae08.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226016828/0001493152-26-016828-index.html",

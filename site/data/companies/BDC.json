@@ -4,8 +4,8 @@
   "name": "BELDEN",
   "group": "Information Technology",
   "weight_percent": 0.14,
-  "holding_price": 107.48,
-  "price_date": "2026-10-27",
+  "holding_price": 106.66,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913142.json",
-    "sha256": "eeaef9f9a371e79c170fd5471739f8ef8562f73d72289773fa08fd666b4c0550",
-    "retrieved_at": "2026-10-27T13:25:06.615102+00:00",
-    "raw_path": "data/raw/eeaef9f9a371e79c170fd5471739f8ef8562f73d72289773fa08fd666b4c0550.json.gz"
+    "sha256": "623c1d96464e5cf8dc4c32babaa4f619b9ed4af9e73031691c6b51296fe3c368",
+    "retrieved_at": "2026-10-30T14:23:36.586492+00:00",
+    "raw_path": "data/raw/623c1d96464e5cf8dc4c32babaa4f619b9ed4af9e73031691c6b51296fe3c368.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/913142/000091314226000009/0000913142-26-000009-index.html",
   "earnings": {

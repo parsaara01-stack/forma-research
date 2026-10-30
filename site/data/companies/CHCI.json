@@ -4,8 +4,8 @@
   "name": "COMSTOCK HOLDING COMPANIES INC CLA",
   "group": "Real Estate",
   "weight_percent": 0.0,
-  "holding_price": 18.02,
-  "price_date": "2026-10-27",
+  "holding_price": 18.18,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001299969.json",
     "sha256": "8ee7f83d43d2ec08f7feac00675aa434dbc9be6a9c693f7dc991326a83ff6b66",
-    "retrieved_at": "2026-10-27T13:32:19.707306+00:00",
+    "retrieved_at": "2026-10-30T14:30:56.053942+00:00",
     "raw_path": "data/raw/8ee7f83d43d2ec08f7feac00675aa434dbc9be6a9c693f7dc991326a83ff6b66.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1299969/000162828026018409/0001628280-26-018409-index.html",

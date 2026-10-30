@@ -4,8 +4,8 @@
   "name": "ZURA BIO LTD CLASS A",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 4.27,
-  "price_date": "2026-10-27",
+  "holding_price": 4.35,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001855644.json",
-    "sha256": "242cd6dbfa1b5d33beb6dc7c76d38e193f3db31596f1c2747a159714e2a6f7c8",
-    "retrieved_at": "2026-10-27T13:31:10.330731+00:00",
-    "raw_path": "data/raw/242cd6dbfa1b5d33beb6dc7c76d38e193f3db31596f1c2747a159714e2a6f7c8.json.gz"
+    "sha256": "69dd86a9dc17d7d3441d8a331811196a487e9cde54da5e3915c793d3bbddaf86",
+    "retrieved_at": "2026-10-30T14:29:21.786063+00:00",
+    "raw_path": "data/raw/69dd86a9dc17d7d3441d8a331811196a487e9cde54da5e3915c793d3bbddaf86.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1855644/000110465926032080/0001104659-26-032080-index.html",
   "earnings": {

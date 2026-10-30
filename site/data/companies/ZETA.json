@@ -4,8 +4,8 @@
   "name": "ZETA GLOBAL HOLDINGS CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.25,
-  "holding_price": 33.35,
-  "price_date": "2026-10-27",
+  "holding_price": 33.45,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001851003.json",
     "sha256": "0bcc02f051ad9511ca72bfa19d0edf31d0b2733cd73345f8fb299371698fef5a",
-    "retrieved_at": "2026-10-27T13:24:24.914970+00:00",
+    "retrieved_at": "2026-10-30T14:22:56.674592+00:00",
     "raw_path": "data/raw/0bcc02f051ad9511ca72bfa19d0edf31d0b2733cd73345f8fb299371698fef5a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1851003/000119312526068598/0001193125-26-068598-index.html",

@@ -4,8 +4,8 @@
   "name": "PHATHOM PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 5.99,
-  "price_date": "2026-10-27",
+  "holding_price": 6.28,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001783183.json",
-    "sha256": "26bfe2e85afde6de536ba88f43ea8f79b7ecadeccce68c94eb94517495ac64c7",
-    "retrieved_at": "2026-10-27T13:30:29.473950+00:00",
-    "raw_path": "data/raw/26bfe2e85afde6de536ba88f43ea8f79b7ecadeccce68c94eb94517495ac64c7.json.gz"
+    "sha256": "720f4cacd248314e3cb1b80f694b31806c42769dea9ad07788dcbba5a12f8a2c",
+    "retrieved_at": "2026-10-30T14:29:00.243922+00:00",
+    "raw_path": "data/raw/720f4cacd248314e3cb1b80f694b31806c42769dea9ad07788dcbba5a12f8a2c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1783183/000119312526073379/0001193125-26-073379-index.html",
   "earnings": {

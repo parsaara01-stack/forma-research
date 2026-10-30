@@ -4,8 +4,8 @@
   "name": "DEL MONTE",
   "group": "Consumer Staples",
   "weight_percent": 0.03,
-  "holding_price": 28.63,
-  "price_date": "2026-10-27",
+  "holding_price": 29.0,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001047340.json",
-    "sha256": "c09e2826f6e6443ced7d2a6a4a21ebb55b8c3abe803b38e69360a0c84ebcdc56",
-    "retrieved_at": "2026-10-27T13:27:56.917933+00:00",
-    "raw_path": "data/raw/c09e2826f6e6443ced7d2a6a4a21ebb55b8c3abe803b38e69360a0c84ebcdc56.json.gz"
+    "sha256": "f089e477eafd39614fdba393d6565641d39eaf9a6fbdb3ecf57213d9842d7725",
+    "retrieved_at": "2026-10-30T14:26:35.451190+00:00",
+    "raw_path": "data/raw/f089e477eafd39614fdba393d6565641d39eaf9a6fbdb3ecf57213d9842d7725.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1047340/000104734026000015/0001047340-26-000015-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "ONE GAS",
   "group": "Utilities",
   "weight_percent": 0.17,
-  "holding_price": 78.42,
-  "price_date": "2026-10-27",
+  "holding_price": 77.46,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001587732.json",
     "sha256": "8dec5ed192954069c5f167c9f4b41a7af2a4dc5a82bb93a71379feefc3b78ad2",
-    "retrieved_at": "2026-10-27T13:24:45.704763+00:00",
+    "retrieved_at": "2026-10-30T14:23:19.704505+00:00",
     "raw_path": "data/raw/8dec5ed192954069c5f167c9f4b41a7af2a4dc5a82bb93a71379feefc3b78ad2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1587732/000158773226000009/0001587732-26-000009-index.html",

@@ -4,8 +4,8 @@
   "name": "BIGBEAR.AI HOLDINGS",
   "group": "Information Technology",
   "weight_percent": 0.04,
-  "holding_price": 2.35,
-  "price_date": "2026-10-27",
+  "holding_price": 2.46,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001836981.json",
-    "sha256": "e69f0811475624d9b60a6e71a72c220c8c85d2201e294e4fbafe80d3cb6f6124",
-    "retrieved_at": "2026-10-27T13:27:47.571527+00:00",
-    "raw_path": "data/raw/e69f0811475624d9b60a6e71a72c220c8c85d2201e294e4fbafe80d3cb6f6124.json.gz"
+    "sha256": "11f148d6ab35b22565e699616f74b3b6a7cf8dee48cda1cebda85fb9e89ede25",
+    "retrieved_at": "2026-10-30T14:26:06.601878+00:00",
+    "raw_path": "data/raw/11f148d6ab35b22565e699616f74b3b6a7cf8dee48cda1cebda85fb9e89ede25.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/0001836981-26-000018-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "CURBLINE PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.1,
-  "holding_price": 28.22,
-  "price_date": "2026-10-27",
+  "holding_price": 28.05,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002027317.json",
     "sha256": "f31e680787ba0fad038abd4c811ce787ca265505ff7445b7ef0969ed2caded0c",
-    "retrieved_at": "2026-10-27T13:25:37.916518+00:00",
+    "retrieved_at": "2026-10-30T14:24:14.893093+00:00",
     "raw_path": "data/raw/f31e680787ba0fad038abd4c811ce787ca265505ff7445b7ef0969ed2caded0c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2027317/000119312526043647/0001193125-26-043647-index.html",

@@ -4,11 +4,11 @@
   "name": "HAWKEYE INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 13.52,
-  "price_date": "2026-10-27",
+  "holding_price": 13.27,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-10-27"
+  "refresh_error": "No supported annual facts by 2026-10-30"
 }

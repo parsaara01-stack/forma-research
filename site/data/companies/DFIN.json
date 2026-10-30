@@ -4,8 +4,8 @@
   "name": "DONNELLEY FINANCIAL SOLUTIONS",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 53.46,
-  "price_date": "2026-10-27",
+  "holding_price": 53.12,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001669811.json",
-    "sha256": "cefa03272130c196d961324a1307a93108147f2ebf6be90928d5035ea4e4c830",
-    "retrieved_at": "2026-10-27T13:27:17.669062+00:00",
-    "raw_path": "data/raw/cefa03272130c196d961324a1307a93108147f2ebf6be90928d5035ea4e4c830.json.gz"
+    "sha256": "34557c0d25ba55ea78856ce51a237a081b112bf843e8675245151c9119bbf518",
+    "retrieved_at": "2026-10-30T14:25:56.938040+00:00",
+    "raw_path": "data/raw/34557c0d25ba55ea78856ce51a237a081b112bf843e8675245151c9119bbf518.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1669811/000119312526054586/0001193125-26-054586-index.html",
   "earnings": {

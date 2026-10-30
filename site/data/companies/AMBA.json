@@ -3,9 +3,9 @@
   "source_ticker": "AMBA",
   "name": "AMBARELLA",
   "group": "Information Technology",
-  "weight_percent": 0.1,
-  "holding_price": 67.12,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.09,
+  "holding_price": 66.27,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001280263.json",
     "sha256": "1ec9a6f069a7cb041f1651cfd792fbf4ff885c154527bf2e35e3515e5d332655",
-    "retrieved_at": "2026-10-27T13:25:46.546318+00:00",
+    "retrieved_at": "2026-10-30T14:24:21.314177+00:00",
     "raw_path": "data/raw/1ec9a6f069a7cb041f1651cfd792fbf4ff885c154527bf2e35e3515e5d332655.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1280263/000119312526119321/0001193125-26-119321-index.html",

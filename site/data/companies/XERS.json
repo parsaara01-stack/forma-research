@@ -4,8 +4,8 @@
   "name": "XERIS BIOPHARMA HOLDINGS",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 10.45,
-  "price_date": "2026-10-27",
+  "holding_price": 10.64,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001867096.json",
     "sha256": "a82bc6c68d522af16d0a90951a4c3b7347e59e7d5c2ae270c5647e888d58673f",
-    "retrieved_at": "2026-10-27T13:26:49.539245+00:00",
+    "retrieved_at": "2026-10-30T14:25:17.960356+00:00",
     "raw_path": "data/raw/a82bc6c68d522af16d0a90951a4c3b7347e59e7d5c2ae270c5647e888d58673f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000016/0001867096-26-000016-index.html",

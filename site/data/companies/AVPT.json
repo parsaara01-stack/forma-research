@@ -3,9 +3,9 @@
   "source_ticker": "AVPT",
   "name": "AVEPOINT CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 16.46,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.1,
+  "holding_price": 17.2,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001777921.json",
     "sha256": "0f026fc239f4abc0335ecf8e030353ac2cd1e50398f83026bf8180dedb3f99f7",
-    "retrieved_at": "2026-10-27T13:25:49.626046+00:00",
+    "retrieved_at": "2026-10-30T14:24:20.664141+00:00",
     "raw_path": "data/raw/0f026fc239f4abc0335ecf8e030353ac2cd1e50398f83026bf8180dedb3f99f7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1777921/000143774926005907/0001437749-26-005907-index.html",

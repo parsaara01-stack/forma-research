@@ -4,8 +4,8 @@
   "name": "IMMUNITYBIO",
   "group": "Health Care",
   "weight_percent": 0.11,
-  "holding_price": 8.63,
-  "price_date": "2026-10-27",
+  "holding_price": 8.81,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326110.json",
     "sha256": "d59606b59d6c96ee6b6e8c010479393fd4be764b67f4119ef70d3cefa5bfbc2d",
-    "retrieved_at": "2026-10-27T13:25:33.698351+00:00",
+    "retrieved_at": "2026-10-30T14:23:57.759688+00:00",
     "raw_path": "data/raw/d59606b59d6c96ee6b6e8c010479393fd4be764b67f4119ef70d3cefa5bfbc2d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000030/0001326110-26-000030-index.html",

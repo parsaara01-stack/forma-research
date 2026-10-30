@@ -4,8 +4,8 @@
   "name": "FINANCIAL INSTITUTIONS INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 40.8,
-  "price_date": "2026-10-27",
+  "holding_price": 40.77,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000862831.json",
     "sha256": "7e6f584598e071526dea29813636f3a44d5bc69859cae94c25da2b3174410f3b",
-    "retrieved_at": "2026-10-27T13:28:13.620235+00:00",
+    "retrieved_at": "2026-10-30T14:26:50.953599+00:00",
     "raw_path": "data/raw/7e6f584598e071526dea29813636f3a44d5bc69859cae94c25da2b3174410f3b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/862831/000119312526098467/0001193125-26-098467-index.html",

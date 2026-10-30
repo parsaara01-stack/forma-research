@@ -4,8 +4,8 @@
   "name": "PALOMAR HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 134.06,
-  "price_date": "2026-10-27",
+  "holding_price": 136.44,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001761312.json",
     "sha256": "25cb21b0934dde27a0da68a75ad1e51178e03dfe085f2143407513d8cf968c97",
-    "retrieved_at": "2026-10-27T13:25:15.384014+00:00",
+    "retrieved_at": "2026-10-30T14:23:52.229886+00:00",
     "raw_path": "data/raw/25cb21b0934dde27a0da68a75ad1e51178e03dfe085f2143407513d8cf968c97.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1761312/000119312526067364/0001193125-26-067364-index.html",

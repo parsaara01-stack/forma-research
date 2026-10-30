@@ -4,8 +4,8 @@
   "name": "NEWSMAX CLASS B",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 7.98,
-  "price_date": "2026-10-27",
+  "holding_price": 8.07,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002026478.json",
     "sha256": "37d7f6ea64949d9a90796e1d757940d65dbc494228b1f8c98cf32c188c2aa6f2",
-    "retrieved_at": "2026-10-27T13:29:51.350341+00:00",
+    "retrieved_at": "2026-10-30T14:28:30.712918+00:00",
     "raw_path": "data/raw/37d7f6ea64949d9a90796e1d757940d65dbc494228b1f8c98cf32c188c2aa6f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000026/0002026478-26-000026-index.html",

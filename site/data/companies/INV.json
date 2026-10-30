@@ -4,8 +4,8 @@
   "name": "INNVENTURE INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 0.3,
-  "price_date": "2026-10-27",
+  "holding_price": 0.31,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002001557.json",
     "sha256": "5eab9c8a624c4d78e630d069142df866425dc4dd6c006085728ab1e95281b33d",
-    "retrieved_at": "2026-10-27T13:32:29.504104+00:00",
+    "retrieved_at": "2026-10-30T14:31:07.247044+00:00",
     "raw_path": "data/raw/5eab9c8a624c4d78e630d069142df866425dc4dd6c006085728ab1e95281b33d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000060/0002001557-26-000060-index.html",

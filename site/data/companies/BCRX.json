@@ -4,8 +4,8 @@
   "name": "BIOCRYST PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 8.1,
-  "price_date": "2026-10-27",
+  "holding_price": 8.37,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000882796.json",
     "sha256": "64fec42b290a9661564adfbe60f6de7df3ea9fe9bff3ac7d73b79819a05c52a5",
-    "retrieved_at": "2026-10-27T13:26:51.388627+00:00",
+    "retrieved_at": "2026-10-30T14:25:13.793761+00:00",
     "raw_path": "data/raw/64fec42b290a9661564adfbe60f6de7df3ea9fe9bff3ac7d73b79819a05c52a5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/882796/000162828026012240/0001628280-26-012240-index.html",

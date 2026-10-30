@@ -4,8 +4,8 @@
   "name": "ALLIENT INC",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 94.04,
-  "price_date": "2026-10-27",
+  "holding_price": 96.26,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000046129.json",
     "sha256": "bb1cb61827ece7fe06d9be734b061b92aa136049e8234d5d7ee4d4e9dddf4eeb",
-    "retrieved_at": "2026-10-27T13:27:21.555611+00:00",
+    "retrieved_at": "2026-10-30T14:25:46.137114+00:00",
     "raw_path": "data/raw/bb1cb61827ece7fe06d9be734b061b92aa136049e8234d5d7ee4d4e9dddf4eeb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/46129/000110465926024123/0001104659-26-024123-index.html",

@@ -4,8 +4,8 @@
   "name": "INFLEQTION INC",
   "group": "Information Technology",
   "weight_percent": 0.04,
-  "holding_price": 9.74,
-  "price_date": "2026-10-27",
+  "holding_price": 9.63,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002007825.json",
     "sha256": "5669193fd1297b5caeacdaf7b8ed5e1910b003ea55e397a827f9e15e78e3b62b",
-    "retrieved_at": "2026-10-27T13:28:00.048701+00:00",
+    "retrieved_at": "2026-10-30T14:26:22.295158+00:00",
     "raw_path": "data/raw/5669193fd1297b5caeacdaf7b8ed5e1910b003ea55e397a827f9e15e78e3b62b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2007825/000119312526134544/0001193125-26-134544-index.html",

@@ -4,8 +4,8 @@
   "name": "MAZE THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 31.69,
-  "price_date": "2026-10-27",
+  "holding_price": 31.73,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001842295.json",
     "sha256": "3061b318e1f4276f7479a20449e89453767c45848090fda46f23f74ba1f67514",
-    "retrieved_at": "2026-10-27T13:27:42.098518+00:00",
+    "retrieved_at": "2026-10-30T14:26:16.051082+00:00",
     "raw_path": "data/raw/3061b318e1f4276f7479a20449e89453767c45848090fda46f23f74ba1f67514.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1842295/000119312526122778/0001193125-26-122778-index.html",

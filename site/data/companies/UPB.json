@@ -4,8 +4,8 @@
   "name": "UPSTREAM BIO",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 2.79,
-  "price_date": "2026-10-27",
+  "holding_price": 2.98,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002022626.json",
     "sha256": "31b5ccd8103c81cba30303b845c7f82119c5e5cabe61a9a8518722d181121bd3",
-    "retrieved_at": "2026-10-27T13:32:01.898904+00:00",
+    "retrieved_at": "2026-10-30T14:30:36.479585+00:00",
     "raw_path": "data/raw/31b5ccd8103c81cba30303b845c7f82119c5e5cabe61a9a8518722d181121bd3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2022626/000119312526126188/0001193125-26-126188-index.html",

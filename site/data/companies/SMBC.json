@@ -3,9 +3,9 @@
   "source_ticker": "SMBC",
   "name": "SOUTHERN MISSOURI BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.03,
-  "holding_price": 72.3,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.02,
+  "holding_price": 72.02,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000916907.json",
     "sha256": "82073c70d598f17793ae5137e2e54f4bdb035079aeeba59601f7042b0123d79e",
-    "retrieved_at": "2026-10-27T13:28:31.669155+00:00",
+    "retrieved_at": "2026-10-30T14:27:08.588562+00:00",
     "raw_path": "data/raw/82073c70d598f17793ae5137e2e54f4bdb035079aeeba59601f7042b0123d79e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/916907/000110465926107119/0001104659-26-107119-index.html",

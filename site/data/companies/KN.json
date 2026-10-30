@@ -4,8 +4,8 @@
   "name": "KNOWLES",
   "group": "Information Technology",
   "weight_percent": 0.1,
-  "holding_price": 34.1,
-  "price_date": "2026-10-27",
+  "holding_price": 34.74,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001587523.json",
-    "sha256": "596a0078fc6f8e8946f65c6c098d8c0bd130b860f3e100f03eb993f5da900dd5",
-    "retrieved_at": "2026-10-27T13:25:49.659626+00:00",
-    "raw_path": "data/raw/596a0078fc6f8e8946f65c6c098d8c0bd130b860f3e100f03eb993f5da900dd5.json.gz"
+    "sha256": "536eb53607326f84c13e246fcd2156af383882e6c1ee0a2dcbb8cc0829bfe4ec",
+    "retrieved_at": "2026-10-30T14:24:14.378775+00:00",
+    "raw_path": "data/raw/536eb53607326f84c13e246fcd2156af383882e6c1ee0a2dcbb8cc0829bfe4ec.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1587523/000158752326000005/0001587523-26-000005-index.html",
   "earnings": {

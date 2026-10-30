@@ -5,7 +5,7 @@
   "group": "Health Care",
   "weight_percent": 0.07,
   "holding_price": 29.99,
-  "price_date": "2026-10-27",
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326732.json",
     "sha256": "63f41ab1a2a1663b69f2ad50e04b3e7d85ca6fa2ac063b990cf334a282da51f5",
-    "retrieved_at": "2026-10-27T13:26:48.016516+00:00",
+    "retrieved_at": "2026-10-30T14:24:58.028303+00:00",
     "raw_path": "data/raw/63f41ab1a2a1663b69f2ad50e04b3e7d85ca6fa2ac063b990cf334a282da51f5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1326732/000132673226000015/0001326732-26-000015-index.html",

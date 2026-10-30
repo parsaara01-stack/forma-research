@@ -4,8 +4,8 @@
   "name": "FIDELITY D AND D BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 64.26,
-  "price_date": "2026-10-27",
+  "holding_price": 63.51,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001098151.json",
     "sha256": "3564a51a9bebf16db8b95ef7043b8b2203fdf6a291b3af3603b45a40171579ed",
-    "retrieved_at": "2026-10-27T13:30:15.574414+00:00",
+    "retrieved_at": "2026-10-30T14:28:58.676287+00:00",
     "raw_path": "data/raw/3564a51a9bebf16db8b95ef7043b8b2203fdf6a291b3af3603b45a40171579ed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1098151/000143774926008215/0001437749-26-008215-index.html",

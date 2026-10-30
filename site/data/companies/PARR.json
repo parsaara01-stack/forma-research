@@ -4,8 +4,8 @@
   "name": "PAR PACIFIC HOLDINGS",
   "group": "Energy",
   "weight_percent": 0.12,
-  "holding_price": 74.53,
-  "price_date": "2026-10-27",
+  "holding_price": 73.79,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000821483.json",
     "sha256": "c61fdaca71062b0003f8c6d30644679b78420533a4231cb01578af8e6a0e2672",
-    "retrieved_at": "2026-10-27T13:25:12.318622+00:00",
+    "retrieved_at": "2026-10-30T14:23:51.192884+00:00",
     "raw_path": "data/raw/c61fdaca71062b0003f8c6d30644679b78420533a4231cb01578af8e6a0e2672.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/821483/000082148326000005/0000821483-26-000005-index.html",

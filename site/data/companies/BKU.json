@@ -4,8 +4,8 @@
   "name": "BANKUNITED",
   "group": "Financials",
   "weight_percent": 0.1,
-  "holding_price": 43.45,
-  "price_date": "2026-10-27",
+  "holding_price": 42.81,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001504008.json",
     "sha256": "13764c06bab52b281aef6769b75122154e855fde8f3edae90a5a4471530c1407",
-    "retrieved_at": "2026-10-27T13:25:38.785903+00:00",
+    "retrieved_at": "2026-10-30T14:24:15.100283+00:00",
     "raw_path": "data/raw/13764c06bab52b281aef6769b75122154e855fde8f3edae90a5a4471530c1407.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000011/0001504008-26-000011-index.html",

@@ -4,8 +4,8 @@
   "name": "CTO REALTY GROWTH",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 19.45,
-  "price_date": "2026-10-27",
+  "holding_price": 19.03,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000023795.json",
-    "sha256": "980342e21cecbd8045a7f0bedb0db28d671142fe64a40a359b8014867dada399",
-    "retrieved_at": "2026-10-27T13:28:37.044527+00:00",
-    "raw_path": "data/raw/980342e21cecbd8045a7f0bedb0db28d671142fe64a40a359b8014867dada399.json.gz"
+    "sha256": "921a6277dceee888a67a050ec9e701ba28aa53a5043d3dce46f90a31c83a5dde",
+    "retrieved_at": "2026-10-30T14:27:22.635745+00:00",
+    "raw_path": "data/raw/921a6277dceee888a67a050ec9e701ba28aa53a5043d3dce46f90a31c83a5dde.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/23795/000110465926017560/0001104659-26-017560-index.html",
   "earnings": {

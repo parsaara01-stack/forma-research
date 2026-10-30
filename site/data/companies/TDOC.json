@@ -4,8 +4,8 @@
   "name": "TELADOC HEALTH INC",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 6.45,
-  "price_date": "2026-10-27",
+  "holding_price": 6.88,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001477449.json",
-    "sha256": "998019a803d0d7d50679f859e4228a55ab3953cba8d7d0d38070f01b56613faf",
-    "retrieved_at": "2026-10-27T13:27:35.911198+00:00",
-    "raw_path": "data/raw/998019a803d0d7d50679f859e4228a55ab3953cba8d7d0d38070f01b56613faf.json.gz"
+    "sha256": "5beb600da483b58d8dada56ba7fc59565425277ed040613c8c9c76e47f84510f",
+    "retrieved_at": "2026-10-30T14:26:02.427911+00:00",
+    "raw_path": "data/raw/5beb600da483b58d8dada56ba7fc59565425277ed040613c8c9c76e47f84510f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1477449/000147744926000012/0001477449-26-000012-index.html",
   "earnings": {

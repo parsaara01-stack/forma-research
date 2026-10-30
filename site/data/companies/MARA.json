@@ -3,9 +3,9 @@
   "source_ticker": "MARA",
   "name": "MARA HOLDINGS",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 7.09,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.1,
+  "holding_price": 7.35,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001507605.json",
     "sha256": "696a02c3112da7a1db07f8e88fd8178dff153f7369ebca8bb4db39e930c11d49",
-    "retrieved_at": "2026-10-27T13:25:50.472268+00:00",
+    "retrieved_at": "2026-10-30T14:24:19.638058+00:00",
     "raw_path": "data/raw/696a02c3112da7a1db07f8e88fd8178dff153f7369ebca8bb4db39e930c11d49.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1507605/000150760526000007/0001507605-26-000007-index.html",

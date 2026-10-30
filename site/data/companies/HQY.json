@@ -4,8 +4,8 @@
   "name": "HEALTHEQUITY",
   "group": "Health Care",
   "weight_percent": 0.28,
-  "holding_price": 100.88,
-  "price_date": "2026-10-27",
+  "holding_price": 101.34,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001428336.json",
     "sha256": "2e1f97821ad9e54dc56d9df26b1b04283ea20acb6e2a3ab9eb762731a4c4675d",
-    "retrieved_at": "2026-10-27T13:24:21.925564+00:00",
+    "retrieved_at": "2026-10-30T14:22:54.169450+00:00",
     "raw_path": "data/raw/2e1f97821ad9e54dc56d9df26b1b04283ea20acb6e2a3ab9eb762731a4c4675d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1428336/000142833626000010/0001428336-26-000010-index.html",

@@ -4,8 +4,8 @@
   "name": "PARK OHIO HOLDINGS CORP",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 44.48,
-  "price_date": "2026-10-27",
+  "holding_price": 44.69,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000076282.json",
     "sha256": "89e7a629a088e62b6e2b8f9551e0d1b20bffa400ad940fc2b7628b060054b107",
-    "retrieved_at": "2026-10-27T13:29:33.772834+00:00",
+    "retrieved_at": "2026-10-30T14:28:08.209594+00:00",
     "raw_path": "data/raw/89e7a629a088e62b6e2b8f9551e0d1b20bffa400ad940fc2b7628b060054b107.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/76282/000007628226000007/0000076282-26-000007-index.html",

@@ -4,8 +4,8 @@
   "name": "HIPPO HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 38.3,
-  "price_date": "2026-10-27",
+  "holding_price": 37.71,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828105.json",
-    "sha256": "c8fe378eed1a9ade8ace5133916aef4de7187576a6e64f419ae1a4c9a47dee56",
-    "retrieved_at": "2026-10-27T13:28:17.230774+00:00",
-    "raw_path": "data/raw/c8fe378eed1a9ade8ace5133916aef4de7187576a6e64f419ae1a4c9a47dee56.json.gz"
+    "sha256": "dba6a3a816b71e7c0e919e2a2d98a27169b914580abfa356eca60f3d774a2546",
+    "retrieved_at": "2026-10-30T14:26:56.929248+00:00",
+    "raw_path": "data/raw/dba6a3a816b71e7c0e919e2a2d98a27169b914580abfa356eca60f3d774a2546.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1828105/000182810526000008/0001828105-26-000008-index.html",
   "earnings": {

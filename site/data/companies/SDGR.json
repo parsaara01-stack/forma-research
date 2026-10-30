@@ -3,9 +3,9 @@
   "source_ticker": "SDGR",
   "name": "SCHRODINGER INC",
   "group": "Health Care",
-  "weight_percent": 0.05,
-  "holding_price": 26.72,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.06,
+  "holding_price": 30.87,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001490978.json",
     "sha256": "0113956f82ada8a6778b3fadd0f665eba1bc1770ad7fdf4590a827f54d7a424c",
-    "retrieved_at": "2026-10-27T13:27:13.589561+00:00",
+    "retrieved_at": "2026-10-30T14:25:20.222799+00:00",
     "raw_path": "data/raw/0113956f82ada8a6778b3fadd0f665eba1bc1770ad7fdf4590a827f54d7a424c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097826000010/0001490978-26-000010-index.html",

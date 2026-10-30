@@ -4,8 +4,8 @@
   "name": "DOLE PLC",
   "group": "Consumer Staples",
   "weight_percent": 0.04,
-  "holding_price": 13.2,
-  "price_date": "2026-10-27",
+  "holding_price": 13.14,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001857475.json",
     "sha256": "1db285fa235bba4c79eb9a180ef02aae835ba85c597a99093051b7ce4663e9b7",
-    "retrieved_at": "2026-10-27T13:27:43.452988+00:00",
+    "retrieved_at": "2026-10-30T14:26:23.856437+00:00",
     "raw_path": "data/raw/1db285fa235bba4c79eb9a180ef02aae835ba85c597a99093051b7ce4663e9b7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1857475/000185747526000028/0001857475-26-000028-index.html",

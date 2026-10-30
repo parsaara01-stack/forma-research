@@ -4,8 +4,8 @@
   "name": "MURPHY OIL",
   "group": "Energy",
   "weight_percent": 0.2,
-  "holding_price": 43.15,
-  "price_date": "2026-10-27",
+  "holding_price": 42.99,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000717423.json",
     "sha256": "e5c611c17a940467136153d82fb0fdf8e84ec0a9510d47c40fcaee254719a89f",
-    "retrieved_at": "2026-10-27T13:24:33.781363+00:00",
+    "retrieved_at": "2026-10-30T14:23:07.824960+00:00",
     "raw_path": "data/raw/e5c611c17a940467136153d82fb0fdf8e84ec0a9510d47c40fcaee254719a89f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/717423/000162828026011709/0001628280-26-011709-index.html",

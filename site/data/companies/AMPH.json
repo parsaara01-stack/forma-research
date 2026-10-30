@@ -4,8 +4,8 @@
   "name": "AMPHASTAR PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 25.57,
-  "price_date": "2026-10-27",
+  "holding_price": 26.33,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001297184.json",
     "sha256": "4edb9fcf1f4d33d8901a1aee21727ab07b6978219daa713c8278848d43d84326",
-    "retrieved_at": "2026-10-27T13:28:20.401719+00:00",
+    "retrieved_at": "2026-10-30T14:26:51.531586+00:00",
     "raw_path": "data/raw/4edb9fcf1f4d33d8901a1aee21727ab07b6978219daa713c8278848d43d84326.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000009/0001297184-26-000009-index.html",

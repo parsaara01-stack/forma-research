@@ -4,8 +4,8 @@
   "name": "ONDAS INC",
   "group": "Information Technology",
   "weight_percent": 0.12,
-  "holding_price": 6.65,
-  "price_date": "2026-10-27",
+  "holding_price": 6.86,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001646188.json",
     "sha256": "3846d6f68539a5bf7996d08c7307bfa84fc526e50c5f687b41ca3c2878a3b2e0",
-    "retrieved_at": "2026-10-27T13:25:27.438951+00:00",
+    "retrieved_at": "2026-10-30T14:23:50.411442+00:00",
     "raw_path": "data/raw/3846d6f68539a5bf7996d08c7307bfa84fc526e50c5f687b41ca3c2878a3b2e0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026035981/0001213900-26-035981-index.html",

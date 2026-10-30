@@ -3,9 +3,9 @@
   "source_ticker": "SNEX",
   "name": "STONEX GROUP INC",
   "group": "Financials",
-  "weight_percent": 0.21,
-  "holding_price": 56.13,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.2,
+  "holding_price": 56.04,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
     "sha256": "76252590b2e9ba6b1c744c51f8f4032ef9e0be89b688ba4c53b3dd7a23e4fb27",
-    "retrieved_at": "2026-10-27T13:24:33.217853+00:00",
+    "retrieved_at": "2026-10-30T14:23:06.589721+00:00",
     "raw_path": "data/raw/76252590b2e9ba6b1c744c51f8f4032ef9e0be89b688ba4c53b3dd7a23e4fb27.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376025000196/0000913760-25-000196-index.html",

@@ -4,8 +4,8 @@
   "name": "PHILLIPS EDISON AND COMPANY",
   "group": "Real Estate",
   "weight_percent": 0.17,
-  "holding_price": 38.19,
-  "price_date": "2026-10-27",
+  "holding_price": 37.72,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001476204.json",
-    "sha256": "9afc203f468f0dfbb30a6d92aae3d09b32c345f2b226dc0b2b27f61716f531af",
-    "retrieved_at": "2026-10-27T13:24:44.764285+00:00",
-    "raw_path": "data/raw/9afc203f468f0dfbb30a6d92aae3d09b32c345f2b226dc0b2b27f61716f531af.json.gz"
+    "sha256": "31bdb95c5b84658579c90e96c9dd8e724635b8cb0f9ece015997cc15943320e4",
+    "retrieved_at": "2026-10-30T14:23:20.091063+00:00",
+    "raw_path": "data/raw/31bdb95c5b84658579c90e96c9dd8e724635b8cb0f9ece015997cc15943320e4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1476204/000147620426000005/0001476204-26-000005-index.html",
   "earnings": {

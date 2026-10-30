@@ -4,8 +4,8 @@
   "name": "ROCKET PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 2.45,
-  "price_date": "2026-10-27",
+  "holding_price": 2.58,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001281895.json",
     "sha256": "0bcbe84a05b7de7c12edb430923484b522633d995abac19aad70bdfd9e60b3ef",
-    "retrieved_at": "2026-10-27T13:31:02.642644+00:00",
+    "retrieved_at": "2026-10-30T14:29:28.566453+00:00",
     "raw_path": "data/raw/0bcbe84a05b7de7c12edb430923484b522633d995abac19aad70bdfd9e60b3ef.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1281895/000119312526076551/0001193125-26-076551-index.html",

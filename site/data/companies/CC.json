@@ -4,8 +4,8 @@
   "name": "CHEMOURS",
   "group": "Materials",
   "weight_percent": 0.07,
-  "holding_price": 13.34,
-  "price_date": "2026-10-27",
+  "holding_price": 13.36,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001627223.json",
     "sha256": "a9767e28b16e6bc2a1915d2db9d049db0a8a49ad9444b46cef2ef105d657541e",
-    "retrieved_at": "2026-10-27T13:26:30.689563+00:00",
+    "retrieved_at": "2026-10-30T14:25:00.256511+00:00",
     "raw_path": "data/raw/a9767e28b16e6bc2a1915d2db9d049db0a8a49ad9444b46cef2ef105d657541e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1627223/000119312526065201/0001193125-26-065201-index.html",

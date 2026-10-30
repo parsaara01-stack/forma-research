@@ -4,8 +4,8 @@
   "name": "TIDEWATER",
   "group": "Energy",
   "weight_percent": 0.14,
-  "holding_price": 85.55,
-  "price_date": "2026-10-27",
+  "holding_price": 86.53,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000098222.json",
     "sha256": "49e0eb4ef28ae0d626ed62078e1f7e10e57e95fff17aed8c2ff6b2eece1c7ed5",
-    "retrieved_at": "2026-10-27T13:25:01.567527+00:00",
+    "retrieved_at": "2026-10-30T14:23:33.141524+00:00",
     "raw_path": "data/raw/49e0eb4ef28ae0d626ed62078e1f7e10e57e95fff17aed8c2ff6b2eece1c7ed5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/98222/000143774926006391/0001437749-26-006391-index.html",

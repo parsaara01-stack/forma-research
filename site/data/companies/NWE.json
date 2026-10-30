@@ -3,9 +3,9 @@
   "source_ticker": "NWE",
   "name": "NORTHWESTERN ENERGY GROUP",
   "group": "Utilities",
-  "weight_percent": 0.17,
-  "holding_price": 79.87,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.16,
+  "holding_price": 78.65,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001993004.json",
     "sha256": "50ffeeed8f69866ea0384b36a9356029f6034a872cb66f78df22d1262c0bdbee",
-    "retrieved_at": "2026-10-27T13:24:47.786385+00:00",
+    "retrieved_at": "2026-10-30T14:23:20.822766+00:00",
     "raw_path": "data/raw/50ffeeed8f69866ea0384b36a9356029f6034a872cb66f78df22d1262c0bdbee.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1993004/000199300426000006/0001993004-26-000006-index.html",

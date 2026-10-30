@@ -4,8 +4,8 @@
   "name": "STANDARD MOTOR PRODUCTS INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 37.58,
-  "price_date": "2026-10-27",
+  "holding_price": 37.88,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000093389.json",
     "sha256": "82e668bfd938137c88c3032fd2db67365344c2ebb20258e84a82a3bc2ed4566a",
-    "retrieved_at": "2026-10-27T13:28:05.462653+00:00",
+    "retrieved_at": "2026-10-30T14:26:41.615593+00:00",
     "raw_path": "data/raw/82e668bfd938137c88c3032fd2db67365344c2ebb20258e84a82a3bc2ed4566a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/93389/000009338926000012/0000093389-26-000012-index.html",

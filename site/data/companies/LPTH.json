@@ -4,8 +4,8 @@
   "name": "LIGHTPATH TECHNOLOGIES INC CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 8.37,
-  "price_date": "2026-10-27",
+  "holding_price": 8.28,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000889971.json",
     "sha256": "bc0d77465c87b8be4422da2227db11c5c279503aac51537e4e79b0268f0366f6",
-    "retrieved_at": "2026-10-27T13:29:26.355570+00:00",
+    "retrieved_at": "2026-10-30T14:27:51.762925+00:00",
     "raw_path": "data/raw/bc0d77465c87b8be4422da2227db11c5c279503aac51537e4e79b0268f0366f6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/889971/000143774926030106/0001437749-26-030106-index.html",

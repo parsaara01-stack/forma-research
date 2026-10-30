@@ -4,8 +4,8 @@
   "name": "EAGLE FINANCIAL SERVICES INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 46.32,
-  "price_date": "2026-10-27",
+  "holding_price": 45.5,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000880641.json",
     "sha256": "bcb089b91984c196ee76414e025b0e7f05f92e54d6aded7fa8624048359b1c1c",
-    "retrieved_at": "2026-10-27T13:30:56.372563+00:00",
+    "retrieved_at": "2026-10-30T14:29:40.929587+00:00",
     "raw_path": "data/raw/bcb089b91984c196ee76414e025b0e7f05f92e54d6aded7fa8624048359b1c1c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/880641/000088064126000004/0000880641-26-000004-index.html",

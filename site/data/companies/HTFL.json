@@ -4,8 +4,8 @@
   "name": "HEARTFLOW INC",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 57.82,
-  "price_date": "2026-10-27",
+  "holding_price": 59.1,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001464521.json",
     "sha256": "8c59c83bb264398225f71840ad5391eba1b65fb840d4f034d4584db3bc49e049",
-    "retrieved_at": "2026-10-27T13:25:00.266185+00:00",
+    "retrieved_at": "2026-10-30T14:23:27.016251+00:00",
     "raw_path": "data/raw/8c59c83bb264398225f71840ad5391eba1b65fb840d4f034d4584db3bc49e049.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1464521/000146452126000042/0001464521-26-000042-index.html",

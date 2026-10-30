@@ -4,8 +4,8 @@
   "name": "SERVICE PROPERTIES TRUST",
   "group": "Real Estate",
   "weight_percent": 0.03,
-  "holding_price": 6.29,
-  "price_date": "2026-10-27",
+  "holding_price": 6.3,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000945394.json",
     "sha256": "e14942f30fd4668117a130fdc15917ddac79a184132c73f3c1730f216c1b5a81",
-    "retrieved_at": "2026-10-27T13:28:22.176789+00:00",
+    "retrieved_at": "2026-10-30T14:26:57.376934+00:00",
     "raw_path": "data/raw/e14942f30fd4668117a130fdc15917ddac79a184132c73f3c1730f216c1b5a81.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/945394/000094539426000012/0000945394-26-000012-index.html",

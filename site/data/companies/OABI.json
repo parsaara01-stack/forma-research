@@ -4,8 +4,8 @@
   "name": "OMNIAB INC",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 4.96,
-  "price_date": "2026-10-27",
+  "holding_price": 5.28,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001846253.json",
-    "sha256": "07c5946cf0c8d924573698b496653d23b710f0a499cfdeda2a267810fdc32f7a",
-    "retrieved_at": "2026-10-27T13:29:15.182546+00:00",
-    "raw_path": "data/raw/07c5946cf0c8d924573698b496653d23b710f0a499cfdeda2a267810fdc32f7a.json.gz"
+    "sha256": "0fd20b5a34c5e2d8d4b857d1dc1ac9b5978ca30477df781051909d891c3d31aa",
+    "retrieved_at": "2026-10-30T14:27:42.579033+00:00",
+    "raw_path": "data/raw/0fd20b5a34c5e2d8d4b857d1dc1ac9b5978ca30477df781051909d891c3d31aa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1846253/000184625326000009/0001846253-26-000009-index.html",
   "earnings": {

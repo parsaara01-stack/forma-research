@@ -4,8 +4,8 @@
   "name": "BARRETT BUSINESS SERVICES INC",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 32.57,
-  "price_date": "2026-10-27",
+  "holding_price": 32.44,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000902791.json",
     "sha256": "50ac1e35435da66590b87c4329ea501796314bf53d20b0a48dc0eda273caac59",
-    "retrieved_at": "2026-10-27T13:28:21.774494+00:00",
+    "retrieved_at": "2026-10-30T14:27:02.643154+00:00",
     "raw_path": "data/raw/50ac1e35435da66590b87c4329ea501796314bf53d20b0a48dc0eda273caac59.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/902791/000119312526072255/0001193125-26-072255-index.html",

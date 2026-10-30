@@ -4,8 +4,8 @@
   "name": "MGP INGREDIENTS",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 15.32,
-  "price_date": "2026-10-27",
+  "holding_price": 16.73,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000835011.json",
-    "sha256": "1f35b78aaeee918cdff71368c8106b918b51f6972c9931dc643aabcbc5e98ab2",
-    "retrieved_at": "2026-10-27T13:30:51.464189+00:00",
-    "raw_path": "data/raw/1f35b78aaeee918cdff71368c8106b918b51f6972c9931dc643aabcbc5e98ab2.json.gz"
+    "sha256": "043a42b499bd899a61f979eaea88a1aa18e91a4d1aa644eaf91d96a8d1365dc0",
+    "retrieved_at": "2026-10-30T14:29:24.244861+00:00",
+    "raw_path": "data/raw/043a42b499bd899a61f979eaea88a1aa18e91a4d1aa644eaf91d96a8d1365dc0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/835011/000083501126000031/0000835011-26-000031-index.html",
   "earnings": {

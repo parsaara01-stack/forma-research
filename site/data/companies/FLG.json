@@ -4,8 +4,8 @@
   "name": "FLAGSTAR BANK NATIONAL ASSOCIATION",
   "group": "Financials",
   "weight_percent": 0.1,
-  "holding_price": 10.14,
-  "price_date": "2026-10-27",
+  "holding_price": 10.16,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910073.json",
     "sha256": "e44cbad24bffcbf4d499aaf024675fb8286a3d540dcf6c2c733832cce88f3849",
-    "retrieved_at": "2026-10-27T13:25:32.023593+00:00",
+    "retrieved_at": "2026-10-30T14:24:09.032717+00:00",
     "raw_path": "data/raw/e44cbad24bffcbf4d499aaf024675fb8286a3d540dcf6c2c733832cce88f3849.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/910073/000091007326000025/0000910073-26-000025-index.html",

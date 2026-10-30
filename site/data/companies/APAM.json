@@ -4,8 +4,8 @@
   "name": "ARTISAN PARTNERS ASSET MANAGEMENT",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 33.2,
-  "price_date": "2026-10-27",
+  "holding_price": 34.73,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001517302.json",
-    "sha256": "faf7b20fc3b33c8119c47a04ceadc640844ec0cc902098204a776affa43056c6",
-    "retrieved_at": "2026-10-27T13:26:17.037108+00:00",
-    "raw_path": "data/raw/faf7b20fc3b33c8119c47a04ceadc640844ec0cc902098204a776affa43056c6.json.gz"
+    "sha256": "7ca3f6089417494997060e47c6c25d900a3bdedaf05e3c576d785458a1dcceff",
+    "retrieved_at": "2026-10-30T14:24:48.893458+00:00",
+    "raw_path": "data/raw/7ca3f6089417494997060e47c6c25d900a3bdedaf05e3c576d785458a1dcceff.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1517302/000151730226000047/0001517302-26-000047-index.html",
   "earnings": {

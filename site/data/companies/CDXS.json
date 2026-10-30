@@ -4,8 +4,8 @@
   "name": "CODEXIS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.28,
-  "price_date": "2026-10-27",
+  "holding_price": 1.26,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001200375.json",
     "sha256": "277318409cc2f6e80118183efe9856f7380ea96da9cad19d13278fe4616f8406",
-    "retrieved_at": "2026-10-27T13:31:49.987294+00:00",
+    "retrieved_at": "2026-10-30T14:30:28.982519+00:00",
     "raw_path": "data/raw/277318409cc2f6e80118183efe9856f7380ea96da9cad19d13278fe4616f8406.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1200375/000120037526000006/0001200375-26-000006-index.html",

@@ -4,8 +4,8 @@
   "name": "RIMINI STREET INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 4.01,
-  "price_date": "2026-10-27",
+  "holding_price": 4.03,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001635282.json",
-    "sha256": "d0a201ccf415f1c81de9d192eba04d4f0a45b3f1941b419c525244bcce613569",
-    "retrieved_at": "2026-10-27T13:30:55.703939+00:00",
-    "raw_path": "data/raw/d0a201ccf415f1c81de9d192eba04d4f0a45b3f1941b419c525244bcce613569.json.gz"
+    "sha256": "9c3cd310a4c7648249f49d9d975ca943a5b227708dccecf18329006e54cf0bf6",
+    "retrieved_at": "2026-10-30T14:29:35.830217+00:00",
+    "raw_path": "data/raw/9c3cd310a4c7648249f49d9d975ca943a5b227708dccecf18329006e54cf0bf6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000014/0001635282-26-000014-index.html",
   "earnings": {

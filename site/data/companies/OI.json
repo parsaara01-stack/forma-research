@@ -4,8 +4,8 @@
   "name": "O I GLASS",
   "group": "Materials",
   "weight_percent": 0.03,
-  "holding_price": 6.43,
-  "price_date": "2026-10-27",
+  "holding_price": 5.63,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000812074.json",
-    "sha256": "4ba3c5586604161ff7d679c26122853da45dc322fd52b66c9409c27dd7bb094e",
-    "retrieved_at": "2026-10-27T13:27:56.436848+00:00",
-    "raw_path": "data/raw/4ba3c5586604161ff7d679c26122853da45dc322fd52b66c9409c27dd7bb094e.json.gz"
+    "sha256": "5864a9cedbe18b5643201fca3eaa1034a8e983d2ad2ba34dc4df5a95f792f9b9",
+    "retrieved_at": "2026-10-30T14:26:49.819124+00:00",
+    "raw_path": "data/raw/5864a9cedbe18b5643201fca3eaa1034a8e983d2ad2ba34dc4df5a95f792f9b9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/812074/000110465926014319/0001104659-26-014319-index.html",
   "earnings": {

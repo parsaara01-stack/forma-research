@@ -4,8 +4,8 @@
   "name": "TRANSMEDICS GROUP",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 69.73,
-  "price_date": "2026-10-27",
+  "holding_price": 66.9,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001756262.json",
     "sha256": "8096066125323b72557bd9d582cfab4bcdec59b814cee4e082ede5ade1a800ab",
-    "retrieved_at": "2026-10-27T13:26:04.624036+00:00",
+    "retrieved_at": "2026-10-30T14:24:45.076637+00:00",
     "raw_path": "data/raw/8096066125323b72557bd9d582cfab4bcdec59b814cee4e082ede5ade1a800ab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1756262/000119312526067032/0001193125-26-067032-index.html",

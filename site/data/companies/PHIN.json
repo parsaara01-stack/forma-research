@@ -3,9 +3,9 @@
   "source_ticker": "PHIN",
   "name": "PHINIA",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.08,
-  "holding_price": 57.83,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.07,
+  "holding_price": 57.68,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001968915.json",
-    "sha256": "19d354d780254daf9cc0f4c4ecf24dad4abb347ec4534d01dc137da5e21e4a44",
-    "retrieved_at": "2026-10-27T13:26:14.325645+00:00",
-    "raw_path": "data/raw/19d354d780254daf9cc0f4c4ecf24dad4abb347ec4534d01dc137da5e21e4a44.json.gz"
+    "sha256": "e9770dd8796d46972b9772752f961405eda4e4ec2bb1d9b6bc1e283648f23b72",
+    "retrieved_at": "2026-10-30T14:24:49.758527+00:00",
+    "raw_path": "data/raw/e9770dd8796d46972b9772752f961405eda4e4ec2bb1d9b6bc1e283648f23b72.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1968915/000196891526000023/0001968915-26-000023-index.html",
   "earnings": {

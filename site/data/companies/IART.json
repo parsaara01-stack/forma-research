@@ -4,8 +4,8 @@
   "name": "INTEGRA LIFESCIENCES HOLDINGS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 11.99,
-  "price_date": "2026-10-27",
+  "holding_price": 12.24,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000917520.json",
     "sha256": "dfab466072286edc12a48666a78a77a2f5ee015bcb94b1a3c0e796d087378b72",
-    "retrieved_at": "2026-10-27T13:28:19.917341+00:00",
+    "retrieved_at": "2026-10-30T14:26:54.429962+00:00",
     "raw_path": "data/raw/dfab466072286edc12a48666a78a77a2f5ee015bcb94b1a3c0e796d087378b72.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/917520/000091752026000011/0000917520-26-000011-index.html",

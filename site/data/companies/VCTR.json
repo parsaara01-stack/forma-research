@@ -4,8 +4,8 @@
   "name": "VICTORY CAPITAL HOLDINGS CLASS A",
   "group": "Financials",
   "weight_percent": 0.16,
-  "holding_price": 110.63,
-  "price_date": "2026-10-27",
+  "holding_price": 111.87,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001570827.json",
     "sha256": "178727ee6a55eef6332ea37919903d4450fdee5eb16ceb1e70b9936d1bdf42ab",
-    "retrieved_at": "2026-10-27T13:24:49.873951+00:00",
+    "retrieved_at": "2026-10-30T14:23:21.207652+00:00",
     "raw_path": "data/raw/178727ee6a55eef6332ea37919903d4450fdee5eb16ceb1e70b9936d1bdf42ab.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526077057/0001193125-26-077057-index.html",

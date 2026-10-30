@@ -4,8 +4,8 @@
   "name": "GRID DYNAMICS HOLDINGS CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 8.66,
-  "price_date": "2026-10-27",
+  "holding_price": 8.75,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001743725.json",
-    "sha256": "287c06156601c1bf716b10040e92faedb37c30e40df9cc4f2fa600cb578372c5",
-    "retrieved_at": "2026-10-27T13:29:04.436656+00:00",
-    "raw_path": "data/raw/287c06156601c1bf716b10040e92faedb37c30e40df9cc4f2fa600cb578372c5.json.gz"
+    "sha256": "cffd69145ff4d48f1de038b07fdcf2b0ffa4b51326f9e4aefecba5301e76d153",
+    "retrieved_at": "2026-10-30T14:27:41.811415+00:00",
+    "raw_path": "data/raw/cffd69145ff4d48f1de038b07fdcf2b0ffa4b51326f9e4aefecba5301e76d153.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1743725/000174372526000007/0001743725-26-000007-index.html",
   "earnings": {

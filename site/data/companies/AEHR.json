@@ -4,8 +4,8 @@
   "name": "AEHR TEST SYSTEMS",
   "group": "Information Technology",
   "weight_percent": 0.07,
-  "holding_price": 63.95,
-  "price_date": "2026-10-27",
+  "holding_price": 64.54,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001040470.json",
     "sha256": "d1ac26cb77318717f762ac36f6f4a5d2a2b31aa0ccdd121b2ab6b2b828e5589a",
-    "retrieved_at": "2026-10-27T13:26:47.814548+00:00",
+    "retrieved_at": "2026-10-30T14:25:00.297083+00:00",
     "raw_path": "data/raw/d1ac26cb77318717f762ac36f6f4a5d2a2b31aa0ccdd121b2ab6b2b828e5589a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426006919/0001654954-26-006919-index.html",

@@ -4,8 +4,8 @@
   "name": "DELUXE",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 22.99,
-  "price_date": "2026-10-27",
+  "holding_price": 22.92,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027996.json",
     "sha256": "c44437aab6b2b7133fb0e5c25ab3e10f9f915df58aa3ae4209ed775c3b317b00",
-    "retrieved_at": "2026-10-27T13:27:43.397652+00:00",
+    "retrieved_at": "2026-10-30T14:26:22.457556+00:00",
     "raw_path": "data/raw/c44437aab6b2b7133fb0e5c25ab3e10f9f915df58aa3ae4209ed775c3b317b00.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/27996/000002799626000037/0000027996-26-000037-index.html",

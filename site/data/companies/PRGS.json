@@ -4,8 +4,8 @@
   "name": "PROGRESS SOFTWARE CORP",
   "group": "Information Technology",
   "weight_percent": 0.06,
-  "holding_price": 45.25,
-  "price_date": "2026-10-27",
+  "holding_price": 44.46,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000876167.json",
     "sha256": "331b0c86fb311bf5f4fcceceac19e8cac2cc5b03b64882ae3b2ed3ca912ce1e6",
-    "retrieved_at": "2026-10-27T13:26:36.263064+00:00",
+    "retrieved_at": "2026-10-30T14:25:17.904853+00:00",
     "raw_path": "data/raw/331b0c86fb311bf5f4fcceceac19e8cac2cc5b03b64882ae3b2ed3ca912ce1e6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/876167/000087616726000008/0000876167-26-000008-index.html",

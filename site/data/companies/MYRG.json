@@ -3,9 +3,9 @@
   "source_ticker": "MYRG",
   "name": "MYR GROUP INC",
   "group": "Industrials",
-  "weight_percent": 0.14,
-  "holding_price": 266.64,
-  "price_date": "2026-10-27",
+  "weight_percent": 0.15,
+  "holding_price": 279.92,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000700923.json",
-    "sha256": "6604527a677585a1e0db5b88d7fa459301c051fb72ab93b289ccf56c960b274d",
-    "retrieved_at": "2026-10-27T13:25:10.059910+00:00",
-    "raw_path": "data/raw/6604527a677585a1e0db5b88d7fa459301c051fb72ab93b289ccf56c960b274d.json.gz"
+    "sha256": "f071948b554c93c04e5a9f54b4ec37115209f30ec516c5548efe333480bb3b32",
+    "retrieved_at": "2026-10-30T14:23:30.979910+00:00",
+    "raw_path": "data/raw/f071948b554c93c04e5a9f54b4ec37115209f30ec516c5548efe333480bb3b32.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/700923/000070092326000007/0000700923-26-000007-index.html",
   "earnings": {

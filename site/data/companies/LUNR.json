@@ -4,8 +4,8 @@
   "name": "INTUITIVE MACHINES INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 11.56,
-  "price_date": "2026-10-27",
+  "holding_price": 11.59,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001844452.json",
     "sha256": "cb583a82541486c94a2b54df90f490b31900788041b7ae9e645587b05ac8574e",
-    "retrieved_at": "2026-10-27T13:27:07.242830+00:00",
+    "retrieved_at": "2026-10-30T14:25:32.412977+00:00",
     "raw_path": "data/raw/cb583a82541486c94a2b54df90f490b31900788041b7ae9e645587b05ac8574e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1844452/000162828026019865/0001628280-26-019865-index.html",

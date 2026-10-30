@@ -4,8 +4,8 @@
   "name": "ASTEC INDUSTRIES",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 38.46,
-  "price_date": "2026-10-27",
+  "holding_price": 38.97,
+  "price_date": "2026-10-28",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000792987.json",
     "sha256": "7501b85be85829775ac6b91b42ba829ea1de540fca7eb3fc216bb5dd2534564b",
-    "retrieved_at": "2026-10-27T13:28:10.009777+00:00",
+    "retrieved_at": "2026-10-30T14:26:45.562728+00:00",
     "raw_path": "data/raw/7501b85be85829775ac6b91b42ba829ea1de540fca7eb3fc216bb5dd2534564b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/792987/000079298726000011/0000792987-26-000011-index.html",

@@ -4,8 +4,8 @@
   "name": "EVOLENT HEALTH CLASS A",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 4.42,
-  "price_date": "2026-10-27",
+  "holding_price": 4.33,
+  "price_date": "2026-10-28",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-10-27",
+  "observation_cutoff": "2026-10-30",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001628908.json",
     "sha256": "7f06e944a853c803c565930baee468aa8736c938ad7257c4dd4079bff760bac6",
-    "retrieved_at": "2026-10-27T13:29:10.555840+00:00",
+    "retrieved_at": "2026-10-30T14:28:00.905929+00:00",
     "raw_path": "data/raw/7f06e944a853c803c565930baee468aa8736c938ad7257c4dd4079bff760bac6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1628908/000162890826000015/0001628908-26-000015-index.html",
