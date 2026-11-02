@@ -3,9 +3,9 @@
   "source_ticker": "RSI",
   "name": "RUSH STREET INTERACTIVE CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.06,
-  "holding_price": 15.13,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 12.12,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

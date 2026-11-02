@@ -3,9 +3,9 @@
   "source_ticker": "HUBG",
   "name": "HUB GROUP CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 26.27,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.06,
+  "holding_price": 26.71,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

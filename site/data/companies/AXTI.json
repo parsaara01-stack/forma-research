@@ -3,9 +3,9 @@
   "source_ticker": "AXTI",
   "name": "AXT",
   "group": "Information Technology",
-  "weight_percent": 0.14,
-  "holding_price": 64.38,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.12,
+  "holding_price": 55.06,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

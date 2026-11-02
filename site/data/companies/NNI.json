@@ -4,8 +4,8 @@
   "name": "NELNET CLASS A",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 121.88,
-  "price_date": "2026-10-28",
+  "holding_price": 122.47,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

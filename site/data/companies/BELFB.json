@@ -3,9 +3,9 @@
   "source_ticker": "BELFB",
   "name": "BEL FUSE CLASS B",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 227.77,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.1,
+  "holding_price": 236.15,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

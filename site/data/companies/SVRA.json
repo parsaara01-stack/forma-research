@@ -3,9 +3,9 @@
   "source_ticker": "SVRA",
   "name": "SAVARA",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 5.02,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.02,
+  "holding_price": 4.82,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {

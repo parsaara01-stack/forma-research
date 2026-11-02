@@ -1,11 +1,11 @@
 {
   "ticker": "VSH",
   "source_ticker": "VSH",
-  "name": "VISHAY INTERTECHNOLOGY INC",
+  "name": "VISHAY INTERTECHNOLOGY",
   "group": "Information Technology",
-  "weight_percent": 0.14,
-  "holding_price": 29.92,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.13,
+  "holding_price": 26.74,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

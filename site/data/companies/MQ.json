@@ -4,8 +4,8 @@
   "name": "MARQETA CLASS A",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 18.15,
-  "price_date": "2026-10-28",
+  "holding_price": 18.1,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "VVX",
   "name": "V2X",
   "group": "Industrials",
-  "weight_percent": 0.08,
-  "holding_price": 77.41,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.09,
+  "holding_price": 80.37,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "MIAX",
   "name": "MIAMI INTERNATIONAL HOLDINGS",
   "group": "Financials",
-  "weight_percent": 0.08,
-  "holding_price": 31.98,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.09,
+  "holding_price": 33.63,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

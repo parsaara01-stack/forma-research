@@ -3,9 +3,9 @@
   "source_ticker": "MBIN",
   "name": "MERCHANTS BANCORP",
   "group": "Financials",
-  "weight_percent": 0.04,
-  "holding_price": 49.13,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 52.09,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

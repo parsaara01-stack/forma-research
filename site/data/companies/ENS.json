@@ -3,9 +3,9 @@
   "source_ticker": "ENS",
   "name": "ENERSYS",
   "group": "Industrials",
-  "weight_percent": 0.21,
-  "holding_price": 171.45,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.2,
+  "holding_price": 159.95,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

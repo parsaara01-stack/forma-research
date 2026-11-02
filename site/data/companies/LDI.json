@@ -4,8 +4,8 @@
   "name": "LOANDEPOT CLASS A",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 0.62,
-  "price_date": "2026-10-28",
+  "holding_price": 0.58,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

@@ -3,9 +3,9 @@
   "source_ticker": "BFLY",
   "name": "BUTTERFLY NETWORK CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 7.81,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 6.39,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

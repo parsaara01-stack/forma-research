@@ -3,9 +3,9 @@
   "source_ticker": "GBFH",
   "name": "GBANK FINL HLDGS INC",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 17.06,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.0,
+  "holding_price": 15.16,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

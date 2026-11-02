@@ -4,8 +4,8 @@
   "name": "AVIDIA BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 23.26,
-  "price_date": "2026-10-28",
+  "holding_price": 23.5,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

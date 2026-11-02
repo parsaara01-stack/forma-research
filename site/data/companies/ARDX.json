@@ -3,9 +3,9 @@
   "source_ticker": "ARDX",
   "name": "ARDELYX",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 3.1,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.02,
+  "holding_price": 3.03,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

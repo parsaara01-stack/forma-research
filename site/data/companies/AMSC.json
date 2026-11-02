@@ -3,9 +3,9 @@
   "source_ticker": "AMSC",
   "name": "AMERICAN SUPERCONDUCTOR CORP",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 28.19,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.04,
+  "holding_price": 27.05,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

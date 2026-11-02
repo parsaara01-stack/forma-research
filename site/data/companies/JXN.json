@@ -3,9 +3,9 @@
   "source_ticker": "JXN",
   "name": "JACKSON FINANCIAL CLASS A",
   "group": "Financials",
-  "weight_percent": 0.29,
-  "holding_price": 134.5,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.3,
+  "holding_price": 134.93,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

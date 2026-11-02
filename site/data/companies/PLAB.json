@@ -3,9 +3,9 @@
   "source_ticker": "PLAB",
   "name": "PHOTRONICS",
   "group": "Information Technology",
-  "weight_percent": 0.06,
-  "holding_price": 29.34,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 27.58,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

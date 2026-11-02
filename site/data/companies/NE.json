@@ -3,9 +3,9 @@
   "source_ticker": "NE",
   "name": "NOBLE CORPORATION PLC",
   "group": "Energy",
-  "weight_percent": 0.2,
-  "holding_price": 47.06,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.21,
+  "holding_price": 49.0,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "BKKT",
   "name": "BAKKT INC CLASS A",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 5.23,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.0,
+  "holding_price": 4.64,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

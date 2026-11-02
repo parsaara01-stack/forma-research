@@ -3,9 +3,9 @@
   "source_ticker": "LNN",
   "name": "LINDSAY",
   "group": "Industrials",
-  "weight_percent": 0.03,
-  "holding_price": 103.37,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.04,
+  "holding_price": 107.63,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

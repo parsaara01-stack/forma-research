@@ -3,9 +3,9 @@
   "source_ticker": "SSRM",
   "name": "SSR MINING",
   "group": "Materials",
-  "weight_percent": 0.21,
-  "holding_price": 29.68,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.19,
+  "holding_price": 26.48,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "HOPE",
   "name": "HOPE BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.06,
-  "holding_price": 13.88,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 13.21,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

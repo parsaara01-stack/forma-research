@@ -3,9 +3,9 @@
   "source_ticker": "XPOF",
   "name": "XPONENTIAL FITNESS CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.0,
-  "holding_price": 4.01,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.01,
+  "holding_price": 4.46,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

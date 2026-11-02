@@ -3,9 +3,9 @@
   "source_ticker": "PDFS",
   "name": "PDF SOLUTIONS",
   "group": "Information Technology",
-  "weight_percent": 0.06,
-  "holding_price": 45.49,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.05,
+  "holding_price": 41.0,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

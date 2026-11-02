@@ -3,9 +3,9 @@
   "source_ticker": "CORZ",
   "name": "CORE SCIENTIFIC INC",
   "group": "Information Technology",
-  "weight_percent": 0.16,
-  "holding_price": 15.0,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.14,
+  "holding_price": 13.25,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

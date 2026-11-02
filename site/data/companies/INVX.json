@@ -3,9 +3,9 @@
   "source_ticker": "INVX",
   "name": "INNOVEX INTERNATIONAL INC",
   "group": "Energy",
-  "weight_percent": 0.05,
-  "holding_price": 30.37,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.04,
+  "holding_price": 28.08,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

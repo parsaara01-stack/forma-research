@@ -3,9 +3,9 @@
   "source_ticker": "TEX",
   "name": "TEREX",
   "group": "Industrials",
-  "weight_percent": 0.2,
-  "holding_price": 53.37,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.22,
+  "holding_price": 56.15,
+  "price_date": "2026-10-30",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "RBB",
   "name": "RBB BANCORP",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 26.1,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.01,
+  "holding_price": 25.55,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

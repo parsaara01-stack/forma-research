@@ -3,9 +3,9 @@
   "source_ticker": "ONB",
   "name": "OLD NATIONAL BANCORP",
   "group": "Financials",
-  "weight_percent": 0.29,
-  "holding_price": 24.73,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.3,
+  "holding_price": 25.09,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

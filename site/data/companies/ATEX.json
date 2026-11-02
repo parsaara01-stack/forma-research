@@ -3,9 +3,9 @@
   "source_ticker": "ATEX",
   "name": "ANTERIX",
   "group": "Communication",
-  "weight_percent": 0.03,
-  "holding_price": 87.95,
-  "price_date": "2026-10-28",
+  "weight_percent": 0.04,
+  "holding_price": 90.67,
+  "price_date": "2026-10-30",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
