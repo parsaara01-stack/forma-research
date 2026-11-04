@@ -4,8 +4,8 @@
   "name": "CABOT CORP",
   "group": "Materials",
   "weight_percent": 0.13,
-  "holding_price": 74.43,
-  "price_date": "2026-10-30",
+  "holding_price": 72.0,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

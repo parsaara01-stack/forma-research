@@ -3,9 +3,9 @@
   "source_ticker": "AMPL",
   "name": "AMPLITUDE CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.06,
-  "holding_price": 17.08,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.05,
+  "holding_price": 16.84,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

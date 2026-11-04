@@ -3,9 +3,9 @@
   "source_ticker": "PNRG",
   "name": "PRIMEENERGY RESOURCES CORP",
   "group": "Energy",
-  "weight_percent": 0.01,
-  "holding_price": 228.33,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.0,
+  "holding_price": 199.92,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

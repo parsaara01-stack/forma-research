@@ -3,9 +3,9 @@
   "source_ticker": "CLMT",
   "name": "CALUMET",
   "group": "Energy",
-  "weight_percent": 0.12,
-  "holding_price": 49.65,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.11,
+  "holding_price": 47.33,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "AROC",
   "name": "ARCHROCK",
   "group": "Energy",
-  "weight_percent": 0.19,
-  "holding_price": 31.7,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.18,
+  "holding_price": 31.45,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

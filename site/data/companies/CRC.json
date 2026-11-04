@@ -3,9 +3,9 @@
   "source_ticker": "CRC",
   "name": "CALIFORNIA RESOURCES",
   "group": "Energy",
-  "weight_percent": 0.14,
-  "holding_price": 55.46,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.13,
+  "holding_price": 51.38,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

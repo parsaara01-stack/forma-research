@@ -3,9 +3,9 @@
   "source_ticker": "CVI",
   "name": "CVR ENERGY INC",
   "group": "Energy",
-  "weight_percent": 0.06,
-  "holding_price": 58.37,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.05,
+  "holding_price": 48.6,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

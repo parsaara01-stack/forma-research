@@ -3,10 +3,10 @@
   "source_ticker": "OBK",
   "name": "ORIGIN BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 52.66,
-  "price_date": "2026-10-30",
-  "exchange": "TXE",
+  "weight_percent": 0.06,
+  "holding_price": 53.62,
+  "price_date": "2026-11-03",
+  "exchange": "NYSE",
   "facts": {
     "net_income": {
       "value": 75197000,

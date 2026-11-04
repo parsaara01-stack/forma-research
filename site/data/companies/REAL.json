@@ -3,9 +3,9 @@
   "source_ticker": "REAL",
   "name": "THE REALREAL",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.04,
-  "holding_price": 11.96,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.05,
+  "holding_price": 12.7,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

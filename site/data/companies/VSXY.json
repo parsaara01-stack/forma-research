@@ -3,9 +3,9 @@
   "source_ticker": "VSXY",
   "name": "VICTORIA S SECRET",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.24,
-  "holding_price": 96.62,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.25,
+  "holding_price": 100.53,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

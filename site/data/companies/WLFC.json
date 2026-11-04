@@ -3,9 +3,9 @@
   "source_ticker": "WLFC",
   "name": "WILLIS LEASE FINANCE",
   "group": "Industrials",
-  "weight_percent": 0.01,
-  "holding_price": 41.6,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.02,
+  "holding_price": 43.05,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

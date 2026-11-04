@@ -3,9 +3,9 @@
   "source_ticker": "STEP",
   "name": "STEPSTONE GROUP CLASS A",
   "group": "Financials",
-  "weight_percent": 0.11,
-  "holding_price": 43.22,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.12,
+  "holding_price": 44.38,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

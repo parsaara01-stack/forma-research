@@ -3,9 +3,9 @@
   "source_ticker": "ICUI",
   "name": "ICU MEDICAL",
   "group": "Health Care",
-  "weight_percent": 0.14,
-  "holding_price": 163.78,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.13,
+  "holding_price": 161.83,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

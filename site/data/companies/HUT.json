@@ -3,9 +3,9 @@
   "source_ticker": "HUT",
   "name": "HUT CORP",
   "group": "Information Technology",
-  "weight_percent": 0.21,
-  "holding_price": 59.4,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.22,
+  "holding_price": 63.75,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -4,9 +4,9 @@
   "name": "INTERNATIONAL BANCSHARES CORP",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 66.86,
-  "price_date": "2026-10-30",
-  "exchange": "TXE",
+  "holding_price": 67.57,
+  "price_date": "2026-11-03",
+  "exchange": "NASDAQ",
   "facts": {
     "net_income": {
       "value": 412293000,

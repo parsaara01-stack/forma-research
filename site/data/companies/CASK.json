@@ -1,0 +1,13 @@
+{
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "ticker": "CASK",
+  "source_ticker": "CASK",
+  "name": "SEMPREON INC",
+  "group": "Consumer Staples",
+  "weight_percent": 0.01,
+  "holding_price": 16.98,
+  "price_date": "2026-11-03",
+  "exchange": "NASDAQ"
+}

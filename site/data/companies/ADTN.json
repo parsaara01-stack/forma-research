@@ -3,9 +3,9 @@
   "source_ticker": "ADTN",
   "name": "ADTRAN HOLDINGS INC",
   "group": "Information Technology",
-  "weight_percent": 0.02,
-  "holding_price": 6.53,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.01,
+  "holding_price": 5.06,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

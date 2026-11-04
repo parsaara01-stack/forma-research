@@ -1,11 +1,11 @@
 {
   "ticker": "SUPN",
   "source_ticker": "SUPN",
-  "name": "SUPERNUS PHARMACEUTICALS",
+  "name": "SUPERNUS",
   "group": "Health Care",
-  "weight_percent": 0.08,
-  "holding_price": 41.92,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.19,
+  "holding_price": 28.15,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

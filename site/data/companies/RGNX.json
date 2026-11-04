@@ -3,9 +3,9 @@
   "source_ticker": "RGNX",
   "name": "REGENXBIO",
   "group": "Health Care",
-  "weight_percent": 0.01,
-  "holding_price": 7.2,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.02,
+  "holding_price": 7.63,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

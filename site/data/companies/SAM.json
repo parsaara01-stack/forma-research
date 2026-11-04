@@ -3,9 +3,9 @@
   "source_ticker": "SAM",
   "name": "BOSTON BEER CLASS A",
   "group": "Consumer Staples",
-  "weight_percent": 0.05,
-  "holding_price": 201.31,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.06,
+  "holding_price": 215.46,
+  "price_date": "2026-11-03",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

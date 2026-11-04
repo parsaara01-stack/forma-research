@@ -3,9 +3,9 @@
   "source_ticker": "PTEN",
   "name": "PATTERSON UTI ENERGY INC",
   "group": "Energy",
-  "weight_percent": 0.17,
-  "holding_price": 13.32,
-  "price_date": "2026-10-30",
+  "weight_percent": 0.15,
+  "holding_price": 11.75,
+  "price_date": "2026-11-03",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
