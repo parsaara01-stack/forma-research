@@ -4,8 +4,8 @@
   "name": "DOUGLAS DYNAMICS INC",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 36.66,
-  "price_date": "2026-11-03",
+  "holding_price": 38.12,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001287213.json",
-    "sha256": "abca7d06452522a37e2159e45f15ba1f2d8b06730a0c4dfb901371f1ec1c2f3c",
-    "retrieved_at": "2026-11-03T15:26:12.660828+00:00",
-    "raw_path": "data/raw/abca7d06452522a37e2159e45f15ba1f2d8b06730a0c4dfb901371f1ec1c2f3c.json.gz"
+    "sha256": "fb6dfe84d61c5702cd0ea2970f2285d1b8a75431361d208565f62b8f6a3cfc69",
+    "retrieved_at": "2026-11-06T15:16:42.088649+00:00",
+    "raw_path": "data/raw/fb6dfe84d61c5702cd0ea2970f2285d1b8a75431361d208565f62b8f6a3cfc69.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1287213/000143774926005316/0001437749-26-005316-index.html",
   "earnings": {

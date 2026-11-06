@@ -4,8 +4,8 @@
   "name": "STOKE THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.05,
-  "holding_price": 26.99,
-  "price_date": "2026-11-03",
+  "holding_price": 27.45,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001623526.json",
-    "sha256": "fdf802822fdb35091b94689932e5c1d67febb96d82c73a405a8d56852f1aaf8e",
-    "retrieved_at": "2026-11-03T15:25:16.819819+00:00",
-    "raw_path": "data/raw/fdf802822fdb35091b94689932e5c1d67febb96d82c73a405a8d56852f1aaf8e.json.gz"
+    "sha256": "570951d42e31e4a35da8051e6781a735f398638f14184fc7d19fed53f530088a",
+    "retrieved_at": "2026-11-06T15:15:41.894393+00:00",
+    "raw_path": "data/raw/570951d42e31e4a35da8051e6781a735f398638f14184fc7d19fed53f530088a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1623526/000119312526108362/0001193125-26-108362-index.html",
   "earnings": {

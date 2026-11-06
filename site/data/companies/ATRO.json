@@ -3,9 +3,9 @@
   "source_ticker": "ATRO",
   "name": "ASTRONICS",
   "group": "Industrials",
-  "weight_percent": 0.07,
-  "holding_price": 60.91,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.06,
+  "holding_price": 57.48,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000008063.json",
     "sha256": "0acf79c8e7e539d1d1e1de948f7d898a1c05a4a08652636e75c94792102fecc3",
-    "retrieved_at": "2026-11-03T15:24:43.247886+00:00",
+    "retrieved_at": "2026-11-06T15:15:16.339156+00:00",
     "raw_path": "data/raw/0acf79c8e7e539d1d1e1de948f7d898a1c05a4a08652636e75c94792102fecc3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/8063/000000806326000021/0000008063-26-000021-index.html",

@@ -4,8 +4,8 @@
   "name": "MARZETTI",
   "group": "Consumer Staples",
   "weight_percent": 0.07,
-  "holding_price": 109.88,
-  "price_date": "2026-11-03",
+  "holding_price": 112.1,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000057515.json",
     "sha256": "9e67c567a65cce57e7465ff13451317c845ac45ed4d4e7b8eb321e6de7563d99",
-    "retrieved_at": "2026-11-03T15:24:23.516808+00:00",
+    "retrieved_at": "2026-11-06T15:14:47.993866+00:00",
     "raw_path": "data/raw/9e67c567a65cce57e7465ff13451317c845ac45ed4d4e7b8eb321e6de7563d99.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/57515/000005751526000019/0000057515-26-000019-index.html",

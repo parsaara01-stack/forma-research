@@ -4,8 +4,8 @@
   "name": "ZENAS BIOPHARMA",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 28.38,
-  "price_date": "2026-11-03",
+  "holding_price": 28.46,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001953926.json",
-    "sha256": "bd79c6d0fc0258ae5600e6e4156de5e3d36c0693f6d1939f3fb6019844471737",
-    "retrieved_at": "2026-11-03T15:25:59.065179+00:00",
-    "raw_path": "data/raw/bd79c6d0fc0258ae5600e6e4156de5e3d36c0693f6d1939f3fb6019844471737.json.gz"
+    "sha256": "73549c39cb68c05190a8b1f7b8e80d522f2029d6611f923ff94eaf02a6df0482",
+    "retrieved_at": "2026-11-06T15:16:28.714487+00:00",
+    "raw_path": "data/raw/73549c39cb68c05190a8b1f7b8e80d522f2029d6611f923ff94eaf02a6df0482.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1953926/000110465926027964/0001104659-26-027964-index.html",
   "earnings": {

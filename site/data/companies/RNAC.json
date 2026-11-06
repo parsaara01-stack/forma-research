@@ -4,8 +4,8 @@
   "name": "CARTESIAN THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 6.41,
-  "price_date": "2026-11-03",
+  "holding_price": 6.82,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001453687.json",
-    "sha256": "1a706a4a3075779870f74e28a93e529a3aaa5f3c0c605cd926f6725bc8e3826e",
-    "retrieved_at": "2026-11-03T15:30:15.479150+00:00",
-    "raw_path": "data/raw/1a706a4a3075779870f74e28a93e529a3aaa5f3c0c605cd926f6725bc8e3826e.json.gz"
+    "sha256": "ed8af7fe92725d05e1411a66952ce006d4f8185086c1a14bcfa07027c01a8047",
+    "retrieved_at": "2026-11-06T15:20:41.800850+00:00",
+    "raw_path": "data/raw/ed8af7fe92725d05e1411a66952ce006d4f8185086c1a14bcfa07027c01a8047.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1453687/000145368726000064/0001453687-26-000064-index.html",
   "earnings": {

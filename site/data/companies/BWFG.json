@@ -4,8 +4,8 @@
   "name": "BANKWELL FINANCIAL GROUP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 71.68,
-  "price_date": "2026-11-03",
+  "holding_price": 73.27,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001505732.json",
-    "sha256": "7e5f3ddf3a00074b942d2c02c19607b9db06e1629bf638d2d0caffc665c6c97f",
-    "retrieved_at": "2026-11-03T15:27:32.515791+00:00",
-    "raw_path": "data/raw/7e5f3ddf3a00074b942d2c02c19607b9db06e1629bf638d2d0caffc665c6c97f.json.gz"
+    "sha256": "df9b6ba5a576ec175afb8e2935a80ea31b6352cebb4e23dcb1b1303dca818980",
+    "retrieved_at": "2026-11-06T15:17:59.054620+00:00",
+    "raw_path": "data/raw/df9b6ba5a576ec175afb8e2935a80ea31b6352cebb4e23dcb1b1303dca818980.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1505732/000150573226000046/0001505732-26-000046-index.html",
   "earnings": {

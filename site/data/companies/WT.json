@@ -4,8 +4,8 @@
   "name": "WISDOMTREE",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 19.74,
-  "price_date": "2026-11-03",
+  "holding_price": 20.03,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000880631.json",
-    "sha256": "010c181e795f5475c95e567934c06ec06bc731e2a13d962e2489daa4c354f823",
-    "retrieved_at": "2026-11-03T15:23:48.576871+00:00",
-    "raw_path": "data/raw/010c181e795f5475c95e567934c06ec06bc731e2a13d962e2489daa4c354f823.json.gz"
+    "sha256": "e1200bbbbb64cc2f395dc87a1e5ec6fbad45e76feadc7965351178b1734381a8",
+    "retrieved_at": "2026-11-06T15:14:27.014045+00:00",
+    "raw_path": "data/raw/e1200bbbbb64cc2f395dc87a1e5ec6fbad45e76feadc7965351178b1734381a8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/880631/000121465926002458/0001214659-26-002458-index.html",
   "earnings": {

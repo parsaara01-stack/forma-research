@@ -3,9 +3,9 @@
   "source_ticker": "NPO",
   "name": "ENPRO",
   "group": "Industrials",
-  "weight_percent": 0.21,
-  "holding_price": 285.27,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.2,
+  "holding_price": 277.47,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001164863.json",
-    "sha256": "205d2e60a24855e335af816ac299647610e66e2be4766e1edd5f2ed588d8d319",
-    "retrieved_at": "2026-11-03T15:22:40.449901+00:00",
-    "raw_path": "data/raw/205d2e60a24855e335af816ac299647610e66e2be4766e1edd5f2ed588d8d319.json.gz"
+    "sha256": "e6ed0d15896ebe262a438f68a8921a7c5dfeb851caef79a77ef98b2aff81852d",
+    "retrieved_at": "2026-11-06T15:13:09.082011+00:00",
+    "raw_path": "data/raw/e6ed0d15896ebe262a438f68a8921a7c5dfeb851caef79a77ef98b2aff81852d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1164863/000162828026009798/0001628280-26-009798-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "SLDP",
   "name": "SOLID POWER CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.01,
-  "holding_price": 2.03,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.02,
+  "holding_price": 2.25,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001844862.json",
-    "sha256": "9c593ea3495106d4549afbabf9dd0373edfdcd1020ad80b470827bde0c4da325",
-    "retrieved_at": "2026-11-03T15:27:49.006666+00:00",
-    "raw_path": "data/raw/9c593ea3495106d4549afbabf9dd0373edfdcd1020ad80b470827bde0c4da325.json.gz"
+    "sha256": "515c8ae2cf3601783e6932035dd306efd46a51b5e7e0cbaba028a035cc19dffd",
+    "retrieved_at": "2026-11-06T15:18:02.086479+00:00",
+    "raw_path": "data/raw/515c8ae2cf3601783e6932035dd306efd46a51b5e7e0cbaba028a035cc19dffd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1844862/000110465926019435/0001104659-26-019435-index.html",
   "earnings": {

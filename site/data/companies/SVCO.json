@@ -4,8 +4,8 @@
   "name": "SILVACO GROUP INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 6.11,
-  "price_date": "2026-11-03",
+  "holding_price": 5.82,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001943289.json",
-    "sha256": "32ce896e7ae569429e1acd600b1550a2cbd01f3db3c14189d8aff00cdbb8e2af",
-    "retrieved_at": "2026-11-03T15:30:17.221091+00:00",
-    "raw_path": "data/raw/32ce896e7ae569429e1acd600b1550a2cbd01f3db3c14189d8aff00cdbb8e2af.json.gz"
+    "sha256": "92dcc6773423e460cca68d5f6afe96653b668e2a1fa63352b0859e2384cd54e4",
+    "retrieved_at": "2026-11-06T15:20:47.792583+00:00",
+    "raw_path": "data/raw/92dcc6773423e460cca68d5f6afe96653b668e2a1fa63352b0859e2384cd54e4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1943289/000162828026017378/0001628280-26-017378-index.html",
   "earnings": {

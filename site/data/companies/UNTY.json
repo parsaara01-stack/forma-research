@@ -3,9 +3,9 @@
   "source_ticker": "UNTY",
   "name": "UNITY BANCORP INC",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 57.88,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.02,
+  "holding_price": 59.35,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000920427.json",
-    "sha256": "b1ca9cee723ab8d321ace671d73d43026fa7e086d21fcb51a929ddd8db80445f",
-    "retrieved_at": "2026-11-03T15:27:42.422514+00:00",
-    "raw_path": "data/raw/b1ca9cee723ab8d321ace671d73d43026fa7e086d21fcb51a929ddd8db80445f.json.gz"
+    "sha256": "b5407747dc4f1a52e95bcf360f375f1370da715b03bdb26fd88b9c0785363ff2",
+    "retrieved_at": "2026-11-06T15:18:05.737564+00:00",
+    "raw_path": "data/raw/b5407747dc4f1a52e95bcf360f375f1370da715b03bdb26fd88b9c0785363ff2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/920427/000092042726000012/0000920427-26-000012-index.html",
   "earnings": {

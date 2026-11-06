@@ -4,8 +4,8 @@
   "name": "EASTERN BANKSHARES INC",
   "group": "Financials",
   "weight_percent": 0.16,
-  "holding_price": 22.7,
-  "price_date": "2026-11-03",
+  "holding_price": 23.31,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001810546.json",
-    "sha256": "f6c48ac6d7c87c60a86fe8c1482f7a90c2e4001c413ed1afe2e1f85c65d27a58",
-    "retrieved_at": "2026-11-03T15:22:54.137913+00:00",
-    "raw_path": "data/raw/f6c48ac6d7c87c60a86fe8c1482f7a90c2e4001c413ed1afe2e1f85c65d27a58.json.gz"
+    "sha256": "fd2c6e3531749d930dbc77ed33e0c0e72c911f785ffc77ca03cfd8a4ab417696",
+    "retrieved_at": "2026-11-06T15:13:26.424097+00:00",
+    "raw_path": "data/raw/fd2c6e3531749d930dbc77ed33e0c0e72c911f785ffc77ca03cfd8a4ab417696.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1810546/000162828026013126/0001628280-26-013126-index.html",
   "earnings": {

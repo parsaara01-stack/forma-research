@@ -4,8 +4,8 @@
   "name": "MARRIOTT VACATIONS WORLDWIDE",
   "group": "Consumer Discretionary",
   "weight_percent": 0.11,
-  "holding_price": 118.59,
-  "price_date": "2026-11-03",
+  "holding_price": 114.41,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001524358.json",
-    "sha256": "b6dfee38cde38957d5be2a5e65f6451707eed0e515b722f1854c5a746675d5a0",
-    "retrieved_at": "2026-11-03T15:23:35.369746+00:00",
-    "raw_path": "data/raw/b6dfee38cde38957d5be2a5e65f6451707eed0e515b722f1854c5a746675d5a0.json.gz"
+    "sha256": "ade6452c174f6ed4888f0a1a247970847ec077cc3c967cda097ec0e8be7032ee",
+    "retrieved_at": "2026-11-06T15:14:08.146844+00:00",
+    "raw_path": "data/raw/ade6452c174f6ed4888f0a1a247970847ec077cc3c967cda097ec0e8be7032ee.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1524358/000152435826000010/0001524358-26-000010-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "CELLDEX THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.08,
-  "holding_price": 29.71,
-  "price_date": "2026-11-03",
+  "holding_price": 29.93,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000744218.json",
-    "sha256": "a253f724b1319f3eeec0fb678b43576159c8fa993fc97e4268adfafa9963e2f2",
-    "retrieved_at": "2026-11-03T15:24:16.157355+00:00",
-    "raw_path": "data/raw/a253f724b1319f3eeec0fb678b43576159c8fa993fc97e4268adfafa9963e2f2.json.gz"
+    "sha256": "3de13ddf880dc971e9f4e1d433678d3b0875b806179faae6e54a930ba01ff2be",
+    "retrieved_at": "2026-11-06T15:14:44.255156+00:00",
+    "raw_path": "data/raw/3de13ddf880dc971e9f4e1d433678d3b0875b806179faae6e54a930ba01ff2be.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/744218/000110465926019652/0001104659-26-019652-index.html",
   "earnings": {

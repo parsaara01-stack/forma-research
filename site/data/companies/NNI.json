@@ -4,8 +4,8 @@
   "name": "NELNET CLASS A",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 122.54,
-  "price_date": "2026-11-03",
+  "holding_price": 127.58,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001258602.json",
-    "sha256": "b7808c49c80b34ceb4c93b8748e92c5873685487ebcbfca30fc34595b226ea6b",
-    "retrieved_at": "2026-11-03T15:24:48.163174+00:00",
-    "raw_path": "data/raw/b7808c49c80b34ceb4c93b8748e92c5873685487ebcbfca30fc34595b226ea6b.json.gz"
+    "sha256": "936876dff2c404649f8e8e216e810b435af1642f25c2a3fbe3cc47112ec92ca2",
+    "retrieved_at": "2026-11-06T15:15:10.469552+00:00",
+    "raw_path": "data/raw/936876dff2c404649f8e8e216e810b435af1642f25c2a3fbe3cc47112ec92ca2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1258602/000125860226000014/0001258602-26-000014-index.html",
   "earnings": {

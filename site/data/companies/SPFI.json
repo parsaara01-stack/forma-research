@@ -4,8 +4,8 @@
   "name": "SOUTH PLAINS FINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 43.42,
-  "price_date": "2026-11-03",
+  "holding_price": 43.94,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001163668.json",
-    "sha256": "e1cc62bbcc5e6247ed9bc6f28e231a69a306f015da10c5671eb44683281b5654",
-    "retrieved_at": "2026-11-03T15:26:44.394692+00:00",
-    "raw_path": "data/raw/e1cc62bbcc5e6247ed9bc6f28e231a69a306f015da10c5671eb44683281b5654.json.gz"
+    "sha256": "b5a2a0d310753591cf9a3102f45d6b850f643a83e8d84b45d1f8359e8ad03ed7",
+    "retrieved_at": "2026-11-06T15:17:12.217554+00:00",
+    "raw_path": "data/raw/b5a2a0d310753591cf9a3102f45d6b850f643a83e8d84b45d1f8359e8ad03ed7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126008087/0001140361-26-008087-index.html",
   "earnings": {

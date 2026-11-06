@@ -4,8 +4,8 @@
   "name": "ATLANTICUS HOLDINGS CORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 92.49,
-  "price_date": "2026-11-03",
+  "holding_price": 99.75,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001464343.json",
-    "sha256": "a41b77c25bf2f127c0b140efe192de1ac41cddec13769a9fa8f5404f10740513",
-    "retrieved_at": "2026-11-03T15:27:28.359196+00:00",
-    "raw_path": "data/raw/a41b77c25bf2f127c0b140efe192de1ac41cddec13769a9fa8f5404f10740513.json.gz"
+    "sha256": "d7e172d5c7c3021cec405aa8ac47e2c1fc7e5729a4ce1e2158c514e471b1add4",
+    "retrieved_at": "2026-11-06T15:17:52.389742+00:00",
+    "raw_path": "data/raw/d7e172d5c7c3021cec405aa8ac47e2c1fc7e5729a4ce1e2158c514e471b1add4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1464343/000143774926007972/0001437749-26-007972-index.html",
   "earnings": {

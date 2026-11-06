@@ -4,8 +4,8 @@
   "name": "ALLOGENE THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 1.12,
-  "price_date": "2026-11-03",
+  "holding_price": 1.19,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001737287.json",
-    "sha256": "72fd10b01924601ea6c5521bb9259a3cc61e2cf80754530b1d76b345fa61c5a8",
-    "retrieved_at": "2026-11-03T15:28:25.992688+00:00",
-    "raw_path": "data/raw/72fd10b01924601ea6c5521bb9259a3cc61e2cf80754530b1d76b345fa61c5a8.json.gz"
+    "sha256": "d24fe55c7170ca2fd86b5d66946cce01f6ce959640e97edfee595180d78e7e9e",
+    "retrieved_at": "2026-11-06T15:18:56.035493+00:00",
+    "raw_path": "data/raw/d24fe55c7170ca2fd86b5d66946cce01f6ce959640e97edfee595180d78e7e9e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1737287/000162828026017242/0001628280-26-017242-index.html",
   "earnings": {

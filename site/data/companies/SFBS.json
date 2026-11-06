@@ -3,9 +3,9 @@
   "source_ticker": "SFBS",
   "name": "SERVISFIRST BANCSHARES INC",
   "group": "Financials",
-  "weight_percent": 0.14,
-  "holding_price": 40.85,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.15,
+  "holding_price": 41.88,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -139,12 +139,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001430723.json",
-    "sha256": "38729ac712412885c2529b62cb199f267563ac040c99d6baa83c92e1b60817ba",
-    "retrieved_at": "2026-11-03T15:23:08.409178+00:00",
-    "raw_path": "data/raw/38729ac712412885c2529b62cb199f267563ac040c99d6baa83c92e1b60817ba.json.gz"
+    "sha256": "777aeb63e910485a24f8c85f47efd34e8d6f20b14e23245d9b63ae85d25584b5",
+    "retrieved_at": "2026-11-06T15:13:33.393718+00:00",
+    "raw_path": "data/raw/777aeb63e910485a24f8c85f47efd34e8d6f20b14e23245d9b63ae85d25584b5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326001150/0001171843-26-001150-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "MAC",
   "name": "MACERICH REIT",
   "group": "Real Estate",
-  "weight_percent": 0.24,
-  "holding_price": 24.74,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.25,
+  "holding_price": 25.9,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912242.json",
-    "sha256": "9030041af9369de2bd390757444e74a2a473e2d0f8156594fbb5eaafc21c6236",
-    "retrieved_at": "2026-11-03T15:22:29.691846+00:00",
-    "raw_path": "data/raw/9030041af9369de2bd390757444e74a2a473e2d0f8156594fbb5eaafc21c6236.json.gz"
+    "sha256": "a5528c1d0624d0a1b288909bc29e5d5abfcab5c048b0141af63b5c1ee97e43a0",
+    "retrieved_at": "2026-11-06T15:12:59.766826+00:00",
+    "raw_path": "data/raw/a5528c1d0624d0a1b288909bc29e5d5abfcab5c048b0141af63b5c1ee97e43a0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/912242/000091224226000016/0000912242-26-000016-index.html",
   "earnings": {

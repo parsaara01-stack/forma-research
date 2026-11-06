@@ -3,9 +3,9 @@
   "source_ticker": "ARQT",
   "name": "ARCUTIS BIOTHERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.12,
-  "holding_price": 32.0,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.13,
+  "holding_price": 34.05,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001787306.json",
-    "sha256": "e10fdeb472e3eb1460936c194c8109f22df3f8bd8bc987f00f57e5a3a517070f",
-    "retrieved_at": "2026-11-03T15:23:23.709159+00:00",
-    "raw_path": "data/raw/e10fdeb472e3eb1460936c194c8109f22df3f8bd8bc987f00f57e5a3a517070f.json.gz"
+    "sha256": "077d1207f790fbce48eca28f04cac3b30c1a11ea3bc5743959c3274f22f7bd88",
+    "retrieved_at": "2026-11-06T15:13:46.769157+00:00",
+    "raw_path": "data/raw/077d1207f790fbce48eca28f04cac3b30c1a11ea3bc5743959c3274f22f7bd88.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000018/0001787306-26-000018-index.html",
   "earnings": {

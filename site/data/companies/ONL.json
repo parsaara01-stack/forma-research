@@ -4,8 +4,8 @@
   "name": "ORION PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.0,
-  "holding_price": 2.47,
-  "price_date": "2026-11-03",
+  "holding_price": 2.48,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873923.json",
-    "sha256": "f57b9ee89f83afdc7c3119fefaf75f21f9ebe3ababff88098f2d31bd43e672e7",
-    "retrieved_at": "2026-11-03T15:30:02.225214+00:00",
-    "raw_path": "data/raw/f57b9ee89f83afdc7c3119fefaf75f21f9ebe3ababff88098f2d31bd43e672e7.json.gz"
+    "sha256": "b61261f0c9678469dc2ad5eae6840450233c5d245b5a252834ec525d2e3f91c4",
+    "retrieved_at": "2026-11-06T15:20:28.035216+00:00",
+    "raw_path": "data/raw/b61261f0c9678469dc2ad5eae6840450233c5d245b5a252834ec525d2e3f91c4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1873923/000187392326000038/0001873923-26-000038-index.html",
   "earnings": {

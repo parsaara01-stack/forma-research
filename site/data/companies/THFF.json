@@ -4,8 +4,8 @@
   "name": "FIRST FINANCIAL CORPORATION CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 77.66,
-  "price_date": "2026-11-03",
+  "holding_price": 79.22,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000714562.json",
-    "sha256": "fbe3d465469fffb45752de56b28941dca6b86c0d15ccbbe07ec1040baf9a8cbb",
-    "retrieved_at": "2026-11-03T15:26:09.385060+00:00",
-    "raw_path": "data/raw/fbe3d465469fffb45752de56b28941dca6b86c0d15ccbbe07ec1040baf9a8cbb.json.gz"
+    "sha256": "562cd0135825a0a241471b1e90c7ba917e34918d310d4b7951c14c31bb2a7e0e",
+    "retrieved_at": "2026-11-06T15:16:33.076301+00:00",
+    "raw_path": "data/raw/562cd0135825a0a241471b1e90c7ba917e34918d310d4b7951c14c31bb2a7e0e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000014/0000714562-26-000014-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "SPYRE THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.25,
-  "holding_price": 99.27,
-  "price_date": "2026-11-03",
+  "holding_price": 99.04,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001636282.json",
-    "sha256": "b84441a0579d4d3c7904cba1b122f8860b4f89e902b38a0158dde2cf05362e03",
-    "retrieved_at": "2026-11-03T15:22:28.410394+00:00",
-    "raw_path": "data/raw/b84441a0579d4d3c7904cba1b122f8860b4f89e902b38a0158dde2cf05362e03.json.gz"
+    "sha256": "39fbc2985f83099750915814bab54cf8ea5478a8ffef77aa9fed31059c6a6aa1",
+    "retrieved_at": "2026-11-06T15:12:59.476944+00:00",
+    "raw_path": "data/raw/39fbc2985f83099750915814bab54cf8ea5478a8ffef77aa9fed31059c6a6aa1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000020/0001636282-26-000020-index.html",
   "earnings": {

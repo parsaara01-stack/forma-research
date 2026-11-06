@@ -4,8 +4,8 @@
   "name": "FIRST FINANCIAL BANKSHARES INC",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 31.04,
-  "price_date": "2026-11-03",
+  "holding_price": 31.42,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,12 +151,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000036029.json",
-    "sha256": "421dfa1701dbf5b0bd7a83ca5956bfc965e6f92b8a4c4c2393f4d25b44a4eef5",
-    "retrieved_at": "2026-11-03T15:23:12.740729+00:00",
-    "raw_path": "data/raw/421dfa1701dbf5b0bd7a83ca5956bfc965e6f92b8a4c4c2393f4d25b44a4eef5.json.gz"
+    "sha256": "5a69147b2238fe03cac2a83b33d7b0e2dc2882fb8a8c122c68af57c08eb50eb9",
+    "retrieved_at": "2026-11-06T15:13:39.810832+00:00",
+    "raw_path": "data/raw/5a69147b2238fe03cac2a83b33d7b0e2dc2882fb8a8c122c68af57c08eb50eb9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/36029/000119312526071549/0001193125-26-071549-index.html",
   "earnings": {

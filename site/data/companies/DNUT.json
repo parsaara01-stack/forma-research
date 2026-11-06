@@ -4,8 +4,8 @@
   "name": "KRISPY KREME",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 3.27,
-  "price_date": "2026-11-03",
+  "holding_price": 3.52,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001857154.json",
-    "sha256": "bac4dff1a8764a50c6c47ac55c861f4922ccabdc82e51dca1f8bf46a9f27811f",
-    "retrieved_at": "2026-11-03T15:28:36.253742+00:00",
-    "raw_path": "data/raw/bac4dff1a8764a50c6c47ac55c861f4922ccabdc82e51dca1f8bf46a9f27811f.json.gz"
+    "sha256": "f4d0517417e810563f0349679316ebb3c30f588fbb07a91f7593ede06d24716a",
+    "retrieved_at": "2026-11-06T15:18:57.455897+00:00",
+    "raw_path": "data/raw/f4d0517417e810563f0349679316ebb3c30f588fbb07a91f7593ede06d24716a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1857154/000185715426000015/0001857154-26-000015-index.html",
   "earnings": {

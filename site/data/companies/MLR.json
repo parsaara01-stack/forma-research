@@ -4,8 +4,8 @@
   "name": "MILLER INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 52.24,
-  "price_date": "2026-11-03",
+  "holding_price": 52.07,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000924822.json",
-    "sha256": "59b2f9b709dc9db768704a24036921c3ad4bb14e7ba860277d8babea1848dc4a",
-    "retrieved_at": "2026-11-03T15:26:56.618454+00:00",
-    "raw_path": "data/raw/59b2f9b709dc9db768704a24036921c3ad4bb14e7ba860277d8babea1848dc4a.json.gz"
+    "sha256": "ec26a69e81710276cfb7b7be7589062d034ad1bc3ec6c75ee2e6c7ede09f400c",
+    "retrieved_at": "2026-11-06T15:17:21.149514+00:00",
+    "raw_path": "data/raw/ec26a69e81710276cfb7b7be7589062d034ad1bc3ec6c75ee2e6c7ede09f400c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/924822/000110465926023486/0001104659-26-023486-index.html",
   "earnings": {

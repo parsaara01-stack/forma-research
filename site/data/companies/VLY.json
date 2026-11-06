@@ -4,8 +4,8 @@
   "name": "VALLEY NATIONAL",
   "group": "Financials",
   "weight_percent": 0.24,
-  "holding_price": 14.27,
-  "price_date": "2026-11-03",
+  "holding_price": 14.49,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000714310.json",
-    "sha256": "5b286b7d95823827c7cce327796627f67df9a05dde1784277c9d94b24e16a7f6",
-    "retrieved_at": "2026-11-03T15:22:31.135324+00:00",
-    "raw_path": "data/raw/5b286b7d95823827c7cce327796627f67df9a05dde1784277c9d94b24e16a7f6.json.gz"
+    "sha256": "95fc06d2120bc61426a6e67755127ab60469bf8efd1aa48f3402fb071be99438",
+    "retrieved_at": "2026-11-06T15:13:02.001493+00:00",
+    "raw_path": "data/raw/95fc06d2120bc61426a6e67755127ab60469bf8efd1aa48f3402fb071be99438.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/714310/000071431026000017/0000714310-26-000017-index.html",
   "earnings": {

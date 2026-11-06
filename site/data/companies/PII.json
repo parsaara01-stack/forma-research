@@ -3,9 +3,9 @@
   "source_ticker": "PII",
   "name": "POLARIS INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.12,
-  "holding_price": 62.9,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.13,
+  "holding_price": 67.7,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000931015.json",
     "sha256": "31e69122b01a5e6ebe65bdad89f73a88e8ec5cb806d9cc7d2ca70073329540f2",
-    "retrieved_at": "2026-11-03T15:23:32.558221+00:00",
+    "retrieved_at": "2026-11-06T15:13:50.096510+00:00",
     "raw_path": "data/raw/31e69122b01a5e6ebe65bdad89f73a88e8ec5cb806d9cc7d2ca70073329540f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/931015/000162828026008033/0001628280-26-008033-index.html",

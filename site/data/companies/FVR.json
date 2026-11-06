@@ -4,8 +4,8 @@
   "name": "FRONTVIEW REIT",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 18.78,
-  "price_date": "2026-11-03",
+  "holding_price": 19.3,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001988494.json",
-    "sha256": "7e4d0e4ee55b4eb58359b0ebe12a395b75ef1b6b7e9be7ccf010fe5c3d28b875",
-    "retrieved_at": "2026-11-03T15:28:14.221816+00:00",
-    "raw_path": "data/raw/7e4d0e4ee55b4eb58359b0ebe12a395b75ef1b6b7e9be7ccf010fe5c3d28b875.json.gz"
+    "sha256": "0fe9002135380e342df99b6fcd9435be6b8c9094def50bc61621c1e3e78c594b",
+    "retrieved_at": "2026-11-06T15:18:32.837650+00:00",
+    "raw_path": "data/raw/0fe9002135380e342df99b6fcd9435be6b8c9094def50bc61621c1e3e78c594b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526072181/0001193125-26-072181-index.html",
   "earnings": {

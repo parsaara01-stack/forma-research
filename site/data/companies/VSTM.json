@@ -4,8 +4,8 @@
   "name": "VERASTEM INC",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 9.77,
-  "price_date": "2026-11-03",
+  "holding_price": 9.85,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001526119.json",
-    "sha256": "1fdf17c010290b7e1d75ca50116ebf5147370cc5fd831f4c333aa5b8c763e7e8",
-    "retrieved_at": "2026-11-03T15:26:26.288271+00:00",
-    "raw_path": "data/raw/1fdf17c010290b7e1d75ca50116ebf5147370cc5fd831f4c333aa5b8c763e7e8.json.gz"
+    "sha256": "d55253de35d82f89028e8741850ca159893cdb492e08d7bc58b542d8990932f0",
+    "retrieved_at": "2026-11-06T15:16:54.248179+00:00",
+    "raw_path": "data/raw/d55253de35d82f89028e8741850ca159893cdb492e08d7bc58b542d8990932f0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926023444/0001104659-26-023444-index.html",
   "earnings": {

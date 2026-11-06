@@ -4,8 +4,8 @@
   "name": "VITESSE ENERGY INC",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 15.45,
-  "price_date": "2026-11-03",
+  "holding_price": 14.67,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001944558.json",
     "sha256": "408d452bd19439120837245619ff792b0a8ab4eb821564ead1d36e07d87f3fc0",
-    "retrieved_at": "2026-11-03T15:27:06.816801+00:00",
+    "retrieved_at": "2026-11-06T15:17:59.794531+00:00",
     "raw_path": "data/raw/408d452bd19439120837245619ff792b0a8ab4eb821564ead1d36e07d87f3fc0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1944558/000194455826000009/0001944558-26-000009-index.html",

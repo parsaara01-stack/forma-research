@@ -4,8 +4,8 @@
   "name": "PROGYNY",
   "group": "Health Care",
   "weight_percent": 0.07,
-  "holding_price": 29.06,
-  "price_date": "2026-11-03",
+  "holding_price": 30.1,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001551306.json",
-    "sha256": "aacb8627450d73523403790c070e2566ba74639031de9c634be823d5569fd64f",
-    "retrieved_at": "2026-11-03T15:24:26.782923+00:00",
-    "raw_path": "data/raw/aacb8627450d73523403790c070e2566ba74639031de9c634be823d5569fd64f.json.gz"
+    "sha256": "e9b73c81ad6df86577fdf969cc28b6365160fc8eee04bc8c7c95fc0ae50fae93",
+    "retrieved_at": "2026-11-06T15:14:50.246469+00:00",
+    "raw_path": "data/raw/e9b73c81ad6df86577fdf969cc28b6365160fc8eee04bc8c7c95fc0ae50fae93.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1551306/000155130626000020/0001551306-26-000020-index.html",
   "earnings": {

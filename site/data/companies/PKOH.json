@@ -3,9 +3,9 @@
   "source_ticker": "PKOH",
   "name": "PARK OHIO HOLDINGS CORP",
   "group": "Industrials",
-  "weight_percent": 0.02,
-  "holding_price": 44.17,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.01,
+  "holding_price": 43.5,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000076282.json",
-    "sha256": "89e7a629a088e62b6e2b8f9551e0d1b20bffa400ad940fc2b7628b060054b107",
-    "retrieved_at": "2026-11-03T15:27:39.985980+00:00",
-    "raw_path": "data/raw/89e7a629a088e62b6e2b8f9551e0d1b20bffa400ad940fc2b7628b060054b107.json.gz"
+    "sha256": "b69b434ef24308293b726ef8c7a7f12f498706ef172c4b9802ac91fe3f8639ba",
+    "retrieved_at": "2026-11-06T15:18:08.524931+00:00",
+    "raw_path": "data/raw/b69b434ef24308293b726ef8c7a7f12f498706ef172c4b9802ac91fe3f8639ba.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/76282/000007628226000007/0000076282-26-000007-index.html",
   "earnings": {

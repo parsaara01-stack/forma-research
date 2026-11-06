@@ -3,9 +3,9 @@
   "source_ticker": "DK",
   "name": "DELEK US HOLDINGS INC",
   "group": "Energy",
-  "weight_percent": 0.15,
-  "holding_price": 70.85,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.13,
+  "holding_price": 65.46,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001694426.json",
     "sha256": "96f2724024281b1275c6f4947339b397d8e629317812cd20d159a4e23ea43e97",
-    "retrieved_at": "2026-11-03T15:23:00.486578+00:00",
+    "retrieved_at": "2026-11-06T15:13:43.229043+00:00",
     "raw_path": "data/raw/96f2724024281b1275c6f4947339b397d8e629317812cd20d159a4e23ea43e97.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026012664/0001628280-26-012664-index.html",

@@ -4,8 +4,8 @@
   "name": "ARCTURUS THERAPEUTICS HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 9.54,
-  "price_date": "2026-11-03",
+  "holding_price": 10.87,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001768224.json",
-    "sha256": "65486ceddf0397a1d6667cfac47dfbc26cd4c3c21f2bdd99f801ec1d801af0da",
-    "retrieved_at": "2026-11-03T15:28:33.727175+00:00",
-    "raw_path": "data/raw/65486ceddf0397a1d6667cfac47dfbc26cd4c3c21f2bdd99f801ec1d801af0da.json.gz"
+    "sha256": "166ebc675ebbf8a047ed2b380fa43b91a218b715e63217c1c083feb47ccb448d",
+    "retrieved_at": "2026-11-06T15:19:05.972776+00:00",
+    "raw_path": "data/raw/166ebc675ebbf8a047ed2b380fa43b91a218b715e63217c1c083feb47ccb448d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1768224/000119312526088391/0001193125-26-088391-index.html",
   "earnings": {

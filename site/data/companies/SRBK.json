@@ -4,8 +4,8 @@
   "name": "SR BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 18.92,
-  "price_date": "2026-11-03",
+  "holding_price": 19.04,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951276.json",
     "sha256": "008bdbc55c4c9bd85aa726ea78949bc7f696e148ed7261219c414b58ab6524ea",
-    "retrieved_at": "2026-11-03T15:29:56.938747+00:00",
+    "retrieved_at": "2026-11-06T15:20:24.079724+00:00",
     "raw_path": "data/raw/008bdbc55c4c9bd85aa726ea78949bc7f696e148ed7261219c414b58ab6524ea.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926031222/0001437749-26-031222-index.html",

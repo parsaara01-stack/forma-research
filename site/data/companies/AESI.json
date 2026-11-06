@@ -4,8 +4,8 @@
   "name": "ATLAS ENERGY SOLUTIONS",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 8.14,
-  "price_date": "2026-11-03",
+  "holding_price": 6.73,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001984060.json",
-    "sha256": "79a9877523d9b884c52c91468307f1b3e8b549cbdef472ffa7dc5287653006dc",
-    "retrieved_at": "2026-11-03T15:26:35.125539+00:00",
-    "raw_path": "data/raw/79a9877523d9b884c52c91468307f1b3e8b549cbdef472ffa7dc5287653006dc.json.gz"
+    "sha256": "220bde316671df35f5eea33e4bda93dcc755a495c951a2232ece58f83b831de2",
+    "retrieved_at": "2026-11-06T15:17:43.835701+00:00",
+    "raw_path": "data/raw/220bde316671df35f5eea33e4bda93dcc755a495c951a2232ece58f83b831de2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1984060/000119312526067145/0001193125-26-067145-index.html",
   "earnings": {

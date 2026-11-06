@@ -4,8 +4,8 @@
   "name": "CLEARWATER PAPER CORP",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 13.4,
-  "price_date": "2026-11-03",
+  "holding_price": 14.05,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001441236.json",
     "sha256": "b28138125ce92d287b1b8b55d749030b8e21ebf8652116d419fb8cff7b3b19e9",
-    "retrieved_at": "2026-11-03T15:29:11.825934+00:00",
+    "retrieved_at": "2026-11-06T15:19:35.823017+00:00",
     "raw_path": "data/raw/b28138125ce92d287b1b8b55d749030b8e21ebf8652116d419fb8cff7b3b19e9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1441236/000144123626000007/0001441236-26-000007-index.html",

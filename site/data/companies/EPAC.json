@@ -5,7 +5,7 @@
   "group": "Industrials",
   "weight_percent": 0.07,
   "holding_price": 42.21,
-  "price_date": "2026-11-03",
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000006955.json",
     "sha256": "72916815a9ca76dc5fc6b196fe1d5dc2dcad413ba78a3dbfa2aaf06403d2c8e8",
-    "retrieved_at": "2026-11-03T15:24:29.835459+00:00",
+    "retrieved_at": "2026-11-06T15:14:53.624183+00:00",
     "raw_path": "data/raw/72916815a9ca76dc5fc6b196fe1d5dc2dcad413ba78a3dbfa2aaf06403d2c8e8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/6955/000000695526000109/0000006955-26-000109-index.html",

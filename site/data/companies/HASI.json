@@ -4,8 +4,8 @@
   "name": "HA SUSTAINABLE INFRASTRUCTURE CAPI",
   "group": "Financials",
   "weight_percent": 0.17,
-  "holding_price": 38.39,
-  "price_date": "2026-11-03",
+  "holding_price": 40.38,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001561894.json",
-    "sha256": "65a13a90bdd1bedad15ed965a8f6e9692972da94495769d013cb837cba0c4e93",
-    "retrieved_at": "2026-11-03T15:22:53.679084+00:00",
-    "raw_path": "data/raw/65a13a90bdd1bedad15ed965a8f6e9692972da94495769d013cb837cba0c4e93.json.gz"
+    "sha256": "333df1d31c6fbcfe27c9017375b9216f030dfe1731b9c6d8dd0f60c57331afb8",
+    "retrieved_at": "2026-11-06T15:13:20.953171+00:00",
+    "raw_path": "data/raw/333df1d31c6fbcfe27c9017375b9216f030dfe1731b9c6d8dd0f60c57331afb8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1561894/000156189426000007/0001561894-26-000007-index.html",
   "earnings": {

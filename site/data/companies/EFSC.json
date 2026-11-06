@@ -4,8 +4,8 @@
   "name": "ENTERPRISE FINANCIAL SERVICES CORP",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 62.91,
-  "price_date": "2026-11-03",
+  "holding_price": 63.87,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001025835.json",
     "sha256": "228260406a7262ef400a7e14e712c1077e3ad8bc7f7cfbc69591df3af0569c14",
-    "retrieved_at": "2026-11-03T15:24:12.393264+00:00",
+    "retrieved_at": "2026-11-06T15:14:38.193474+00:00",
     "raw_path": "data/raw/228260406a7262ef400a7e14e712c1077e3ad8bc7f7cfbc69591df3af0569c14.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1025835/000102583526000058/0001025835-26-000058-index.html",

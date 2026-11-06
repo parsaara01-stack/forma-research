@@ -4,8 +4,8 @@
   "name": "PATTERN GROUP SERIES A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 16.92,
-  "price_date": "2026-11-03",
+  "holding_price": 17.68,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001811935.json",
-    "sha256": "4756ea1f42d3f2597f472746f98245afe92abb920ec3bc95e4fa2a1675b678fd",
-    "retrieved_at": "2026-11-03T15:26:18.739089+00:00",
-    "raw_path": "data/raw/4756ea1f42d3f2597f472746f98245afe92abb920ec3bc95e4fa2a1675b678fd.json.gz"
+    "sha256": "f6cc67350aa945097afeaf33913cea56988bb7f293a1718a10ebc495df159ff6",
+    "retrieved_at": "2026-11-06T15:16:39.455158+00:00",
+    "raw_path": "data/raw/f6cc67350aa945097afeaf33913cea56988bb7f293a1718a10ebc495df159ff6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1811935/000181193526000013/0001811935-26-000013-index.html",
   "earnings": {

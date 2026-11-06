@@ -4,8 +4,8 @@
   "name": "KFORCE",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 57.76,
-  "price_date": "2026-11-03",
+  "holding_price": 58.29,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000930420.json",
     "sha256": "de2822a5765e9cf140b28cc989f460b373e5f150033d476d60c171b3b4c8edc4",
-    "retrieved_at": "2026-11-03T15:26:06.377784+00:00",
+    "retrieved_at": "2026-11-06T15:16:33.535191+00:00",
     "raw_path": "data/raw/de2822a5765e9cf140b28cc989f460b373e5f150033d476d60c171b3b4c8edc4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/930420/000093042026000007/0000930420-26-000007-index.html",

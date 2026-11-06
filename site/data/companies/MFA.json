@@ -4,8 +4,8 @@
   "name": "MFA FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 6.64,
-  "price_date": "2026-11-03",
+  "holding_price": 6.61,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001055160.json",
-    "sha256": "f7ccc3365e7308b75a287978cb21af588677f8a54d61d910a5e364343f5e1b45",
-    "retrieved_at": "2026-11-03T15:26:49.218813+00:00",
-    "raw_path": "data/raw/f7ccc3365e7308b75a287978cb21af588677f8a54d61d910a5e364343f5e1b45.json.gz"
+    "sha256": "94d584701b1653433ccd93f3c61e72d4953ebf4cb99321b0a12cc16152aa1878",
+    "retrieved_at": "2026-11-06T15:17:20.270551+00:00",
+    "raw_path": "data/raw/94d584701b1653433ccd93f3c61e72d4953ebf4cb99321b0a12cc16152aa1878.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000004/0001055160-26-000004-index.html",
   "earnings": {

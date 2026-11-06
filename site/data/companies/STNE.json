@@ -4,11 +4,11 @@
   "name": "STONECO CLASS A",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 7.39,
-  "price_date": "2026-11-03",
+  "holding_price": 7.69,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-03"
+  "refresh_error": "No supported annual facts by 2026-11-06"
 }

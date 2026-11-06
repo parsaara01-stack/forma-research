@@ -4,8 +4,8 @@
   "name": "TERRENO REALTY REIT",
   "group": "Real Estate",
   "weight_percent": 0.24,
-  "holding_price": 66.66,
-  "price_date": "2026-11-03",
+  "holding_price": 67.99,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001476150.json",
-    "sha256": "eccb30620b4b92a6625304787ed8c55c24e494a0244d32751d63f28e3bea900a",
-    "retrieved_at": "2026-11-03T15:22:30.667416+00:00",
-    "raw_path": "data/raw/eccb30620b4b92a6625304787ed8c55c24e494a0244d32751d63f28e3bea900a.json.gz"
+    "sha256": "a45a8667c99154d979050777d7157d5861200f1151640e8e7edf70fe4c1e0713",
+    "retrieved_at": "2026-11-06T15:13:01.343649+00:00",
+    "raw_path": "data/raw/a45a8667c99154d979050777d7157d5861200f1151640e8e7edf70fe4c1e0713.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1476150/000147615026000011/0001476150-26-000011-index.html",
   "earnings": {

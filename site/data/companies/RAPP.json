@@ -4,8 +4,8 @@
   "name": "RAPPORT THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 25.44,
-  "price_date": "2026-11-03",
+  "holding_price": 25.93,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002012593.json",
-    "sha256": "b5b87610cbbc03026b4f675f7a6c1ef40e785c8f17bac6bae29d770099bb2ea2",
-    "retrieved_at": "2026-11-03T15:26:34.195178+00:00",
-    "raw_path": "data/raw/b5b87610cbbc03026b4f675f7a6c1ef40e785c8f17bac6bae29d770099bb2ea2.json.gz"
+    "sha256": "23c4e5882873ba9df4dde8bdc27620e9d088670dd8505b5aa2e3d7ba3efb7ef1",
+    "retrieved_at": "2026-11-06T15:16:58.780043+00:00",
+    "raw_path": "data/raw/23c4e5882873ba9df4dde8bdc27620e9d088670dd8505b5aa2e3d7ba3efb7ef1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526099360/0001193125-26-099360-index.html",
   "earnings": {

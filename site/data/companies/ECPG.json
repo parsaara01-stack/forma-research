@@ -4,8 +4,8 @@
   "name": "ENCORE CAPITAL GROUP",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 99.83,
-  "price_date": "2026-11-03",
+  "holding_price": 99.93,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001084961.json",
-    "sha256": "9329f192918552f1de2ac6f50324d6d157e624ac1158209d0f38ce11f085533e",
-    "retrieved_at": "2026-11-03T15:24:25.255121+00:00",
-    "raw_path": "data/raw/9329f192918552f1de2ac6f50324d6d157e624ac1158209d0f38ce11f085533e.json.gz"
+    "sha256": "b6c4fd5d6feb4ec56a5683fb7422762d0004f83c07a4545c3aae2c0a306ee926",
+    "retrieved_at": "2026-11-06T15:14:53.484086+00:00",
+    "raw_path": "data/raw/b6c4fd5d6feb4ec56a5683fb7422762d0004f83c07a4545c3aae2c0a306ee926.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1084961/000108496126000009/0001084961-26-000009-index.html",
   "earnings": {

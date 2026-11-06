@@ -3,9 +3,9 @@
   "source_ticker": "EAT",
   "name": "BRINKER INTERNATIONAL INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.3,
-  "holding_price": 207.41,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.32,
+  "holding_price": 220.44,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000703351.json",
     "sha256": "55ca414aa265c838ca70d6fbee91443ae36900e9ea472171c0b381fd30d03f50",
-    "retrieved_at": "2026-11-03T15:22:23.772281+00:00",
+    "retrieved_at": "2026-11-06T15:12:53.527331+00:00",
     "raw_path": "data/raw/55ca414aa265c838ca70d6fbee91443ae36900e9ea472171c0b381fd30d03f50.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/703351/000070335126000029/0000703351-26-000029-index.html",

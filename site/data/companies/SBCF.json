@@ -4,8 +4,8 @@
   "name": "SEACOAST BANKING OF FLORIDA",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 33.45,
-  "price_date": "2026-11-03",
+  "holding_price": 34.27,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000730708.json",
-    "sha256": "01ff919d7c90efe9a002266c1a3f2444fd95c9b89c0f58030ac9564273711f85",
-    "retrieved_at": "2026-11-03T15:23:33.987518+00:00",
-    "raw_path": "data/raw/01ff919d7c90efe9a002266c1a3f2444fd95c9b89c0f58030ac9564273711f85.json.gz"
+    "sha256": "eb1a33684ff25e1172956563da42bb405928676b25bd5125f3f599ad6994fa0f",
+    "retrieved_at": "2026-11-06T15:14:04.098821+00:00",
+    "raw_path": "data/raw/eb1a33684ff25e1172956563da42bb405928676b25bd5125f3f599ad6994fa0f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/730708/000162828026012787/0001628280-26-012787-index.html",
   "earnings": {

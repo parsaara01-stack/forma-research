@@ -4,8 +4,8 @@
   "name": "WHEELS UP EXPERIENCE CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 3.2,
-  "price_date": "2026-11-03",
+  "holding_price": 3.07,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819516.json",
-    "sha256": "2696b9ae62c03c91690025001254a33b80cf85e14b7b0b89b5883d69a7461c85",
-    "retrieved_at": "2026-11-03T15:30:38.466763+00:00",
-    "raw_path": "data/raw/2696b9ae62c03c91690025001254a33b80cf85e14b7b0b89b5883d69a7461c85.json.gz"
+    "sha256": "ce8ef94d386c5ab32e67ed0089a9772238e01cef1e2cf111c75a7d8d4deaf520",
+    "retrieved_at": "2026-11-06T15:21:05.646812+00:00",
+    "raw_path": "data/raw/ce8ef94d386c5ab32e67ed0089a9772238e01cef1e2cf111c75a7d8d4deaf520.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819516/000162828026016512/0001628280-26-016512-index.html",
   "earnings": {

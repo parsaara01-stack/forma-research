@@ -4,8 +4,8 @@
   "name": "ELLINGTON FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 11.34,
-  "price_date": "2026-11-03",
+  "holding_price": 11.85,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001411342.json",
     "sha256": "94acb74a1975093baa0732176691a5a31ff005597c77a9ff2dd519d540a3d967",
-    "retrieved_at": "2026-11-03T15:25:19.303602+00:00",
+    "retrieved_at": "2026-11-06T15:15:44.336639+00:00",
     "raw_path": "data/raw/94acb74a1975093baa0732176691a5a31ff005597c77a9ff2dd519d540a3d967.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026013279/0001628280-26-013279-index.html",

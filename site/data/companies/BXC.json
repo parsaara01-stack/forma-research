@@ -4,8 +4,8 @@
   "name": "BLUELINX HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 72.56,
-  "price_date": "2026-11-03",
+  "holding_price": 74.49,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001301787.json",
-    "sha256": "f6bcc42af782d6dc5f07b9d961a0764c24fd06ab58579a02cd65352c911c95eb",
-    "retrieved_at": "2026-11-03T15:27:07.409735+00:00",
-    "raw_path": "data/raw/f6bcc42af782d6dc5f07b9d961a0764c24fd06ab58579a02cd65352c911c95eb.json.gz"
+    "sha256": "7d5321d38434b7cbdbfb1ef0c2bb5d7a9822f994f17d10ac847b8f2b9472480b",
+    "retrieved_at": "2026-11-06T15:17:41.200184+00:00",
+    "raw_path": "data/raw/7d5321d38434b7cbdbfb1ef0c2bb5d7a9822f994f17d10ac847b8f2b9472480b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1301787/000162828026011136/0001628280-26-011136-index.html",
   "earnings": {

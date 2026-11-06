@@ -4,8 +4,8 @@
   "name": "PATRICK INDUSTRIES",
   "group": "Consumer Discretionary",
   "weight_percent": 0.09,
-  "holding_price": 81.4,
-  "price_date": "2026-11-03",
+  "holding_price": 84.68,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000076605.json",
-    "sha256": "b53f23d708f69fc62c7152ede6e7b99a563489905524b31529c46e78db0dcafb",
-    "retrieved_at": "2026-11-03T15:24:06.369637+00:00",
-    "raw_path": "data/raw/b53f23d708f69fc62c7152ede6e7b99a563489905524b31529c46e78db0dcafb.json.gz"
+    "sha256": "813fb8b779a29253b1d38c1724706ed2c7a8cc8b34945855e1d1ceddffbcf2fb",
+    "retrieved_at": "2026-11-06T15:14:24.451917+00:00",
+    "raw_path": "data/raw/813fb8b779a29253b1d38c1724706ed2c7a8cc8b34945855e1d1ceddffbcf2fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000013/0000076605-26-000013-index.html",
   "earnings": {

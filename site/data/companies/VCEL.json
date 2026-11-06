@@ -3,9 +3,9 @@
   "source_ticker": "VCEL",
   "name": "VERICEL",
   "group": "Health Care",
-  "weight_percent": 0.07,
-  "holding_price": 41.09,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.08,
+  "holding_price": 45.48,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000887359.json",
-    "sha256": "d9b27b70e78f1e634e0213bcb9ed7d62ec7bbff242dc4dc50e2ce711df5b16b8",
-    "retrieved_at": "2026-11-03T15:24:30.414024+00:00",
-    "raw_path": "data/raw/d9b27b70e78f1e634e0213bcb9ed7d62ec7bbff242dc4dc50e2ce711df5b16b8.json.gz"
+    "sha256": "11328fedf6c0edfecee39cdf01f3ee3b861a0564f4a8ad59f1891e43b75f891d",
+    "retrieved_at": "2026-11-06T15:14:43.447819+00:00",
+    "raw_path": "data/raw/11328fedf6c0edfecee39cdf01f3ee3b861a0564f4a8ad59f1891e43b75f891d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/887359/000162828026012013/0001628280-26-012013-index.html",
   "earnings": {

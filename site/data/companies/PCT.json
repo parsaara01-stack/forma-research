@@ -3,9 +3,9 @@
   "source_ticker": "PCT",
   "name": "PURECYCLE TECHNOLOGIES",
   "group": "Materials",
-  "weight_percent": 0.02,
-  "holding_price": 3.12,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.01,
+  "holding_price": 2.79,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001830033.json",
-    "sha256": "71426f88ea3498a47edef9e371cf9f80583a1b77dda8f82ba685a51347f06390",
-    "retrieved_at": "2026-11-03T15:27:20.088979+00:00",
-    "raw_path": "data/raw/71426f88ea3498a47edef9e371cf9f80583a1b77dda8f82ba685a51347f06390.json.gz"
+    "sha256": "bd1ab8dffc5569dc0b7ca8ad3ad7a997bcc379447317966016036bd90c0711c0",
+    "retrieved_at": "2026-11-06T15:18:11.343974+00:00",
+    "raw_path": "data/raw/bd1ab8dffc5569dc0b7ca8ad3ad7a997bcc379447317966016036bd90c0711c0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1830033/000119312526076801/0001193125-26-076801-index.html",
   "earnings": {

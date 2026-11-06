@@ -3,9 +3,9 @@
   "source_ticker": "HRMY",
   "name": "HARMONY BIOSCIENCES HLDG",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 37.02,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.05,
+  "holding_price": 34.41,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001802665.json",
-    "sha256": "219edd9966de4e2fe15281e20a5bcff1b5a72701848577e42a293ddf6617aa3e",
-    "retrieved_at": "2026-11-03T15:24:52.594382+00:00",
-    "raw_path": "data/raw/219edd9966de4e2fe15281e20a5bcff1b5a72701848577e42a293ddf6617aa3e.json.gz"
+    "sha256": "28a7e43b090b204d465f83bcde57cafd754d56e396fbe8c482a8adccf4ac8662",
+    "retrieved_at": "2026-11-06T15:15:37.252778+00:00",
+    "raw_path": "data/raw/28a7e43b090b204d465f83bcde57cafd754d56e396fbe8c482a8adccf4ac8662.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926018859/0001104659-26-018859-index.html",
   "earnings": {

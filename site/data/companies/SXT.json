@@ -3,9 +3,9 @@
   "source_ticker": "SXT",
   "name": "SENSIENT TECHNOLOGIES",
   "group": "Materials",
-  "weight_percent": 0.17,
-  "holding_price": 116.87,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.18,
+  "holding_price": 125.82,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000310142.json",
     "sha256": "1447131bd2580dd44ac0e712eec6ff280f70ffc535f040730bb4de5f7158ec1e",
-    "retrieved_at": "2026-11-03T15:22:50.778381+00:00",
+    "retrieved_at": "2026-11-06T15:13:14.780006+00:00",
     "raw_path": "data/raw/1447131bd2580dd44ac0e712eec6ff280f70ffc535f040730bb4de5f7158ec1e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/310142/000114036126005311/0001140361-26-005311-index.html",

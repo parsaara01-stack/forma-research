@@ -4,8 +4,8 @@
   "name": "MONTE ROSA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 10.41,
-  "price_date": "2026-11-03",
+  "holding_price": 10.82,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001826457.json",
-    "sha256": "0a4a92fc3008d9e64736e7d0fd4da85bd1c7eaeca46286ae26b1364a7e47bbd8",
-    "retrieved_at": "2026-11-03T15:26:29.555756+00:00",
-    "raw_path": "data/raw/0a4a92fc3008d9e64736e7d0fd4da85bd1c7eaeca46286ae26b1364a7e47bbd8.json.gz"
+    "sha256": "fa0bbe09d72d7db9b0ea203de6a0b841172cccfbaea6f5c1a709a9d41fc9bce3",
+    "retrieved_at": "2026-11-06T15:16:56.528243+00:00",
+    "raw_path": "data/raw/fa0bbe09d72d7db9b0ea203de6a0b841172cccfbaea6f5c1a709a9d41fc9bce3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526109360/0001193125-26-109360-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "NUVATION BIO CLASS A",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 4.69,
-  "price_date": "2026-11-03",
+  "holding_price": 4.73,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001811063.json",
-    "sha256": "5e2c6f5309b87f309bb90aca40aa13269796a605da25702d77f834550f311758",
-    "retrieved_at": "2026-11-03T15:25:40.921388+00:00",
-    "raw_path": "data/raw/5e2c6f5309b87f309bb90aca40aa13269796a605da25702d77f834550f311758.json.gz"
+    "sha256": "99174bacc64f0fa5f05f65ff07b80a449bfc93b15fd7bfe8d8274ee0faa46172",
+    "retrieved_at": "2026-11-06T15:16:10.798323+00:00",
+    "raw_path": "data/raw/99174bacc64f0fa5f05f65ff07b80a449bfc93b15fd7bfe8d8274ee0faa46172.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1811063/000119312526085584/0001193125-26-085584-index.html",
   "earnings": {

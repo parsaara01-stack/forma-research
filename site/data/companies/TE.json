@@ -4,8 +4,8 @@
   "name": "T1 ENERGY",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 2.83,
-  "price_date": "2026-11-03",
+  "holding_price": 2.73,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001992243.json",
     "sha256": "f00b13a6f848b37f5da3c65dbe7b04c7fc2abbe2ec29bf58188e70e687e6a30b",
-    "retrieved_at": "2026-11-03T15:27:15.190696+00:00",
+    "retrieved_at": "2026-11-06T15:17:41.355056+00:00",
     "raw_path": "data/raw/f00b13a6f848b37f5da3c65dbe7b04c7fc2abbe2ec29bf58188e70e687e6a30b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1992243/000199224326000007/0001992243-26-000007-index.html",

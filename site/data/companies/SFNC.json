@@ -4,8 +4,8 @@
   "name": "SIMMONS FIRST NATIONAL CLASS A",
   "group": "Financials",
   "weight_percent": 0.11,
-  "holding_price": 23.51,
-  "price_date": "2026-11-03",
+  "holding_price": 23.64,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000090498.json",
-    "sha256": "35de45bfa89e1ba4abcd6e0b6703beb145f3394a90a59f95f14a43c13fedd9dd",
-    "retrieved_at": "2026-11-03T15:23:29.664965+00:00",
-    "raw_path": "data/raw/35de45bfa89e1ba4abcd6e0b6703beb145f3394a90a59f95f14a43c13fedd9dd.json.gz"
+    "sha256": "45b1baf0818f517a73ad634bba4631e1cc675479fa1707e63b909a00fe7536e4",
+    "retrieved_at": "2026-11-06T15:14:03.821053+00:00",
+    "raw_path": "data/raw/45b1baf0818f517a73ad634bba4631e1cc675479fa1707e63b909a00fe7536e4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/90498/000162828026011618/0001628280-26-011618-index.html",
   "earnings": {

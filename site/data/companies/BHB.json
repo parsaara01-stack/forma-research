@@ -3,9 +3,9 @@
   "source_ticker": "BHB",
   "name": "BAR HARBOR BANKSHARES",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 41.16,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.03,
+  "holding_price": 42.51,
+  "price_date": "2026-11-04",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000743367.json",
     "sha256": "75cacad0cfa68cf37c99c2606ac51a08c5ee78f72c73501de2b0698cd2917d80",
-    "retrieved_at": "2026-11-03T15:26:43.587546+00:00",
+    "retrieved_at": "2026-11-06T15:17:04.752776+00:00",
     "raw_path": "data/raw/75cacad0cfa68cf37c99c2606ac51a08c5ee78f72c73501de2b0698cd2917d80.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/743367/000110465926027217/0001104659-26-027217-index.html",

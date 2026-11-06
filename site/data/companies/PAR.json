@@ -4,8 +4,8 @@
   "name": "PAR TECHNOLOGY",
   "group": "Information Technology",
   "weight_percent": 0.03,
-  "holding_price": 18.13,
-  "price_date": "2026-11-03",
+  "holding_price": 19.0,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000708821.json",
-    "sha256": "4ca7b0ebcbda686379d99cbcc40bc6665f5412e82aa705afcb5a5163b61fa30b",
-    "retrieved_at": "2026-11-03T15:26:40.373630+00:00",
-    "raw_path": "data/raw/4ca7b0ebcbda686379d99cbcc40bc6665f5412e82aa705afcb5a5163b61fa30b.json.gz"
+    "sha256": "6d3d6786d042b197ef07e61a786dcfbe4afe5034ac11aeb38412ee89bc73303f",
+    "retrieved_at": "2026-11-06T15:16:57.053615+00:00",
+    "raw_path": "data/raw/6d3d6786d042b197ef07e61a786dcfbe4afe5034ac11aeb38412ee89bc73303f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/708821/000070882126000027/0000708821-26-000027-index.html",
   "earnings": {

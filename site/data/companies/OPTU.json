@@ -4,8 +4,8 @@
   "name": "OPTIMUM COMMUNICATIONS INC CLASS A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 0.68,
-  "price_date": "2026-11-03",
+  "holding_price": 0.69,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001702780.json",
-    "sha256": "5710c1ed4c72283455cd5e645fab2d5bb7068cd06362d35b0e4b8ae074549564",
-    "retrieved_at": "2026-11-03T15:29:30.916944+00:00",
-    "raw_path": "data/raw/5710c1ed4c72283455cd5e645fab2d5bb7068cd06362d35b0e4b8ae074549564.json.gz"
+    "sha256": "0dc31df91be392a9e3b161a0cfd95cb6933cfdb18563a244a15f02e9341602bd",
+    "retrieved_at": "2026-11-06T15:20:03.981327+00:00",
+    "raw_path": "data/raw/0dc31df91be392a9e3b161a0cfd95cb6933cfdb18563a244a15f02e9341602bd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1702780/000170278026000013/0001702780-26-000013-index.html",
   "earnings": {

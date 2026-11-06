@@ -4,8 +4,8 @@
   "name": "ARCBEST",
   "group": "Industrials",
   "weight_percent": 0.1,
-  "holding_price": 134.48,
-  "price_date": "2026-11-03",
+  "holding_price": 139.29,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000894405.json",
-    "sha256": "84141652d5409a0e7b0f86f2c3f0e81cc0cfbe8678d2e0610541e4fbd868aa1a",
-    "retrieved_at": "2026-11-03T15:23:51.397883+00:00",
-    "raw_path": "data/raw/84141652d5409a0e7b0f86f2c3f0e81cc0cfbe8678d2e0610541e4fbd868aa1a.json.gz"
+    "sha256": "95b0e1cb35cfdde30819135fc047caff66466762f46e168419aca8152eadbb01",
+    "retrieved_at": "2026-11-06T15:14:10.922381+00:00",
+    "raw_path": "data/raw/95b0e1cb35cfdde30819135fc047caff66466762f46e168419aca8152eadbb01.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/894405/000110465926019699/0001104659-26-019699-index.html",
   "earnings": {

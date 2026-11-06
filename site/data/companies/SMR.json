@@ -4,8 +4,8 @@
   "name": "NUSCALE POWER CORP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.06,
-  "holding_price": 5.37,
-  "price_date": "2026-11-03",
+  "holding_price": 5.13,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001822966.json",
-    "sha256": "01b4dfce3d0b5fc2b0365f5128226083f05830b9109ee059827b04367b156bfd",
-    "retrieved_at": "2026-11-03T15:24:36.785402+00:00",
-    "raw_path": "data/raw/01b4dfce3d0b5fc2b0365f5128226083f05830b9109ee059827b04367b156bfd.json.gz"
+    "sha256": "81803bb48ae2a5a4186aa4adfe31461baec7f592dc38f7a27c0606b1d3f2513d",
+    "retrieved_at": "2026-11-06T15:15:21.141037+00:00",
+    "raw_path": "data/raw/81803bb48ae2a5a4186aa4adfe31461baec7f592dc38f7a27c0606b1d3f2513d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.html",
   "earnings": {

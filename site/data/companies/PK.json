@@ -4,8 +4,8 @@
   "name": "PARK HOTELS RESORTS INC",
   "group": "Real Estate",
   "weight_percent": 0.11,
-  "holding_price": 16.72,
-  "price_date": "2026-11-03",
+  "holding_price": 16.96,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001617406.json",
-    "sha256": "06c1e2379871dc5a45e1c1ac1ccb783aef17780d6a7453beee749ce050c4b258",
-    "retrieved_at": "2026-11-03T15:23:39.723095+00:00",
-    "raw_path": "data/raw/06c1e2379871dc5a45e1c1ac1ccb783aef17780d6a7453beee749ce050c4b258.json.gz"
+    "sha256": "f17d3ee316402fdaa6e16797a1c8f9935072a76942cb9a45ab055c1a9de4f895",
+    "retrieved_at": "2026-11-06T15:14:08.020078+00:00",
+    "raw_path": "data/raw/f17d3ee316402fdaa6e16797a1c8f9935072a76942cb9a45ab055c1a9de4f895.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/0001617406-26-000006-index.html",
   "earnings": {

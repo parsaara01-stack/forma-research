@@ -4,8 +4,8 @@
   "name": "BOWHEAD SPECIALTY HOLDINGS",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 34.16,
-  "price_date": "2026-11-03",
+  "holding_price": 34.1,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002002473.json",
-    "sha256": "5f2832f4767d95a6553f613c8af26e215ae28c6ec05a869a402650243052c555",
-    "retrieved_at": "2026-11-03T15:27:01.235040+00:00",
-    "raw_path": "data/raw/5f2832f4767d95a6553f613c8af26e215ae28c6ec05a869a402650243052c555.json.gz"
+    "sha256": "aa73c2dae5022492d7719beb851f97d319bf0b790c8d2471bc5f6a68fa3542e2",
+    "retrieved_at": "2026-11-06T15:17:30.572376+00:00",
+    "raw_path": "data/raw/aa73c2dae5022492d7719beb851f97d319bf0b790c8d2471bc5f6a68fa3542e2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2002473/000162828026011089/0001628280-26-011089-index.html",
   "earnings": {

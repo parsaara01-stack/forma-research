@@ -4,8 +4,8 @@
   "name": "INTREPID POTASH INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 30.75,
-  "price_date": "2026-11-03",
+  "holding_price": 31.28,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001421461.json",
-    "sha256": "62ae6b0b808f5f53b773c5b51d69574932a65757c250324af911f3dc357c866d",
-    "retrieved_at": "2026-11-03T15:28:13.718652+00:00",
-    "raw_path": "data/raw/62ae6b0b808f5f53b773c5b51d69574932a65757c250324af911f3dc357c866d.json.gz"
+    "sha256": "c89b81891a2db06ee621dd386b19b50c9789b850887bb32f023b7a709f1eddcb",
+    "retrieved_at": "2026-11-06T15:18:44.649826+00:00",
+    "raw_path": "data/raw/c89b81891a2db06ee621dd386b19b50c9789b850887bb32f023b7a709f1eddcb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1421461/000142146126000008/0001421461-26-000008-index.html",
   "earnings": {

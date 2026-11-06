@@ -4,8 +4,8 @@
   "name": "LIFETIME BRANDS INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 8.49,
-  "price_date": "2026-11-03",
+  "holding_price": 8.89,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000874396.json",
-    "sha256": "63d50094d5f40917983f378b3797f18b58a61813d09ccec651c41c9c92cac464",
-    "retrieved_at": "2026-11-03T15:30:11.143918+00:00",
-    "raw_path": "data/raw/63d50094d5f40917983f378b3797f18b58a61813d09ccec651c41c9c92cac464.json.gz"
+    "sha256": "26b9405653c2c93fcbeeda365808a84a914e03c84d70e1b508c66e030e9e8151",
+    "retrieved_at": "2026-11-06T15:20:37.639926+00:00",
+    "raw_path": "data/raw/26b9405653c2c93fcbeeda365808a84a914e03c84d70e1b508c66e030e9e8151.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000008/0000874396-26-000008-index.html",
   "earnings": {

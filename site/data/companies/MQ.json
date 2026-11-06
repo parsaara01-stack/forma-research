@@ -3,9 +3,9 @@
   "source_ticker": "MQ",
   "name": "MARQETA CLASS A",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 17.8,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.06,
+  "holding_price": 18.6,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001522540.json",
-    "sha256": "1772f0a4e5d305b1907021ee19fc53a1d980695919937b65fbbc5a7288ccf80d",
-    "retrieved_at": "2026-11-03T15:25:02.195061+00:00",
-    "raw_path": "data/raw/1772f0a4e5d305b1907021ee19fc53a1d980695919937b65fbbc5a7288ccf80d.json.gz"
+    "sha256": "bff5f98647f3e915be1851d8c6c799ec5f6c041e3cb1c51b54730c0009035efd",
+    "retrieved_at": "2026-11-06T15:15:28.286130+00:00",
+    "raw_path": "data/raw/bff5f98647f3e915be1851d8c6c799ec5f6c041e3cb1c51b54730c0009035efd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/0001522540-26-000017-index.html",
   "earnings": {

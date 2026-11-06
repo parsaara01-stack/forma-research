@@ -4,8 +4,8 @@
   "name": "SERVE ROBOTICS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 2.61,
-  "price_date": "2026-11-03",
+  "holding_price": 2.65,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001832483.json",
-    "sha256": "eab6f1acc777d9b232ae4d284b20a71e7f187ec8de7e383056b201e0df483018",
-    "retrieved_at": "2026-11-03T15:29:22.263914+00:00",
-    "raw_path": "data/raw/eab6f1acc777d9b232ae4d284b20a71e7f187ec8de7e383056b201e0df483018.json.gz"
+    "sha256": "c5b2f5fe57b2eb2579d5178a66cda7f429ea693b0d53e7791dc4dc89599a16c4",
+    "retrieved_at": "2026-11-06T15:19:49.523739+00:00",
+    "raw_path": "data/raw/c5b2f5fe57b2eb2579d5178a66cda7f429ea693b0d53e7791dc4dc89599a16c4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1832483/000183248326000010/0001832483-26-000010-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "VRDN",
   "name": "VIRIDIAN THERAPEUTICS ORS",
   "group": "Health Care",
-  "weight_percent": 0.08,
-  "holding_price": 25.15,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.1,
+  "holding_price": 29.06,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001590750.json",
-    "sha256": "907b594c863d597442ab1ef3a5d74359a9418f23c7e0bb102180e38d47e78bab",
-    "retrieved_at": "2026-11-03T15:24:09.333306+00:00",
-    "raw_path": "data/raw/907b594c863d597442ab1ef3a5d74359a9418f23c7e0bb102180e38d47e78bab.json.gz"
+    "sha256": "3626c752073e907067ef6d5bc5786d09e0fe95b7ac93de13978b92e7f6d12fb1",
+    "retrieved_at": "2026-11-06T15:14:17.479178+00:00",
+    "raw_path": "data/raw/3626c752073e907067ef6d5bc5786d09e0fe95b7ac93de13978b92e7f6d12fb1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1590750/000159075026000007/0001590750-26-000007-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "STARLING ONCOLOGY",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 6.34,
-  "price_date": "2026-11-03",
+  "holding_price": 6.94,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001799191.json",
-    "sha256": "f73886b3a6ef18eabd171f881d98188fdae3395c8278a3e8cf17563c6ab57c88",
-    "retrieved_at": "2026-11-03T15:27:24.141077+00:00",
-    "raw_path": "data/raw/f73886b3a6ef18eabd171f881d98188fdae3395c8278a3e8cf17563c6ab57c88.json.gz"
+    "sha256": "e2c0b50f3c7a305d5bc9ddda03028f26d979d8ca180336f29f3c7246814a036c",
+    "retrieved_at": "2026-11-06T15:17:48.401041+00:00",
+    "raw_path": "data/raw/e2c0b50f3c7a305d5bc9ddda03028f26d979d8ca180336f29f3c7246814a036c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1799191/000179919126000007/0001799191-26-000007-index.html",
   "earnings": {

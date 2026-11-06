@@ -4,8 +4,8 @@
   "name": "SEAPORT ENTERTAINMENT GROUP INC",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 22.77,
-  "price_date": "2026-11-03",
+  "holding_price": 23.52,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002009684.json",
-    "sha256": "1a3cdb0802f91a2b9284f79a27dea61fd1dd685770de2968f9f1bacc1373ff28",
-    "retrieved_at": "2026-11-03T15:29:34.491126+00:00",
-    "raw_path": "data/raw/1a3cdb0802f91a2b9284f79a27dea61fd1dd685770de2968f9f1bacc1373ff28.json.gz"
+    "sha256": "8c8155742eba7abcda21411068641e5a76ea12e02f4c29a1bd66b322f31130b5",
+    "retrieved_at": "2026-11-06T15:19:57.056419+00:00",
+    "raw_path": "data/raw/8c8155742eba7abcda21411068641e5a76ea12e02f4c29a1bd66b322f31130b5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2009684/000110465926023561/0001104659-26-023561-index.html",
   "earnings": {

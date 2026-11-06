@@ -4,8 +4,8 @@
   "name": "CANNAE HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 17.65,
-  "price_date": "2026-11-03",
+  "holding_price": 18.27,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001704720.json",
     "sha256": "76d6dd854175e8a45b7741ae36faeef408979ed89fdcb8da3a14603e6555cef8",
-    "retrieved_at": "2026-11-03T15:26:57.315540+00:00",
+    "retrieved_at": "2026-11-06T15:17:16.988433+00:00",
     "raw_path": "data/raw/76d6dd854175e8a45b7741ae36faeef408979ed89fdcb8da3a14603e6555cef8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1704720/000170472026000045/0001704720-26-000045-index.html",

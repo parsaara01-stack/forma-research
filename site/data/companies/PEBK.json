@@ -4,8 +4,8 @@
   "name": "PEOPLES BANCORP OF NORTH CAROLINA",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 43.47,
-  "price_date": "2026-11-03",
+  "holding_price": 44.51,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001093672.json",
-    "sha256": "05e6c6919b7b8fdba946e305673daecb320e1758203172d3c9e628367abcdc66",
-    "retrieved_at": "2026-11-03T15:29:05.499019+00:00",
-    "raw_path": "data/raw/05e6c6919b7b8fdba946e305673daecb320e1758203172d3c9e628367abcdc66.json.gz"
+    "sha256": "e757234355c22d73c60a96773a3ba52d22ebff9d67b0bbeceee2903f8a3185f9",
+    "retrieved_at": "2026-11-06T15:19:34.252774+00:00",
+    "raw_path": "data/raw/e757234355c22d73c60a96773a3ba52d22ebff9d67b0bbeceee2903f8a3185f9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426002154/0001654954-26-002154-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "COMPX INTERNATIONAL INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 35.36,
-  "price_date": "2026-11-03",
+  "holding_price": 37.09,
+  "price_date": "2026-11-04",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001049606.json",
-    "sha256": "fc9807120828dcefc70a80b6858332f59d79efb991004ba56dd91c674e0f4ad8",
-    "retrieved_at": "2026-11-03T15:30:26.350896+00:00",
-    "raw_path": "data/raw/fc9807120828dcefc70a80b6858332f59d79efb991004ba56dd91c674e0f4ad8.json.gz"
+    "sha256": "b73c2d6597f9cb60c4e5c3753a943d01cb9b5e3d447749f8c11990e2c53efd47",
+    "retrieved_at": "2026-11-06T15:20:55.310341+00:00",
+    "raw_path": "data/raw/b73c2d6597f9cb60c4e5c3753a943d01cb9b5e3d447749f8c11990e2c53efd47.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1049606/000110465926023463/0001104659-26-023463-index.html",
   "earnings": {

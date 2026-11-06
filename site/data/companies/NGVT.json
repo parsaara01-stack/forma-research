@@ -4,8 +4,8 @@
   "name": "INGEVITY",
   "group": "Materials",
   "weight_percent": 0.09,
-  "holding_price": 73.63,
-  "price_date": "2026-11-03",
+  "holding_price": 73.73,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001653477.json",
-    "sha256": "d2d2883c7c10642256a33ede8776f4eb2069a8e3b1a03ec35eaec4abb8a49b04",
-    "retrieved_at": "2026-11-03T15:24:02.446322+00:00",
-    "raw_path": "data/raw/d2d2883c7c10642256a33ede8776f4eb2069a8e3b1a03ec35eaec4abb8a49b04.json.gz"
+    "sha256": "23c1cde4e42c3f5bd41715df52d7cb5a76e6dbaee088eea5a022f2d191e03f96",
+    "retrieved_at": "2026-11-06T15:14:34.042828+00:00",
+    "raw_path": "data/raw/23c1cde4e42c3f5bd41715df52d7cb5a76e6dbaee088eea5a022f2d191e03f96.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1653477/000165347726000014/0001653477-26-000014-index.html",
   "earnings": {

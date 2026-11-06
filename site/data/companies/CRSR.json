@@ -4,8 +4,8 @@
   "name": "CORSAIR GAMING INC",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 12.31,
-  "price_date": "2026-11-03",
+  "holding_price": 13.32,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001743759.json",
-    "sha256": "5a569a753f33df142d2dbbba0d90bf0587d4e55ec132c7618cd10acd95df7e01",
-    "retrieved_at": "2026-11-03T15:27:04.771777+00:00",
-    "raw_path": "data/raw/5a569a753f33df142d2dbbba0d90bf0587d4e55ec132c7618cd10acd95df7e01.json.gz"
+    "sha256": "7d17ee8518ebe220d9025605b78746c3231454281fe7411ea850b22f37374f4e",
+    "retrieved_at": "2026-11-06T15:17:24.068233+00:00",
+    "raw_path": "data/raw/7d17ee8518ebe220d9025605b78746c3231454281fe7411ea850b22f37374f4e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1743759/000119312526067833/0001193125-26-067833-index.html",
   "earnings": {

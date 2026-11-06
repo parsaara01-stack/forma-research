@@ -4,8 +4,8 @@
   "name": "NORTHWESTERN ENERGY GROUP",
   "group": "Utilities",
   "weight_percent": 0.17,
-  "holding_price": 79.95,
-  "price_date": "2026-11-03",
+  "holding_price": 82.0,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001993004.json",
-    "sha256": "50ffeeed8f69866ea0384b36a9356029f6034a872cb66f78df22d1262c0bdbee",
-    "retrieved_at": "2026-11-03T15:22:51.592677+00:00",
-    "raw_path": "data/raw/50ffeeed8f69866ea0384b36a9356029f6034a872cb66f78df22d1262c0bdbee.json.gz"
+    "sha256": "aa7f2719749353acf8839d1b03b3ec32f3a65f86358807b09063c2abf23f0c86",
+    "retrieved_at": "2026-11-06T15:13:21.525148+00:00",
+    "raw_path": "data/raw/aa7f2719749353acf8839d1b03b3ec32f3a65f86358807b09063c2abf23f0c86.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1993004/000199300426000006/0001993004-26-000006-index.html",
   "earnings": {

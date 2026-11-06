@@ -4,8 +4,8 @@
   "name": "ARDENT HEALTH INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 11.71,
-  "price_date": "2026-11-03",
+  "holding_price": 12.99,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001756655.json",
-    "sha256": "1bba27792730612220ffaf61e5c1c6d7c352264a3e3833ab5544ac56a2276151",
-    "retrieved_at": "2026-11-03T15:28:32.145498+00:00",
-    "raw_path": "data/raw/1bba27792730612220ffaf61e5c1c6d7c352264a3e3833ab5544ac56a2276151.json.gz"
+    "sha256": "9a861826bb81c7f341ef6c5c7ef955658dced919547c17518ea1c588565e2e25",
+    "retrieved_at": "2026-11-06T15:18:53.291980+00:00",
+    "raw_path": "data/raw/9a861826bb81c7f341ef6c5c7ef955658dced919547c17518ea1c588565e2e25.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1756655/000162828026018174/0001628280-26-018174-index.html",
   "earnings": {

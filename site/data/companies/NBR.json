@@ -4,8 +4,8 @@
   "name": "NABORS INDUSTRIES",
   "group": "Energy",
   "weight_percent": 0.04,
-  "holding_price": 81.22,
-  "price_date": "2026-11-03",
+  "holding_price": 76.0,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001163739.json",
-    "sha256": "c442e0911eea7743497716bb20ccbe58c4f54a517408d0cc7fa2065c3277cff3",
-    "retrieved_at": "2026-11-03T15:25:27.979186+00:00",
-    "raw_path": "data/raw/c442e0911eea7743497716bb20ccbe58c4f54a517408d0cc7fa2065c3277cff3.json.gz"
+    "sha256": "f10ccc0bcd5b8466dbe5102dd608c53c239cb801f14aa15018e804b82f39cf04",
+    "retrieved_at": "2026-11-06T15:16:17.551920+00:00",
+    "raw_path": "data/raw/f10ccc0bcd5b8466dbe5102dd608c53c239cb801f14aa15018e804b82f39cf04.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465926014997/0001104659-26-014997-index.html",
   "earnings": {

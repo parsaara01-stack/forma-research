@@ -3,9 +3,9 @@
   "source_ticker": "KNTK",
   "name": "KINETIK HOLDINGS CLASS A",
   "group": "Energy",
-  "weight_percent": 0.1,
-  "holding_price": 54.24,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.09,
+  "holding_price": 51.17,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001692787.json",
-    "sha256": "0eef47d6ae438a6de04efb2c2711377f0e22f45e8a6a68f7479b9cdfe2dce82a",
-    "retrieved_at": "2026-11-03T15:23:39.400315+00:00",
-    "raw_path": "data/raw/0eef47d6ae438a6de04efb2c2711377f0e22f45e8a6a68f7479b9cdfe2dce82a.json.gz"
+    "sha256": "036d58c585800918f150e986f4ca91738e9a30dc3016f3d312851eb0bfef418c",
+    "retrieved_at": "2026-11-06T15:14:20.330524+00:00",
+    "raw_path": "data/raw/036d58c585800918f150e986f4ca91738e9a30dc3016f3d312851eb0bfef418c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1692787/000169278726000048/0001692787-26-000048-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "IPAR",
   "name": "INTERPARFUMS INC",
   "group": "Consumer Staples",
-  "weight_percent": 0.07,
-  "holding_price": 117.09,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.08,
+  "holding_price": 123.57,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000822663.json",
-    "sha256": "b28ba276a652f6ab89fe8d9b8a41ee63aff5eb154a01990e4ea5531c9183454d",
-    "retrieved_at": "2026-11-03T15:24:23.973151+00:00",
-    "raw_path": "data/raw/b28ba276a652f6ab89fe8d9b8a41ee63aff5eb154a01990e4ea5531c9183454d.json.gz"
+    "sha256": "e0f361ff563e4358bad83b0ec3c9e792e66267680a541d4f9a7c3bd6750aadf0",
+    "retrieved_at": "2026-11-06T15:14:46.249351+00:00",
+    "raw_path": "data/raw/e0f361ff563e4358bad83b0ec3c9e792e66267680a541d4f9a7c3bd6750aadf0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626000464/0001753926-26-000464-index.html",
   "earnings": {

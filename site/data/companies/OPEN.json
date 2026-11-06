@@ -4,8 +4,8 @@
   "name": "OPENDOOR TECHNOLOGIES CLASS A",
   "group": "Real Estate",
   "weight_percent": 0.06,
-  "holding_price": 1.74,
-  "price_date": "2026-11-03",
+  "holding_price": 1.98,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001801169.json",
-    "sha256": "756babecf2baedc780358291a1f87fb8572baae0e26d21c12a4c0f86dacda077",
-    "retrieved_at": "2026-11-03T15:24:57.506411+00:00",
-    "raw_path": "data/raw/756babecf2baedc780358291a1f87fb8572baae0e26d21c12a4c0f86dacda077.json.gz"
+    "sha256": "96a48f5b80a0fbb7b23c7bbddc61561d26188401b06f6842f2c989730ae8a824",
+    "retrieved_at": "2026-11-06T15:15:14.325693+00:00",
+    "raw_path": "data/raw/96a48f5b80a0fbb7b23c7bbddc61561d26188401b06f6842f2c989730ae8a824.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/0001801169-26-000010-index.html",
   "earnings": {

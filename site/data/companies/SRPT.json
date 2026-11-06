@@ -3,9 +3,9 @@
   "source_ticker": "SRPT",
   "name": "SAREPTA THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 18.54,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.07,
+  "holding_price": 18.99,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000873303.json",
-    "sha256": "73fbffcbdadfe28b857d7fca50ab4aac61e15003102807aade5f366cc35bb6b9",
-    "retrieved_at": "2026-11-03T15:24:39.915788+00:00",
-    "raw_path": "data/raw/73fbffcbdadfe28b857d7fca50ab4aac61e15003102807aade5f366cc35bb6b9.json.gz"
+    "sha256": "1b5546219edcdc1104f7495bf946559ea1271e59247625ff486bade9a093e9f2",
+    "retrieved_at": "2026-11-06T15:15:05.792599+00:00",
+    "raw_path": "data/raw/1b5546219edcdc1104f7495bf946559ea1271e59247625ff486bade9a093e9f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/873303/000119312526084144/0001193125-26-084144-index.html",
   "earnings": {

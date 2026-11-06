@@ -4,8 +4,8 @@
   "name": "GUARDIAN PHARMACY SERVICES CLASS A",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 40.87,
-  "price_date": "2026-11-03",
+  "holding_price": 42.09,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001802255.json",
-    "sha256": "16940b088a593baf174d9b355bb075f9b31c5ff9f6cc8b6a0935d3728b9abe0e",
-    "retrieved_at": "2026-11-03T15:25:30.264421+00:00",
-    "raw_path": "data/raw/16940b088a593baf174d9b355bb075f9b31c5ff9f6cc8b6a0935d3728b9abe0e.json.gz"
+    "sha256": "e56265a108aee8ea2f5be9be5ecdd0c7c944c30af311322c406df8f00b8f8855",
+    "retrieved_at": "2026-11-06T15:15:55.980449+00:00",
+    "raw_path": "data/raw/e56265a108aee8ea2f5be9be5ecdd0c7c944c30af311322c406df8f00b8f8855.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1802255/000119312526102172/0001193125-26-102172-index.html",
   "earnings": {

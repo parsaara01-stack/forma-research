@@ -3,9 +3,9 @@
   "source_ticker": "IBOC",
   "name": "INTERNATIONAL BANCSHARES CORP",
   "group": "Financials",
-  "weight_percent": 0.12,
-  "holding_price": 67.57,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.13,
+  "holding_price": 69.02,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000315709.json",
-    "sha256": "f5ce2140bfb8b9efccbe08ac0113062cc26502f77c50070229e92d7084e55cd6",
-    "retrieved_at": "2026-11-03T15:23:22.956973+00:00",
-    "raw_path": "data/raw/f5ce2140bfb8b9efccbe08ac0113062cc26502f77c50070229e92d7084e55cd6.json.gz"
+    "sha256": "4af89766762c13bd61c97791146e6f40cddbab24f603d7948b3bfbea57dc2969",
+    "retrieved_at": "2026-11-06T15:13:49.966532+00:00",
+    "raw_path": "data/raw/4af89766762c13bd61c97791146e6f40cddbab24f603d7948b3bfbea57dc2969.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/315709/000110465926020439/0001104659-26-020439-index.html",
   "earnings": {

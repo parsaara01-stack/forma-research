@@ -4,8 +4,8 @@
   "name": "BLACKBAUD",
   "group": "Information Technology",
   "weight_percent": 0.07,
-  "holding_price": 54.21,
-  "price_date": "2026-11-03",
+  "holding_price": 56.06,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001280058.json",
     "sha256": "bff249193cbab61e336431889dc0cbbf8503fa4cc0e300defddbc38b71929c41",
-    "retrieved_at": "2026-11-03T15:24:42.227024+00:00",
+    "retrieved_at": "2026-11-06T15:15:03.315300+00:00",
     "raw_path": "data/raw/bff249193cbab61e336431889dc0cbbf8503fa4cc0e300defddbc38b71929c41.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000006/0001280058-26-000006-index.html",

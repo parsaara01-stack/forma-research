@@ -4,8 +4,8 @@
   "name": "CHEMUNG FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 85.9,
-  "price_date": "2026-11-03",
+  "holding_price": 86.88,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000763563.json",
-    "sha256": "ad4a85506f5e3195dd44aae1da7f7d59c7149f2089f413a40cbd4ebaa103fa17",
-    "retrieved_at": "2026-11-03T15:28:01.499074+00:00",
-    "raw_path": "data/raw/ad4a85506f5e3195dd44aae1da7f7d59c7149f2089f413a40cbd4ebaa103fa17.json.gz"
+    "sha256": "872487a677724e381a246f42b4bf3b471a4508f968a8305c814af8c4e8f5fb78",
+    "retrieved_at": "2026-11-06T15:18:31.602017+00:00",
+    "raw_path": "data/raw/872487a677724e381a246f42b4bf3b471a4508f968a8305c814af8c4e8f5fb78.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/763563/000162828026017546/0001628280-26-017546-index.html",
   "earnings": {

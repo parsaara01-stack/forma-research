@@ -4,8 +4,8 @@
   "name": "RAYONIER ADVANCED MATERIALS",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 6.91,
-  "price_date": "2026-11-03",
+  "holding_price": 7.15,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001597672.json",
-    "sha256": "7edf836474b6f30f82ad1aaff4f2c4df36b6c653fd69fc6552dc21cbde7b89cf",
-    "retrieved_at": "2026-11-03T15:27:50.923285+00:00",
-    "raw_path": "data/raw/7edf836474b6f30f82ad1aaff4f2c4df36b6c653fd69fc6552dc21cbde7b89cf.json.gz"
+    "sha256": "90120e8c8ef1e865b94e598ff9e84bedf88c1dd589f0db97f4a383250961291d",
+    "retrieved_at": "2026-11-06T15:18:10.874645+00:00",
+    "raw_path": "data/raw/90120e8c8ef1e865b94e598ff9e84bedf88c1dd589f0db97f4a383250961291d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1597672/000159767226000010/0001597672-26-000010-index.html",
   "earnings": {

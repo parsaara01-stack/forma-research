@@ -4,8 +4,8 @@
   "name": "HEALTHSTREAM",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 31.67,
-  "price_date": "2026-11-03",
+  "holding_price": 32.48,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001095565.json",
-    "sha256": "90c7c0e3728a25ce509197ae5c399be90a2fc7628ea54f860530f2459f43c911",
-    "retrieved_at": "2026-11-03T15:26:27.551774+00:00",
-    "raw_path": "data/raw/90c7c0e3728a25ce509197ae5c399be90a2fc7628ea54f860530f2459f43c911.json.gz"
+    "sha256": "ad5a2296a114d84b0540ec39eba1d09b5662beb4f14688ea2a532953faad7e09",
+    "retrieved_at": "2026-11-06T15:16:58.552490+00:00",
+    "raw_path": "data/raw/ad5a2296a114d84b0540ec39eba1d09b5662beb4f14688ea2a532953faad7e09.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1095565/000143774926005916/0001437749-26-005916-index.html",
   "earnings": {

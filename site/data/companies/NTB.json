@@ -4,11 +4,11 @@
   "name": "BANK OF NT BUTTERFIELD & SON LTD",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 54.97,
-  "price_date": "2026-11-03",
+  "holding_price": 55.49,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-03"
+  "refresh_error": "No supported annual facts by 2026-11-06"
 }

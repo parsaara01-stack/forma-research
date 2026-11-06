@@ -4,8 +4,8 @@
   "name": "LENZ THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 3.5,
-  "price_date": "2026-11-03",
+  "holding_price": 3.46,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001815776.json",
-    "sha256": "ab36f04daa8fb73ccfa910ab69377a8b9fc7a160dfaefef28b75a52119dbee64",
-    "retrieved_at": "2026-11-03T15:30:23.194471+00:00",
-    "raw_path": "data/raw/ab36f04daa8fb73ccfa910ab69377a8b9fc7a160dfaefef28b75a52119dbee64.json.gz"
+    "sha256": "7962e73e60f8040f4f68fd1dfd4cedf7419a41283c0860146230f6f77dca5666",
+    "retrieved_at": "2026-11-06T15:20:48.405214+00:00",
+    "raw_path": "data/raw/7962e73e60f8040f4f68fd1dfd4cedf7419a41283c0860146230f6f77dca5666.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "RENASANT CORP",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 39.76,
-  "price_date": "2026-11-03",
+  "holding_price": 40.63,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000715072.json",
-    "sha256": "fa830de725df5e01d0e0155952c1c4e58391373bac5a865eee7ef4b3fe2d533c",
-    "retrieved_at": "2026-11-03T15:23:22.772853+00:00",
-    "raw_path": "data/raw/fa830de725df5e01d0e0155952c1c4e58391373bac5a865eee7ef4b3fe2d533c.json.gz"
+    "sha256": "546728f56864ed995d5094463ff28a72cc0150dc4af95707671379a36ea10e20",
+    "retrieved_at": "2026-11-06T15:13:54.612650+00:00",
+    "raw_path": "data/raw/546728f56864ed995d5094463ff28a72cc0150dc4af95707671379a36ea10e20.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000017/0000715072-26-000017-index.html",
   "earnings": {

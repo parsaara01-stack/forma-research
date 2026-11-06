@@ -3,9 +3,9 @@
   "source_ticker": "CRC",
   "name": "CALIFORNIA RESOURCES",
   "group": "Energy",
-  "weight_percent": 0.13,
-  "holding_price": 51.38,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.12,
+  "holding_price": 48.34,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001609253.json",
-    "sha256": "1d320f539004167c4bd0ef7950881326c2b09501994c0f691b8cd83cc82fffe4",
-    "retrieved_at": "2026-11-03T15:23:05.602634+00:00",
-    "raw_path": "data/raw/1d320f539004167c4bd0ef7950881326c2b09501994c0f691b8cd83cc82fffe4.json.gz"
+    "sha256": "d3b283791a7b1a667dbd87fba773f966cff0ca7375441fd834f2daa7d949a737",
+    "retrieved_at": "2026-11-06T15:13:51.129381+00:00",
+    "raw_path": "data/raw/d3b283791a7b1a667dbd87fba773f966cff0ca7375441fd834f2daa7d949a737.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925326000051/0001609253-26-000051-index.html",
   "earnings": {

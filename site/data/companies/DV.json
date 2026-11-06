@@ -4,8 +4,8 @@
   "name": "DOUBLEVERIFY HOLDINGS",
   "group": "Communication",
   "weight_percent": 0.06,
-  "holding_price": 13.54,
-  "price_date": "2026-11-03",
+  "holding_price": 13.55,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819928.json",
     "sha256": "ffc7dc774723c7c61ab0f8647f0098829a7a7a68aff6e4632b03350553dea0ca",
-    "retrieved_at": "2026-11-03T15:24:45.427179+00:00",
+    "retrieved_at": "2026-11-06T15:15:12.879696+00:00",
     "raw_path": "data/raw/ffc7dc774723c7c61ab0f8647f0098829a7a7a68aff6e4632b03350553dea0ca.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819928/000110465926020499/0001104659-26-020499-index.html",

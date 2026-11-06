@@ -4,8 +4,8 @@
   "name": "THE MARCUS CORP",
   "group": "Communication",
   "weight_percent": 0.02,
-  "holding_price": 27.25,
-  "price_date": "2026-11-03",
+  "holding_price": 28.05,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000062234.json",
     "sha256": "49ca9e8f84584fdd62dbf11e948a7de7f205191cb036def35ab4622991a0968d",
-    "retrieved_at": "2026-11-03T15:27:06.428156+00:00",
+    "retrieved_at": "2026-11-06T15:17:29.038139+00:00",
     "raw_path": "data/raw/49ca9e8f84584fdd62dbf11e948a7de7f205191cb036def35ab4622991a0968d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/62234/000006223426000011/0000062234-26-000011-index.html",

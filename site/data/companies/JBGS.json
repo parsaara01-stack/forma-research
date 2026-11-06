@@ -4,8 +4,8 @@
   "name": "JBG SMITH PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 11.72,
-  "price_date": "2026-11-03",
+  "holding_price": 12.29,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001689796.json",
-    "sha256": "c3d34ea80352f2e94b5aecb238274525619d96708c6012818bc6b9983ef89f6e",
-    "retrieved_at": "2026-11-03T15:26:47.899775+00:00",
-    "raw_path": "data/raw/c3d34ea80352f2e94b5aecb238274525619d96708c6012818bc6b9983ef89f6e.json.gz"
+    "sha256": "41cac94c98cccacd30bc80e945cfe18062d8cad0d3492d9ea4424ec45ebc1e89",
+    "retrieved_at": "2026-11-06T15:17:12.082914+00:00",
+    "raw_path": "data/raw/41cac94c98cccacd30bc80e945cfe18062d8cad0d3492d9ea4424ec45ebc1e89.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926016450/0001104659-26-016450-index.html",
   "earnings": {

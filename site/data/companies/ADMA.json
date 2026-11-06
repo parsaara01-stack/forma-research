@@ -3,9 +3,9 @@
   "source_ticker": "ADMA",
   "name": "ADMA BIOLOGICS",
   "group": "Health Care",
-  "weight_percent": 0.09,
-  "holding_price": 11.11,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.08,
+  "holding_price": 10.48,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001368514.json",
-    "sha256": "d00bc92a8147a62a081ef2cfa49f79fbbc714d75b120ba39f3c7bd9cafbdb9cb",
-    "retrieved_at": "2026-11-03T15:24:01.814542+00:00",
-    "raw_path": "data/raw/d00bc92a8147a62a081ef2cfa49f79fbbc714d75b120ba39f3c7bd9cafbdb9cb.json.gz"
+    "sha256": "177a18206c5053fead1b0f8473a466be99a2ae1da602eff6b2c3dfe6dbef81c6",
+    "retrieved_at": "2026-11-06T15:14:40.490597+00:00",
+    "raw_path": "data/raw/177a18206c5053fead1b0f8473a466be99a2ae1da602eff6b2c3dfe6dbef81c6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1368514/000114036126006815/0001140361-26-006815-index.html",
   "earnings": {

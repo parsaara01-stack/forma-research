@@ -3,9 +3,9 @@
   "source_ticker": "XMTR",
   "name": "XOMETRY CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.19,
-  "holding_price": 111.29,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.2,
+  "holding_price": 113.52,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657573.json",
-    "sha256": "c5ce4addba8cbd839e78bf65622e2d182ae2fc3c47a4283c2287bfeb08f8db14",
-    "retrieved_at": "2026-11-03T15:22:53.012879+00:00",
-    "raw_path": "data/raw/c5ce4addba8cbd839e78bf65622e2d182ae2fc3c47a4283c2287bfeb08f8db14.json.gz"
+    "sha256": "48c5ecd62f515d8a43a6d3f08f8ed44914f3ec4fd6756609f40bf63e4850bfe9",
+    "retrieved_at": "2026-11-06T15:13:10.472101+00:00",
+    "raw_path": "data/raw/48c5ecd62f515d8a43a6d3f08f8ed44914f3ec4fd6756609f40bf63e4850bfe9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526066959/0001193125-26-066959-index.html",
   "earnings": {

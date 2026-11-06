@@ -4,8 +4,8 @@
   "name": "SONIDA SENIOR LIVING",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 34.04,
-  "price_date": "2026-11-03",
+  "holding_price": 37.01,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001043000.json",
-    "sha256": "dd1db540e814786d465e64825d7cf06efe015697a1b1f0c91e47f421faee8f81",
-    "retrieved_at": "2026-11-03T15:26:07.009042+00:00",
-    "raw_path": "data/raw/dd1db540e814786d465e64825d7cf06efe015697a1b1f0c91e47f421faee8f81.json.gz"
+    "sha256": "1437212ddd892d3b15d595f784d270270825143931ab8ef3afaf88d721d90150",
+    "retrieved_at": "2026-11-06T15:16:26.216803+00:00",
+    "raw_path": "data/raw/1437212ddd892d3b15d595f784d270270825143931ab8ef3afaf88d721d90150.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1043000/000104300026000009/0001043000-26-000009-index.html",
   "earnings": {

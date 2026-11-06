@@ -4,8 +4,8 @@
   "name": "SHATTUCK LABS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 5.47,
-  "price_date": "2026-11-03",
+  "holding_price": 5.15,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001680367.json",
-    "sha256": "e32ff50f9d1232bc840625eb9175750364419ed9f17629b2876d16bc3d9e9a4c",
-    "retrieved_at": "2026-11-03T15:27:39.109630+00:00",
-    "raw_path": "data/raw/e32ff50f9d1232bc840625eb9175750364419ed9f17629b2876d16bc3d9e9a4c.json.gz"
+    "sha256": "147c764902c38090fa90762674d18827b0959eb8485df473b991c439157d0804",
+    "retrieved_at": "2026-11-06T15:18:15.028469+00:00",
+    "raw_path": "data/raw/147c764902c38090fa90762674d18827b0959eb8485df473b991c439157d0804.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1680367/000162828026014989/0001628280-26-014989-index.html",
   "earnings": {

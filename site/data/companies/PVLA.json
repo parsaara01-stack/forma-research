@@ -4,8 +4,8 @@
   "name": "PALVELLA THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 152.93,
-  "price_date": "2026-11-03",
+  "holding_price": 162.28,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001583648.json",
-    "sha256": "6b68c40c9037b15f9345bb6bb1fdc7777b1252c77cab2e34faa81275beefef40",
-    "retrieved_at": "2026-11-03T15:24:54.894860+00:00",
-    "raw_path": "data/raw/6b68c40c9037b15f9345bb6bb1fdc7777b1252c77cab2e34faa81275beefef40.json.gz"
+    "sha256": "8ef3eb8434e0c3c432053f8f31986d419d8439f027e1b462c88f7d2668ae02ef",
+    "retrieved_at": "2026-11-06T15:15:07.708667+00:00",
+    "raw_path": "data/raw/8ef3eb8434e0c3c432053f8f31986d419d8439f027e1b462c88f7d2668ae02ef.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526133372/0001193125-26-133372-index.html",
   "earnings": {

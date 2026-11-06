@@ -4,8 +4,8 @@
   "name": "NEIGHBORHOOD INTELLIGENCE",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.69,
-  "price_date": "2026-11-03",
+  "holding_price": 1.71,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001130713.json",
-    "sha256": "b0eef461d321d3660641c788012dadae21f288e59d477e2c40d7051cb4c25bbb",
-    "retrieved_at": "2026-11-03T15:29:50.868660+00:00",
-    "raw_path": "data/raw/b0eef461d321d3660641c788012dadae21f288e59d477e2c40d7051cb4c25bbb.json.gz"
+    "sha256": "c7c32251e0dd5fe85d9dc611cdde02f33a539fbc68d627b5b9b8ee9c16e650c1",
+    "retrieved_at": "2026-11-06T15:20:12.205580+00:00",
+    "raw_path": "data/raw/c7c32251e0dd5fe85d9dc611cdde02f33a539fbc68d627b5b9b8ee9c16e650c1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1130713/000113071326000018/0001130713-26-000018-index.html",
   "earnings": {

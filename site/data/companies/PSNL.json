@@ -4,8 +4,8 @@
   "name": "PERSONALIS",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 15.75,
-  "price_date": "2026-11-03",
+  "holding_price": 15.79,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001527753.json",
-    "sha256": "eed9922973cd140a1506149320807cebdcff761a0dea3bca5153936dcd65973e",
-    "retrieved_at": "2026-11-03T15:25:44.526808+00:00",
-    "raw_path": "data/raw/eed9922973cd140a1506149320807cebdcff761a0dea3bca5153936dcd65973e.json.gz"
+    "sha256": "061393dfbb11e88ddc0aab573b2638d76e312bf14d4c4fbf1a7a9b56c32a11b0",
+    "retrieved_at": "2026-11-06T15:16:15.344055+00:00",
+    "raw_path": "data/raw/061393dfbb11e88ddc0aab573b2638d76e312bf14d4c4fbf1a7a9b56c32a11b0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526076615/0001193125-26-076615-index.html",
   "earnings": {

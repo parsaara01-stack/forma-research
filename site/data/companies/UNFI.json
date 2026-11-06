@@ -3,9 +3,9 @@
   "source_ticker": "UNFI",
   "name": "UNITED NATURAL FOODS INC",
   "group": "Consumer Staples",
-  "weight_percent": 0.09,
-  "holding_price": 45.1,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.1,
+  "holding_price": 48.29,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001020859.json",
-    "sha256": "bbe02d24455f63fa21e70f398d796052e107f348b96932f40bce6c3ed1b1905a",
-    "retrieved_at": "2026-11-03T15:23:51.878363+00:00",
-    "raw_path": "data/raw/bbe02d24455f63fa21e70f398d796052e107f348b96932f40bce6c3ed1b1905a.json.gz"
+    "sha256": "f4fed8c4cf26e3e8c45d45237db6834c7b6901f2c09f2f436b3807ad2df39121",
+    "retrieved_at": "2026-11-06T15:14:17.353787+00:00",
+    "raw_path": "data/raw/f4fed8c4cf26e3e8c45d45237db6834c7b6901f2c09f2f436b3807ad2df39121.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000025/0001020859-26-000025-index.html",
   "earnings": {

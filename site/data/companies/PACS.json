@@ -3,9 +3,9 @@
   "source_ticker": "PACS",
   "name": "PACS GROUP",
   "group": "Health Care",
-  "weight_percent": 0.07,
-  "holding_price": 46.68,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.08,
+  "holding_price": 50.26,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002001184.json",
-    "sha256": "de17d3dfc5b9ff24ca2d971408f52f92b291d2317f30e543af088a37fe165fd4",
-    "retrieved_at": "2026-11-03T15:24:21.950139+00:00",
-    "raw_path": "data/raw/de17d3dfc5b9ff24ca2d971408f52f92b291d2317f30e543af088a37fe165fd4.json.gz"
+    "sha256": "77597fed9b54196eeee5c1f44ae1f81d82f281002be93ea6dba96dedf54ebf2f",
+    "retrieved_at": "2026-11-06T15:14:43.821358+00:00",
+    "raw_path": "data/raw/77597fed9b54196eeee5c1f44ae1f81d82f281002be93ea6dba96dedf54ebf2f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2001184/000200118426000005/0002001184-26-000005-index.html",
   "earnings": {

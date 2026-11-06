@@ -3,9 +3,9 @@
   "source_ticker": "GRAL",
   "name": "GRAIL INC",
   "group": "Health Care",
-  "weight_percent": 0.19,
-  "holding_price": 139.44,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.2,
+  "holding_price": 143.66,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001699031.json",
-    "sha256": "556c1255afd05d8a688bb50b5018954a0de4d613de5c9c9f3844ee5942398a94",
-    "retrieved_at": "2026-11-03T15:22:38.802011+00:00",
-    "raw_path": "data/raw/556c1255afd05d8a688bb50b5018954a0de4d613de5c9c9f3844ee5942398a94.json.gz"
+    "sha256": "9bd95730a030d6818c1e0f23f6c7d570d5ba8f35b2c66f571d41f7850716ca0f",
+    "retrieved_at": "2026-11-06T15:13:09.376307+00:00",
+    "raw_path": "data/raw/9bd95730a030d6818c1e0f23f6c7d570d5ba8f35b2c66f571d41f7850716ca0f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026017319/0001628280-26-017319-index.html",
   "earnings": {

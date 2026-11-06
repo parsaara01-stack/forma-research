@@ -4,8 +4,8 @@
   "name": "STUBHUB HOLDINGS INC CLASS A",
   "group": "Communication",
   "weight_percent": 0.05,
-  "holding_price": 6.06,
-  "price_date": "2026-11-03",
+  "holding_price": 6.59,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001337634.json",
     "sha256": "c246b44cabcc91acc4704c1ba31a72e068a54841a72a4bcf987b755f74c571b2",
-    "retrieved_at": "2026-11-03T15:25:29.906451+00:00",
+    "retrieved_at": "2026-11-06T15:15:43.759707+00:00",
     "raw_path": "data/raw/c246b44cabcc91acc4704c1ba31a72e068a54841a72a4bcf987b755f74c571b2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1337634/000162828026014844/0001628280-26-014844-index.html",

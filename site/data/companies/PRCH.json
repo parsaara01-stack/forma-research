@@ -4,8 +4,8 @@
   "name": "PORCH GROUP",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 21.52,
-  "price_date": "2026-11-03",
+  "holding_price": 21.56,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001784535.json",
     "sha256": "df3e22194fc1df312a4ab4b5b99ad182dbfd51b216e35b26d9e3f764709c9028",
-    "retrieved_at": "2026-11-03T15:24:30.157377+00:00",
+    "retrieved_at": "2026-11-06T15:14:53.251988+00:00",
     "raw_path": "data/raw/df3e22194fc1df312a4ab4b5b99ad182dbfd51b216e35b26d9e3f764709c9028.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1784535/000178453526000008/0001784535-26-000008-index.html",

@@ -3,9 +3,9 @@
   "source_ticker": "DCO",
   "name": "DUCOMMUN",
   "group": "Industrials",
-  "weight_percent": 0.08,
-  "holding_price": 166.7,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.07,
+  "holding_price": 156.33,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000030305.json",
-    "sha256": "f6726330a636e85ac72626b29e9393cacb099af86d295724f98dc9d061c1bdf3",
-    "retrieved_at": "2026-11-03T15:24:21.462175+00:00",
-    "raw_path": "data/raw/f6726330a636e85ac72626b29e9393cacb099af86d295724f98dc9d061c1bdf3.json.gz"
+    "sha256": "7a7d415e9767f3fbc783f7b84db83d3c32a8ee978f26cc72f6cbadcd65c6217d",
+    "retrieved_at": "2026-11-06T15:14:50.809336+00:00",
+    "raw_path": "data/raw/7a7d415e9767f3fbc783f7b84db83d3c32a8ee978f26cc72f6cbadcd65c6217d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/30305/000162828026011952/0001628280-26-011952-index.html",
   "earnings": {

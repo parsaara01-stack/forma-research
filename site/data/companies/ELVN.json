@@ -4,8 +4,8 @@
   "name": "ENLIVEN THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.09,
-  "holding_price": 44.83,
-  "price_date": "2026-11-03",
+  "holding_price": 47.25,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001672619.json",
-    "sha256": "dc5c702d1320277637a883b71956720b0deb606fe497a659bf5d0985e324816d",
-    "retrieved_at": "2026-11-03T15:24:03.318535+00:00",
-    "raw_path": "data/raw/dc5c702d1320277637a883b71956720b0deb606fe497a659bf5d0985e324816d.json.gz"
+    "sha256": "e4371b37d4ec1154d3eb906af782119a42ab4da11d2110401c6b2638c97cf299",
+    "retrieved_at": "2026-11-06T15:14:25.860025+00:00",
+    "raw_path": "data/raw/e4371b37d4ec1154d3eb906af782119a42ab4da11d2110401c6b2638c97cf299.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1672619/000119312526088232/0001193125-26-088232-index.html",
   "earnings": {

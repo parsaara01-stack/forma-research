@@ -4,8 +4,8 @@
   "name": "PROTARA THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 2.41,
-  "price_date": "2026-11-03",
+  "holding_price": 2.35,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001359931.json",
-    "sha256": "73c5c8e9513bdc55c707e83d9669fc2bd4dbb1b11805f8d13591997b9e86c1c4",
-    "retrieved_at": "2026-11-03T15:29:55.323426+00:00",
-    "raw_path": "data/raw/73c5c8e9513bdc55c707e83d9669fc2bd4dbb1b11805f8d13591997b9e86c1c4.json.gz"
+    "sha256": "c0e64e4528706de0564dcded521316bd612d9ee508a8d12e6ac4ef143ca4275c",
+    "retrieved_at": "2026-11-06T15:20:26.236152+00:00",
+    "raw_path": "data/raw/c0e64e4528706de0564dcded521316bd612d9ee508a8d12e6ac4ef143ca4275c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026025433/0001213900-26-025433-index.html",
   "earnings": {

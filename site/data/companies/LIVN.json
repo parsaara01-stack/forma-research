@@ -3,9 +3,9 @@
   "source_ticker": "LIVN",
   "name": "LIVANOVA PLC",
   "group": "Health Care",
-  "weight_percent": 0.15,
-  "holding_price": 79.9,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.18,
+  "holding_price": 94.19,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001639691.json",
-    "sha256": "4a9dca476e86842f319df8973097c996695da952b12db87f32bad394c61d8033",
-    "retrieved_at": "2026-11-03T15:23:01.814939+00:00",
-    "raw_path": "data/raw/4a9dca476e86842f319df8973097c996695da952b12db87f32bad394c61d8033.json.gz"
+    "sha256": "d6103dc0a7ad137f21b35ff4495b637ab6f1e016dd47da536f2519225e849c48",
+    "retrieved_at": "2026-11-06T15:13:19.026940+00:00",
+    "raw_path": "data/raw/d6103dc0a7ad137f21b35ff4495b637ab6f1e016dd47da536f2519225e849c48.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000010/0001639691-26-000010-index.html",
   "earnings": {

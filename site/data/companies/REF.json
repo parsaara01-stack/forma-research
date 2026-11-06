@@ -4,11 +4,11 @@
   "name": "REFORMATION",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 16.99,
-  "price_date": "2026-11-03",
+  "holding_price": 18.41,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-03"
+  "refresh_error": "No supported annual facts by 2026-11-06"
 }

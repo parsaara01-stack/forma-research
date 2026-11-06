@@ -4,8 +4,8 @@
   "name": "LTC PROPERTIES REIT",
   "group": "Real Estate",
   "weight_percent": 0.08,
-  "holding_price": 45.8,
-  "price_date": "2026-11-03",
+  "holding_price": 46.33,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000887905.json",
-    "sha256": "b3a9914ed70bbe3aa139b5c7f2ebfde923b557a5d1039b440684d951fbce3bdf",
-    "retrieved_at": "2026-11-03T15:24:19.611149+00:00",
-    "raw_path": "data/raw/b3a9914ed70bbe3aa139b5c7f2ebfde923b557a5d1039b440684d951fbce3bdf.json.gz"
+    "sha256": "b8defb87120c820e6354ef8661c9fde06fa7fd9e45dbbf427071df70b291e7f2",
+    "retrieved_at": "2026-11-06T15:14:41.606456+00:00",
+    "raw_path": "data/raw/b8defb87120c820e6354ef8661c9fde06fa7fd9e45dbbf427071df70b291e7f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/887905/000110465926019178/0001104659-26-019178-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "AMERICAN COASTAL INSURANCE CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 10.54,
-  "price_date": "2026-11-03",
+  "holding_price": 10.64,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001401521.json",
-    "sha256": "81a642fbf7a7c47e7870e637c6412cd61812d69933bfeaaafbc36899a408753d",
-    "retrieved_at": "2026-11-03T15:28:11.304152+00:00",
-    "raw_path": "data/raw/81a642fbf7a7c47e7870e637c6412cd61812d69933bfeaaafbc36899a408753d.json.gz"
+    "sha256": "082c044adf076c0f444dd8e790d55c9be5826360f9d0b85d5011b33cd97cb298",
+    "retrieved_at": "2026-11-06T15:18:44.082557+00:00",
+    "raw_path": "data/raw/082c044adf076c0f444dd8e790d55c9be5826360f9d0b85d5011b33cd97cb298.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1401521/000140152126000015/0001401521-26-000015-index.html",
   "earnings": {

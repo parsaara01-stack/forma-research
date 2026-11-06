@@ -3,9 +3,9 @@
   "source_ticker": "SDRL",
   "name": "SEADRILL",
   "group": "Energy",
-  "weight_percent": 0.1,
-  "holding_price": 46.32,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.09,
+  "holding_price": 43.32,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001737706.json",
-    "sha256": "c6c883077d7c0c7c976fcfccdf41d9bd7d5d4c6f22edb6e602414ee02ba7def5",
-    "retrieved_at": "2026-11-03T15:23:31.865948+00:00",
-    "raw_path": "data/raw/c6c883077d7c0c7c976fcfccdf41d9bd7d5d4c6f22edb6e602414ee02ba7def5.json.gz"
+    "sha256": "620b1e8883b1d8bfe5e31d6cd52b479eeba26f4304e15b19eb54e14357d2ee68",
+    "retrieved_at": "2026-11-06T15:14:24.099185+00:00",
+    "raw_path": "data/raw/620b1e8883b1d8bfe5e31d6cd52b479eeba26f4304e15b19eb54e14357d2ee68.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000010/0001737706-26-000010-index.html",
   "earnings": {

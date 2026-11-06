@@ -3,9 +3,9 @@
   "source_ticker": "ACHC",
   "name": "ACADIA HEALTHCARE COMPANY",
   "group": "Health Care",
-  "weight_percent": 0.09,
-  "holding_price": 29.62,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.1,
+  "holding_price": 32.25,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001520697.json",
-    "sha256": "b1d48d703acb9cf3f60aaa852af3b91f4c463c554bf1a3d1bbf0ae55d0e977a3",
-    "retrieved_at": "2026-11-03T15:23:50.588353+00:00",
-    "raw_path": "data/raw/b1d48d703acb9cf3f60aaa852af3b91f4c463c554bf1a3d1bbf0ae55d0e977a3.json.gz"
+    "sha256": "6cadbe7e70e4871075ba72ff8640c9b14dda390615c83bd169510583a0cd409d",
+    "retrieved_at": "2026-11-06T15:14:14.683301+00:00",
+    "raw_path": "data/raw/6cadbe7e70e4871075ba72ff8640c9b14dda390615c83bd169510583a0cd409d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1520697/000119312526078266/0001193125-26-078266-index.html",
   "earnings": {

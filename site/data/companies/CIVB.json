@@ -4,8 +4,8 @@
   "name": "CIVISTA BANCSHARES INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 28.47,
-  "price_date": "2026-11-03",
+  "holding_price": 28.81,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000944745.json",
-    "sha256": "3a16267b0f138dbc554986f6d3d7e192492f378023d88958d3622227e7ed5265",
-    "retrieved_at": "2026-11-03T15:26:59.455334+00:00",
-    "raw_path": "data/raw/3a16267b0f138dbc554986f6d3d7e192492f378023d88958d3622227e7ed5265.json.gz"
+    "sha256": "f66525081c433ab4ce1fefad67a9212d5458a17cc4b1351a6654f11279ae5814",
+    "retrieved_at": "2026-11-06T15:17:28.001460+00:00",
+    "raw_path": "data/raw/f66525081c433ab4ce1fefad67a9212d5458a17cc4b1351a6654f11279ae5814.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/944745/000119312526096836/0001193125-26-096836-index.html",
   "earnings": {

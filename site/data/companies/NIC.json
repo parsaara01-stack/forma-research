@@ -3,9 +3,9 @@
   "source_ticker": "NIC",
   "name": "NICOLET BANKSHARES INC",
   "group": "Financials",
-  "weight_percent": 0.12,
-  "holding_price": 172.47,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.11,
+  "holding_price": 175.24,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001174850.json",
     "sha256": "3e4406f962e2be87ab29b68b7b5b9749ddaffaf8759f4ce6bb241c56e8100d04",
-    "retrieved_at": "2026-11-03T15:23:27.138184+00:00",
+    "retrieved_at": "2026-11-06T15:13:59.156493+00:00",
     "raw_path": "data/raw/3e4406f962e2be87ab29b68b7b5b9749ddaffaf8759f4ce6bb241c56e8100d04.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1174850/000117485026000077/0001174850-26-000077-index.html",

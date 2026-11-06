@@ -4,8 +4,8 @@
   "name": "KOHLS CORP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.09,
-  "holding_price": 23.62,
-  "price_date": "2026-11-03",
+  "holding_price": 25.36,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885639.json",
     "sha256": "e9ecbf0133f7538197f4563ec5f3c16a4e927aa5dee05ae41ee2d42cfbacc762",
-    "retrieved_at": "2026-11-03T15:23:55.371700+00:00",
+    "retrieved_at": "2026-11-06T15:14:20.512300+00:00",
     "raw_path": "data/raw/e9ecbf0133f7538197f4563ec5f3c16a4e927aa5dee05ae41ee2d42cfbacc762.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/885639/000119312526115982/0001193125-26-115982-index.html",

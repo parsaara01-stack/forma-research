@@ -4,8 +4,8 @@
   "name": "CADRE HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 31.06,
-  "price_date": "2026-11-03",
+  "holding_price": 30.84,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001860543.json",
-    "sha256": "a7b194eecfcb31771a948e4b003c81972967374cabaee0d4bbbf4a85d642c09b",
-    "retrieved_at": "2026-11-03T15:26:10.383892+00:00",
-    "raw_path": "data/raw/a7b194eecfcb31771a948e4b003c81972967374cabaee0d4bbbf4a85d642c09b.json.gz"
+    "sha256": "bd6e30d0b5b4789e2a560bc1dc6842e402d63668f87fd40ed21d9cbb1da6f0ef",
+    "retrieved_at": "2026-11-06T15:16:34.004098+00:00",
+    "raw_path": "data/raw/bd6e30d0b5b4789e2a560bc1dc6842e402d63668f87fd40ed21d9cbb1da6f0ef.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1860543/000110465926025862/0001104659-26-025862-index.html",
   "earnings": {

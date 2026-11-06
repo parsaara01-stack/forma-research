@@ -4,8 +4,8 @@
   "name": "PANGAEA LOGISTICS SOLUTIONS",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 7.57,
-  "price_date": "2026-11-03",
+  "holding_price": 7.51,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001606909.json",
-    "sha256": "e653912afaa2d95d2877d6b8acafc9acaf617dd5fe103d80d0c4808601c34745",
-    "retrieved_at": "2026-11-03T15:28:47.721686+00:00",
-    "raw_path": "data/raw/e653912afaa2d95d2877d6b8acafc9acaf617dd5fe103d80d0c4808601c34745.json.gz"
+    "sha256": "fdf268d3ac642ff01c939d31a66a6a5386a1c2b9c531d7607d958e12a3c3c0b7",
+    "retrieved_at": "2026-11-06T15:19:23.360668+00:00",
+    "raw_path": "data/raw/fdf268d3ac642ff01c939d31a66a6a5386a1c2b9c531d7607d958e12a3c3c0b7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1606909/000160690926000010/0001606909-26-000010-index.html",
   "earnings": {

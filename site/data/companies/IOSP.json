@@ -3,9 +3,9 @@
   "source_ticker": "IOSP",
   "name": "INNOSPEC INC",
   "group": "Materials",
-  "weight_percent": 0.08,
-  "holding_price": 99.23,
-  "price_date": "2026-11-03",
+  "weight_percent": 0.07,
+  "holding_price": 80.65,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001054905.json",
-    "sha256": "bf03452958526bcff7516a218ae6e77bc91368503477d0689203e547895a8513",
-    "retrieved_at": "2026-11-03T15:24:08.489469+00:00",
-    "raw_path": "data/raw/bf03452958526bcff7516a218ae6e77bc91368503477d0689203e547895a8513.json.gz"
+    "sha256": "4a3988e431ef6b03ddd13aa82a4be49cc023dea1d3d22a5d30f4549c4489b91a",
+    "retrieved_at": "2026-11-06T15:15:02.461533+00:00",
+    "raw_path": "data/raw/4a3988e431ef6b03ddd13aa82a4be49cc023dea1d3d22a5d30f4549c4489b91a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1054905/000119312526056502/0001193125-26-056502-index.html",
   "earnings": {

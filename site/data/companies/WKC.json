@@ -4,8 +4,8 @@
   "name": "WORLD KINECT",
   "group": "Energy",
   "weight_percent": 0.06,
-  "holding_price": 37.99,
-  "price_date": "2026-11-03",
+  "holding_price": 38.0,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789460.json",
     "sha256": "8216764a1ddea5032693fd9835759429d80fd74ff9dc65bb8f8fe480c27a0ba2",
-    "retrieved_at": "2026-11-03T15:24:44.578970+00:00",
+    "retrieved_at": "2026-11-06T15:15:09.519937+00:00",
     "raw_path": "data/raw/8216764a1ddea5032693fd9835759429d80fd74ff9dc65bb8f8fe480c27a0ba2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/789460/000078946026000015/0000789460-26-000015-index.html",

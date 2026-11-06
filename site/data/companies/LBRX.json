@@ -4,8 +4,8 @@
   "name": "LB PHARMACEUTICALS INC",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 40.33,
-  "price_date": "2026-11-03",
+  "holding_price": 40.85,
+  "price_date": "2026-11-04",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001691082.json",
-    "sha256": "b6157a975caca8aa097b0a39b2c5eab54fc505d6c1fb9e7f34a70c4102079a1f",
-    "retrieved_at": "2026-11-03T15:26:16.689149+00:00",
-    "raw_path": "data/raw/b6157a975caca8aa097b0a39b2c5eab54fc505d6c1fb9e7f34a70c4102079a1f.json.gz"
+    "sha256": "39ffc2e3fdb3d3c925aee17817a49420184f7d02e14ee4042591bb1161758af1",
+    "retrieved_at": "2026-11-06T15:16:38.752293+00:00",
+    "raw_path": "data/raw/39ffc2e3fdb3d3c925aee17817a49420184f7d02e14ee4042591bb1161758af1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1691082/000119312526126368/0001193125-26-126368-index.html",
   "earnings": {

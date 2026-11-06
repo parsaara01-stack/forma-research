@@ -4,8 +4,8 @@
   "name": "INNOVEX INTERNATIONAL INC",
   "group": "Energy",
   "weight_percent": 0.04,
-  "holding_price": 25.87,
-  "price_date": "2026-11-03",
+  "holding_price": 25.59,
+  "price_date": "2026-11-04",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-03",
+  "observation_cutoff": "2026-11-06",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001042893.json",
-    "sha256": "5dc7264347585d5861061a24aa789c05b4b7704e54953c6279a1b455c41a6d45",
-    "retrieved_at": "2026-11-03T15:25:30.156293+00:00",
-    "raw_path": "data/raw/5dc7264347585d5861061a24aa789c05b4b7704e54953c6279a1b455c41a6d45.json.gz"
+    "sha256": "bf5c3af3b949d74a4feb135ce132ce3c72acea10aa28267c3250435256f792dd",
+    "retrieved_at": "2026-11-06T15:16:10.062826+00:00",
+    "raw_path": "data/raw/bf5c3af3b949d74a4feb135ce132ce3c72acea10aa28267c3250435256f792dd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1042893/000119312526067228/0001193125-26-067228-index.html",
   "earnings": {
