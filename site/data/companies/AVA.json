@@ -3,9 +3,9 @@
   "source_ticker": "AVA",
   "name": "AVISTA",
   "group": "Utilities",
-  "weight_percent": 0.11,
-  "holding_price": 40.17,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.12,
+  "holding_price": 40.23,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

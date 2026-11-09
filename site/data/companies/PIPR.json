@@ -3,9 +3,9 @@
   "source_ticker": "PIPR",
   "name": "PIPER SANDLER COMPANIES",
   "group": "Financials",
-  "weight_percent": 0.17,
-  "holding_price": 70.22,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.16,
+  "holding_price": 65.92,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

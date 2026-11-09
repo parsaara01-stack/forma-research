@@ -4,8 +4,8 @@
   "name": "BAR HARBOR BANKSHARES",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 42.51,
-  "price_date": "2026-11-04",
+  "holding_price": 41.01,
+  "price_date": "2026-11-06",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "net_income": {

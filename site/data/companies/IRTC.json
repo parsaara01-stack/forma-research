@@ -3,9 +3,9 @@
   "source_ticker": "IRTC",
   "name": "IRHYTHM HOLDINGS INC",
   "group": "Health Care",
-  "weight_percent": 0.15,
-  "holding_price": 134.0,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.1,
+  "holding_price": 90.22,
+  "price_date": "2026-11-06",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

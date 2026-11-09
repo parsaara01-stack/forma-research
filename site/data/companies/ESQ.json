@@ -3,9 +3,9 @@
   "source_ticker": "ESQ",
   "name": "ESQUIRE FINANCIAL HOLDINGS INC",
   "group": "Financials",
-  "weight_percent": 0.03,
-  "holding_price": 127.36,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.04,
+  "holding_price": 129.15,
+  "price_date": "2026-11-06",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

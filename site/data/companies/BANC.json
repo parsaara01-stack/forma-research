@@ -3,9 +3,9 @@
   "source_ticker": "BANC",
   "name": "BANC OF CALIFORNIA",
   "group": "Financials",
-  "weight_percent": 0.08,
-  "holding_price": 18.56,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.09,
+  "holding_price": 17.98,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

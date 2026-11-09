@@ -4,8 +4,8 @@
   "name": "TALOS ENERGY",
   "group": "Energy",
   "weight_percent": 0.07,
-  "holding_price": 15.61,
-  "price_date": "2026-11-04",
+  "holding_price": 14.84,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

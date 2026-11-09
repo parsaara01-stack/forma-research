@@ -4,8 +4,8 @@
   "name": "MNTN CLASS A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 10.37,
-  "price_date": "2026-11-04",
+  "holding_price": 5.33,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

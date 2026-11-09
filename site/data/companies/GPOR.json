@@ -4,8 +4,8 @@
   "name": "GULFPORT ENERGY",
   "group": "Energy",
   "weight_percent": 0.08,
-  "holding_price": 159.11,
-  "price_date": "2026-11-04",
+  "holding_price": 150.0,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

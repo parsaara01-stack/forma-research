@@ -3,9 +3,9 @@
   "source_ticker": "HOMB",
   "name": "HOME BANCSHARES INC",
   "group": "Financials",
-  "weight_percent": 0.19,
-  "holding_price": 30.45,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.2,
+  "holding_price": 29.86,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

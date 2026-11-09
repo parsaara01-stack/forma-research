@@ -3,9 +3,9 @@
   "source_ticker": "FMC",
   "name": "FMC CORP",
   "group": "Materials",
-  "weight_percent": 0.03,
-  "holding_price": 6.42,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.02,
+  "holding_price": 5.63,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "NEXTDECADE",
   "group": "Energy",
   "weight_percent": 0.03,
-  "holding_price": 6.25,
-  "price_date": "2026-11-04",
+  "holding_price": 5.8,
+  "price_date": "2026-11-06",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

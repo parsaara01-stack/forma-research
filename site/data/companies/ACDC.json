@@ -4,8 +4,8 @@
   "name": "PROFRAC HOLDING CLASS A",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 3.97,
-  "price_date": "2026-11-04",
+  "holding_price": 3.0,
+  "price_date": "2026-11-06",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

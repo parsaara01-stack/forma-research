@@ -3,9 +3,9 @@
   "source_ticker": "CVSA",
   "name": "COVISTA",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.14,
-  "holding_price": 124.19,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.13,
+  "holding_price": 110.32,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "VCEL",
   "name": "VERICEL",
   "group": "Health Care",
-  "weight_percent": 0.08,
-  "holding_price": 45.48,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.1,
+  "holding_price": 54.62,
+  "price_date": "2026-11-06",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

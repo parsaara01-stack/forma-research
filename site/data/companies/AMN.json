@@ -3,9 +3,9 @@
   "source_ticker": "AMN",
   "name": "AMN HEALTHCARE",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 47.74,
-  "price_date": "2026-11-04",
+  "weight_percent": 0.05,
+  "holding_price": 36.19,
+  "price_date": "2026-11-06",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
