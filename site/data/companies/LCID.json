@@ -4,8 +4,8 @@
   "name": "LUCID GROUP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 3.29,
-  "price_date": "2026-11-06",
+  "holding_price": 3.6,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001811210.json",
-    "sha256": "52b174f7137efed6f059de5023d0acd44eaef784cd8d2ba018324a4d9957254a",
-    "retrieved_at": "2026-11-06T15:17:52.431777+00:00",
-    "raw_path": "data/raw/52b174f7137efed6f059de5023d0acd44eaef784cd8d2ba018324a4d9957254a.json.gz"
+    "sha256": "4df8f12274b2691853df969b406d4d78ebef94dea793ef9f5b4937d34a2e6f5f",
+    "retrieved_at": "2026-11-10T15:46:59.999030+00:00",
+    "raw_path": "data/raw/4df8f12274b2691853df969b406d4d78ebef94dea793ef9f5b4937d34a2e6f5f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1811210/000162828026011053/0001628280-26-011053-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "NORWOOD FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 35.68,
-  "price_date": "2026-11-06",
+  "holding_price": 36.24,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013272.json",
     "sha256": "f697abc4ce66ac8e7d782e6a8423a47e2974e91a536bbb4433a22f1309b9cab2",
-    "retrieved_at": "2026-11-06T15:18:29.401097+00:00",
+    "retrieved_at": "2026-11-10T15:47:44.671693+00:00",
     "raw_path": "data/raw/f697abc4ce66ac8e7d782e6a8423a47e2974e91a536bbb4433a22f1309b9cab2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1013272/000101327226000003/0001013272-26-000003-index.html",

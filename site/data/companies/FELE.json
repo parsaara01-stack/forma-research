@@ -4,8 +4,8 @@
   "name": "FRANKLIN ELECTRIC",
   "group": "Industrials",
   "weight_percent": 0.12,
-  "holding_price": 94.17,
-  "price_date": "2026-11-06",
+  "holding_price": 96.98,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000038725.json",
     "sha256": "0a89deb96a3729d595945972935b1e6d6490ae2d0bce80c540245101cbf0b211",
-    "retrieved_at": "2026-11-06T15:13:48.987337+00:00",
+    "retrieved_at": "2026-11-10T15:43:11.087287+00:00",
     "raw_path": "data/raw/0a89deb96a3729d595945972935b1e6d6490ae2d0bce80c540245101cbf0b211.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/38725/000003872526000009/0000038725-26-000009-index.html",

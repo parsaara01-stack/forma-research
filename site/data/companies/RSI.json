@@ -3,9 +3,9 @@
   "source_ticker": "RSI",
   "name": "RUSH STREET INTERACTIVE CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.05,
-  "holding_price": 12.28,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.04,
+  "holding_price": 12.11,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001793659.json",
     "sha256": "adfce41fd9473bf1852008581c0ff50c5db57f984c55c9064047d21e47b71620",
-    "retrieved_at": "2026-11-06T15:15:54.747297+00:00",
+    "retrieved_at": "2026-11-10T15:45:14.302886+00:00",
     "raw_path": "data/raw/adfce41fd9473bf1852008581c0ff50c5db57f984c55c9064047d21e47b71620.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1793659/000179365926000009/0001793659-26-000009-index.html",

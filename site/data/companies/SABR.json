@@ -4,8 +4,8 @@
   "name": "SABRE",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 1.69,
-  "price_date": "2026-11-06",
+  "holding_price": 1.8,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001597033.json",
     "sha256": "64f8c43829155802f184b00365eef3c286fe7f1edd92483d607442364b7b49c7",
-    "retrieved_at": "2026-11-06T15:17:35.742076+00:00",
+    "retrieved_at": "2026-11-10T15:46:48.295592+00:00",
     "raw_path": "data/raw/64f8c43829155802f184b00365eef3c286fe7f1edd92483d607442364b7b49c7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1597033/000162828026008800/0001628280-26-008800-index.html",

@@ -4,8 +4,8 @@
   "name": "KALTURA INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 1.52,
-  "price_date": "2026-11-06",
+  "holding_price": 1.43,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001432133.json",
-    "sha256": "b7b78225dbc73c5a2ff16d968086947cbdf597e98b0698815cc03f444ab3df5d",
-    "retrieved_at": "2026-11-06T15:20:18.134626+00:00",
-    "raw_path": "data/raw/b7b78225dbc73c5a2ff16d968086947cbdf597e98b0698815cc03f444ab3df5d.json.gz"
+    "sha256": "8bd5ca9e91a13baaea2166d52277eb0059ab4979ea1cafbb7e89ab84d1fdf699",
+    "retrieved_at": "2026-11-10T15:49:37.140280+00:00",
+    "raw_path": "data/raw/8bd5ca9e91a13baaea2166d52277eb0059ab4979ea1cafbb7e89ab84d1fdf699.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026018182/0001628280-26-018182-index.html",
   "earnings": {

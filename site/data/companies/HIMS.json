@@ -3,9 +3,9 @@
   "source_ticker": "HIMS",
   "name": "HIMS HERS HEALTH CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.19,
-  "holding_price": 26.0,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.16,
+  "holding_price": 22.94,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001773751.json",
-    "sha256": "e4951261793395e8ec3cfcd7f86bdd3ed6d36e381ab8a7158087efdfdc140d66",
-    "retrieved_at": "2026-11-06T15:13:11.052300+00:00",
-    "raw_path": "data/raw/e4951261793395e8ec3cfcd7f86bdd3ed6d36e381ab8a7158087efdfdc140d66.json.gz"
+    "sha256": "bb5129b3aaec013e586ab0b39847ee79662a0cc446855be9e0bb81166ce21e39",
+    "retrieved_at": "2026-11-10T15:42:43.633068+00:00",
+    "raw_path": "data/raw/bb5129b3aaec013e586ab0b39847ee79662a0cc446855be9e0bb81166ce21e39.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000022/0001773751-26-000022-index.html",
   "earnings": {

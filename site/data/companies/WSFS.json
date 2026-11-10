@@ -4,8 +4,8 @@
   "name": "WSFS FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 78.94,
-  "price_date": "2026-11-06",
+  "holding_price": 79.89,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000828944.json",
     "sha256": "4013a5e2de94987ba6f0a369be5602e3b7be12e84f3e03494cc5a5cb249ff9fa",
-    "retrieved_at": "2026-11-06T15:13:41.318977+00:00",
+    "retrieved_at": "2026-11-10T15:43:03.336499+00:00",
     "raw_path": "data/raw/4013a5e2de94987ba6f0a369be5602e3b7be12e84f3e03494cc5a5cb249ff9fa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/828944/000082894426000006/0000828944-26-000006-index.html",

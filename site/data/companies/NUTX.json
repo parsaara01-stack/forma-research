@@ -4,8 +4,8 @@
   "name": "NUTEX HEALTH INC",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 180.56,
-  "price_date": "2026-11-06",
+  "holding_price": 194.16,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001479681.json",
     "sha256": "c463533d537cd988a253499fed58c2606169986900492d02073b5251cab55a6b",
-    "retrieved_at": "2026-11-06T15:16:29.077939+00:00",
+    "retrieved_at": "2026-11-10T15:45:51.008692+00:00",
     "raw_path": "data/raw/c463533d537cd988a253499fed58c2606169986900492d02073b5251cab55a6b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026015168/0001628280-26-015168-index.html",

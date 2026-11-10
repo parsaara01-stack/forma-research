@@ -4,8 +4,8 @@
   "name": "WHITEFIBER INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 8.88,
-  "price_date": "2026-11-06",
+  "holding_price": 9.57,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002042022.json",
-    "sha256": "b51e3bfb261dac6bc5395fefca3a567bd8c1eaa44795a8db83671f23f30a2fbd",
-    "retrieved_at": "2026-11-06T15:20:29.897539+00:00",
-    "raw_path": "data/raw/b51e3bfb261dac6bc5395fefca3a567bd8c1eaa44795a8db83671f23f30a2fbd.json.gz"
+    "sha256": "873e2da53bda069194b26f3bc1f041d8992e8585c65e4cbb5c07aa6337705161",
+    "retrieved_at": "2026-11-10T15:49:41.470807+00:00",
+    "raw_path": "data/raw/873e2da53bda069194b26f3bc1f041d8992e8585c65e4cbb5c07aa6337705161.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2042022/000121390026034341/0001213900-26-034341-index.html",
   "earnings": {

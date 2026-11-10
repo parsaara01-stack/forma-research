@@ -4,8 +4,8 @@
   "name": "WARRIOR MET COAL INC",
   "group": "Materials",
   "weight_percent": 0.15,
-  "holding_price": 84.15,
-  "price_date": "2026-11-06",
+  "holding_price": 85.87,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001691303.json",
     "sha256": "7ef9c9c9c9a1701e45262d40dceb61caaceb0d05f600888f3b7f347cea7576b0",
-    "retrieved_at": "2026-11-06T15:13:36.035995+00:00",
+    "retrieved_at": "2026-11-10T15:42:49.715377+00:00",
     "raw_path": "data/raw/7ef9c9c9c9a1701e45262d40dceb61caaceb0d05f600888f3b7f347cea7576b0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1691303/000119312526048914/0001193125-26-048914-index.html",

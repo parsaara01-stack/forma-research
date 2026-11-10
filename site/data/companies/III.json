@@ -4,8 +4,8 @@
   "name": "INFORMATION SERVICES GROUP INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 5.92,
-  "price_date": "2026-11-06",
+  "holding_price": 6.03,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001371489.json",
     "sha256": "99bb153c1dc0e46709dacf8cb4b8da2d2b7eb9617c9bdffb27b79a36f6d8bcd9",
-    "retrieved_at": "2026-11-06T15:19:21.206576+00:00",
+    "retrieved_at": "2026-11-10T15:48:35.411140+00:00",
     "raw_path": "data/raw/99bb153c1dc0e46709dacf8cb4b8da2d2b7eb9617c9bdffb27b79a36f6d8bcd9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1371489/000110465926024573/0001104659-26-024573-index.html",

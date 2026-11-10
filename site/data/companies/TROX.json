@@ -4,8 +4,8 @@
   "name": "TRONOX HOLDINGS PLC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 2.51,
-  "price_date": "2026-11-06",
+  "holding_price": 2.71,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001530804.json",
     "sha256": "33fd5b6897a9d87c63502463fdd0d6a85e721715447c04f12ddadcfc292ef602",
-    "retrieved_at": "2026-11-06T15:18:15.957431+00:00",
+    "retrieved_at": "2026-11-10T15:48:06.129268+00:00",
     "raw_path": "data/raw/33fd5b6897a9d87c63502463fdd0d6a85e721715447c04f12ddadcfc292ef602.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1530804/000153080426000006/0001530804-26-000006-index.html",

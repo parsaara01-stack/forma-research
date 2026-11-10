@@ -4,8 +4,8 @@
   "name": "HIGHPEAK ENERGY INC",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 7.14,
-  "price_date": "2026-11-06",
+  "holding_price": 6.76,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001792849.json",
-    "sha256": "bf41b2f108395b11fd22f00d2f1c6374c242392c30785500a3b56dd459c8d9e1",
-    "retrieved_at": "2026-11-06T15:19:58.046297+00:00",
-    "raw_path": "data/raw/bf41b2f108395b11fd22f00d2f1c6374c242392c30785500a3b56dd459c8d9e1.json.gz"
+    "sha256": "72fc084e6b88393e678d7b11cb2088897a35bf984ac87e001e8df9e817552380",
+    "retrieved_at": "2026-11-10T15:49:19.575949+00:00",
+    "raw_path": "data/raw/72fc084e6b88393e678d7b11cb2088897a35bf984ac87e001e8df9e817552380.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1792849/000143774926007770/0001437749-26-007770-index.html",
   "earnings": {

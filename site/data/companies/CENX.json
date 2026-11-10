@@ -3,9 +3,9 @@
   "source_ticker": "CENX",
   "name": "CENTURY ALUMINUM",
   "group": "Materials",
-  "weight_percent": 0.08,
-  "holding_price": 33.47,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.09,
+  "holding_price": 36.62,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000949157.json",
     "sha256": "f04a69cd360a09405c1f6574006770997ad646368c31929ca2974cb3ff7ff6bf",
-    "retrieved_at": "2026-11-06T15:14:45.991444+00:00",
+    "retrieved_at": "2026-11-10T15:43:52.731594+00:00",
     "raw_path": "data/raw/f04a69cd360a09405c1f6574006770997ad646368c31929ca2974cb3ff7ff6bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/949157/000162828026013788/0001628280-26-013788-index.html",

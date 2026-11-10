@@ -4,8 +4,8 @@
   "name": "AMERIS BANCORP",
   "group": "Financials",
   "weight_percent": 0.18,
-  "holding_price": 81.79,
-  "price_date": "2026-11-06",
+  "holding_price": 83.17,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,12 +151,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000351569.json",
-    "sha256": "3a741cd143584816858457c04d6e5ea5ecd2d2beab0e99c307db9baa25e531d1",
-    "retrieved_at": "2026-11-06T15:13:15.615566+00:00",
-    "raw_path": "data/raw/3a741cd143584816858457c04d6e5ea5ecd2d2beab0e99c307db9baa25e531d1.json.gz"
+    "sha256": "cdf4a52639eb12bc41b6372b0eb9e05066ab5969cdc18886a304c28006e83a62",
+    "retrieved_at": "2026-11-10T15:42:36.860247+00:00",
+    "raw_path": "data/raw/cdf4a52639eb12bc41b6372b0eb9e05066ab5969cdc18886a304c28006e83a62.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000050/0000351569-26-000050-index.html",
   "earnings": {

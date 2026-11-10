@@ -4,8 +4,8 @@
   "name": "ALPHA AND OMEGA SEMICONDUCTOR",
   "group": "Information Technology",
   "weight_percent": 0.02,
-  "holding_price": 23.61,
-  "price_date": "2026-11-06",
+  "holding_price": 29.17,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001387467.json",
-    "sha256": "61980bab82cb1bc3b53312cd3ecf7623942f435c51cbc91710744664cdc5280e",
-    "retrieved_at": "2026-11-06T15:17:51.857138+00:00",
-    "raw_path": "data/raw/61980bab82cb1bc3b53312cd3ecf7623942f435c51cbc91710744664cdc5280e.json.gz"
+    "sha256": "d547579f74a796997f7aad9ec76d430d5c01e0fda9ebe1cad847ab293a9f8707",
+    "retrieved_at": "2026-11-10T15:46:29.885192+00:00",
+    "raw_path": "data/raw/d547579f74a796997f7aad9ec76d430d5c01e0fda9ebe1cad847ab293a9f8707.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026059261/0001628280-26-059261-index.html",
   "earnings": {

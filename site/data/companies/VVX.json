@@ -3,9 +3,9 @@
   "source_ticker": "VVX",
   "name": "V2X",
   "group": "Industrials",
-  "weight_percent": 0.08,
-  "holding_price": 76.14,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.09,
+  "holding_price": 81.77,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601548.json",
     "sha256": "b399ca5a51047bdc1c8d067eac21f180c66786c2b6bbcbdb4696230fc17bb4f2",
-    "retrieved_at": "2026-11-06T15:14:38.669685+00:00",
+    "retrieved_at": "2026-11-10T15:43:51.948438+00:00",
     "raw_path": "data/raw/b399ca5a51047bdc1c8d067eac21f180c66786c2b6bbcbdb4696230fc17bb4f2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1601548/000160154826000015/0001601548-26-000015-index.html",

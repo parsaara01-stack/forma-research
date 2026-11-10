@@ -4,8 +4,8 @@
   "name": "OUTFRONT MEDIA",
   "group": "Real Estate",
   "weight_percent": 0.17,
-  "holding_price": 30.79,
-  "price_date": "2026-11-06",
+  "holding_price": 31.26,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001579877.json",
-    "sha256": "0c39346f6cf7f3a4a76777bfa99c1fc82e90d76e01f36a75ce917cfbce6030c3",
-    "retrieved_at": "2026-11-06T15:13:20.456701+00:00",
-    "raw_path": "data/raw/0c39346f6cf7f3a4a76777bfa99c1fc82e90d76e01f36a75ce917cfbce6030c3.json.gz"
+    "sha256": "bd930fff93bf30b88983df983c32b09f75f9c902dbfd9fc48e0b5aae8c8939d3",
+    "retrieved_at": "2026-11-10T15:42:42.212085+00:00",
+    "raw_path": "data/raw/bd930fff93bf30b88983df983c32b09f75f9c902dbfd9fc48e0b5aae8c8939d3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1579877/000157987726000008/0001579877-26-000008-index.html",
   "earnings": {

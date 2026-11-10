@@ -4,8 +4,8 @@
   "name": "AVALO THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 6.93,
-  "price_date": "2026-11-06",
+  "holding_price": 7.27,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001534120.json",
     "sha256": "f4a0ea23b6981317c02ea30d4509e6657bbd6f90be35186624ddda33d1656a16",
-    "retrieved_at": "2026-11-06T15:18:38.715899+00:00",
+    "retrieved_at": "2026-11-10T15:47:50.383103+00:00",
     "raw_path": "data/raw/f4a0ea23b6981317c02ea30d4509e6657bbd6f90be35186624ddda33d1656a16.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1534120/000153412026000011/0001534120-26-000011-index.html",

@@ -3,12 +3,12 @@
   "source_ticker": "CLBK",
   "name": "COLUMBIA FINANCIAL INC",
   "group": "Financials",
-  "weight_percent": 0.11,
-  "holding_price": 11.11,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.1,
+  "holding_price": 11.35,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

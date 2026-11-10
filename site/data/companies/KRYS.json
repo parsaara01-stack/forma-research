@@ -3,9 +3,9 @@
   "source_ticker": "KRYS",
   "name": "KRYSTAL BIOTECH",
   "group": "Health Care",
-  "weight_percent": 0.27,
-  "holding_price": 300.88,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.26,
+  "holding_price": 303.06,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001711279.json",
     "sha256": "ef0858f4a99b902caf7e4adc11d151549e9a9600f0f1e6fdafa598921737c6c3",
-    "retrieved_at": "2026-11-06T15:12:57.116299+00:00",
+    "retrieved_at": "2026-11-10T15:42:16.109551+00:00",
     "raw_path": "data/raw/ef0858f4a99b902caf7e4adc11d151549e9a9600f0f1e6fdafa598921737c6c3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000016/0001711279-26-000016-index.html",

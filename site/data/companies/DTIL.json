@@ -4,8 +4,8 @@
   "name": "PRECISION BIOSCIENCES INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 10.6,
-  "price_date": "2026-11-06",
+  "holding_price": 9.68,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001357874.json",
     "sha256": "a7fa4d83f9d68ba46395d06b9885632f7633d447d50be581d6b9c9655661c25d",
-    "retrieved_at": "2026-11-06T15:19:53.014556+00:00",
+    "retrieved_at": "2026-11-10T15:48:46.791786+00:00",
     "raw_path": "data/raw/a7fa4d83f9d68ba46395d06b9885632f7633d447d50be581d6b9c9655661c25d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1357874/000162828026017019/0001628280-26-017019-index.html",

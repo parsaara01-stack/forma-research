@@ -4,8 +4,8 @@
   "name": "LSI INDUSTRIES INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 17.2,
-  "price_date": "2026-11-06",
+  "holding_price": 16.81,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000763532.json",
-    "sha256": "eea636a36a2bd55e6c692798d6c39c6d3b16f7affd64e7d820e164478d37d41e",
-    "retrieved_at": "2026-11-06T15:17:16.350760+00:00",
-    "raw_path": "data/raw/eea636a36a2bd55e6c692798d6c39c6d3b16f7affd64e7d820e164478d37d41e.json.gz"
+    "sha256": "04c13768d3bfc3803f04fe20607eec41986bfed775c77616213c3d0b0424943d",
+    "retrieved_at": "2026-11-10T15:47:00.252630+00:00",
+    "raw_path": "data/raw/04c13768d3bfc3803f04fe20607eec41986bfed775c77616213c3d0b0424943d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/763532/000143774926029621/0001437749-26-029621-index.html",
   "earnings": {

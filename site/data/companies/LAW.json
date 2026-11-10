@@ -4,8 +4,8 @@
   "name": "CS DISCO",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 5.66,
-  "price_date": "2026-11-06",
+  "holding_price": 5.62,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001625641.json",
     "sha256": "738a154ca37daf3b92418e6ca7cfa3226f8acd637a6fafdffa74bf0f486a9a45",
-    "retrieved_at": "2026-11-06T15:20:03.743336+00:00",
+    "retrieved_at": "2026-11-10T15:49:16.672290+00:00",
     "raw_path": "data/raw/738a154ca37daf3b92418e6ca7cfa3226f8acd637a6fafdffa74bf0f486a9a45.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1625641/000162564126000044/0001625641-26-000044-index.html",

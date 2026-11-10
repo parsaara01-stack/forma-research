@@ -4,8 +4,8 @@
   "name": "OPENLANE",
   "group": "Industrials",
   "weight_percent": 0.12,
-  "holding_price": 34.35,
-  "price_date": "2026-11-06",
+  "holding_price": 34.9,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001395942.json",
     "sha256": "c22eb24048ff896e00ca60bfe9362d5ce60555ecb0304f75ee76092cd945519e",
-    "retrieved_at": "2026-11-06T15:13:49.723929+00:00",
+    "retrieved_at": "2026-11-10T15:43:12.921329+00:00",
     "raw_path": "data/raw/c22eb24048ff896e00ca60bfe9362d5ce60555ecb0304f75ee76092cd945519e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1395942/000139594226000006/0001395942-26-000006-index.html",

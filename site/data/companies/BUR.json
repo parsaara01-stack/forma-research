@@ -4,8 +4,8 @@
   "name": "BURFORD CAPITAL LTD",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 3.59,
-  "price_date": "2026-11-06",
+  "holding_price": 3.71,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001714174.json",
     "sha256": "0753cb3a6468991f94c660e0ad581cbd8f4c31dc35fecba8f856f0efa517adda",
-    "retrieved_at": "2026-11-06T15:16:45.195811+00:00",
+    "retrieved_at": "2026-11-10T15:46:16.853486+00:00",
     "raw_path": "data/raw/0753cb3a6468991f94c660e0ad581cbd8f4c31dc35fecba8f856f0efa517adda.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1714174/000171417426000007/0001714174-26-000007-index.html",

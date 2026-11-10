@@ -4,8 +4,8 @@
   "name": "GPGI INC CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 14.21,
-  "price_date": "2026-11-06",
+  "holding_price": 15.35,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001823144.json",
-    "sha256": "d32533d66d7e16d77ab6b172a85596e68710d2aea812e6ff13d7a3f449a82b25",
-    "retrieved_at": "2026-11-06T15:14:45.204714+00:00",
-    "raw_path": "data/raw/d32533d66d7e16d77ab6b172a85596e68710d2aea812e6ff13d7a3f449a82b25.json.gz"
+    "sha256": "d7f0d94962d4df979e5f68e084acbdef96321ba1c7ce0eca1192e82ff069d4ea",
+    "retrieved_at": "2026-11-10T15:43:42.938707+00:00",
+    "raw_path": "data/raw/d7f0d94962d4df979e5f68e084acbdef96321ba1c7ce0eca1192e82ff069d4ea.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1823144/000162828026017266/0001628280-26-017266-index.html",
   "earnings": {

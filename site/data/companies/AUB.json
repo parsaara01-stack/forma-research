@@ -4,8 +4,8 @@
   "name": "ATLANTIC UNION BANKSHARES",
   "group": "Financials",
   "weight_percent": 0.19,
-  "holding_price": 39.34,
-  "price_date": "2026-11-06",
+  "holding_price": 40.18,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000883948.json",
     "sha256": "6443bbe62dfd7b4d4bca54ef23c6b496cc046fa4d2ed95650efee676374320ed",
-    "retrieved_at": "2026-11-06T15:13:11.913723+00:00",
+    "retrieved_at": "2026-11-10T15:42:29.796825+00:00",
     "raw_path": "data/raw/6443bbe62dfd7b4d4bca54ef23c6b496cc046fa4d2ed95650efee676374320ed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000021/0000883948-26-000021-index.html",

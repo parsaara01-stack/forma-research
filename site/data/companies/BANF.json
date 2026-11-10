@@ -4,8 +4,8 @@
   "name": "BANCFIRST CORP",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 115.2,
-  "price_date": "2026-11-06",
+  "holding_price": 117.83,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000760498.json",
-    "sha256": "e703709101862e3d57e1526a3c114a530546d52ef6c6e1931aaa63201fcacf2d",
-    "retrieved_at": "2026-11-06T15:14:36.197651+00:00",
-    "raw_path": "data/raw/e703709101862e3d57e1526a3c114a530546d52ef6c6e1931aaa63201fcacf2d.json.gz"
+    "sha256": "93f4598262f1f8731abc72b33ac9794d8af044cf740cd1b6995c4b8275ffe7a5",
+    "retrieved_at": "2026-11-10T15:43:52.153413+00:00",
+    "raw_path": "data/raw/93f4598262f1f8731abc72b33ac9794d8af044cf740cd1b6995c4b8275ffe7a5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/760498/000119312526075954/0001193125-26-075954-index.html",
   "earnings": {

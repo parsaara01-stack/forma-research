@@ -4,8 +4,8 @@
   "name": "ARCUS BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 18.28,
-  "price_date": "2026-11-06",
+  "holding_price": 18.95,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001724521.json",
     "sha256": "a2af41108c7e43ed551871f59fe1292f3fd297de339cb5681077cde76970cd10",
-    "retrieved_at": "2026-11-06T15:15:24.617572+00:00",
+    "retrieved_at": "2026-11-10T15:44:43.494550+00:00",
     "raw_path": "data/raw/a2af41108c7e43ed551871f59fe1292f3fd297de339cb5681077cde76970cd10.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1724521/000172452126000009/0001724521-26-000009-index.html",

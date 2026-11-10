@@ -4,8 +4,8 @@
   "name": "UNITED PARKS AND RESORTS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 39.99,
-  "price_date": "2026-11-06",
+  "holding_price": 43.21,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,12 +331,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001564902.json",
-    "sha256": "e549283a70b1f298251569e052841fe343d96473f7447991b3c5356940f803fa",
-    "retrieved_at": "2026-11-06T15:17:20.546477+00:00",
-    "raw_path": "data/raw/e549283a70b1f298251569e052841fe343d96473f7447991b3c5356940f803fa.json.gz"
+    "sha256": "8874b489858b26fd9a9dd49b7f85a00fc403ba749dad5d54f35d75d6c4fb40f3",
+    "retrieved_at": "2026-11-10T15:46:05.790515+00:00",
+    "raw_path": "data/raw/8874b489858b26fd9a9dd49b7f85a00fc403ba749dad5d54f35d75d6c4fb40f3.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526088288/0001193125-26-088288-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "CIPHER DIGITAL INC",
   "group": "Information Technology",
   "weight_percent": 0.08,
-  "holding_price": 6.54,
-  "price_date": "2026-11-06",
+  "holding_price": 6.81,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819989.json",
     "sha256": "ec5dabf686219a61a5a2fbcbc4d8a4211b289c4c739de5bb14b080fa2ee68597",
-    "retrieved_at": "2026-11-06T15:14:50.981477+00:00",
+    "retrieved_at": "2026-11-10T15:44:05.289630+00:00",
     "raw_path": "data/raw/ec5dabf686219a61a5a2fbcbc4d8a4211b289c4c739de5bb14b080fa2ee68597.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/0001819989-26-000009-index.html",

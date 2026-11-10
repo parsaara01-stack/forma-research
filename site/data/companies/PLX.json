@@ -4,8 +4,8 @@
   "name": "PROTALIX BIOTHERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 2.54,
-  "price_date": "2026-11-06",
+  "holding_price": 2.57,
+  "price_date": "2026-11-09",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006281.json",
-    "sha256": "5022eb9c9008f3ac21090b4bd34c0341e843ccbd807493dfa2a9e5fc19632a16",
-    "retrieved_at": "2026-11-06T15:19:46.169358+00:00",
-    "raw_path": "data/raw/5022eb9c9008f3ac21090b4bd34c0341e843ccbd807493dfa2a9e5fc19632a16.json.gz"
+    "sha256": "459ce6509133a5a3db016f41889fe315d2837d57262134a8f4a15ba3a960dba0",
+    "retrieved_at": "2026-11-10T15:49:04.818183+00:00",
+    "raw_path": "data/raw/459ce6509133a5a3db016f41889fe315d2837d57262134a8f4a15ba3a960dba0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1006281/000110465926029858/0001104659-26-029858-index.html",
   "earnings": {

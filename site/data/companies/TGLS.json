@@ -4,8 +4,8 @@
   "name": "TECNOGLASS HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.04,
-  "holding_price": 43.94,
-  "price_date": "2026-11-06",
+  "holding_price": 47.09,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001534675.json",
-    "sha256": "d0dc9a1cedf42298c4efa93637cddd0e6bd16aa229046ce2fbbfd5a3f256db7b",
-    "retrieved_at": "2026-11-06T15:16:15.961994+00:00",
-    "raw_path": "data/raw/d0dc9a1cedf42298c4efa93637cddd0e6bd16aa229046ce2fbbfd5a3f256db7b.json.gz"
+    "sha256": "edd3582ce5d6130a2680ee4a311ea2f5ea67248cf246f5bcecf3d5ca905ef1fb",
+    "retrieved_at": "2026-11-10T15:45:21.135317+00:00",
+    "raw_path": "data/raw/edd3582ce5d6130a2680ee4a311ea2f5ea67248cf246f5bcecf3d5ca905ef1fb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1534675/000149315226008465/0001493152-26-008465-index.html",
   "earnings": {

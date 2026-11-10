@@ -4,8 +4,8 @@
   "name": "PRA GROUP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 12.92,
-  "price_date": "2026-11-06",
+  "holding_price": 12.71,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001185348.json",
-    "sha256": "1804b282168dc8bbd9139d5b5ac99e3bd05c4d380368187daf361c83098fcb14",
-    "retrieved_at": "2026-11-06T15:17:02.781698+00:00",
-    "raw_path": "data/raw/1804b282168dc8bbd9139d5b5ac99e3bd05c4d380368187daf361c83098fcb14.json.gz"
+    "sha256": "10517d12bcca2b393c894c3adb2dabd13fe5c4024be1d0ef9f01496c3151af01",
+    "retrieved_at": "2026-11-10T15:47:14.910286+00:00",
+    "raw_path": "data/raw/10517d12bcca2b393c894c3adb2dabd13fe5c4024be1d0ef9f01496c3151af01.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1185348/000118534826000006/0001185348-26-000006-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "SAFEHOLD INC",
   "group": "Real Estate",
   "weight_percent": 0.02,
-  "holding_price": 10.59,
-  "price_date": "2026-11-06",
+  "holding_price": 10.79,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001095651.json",
     "sha256": "6aea6d5b4847f10f203ec3fa23380496d36d35a6b359f71efadfc7600d47c987",
-    "retrieved_at": "2026-11-06T15:17:33.595628+00:00",
+    "retrieved_at": "2026-11-10T15:46:49.579448+00:00",
     "raw_path": "data/raw/6aea6d5b4847f10f203ec3fa23380496d36d35a6b359f71efadfc7600d47c987.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1095651/000109565126000010/0001095651-26-000010-index.html",

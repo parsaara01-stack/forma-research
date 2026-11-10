@@ -3,9 +3,9 @@
   "source_ticker": "SGC",
   "name": "SUPERIOR GROUP OF COMPANIES INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.01,
-  "holding_price": 13.44,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.0,
+  "holding_price": 12.62,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000095574.json",
-    "sha256": "e78b54d225f69ca4708aa35d560b1ef95079bd550d820bdbf4d2424307242151",
-    "retrieved_at": "2026-11-06T15:20:10.202643+00:00",
-    "raw_path": "data/raw/e78b54d225f69ca4708aa35d560b1ef95079bd550d820bdbf4d2424307242151.json.gz"
+    "sha256": "bab801a61f4a066073fc6f150dbc25c510309586fca080d85c0a18cd9f7b2073",
+    "retrieved_at": "2026-11-10T15:49:30.004003+00:00",
+    "raw_path": "data/raw/bab801a61f4a066073fc6f150dbc25c510309586fca080d85c0a18cd9f7b2073.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/95574/000143774926006653/0001437749-26-006653-index.html",
   "earnings": {

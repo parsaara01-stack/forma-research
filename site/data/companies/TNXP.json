@@ -4,8 +4,8 @@
   "name": "TONIX PHARMACEUTICALS HOLDING",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 4.74,
-  "price_date": "2026-11-06",
+  "holding_price": 4.49,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001430306.json",
-    "sha256": "c58b9668b329c3fe1faf138366f8781d658cf50824bc6e133ce4aa43029ca9ed",
-    "retrieved_at": "2026-11-06T15:20:44.801916+00:00",
-    "raw_path": "data/raw/c58b9668b329c3fe1faf138366f8781d658cf50824bc6e133ce4aa43029ca9ed.json.gz"
+    "sha256": "908e24a55f99eebaedb971411d462fc509d25606bdc0cc944bfe457fd481253c",
+    "retrieved_at": "2026-11-10T15:50:02.521079+00:00",
+    "raw_path": "data/raw/908e24a55f99eebaedb971411d462fc509d25606bdc0cc944bfe457fd481253c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1430306/000199937126005730/0001999371-26-005730-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "CENTRAL PACIFIC FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 38.3,
-  "price_date": "2026-11-06",
+  "holding_price": 39.02,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000701347.json",
     "sha256": "c231002db2af34edac8b1c802fe374d213c88f0eb13744b4bbc80d5bb3c48260",
-    "retrieved_at": "2026-11-06T15:16:46.784996+00:00",
+    "retrieved_at": "2026-11-10T15:46:06.234694+00:00",
     "raw_path": "data/raw/c231002db2af34edac8b1c802fe374d213c88f0eb13744b4bbc80d5bb3c48260.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/701347/000070134726000021/0000701347-26-000021-index.html",

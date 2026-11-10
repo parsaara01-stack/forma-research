@@ -3,9 +3,9 @@
   "source_ticker": "SENEA",
   "name": "SENECA FOODS CLASS A",
   "group": "Consumer Staples",
-  "weight_percent": 0.02,
-  "holding_price": 151.04,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.03,
+  "holding_price": 167.24,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000088948.json",
     "sha256": "3a62b0df074a443572bab0a6d7b68b4a2540144628805aa112c44c743e69b704",
-    "retrieved_at": "2026-11-06T15:17:26.185576+00:00",
+    "retrieved_at": "2026-11-10T15:46:22.145789+00:00",
     "raw_path": "data/raw/3a62b0df074a443572bab0a6d7b68b4a2540144628805aa112c44c743e69b704.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/88948/000143774925020197/0001437749-25-020197-index.html",

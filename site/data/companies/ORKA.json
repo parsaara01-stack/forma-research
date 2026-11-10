@@ -4,8 +4,8 @@
   "name": "ORUKA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.18,
-  "holding_price": 102.86,
-  "price_date": "2026-11-06",
+  "holding_price": 104.56,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000907654.json",
-    "sha256": "3e23b48bd43d48690cc2da8767bd994ea7ae37e724c61a9cefa6f2950dc21518",
-    "retrieved_at": "2026-11-06T15:13:22.457210+00:00",
-    "raw_path": "data/raw/3e23b48bd43d48690cc2da8767bd994ea7ae37e724c61a9cefa6f2950dc21518.json.gz"
+    "sha256": "2f255c16293d6c73355441a5d465680f59f3087282859844945d82b8fc8bf527",
+    "retrieved_at": "2026-11-10T15:42:38.204531+00:00",
+    "raw_path": "data/raw/2f255c16293d6c73355441a5d465680f59f3087282859844945d82b8fc8bf527.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026026929/0001213900-26-026929-index.html",
   "earnings": {

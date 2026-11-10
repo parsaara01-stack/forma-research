@@ -4,8 +4,8 @@
   "name": "FIRST BUSINESS FINANCIAL SERVICES",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 74.18,
-  "price_date": "2026-11-06",
+  "holding_price": 75.81,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001521951.json",
     "sha256": "abffbeb3f525cbcb72eb4b80251358c2160726b634c2ef55a6aaec7b14d3434d",
-    "retrieved_at": "2026-11-06T15:17:28.569514+00:00",
+    "retrieved_at": "2026-11-10T15:46:45.252715+00:00",
     "raw_path": "data/raw/abffbeb3f525cbcb72eb4b80251358c2160726b634c2ef55a6aaec7b14d3434d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1521951/000119312526071523/0001193125-26-071523-index.html",

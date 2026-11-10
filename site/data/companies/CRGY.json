@@ -3,9 +3,9 @@
   "source_ticker": "CRGY",
   "name": "CRESCENT ENERGY CLASS A",
   "group": "Energy",
-  "weight_percent": 0.13,
-  "holding_price": 11.22,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.12,
+  "holding_price": 10.98,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001866175.json",
     "sha256": "fb64ab71b9f76fde7361e23c93fc1885275e656a60d84d563a3a56aa6c2d840e",
-    "retrieved_at": "2026-11-06T15:13:47.949855+00:00",
+    "retrieved_at": "2026-11-10T15:43:13.862825+00:00",
     "raw_path": "data/raw/fb64ab71b9f76fde7361e23c93fc1885275e656a60d84d563a3a56aa6c2d840e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000026/0001866175-26-000026-index.html",

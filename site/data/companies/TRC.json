@@ -4,8 +4,8 @@
   "name": "TEJON RANCH",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 17.04,
-  "price_date": "2026-11-06",
+  "holding_price": 17.75,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000096869.json",
     "sha256": "cc0059a4a62f8c83063d35e5e078cca4f02cb4d14915d6ae5715f40ba5ce909a",
-    "retrieved_at": "2026-11-06T15:18:50.374652+00:00",
+    "retrieved_at": "2026-11-10T15:47:51.669288+00:00",
     "raw_path": "data/raw/cc0059a4a62f8c83063d35e5e078cca4f02cb4d14915d6ae5715f40ba5ce909a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/96869/000162828026019685/0001628280-26-019685-index.html",

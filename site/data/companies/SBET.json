@@ -4,8 +4,8 @@
   "name": "SHARPLINK INC",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 6.24,
-  "price_date": "2026-11-06",
+  "holding_price": 6.13,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001981535.json",
-    "sha256": "7e8c790e055c78fbddf8e73cb876ec8c58cf7cc35f71e45d6f10ae880fe6533c",
-    "retrieved_at": "2026-11-06T15:15:46.975367+00:00",
-    "raw_path": "data/raw/7e8c790e055c78fbddf8e73cb876ec8c58cf7cc35f71e45d6f10ae880fe6533c.json.gz"
+    "sha256": "9870a7b904fd9edc83dabc111396c810fd1df8192d9a532e1df6f7e35feb27e1",
+    "retrieved_at": "2026-11-10T15:45:23.315043+00:00",
+    "raw_path": "data/raw/9870a7b904fd9edc83dabc111396c810fd1df8192d9a532e1df6f7e35feb27e1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226009214/0001493152-26-009214-index.html",
   "earnings": {

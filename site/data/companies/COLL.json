@@ -4,8 +4,8 @@
   "name": "COLLEGIUM PHARMACEUTICAL",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 24.21,
-  "price_date": "2026-11-06",
+  "holding_price": 24.71,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001267565.json",
     "sha256": "88750a2e2d3acff983ca35181ef52e59ec99958e06bf5687dffce0ebd3106aaa",
-    "retrieved_at": "2026-11-06T15:16:59.949933+00:00",
+    "retrieved_at": "2026-11-10T15:46:11.624837+00:00",
     "raw_path": "data/raw/88750a2e2d3acff983ca35181ef52e59ec99958e06bf5687dffce0ebd3106aaa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1267565/000162828026011992/0001628280-26-011992-index.html",

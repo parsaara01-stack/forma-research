@@ -4,8 +4,8 @@
   "name": "TITAN INTERNATIONAL INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 4.93,
-  "price_date": "2026-11-06",
+  "holding_price": 5.04,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000899751.json",
     "sha256": "a5c9588e80577be9cfb1dc3d9731ab2951f57a433bcf0b3ca2c00b993cbc037e",
-    "retrieved_at": "2026-11-06T15:19:06.806709+00:00",
+    "retrieved_at": "2026-11-10T15:48:16.988713+00:00",
     "raw_path": "data/raw/a5c9588e80577be9cfb1dc3d9731ab2951f57a433bcf0b3ca2c00b993cbc037e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/899751/000089975126000007/0000899751-26-000007-index.html",

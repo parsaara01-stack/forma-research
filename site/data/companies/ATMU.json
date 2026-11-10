@@ -3,9 +3,9 @@
   "source_ticker": "ATMU",
   "name": "ATMUS FILTRATION TECHNOLOGIES",
   "group": "Industrials",
-  "weight_percent": 0.15,
-  "holding_price": 50.6,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.16,
+  "holding_price": 54.98,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001921963.json",
-    "sha256": "5e76f8656bff51393c82e446542644e9bae8abed5fba258d55ede11abac8dc31",
-    "retrieved_at": "2026-11-06T15:13:42.445658+00:00",
-    "raw_path": "data/raw/5e76f8656bff51393c82e446542644e9bae8abed5fba258d55ede11abac8dc31.json.gz"
+    "sha256": "c09083b110fc9f88765c443804cfcc91bf5736fd4a82fe2553ddf33b27272682",
+    "retrieved_at": "2026-11-10T15:42:47.545533+00:00",
+    "raw_path": "data/raw/c09083b110fc9f88765c443804cfcc91bf5736fd4a82fe2553ddf33b27272682.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000015/0001921963-26-000015-index.html",
   "earnings": {

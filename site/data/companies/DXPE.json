@@ -3,9 +3,9 @@
   "source_ticker": "DXPE",
   "name": "DXP ENTERPRISES",
   "group": "Industrials",
-  "weight_percent": 0.06,
-  "holding_price": 140.68,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.07,
+  "holding_price": 156.54,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001020710.json",
     "sha256": "908b3d31e2238502b9cea9de25ea86c7d987f00380eef44da14b060136bdcc4c",
-    "retrieved_at": "2026-11-06T15:14:58.084423+00:00",
+    "retrieved_at": "2026-11-10T15:44:20.307403+00:00",
     "raw_path": "data/raw/908b3d31e2238502b9cea9de25ea86c7d987f00380eef44da14b060136bdcc4c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1020710/000162828026012382/0001628280-26-012382-index.html",

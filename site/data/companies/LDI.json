@@ -4,8 +4,8 @@
   "name": "LOANDEPOT CLASS A",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 0.64,
-  "price_date": "2026-11-06",
+  "holding_price": 0.53,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -151,12 +151,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001831631.json",
-    "sha256": "0783ca62101e9ddcdcf5335f37c28f318c9e67518d7eeba7676b375c38b95223",
-    "retrieved_at": "2026-11-06T15:20:45.517594+00:00",
-    "raw_path": "data/raw/0783ca62101e9ddcdcf5335f37c28f318c9e67518d7eeba7676b375c38b95223.json.gz"
+    "sha256": "742a03aa3f52d6089df48cdf1da4c7adbb7e5b9219728a6b2dca2b72a08b225c",
+    "retrieved_at": "2026-11-10T15:50:05.855271+00:00",
+    "raw_path": "data/raw/742a03aa3f52d6089df48cdf1da4c7adbb7e5b9219728a6b2dca2b72a08b225c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163126000028/0001831631-26-000028-index.html",
   "earnings": {

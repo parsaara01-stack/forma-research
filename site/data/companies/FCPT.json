@@ -4,8 +4,8 @@
   "name": "FOUR CORNERS PROPERTY INC TRUST",
   "group": "Real Estate",
   "weight_percent": 0.09,
-  "holding_price": 23.41,
-  "price_date": "2026-11-06",
+  "holding_price": 23.55,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001650132.json",
     "sha256": "36ad0142408d82213af0532707ba41be87cf9c0165ed656ca82988d7347c10ea",
-    "retrieved_at": "2026-11-06T15:14:28.797123+00:00",
+    "retrieved_at": "2026-11-10T15:43:48.473874+00:00",
     "raw_path": "data/raw/36ad0142408d82213af0532707ba41be87cf9c0165ed656ca82988d7347c10ea.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1650132/000119312526048898/0001193125-26-048898-index.html",

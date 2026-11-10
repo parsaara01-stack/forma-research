@@ -4,8 +4,8 @@
   "name": "CUSTOMERS BANCORP",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 84.73,
-  "price_date": "2026-11-06",
+  "holding_price": 85.62,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001488813.json",
-    "sha256": "af62d86d3e19da2552ca388ca69ea118a836641a7f3a70f1cc738d9814a89227",
-    "retrieved_at": "2026-11-06T15:14:28.450956+00:00",
-    "raw_path": "data/raw/af62d86d3e19da2552ca388ca69ea118a836641a7f3a70f1cc738d9814a89227.json.gz"
+    "sha256": "adf8b1872b25ca440a73230a89e3e829aa5de989b4e761783fdfa8a0e8ccd657",
+    "retrieved_at": "2026-11-10T15:43:47.121108+00:00",
+    "raw_path": "data/raw/adf8b1872b25ca440a73230a89e3e829aa5de989b4e761783fdfa8a0e8ccd657.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000029/0001488813-26-000029-index.html",
   "earnings": {

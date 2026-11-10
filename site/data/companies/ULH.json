@@ -4,8 +4,8 @@
   "name": "UNIVERSAL LOGISTICS HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 27.12,
-  "price_date": "2026-11-06",
+  "holding_price": 29.61,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001308208.json",
     "sha256": "6b819c2f5f4eaedb6a7d8585a1eeb3e3f7ea0b8ecd184102caf99146ca204dda",
-    "retrieved_at": "2026-11-06T15:19:33.271571+00:00",
+    "retrieved_at": "2026-11-10T15:48:58.618655+00:00",
     "raw_path": "data/raw/6b819c2f5f4eaedb6a7d8585a1eeb3e3f7ea0b8ecd184102caf99146ca204dda.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1308208/000119312526108365/0001193125-26-108365-index.html",

@@ -4,8 +4,8 @@
   "name": "CAMPING WORLD HOLDINGS INC CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 4.59,
-  "price_date": "2026-11-06",
+  "holding_price": 4.67,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001669779.json",
     "sha256": "f273a57ad78cce8688ac0d2109688efee4627d9b580b8f1f100051416edd8806",
-    "retrieved_at": "2026-11-06T15:18:47.748637+00:00",
+    "retrieved_at": "2026-11-10T15:48:20.353403+00:00",
     "raw_path": "data/raw/f273a57ad78cce8688ac0d2109688efee4627d9b580b8f1f100051416edd8806.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1669779/000110465926021548/0001104659-26-021548-index.html",

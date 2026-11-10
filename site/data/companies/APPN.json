@@ -4,8 +4,8 @@
   "name": "APPIAN CORP CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.07,
-  "holding_price": 51.6,
-  "price_date": "2026-11-06",
+  "holding_price": 51.15,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001441683.json",
     "sha256": "109cde9bd8fd6a1daba8ba460db029bfc5c11ecec5361dadfefc5488607f7606",
-    "retrieved_at": "2026-11-06T15:15:06.502018+00:00",
+    "retrieved_at": "2026-11-10T15:44:22.021977+00:00",
     "raw_path": "data/raw/109cde9bd8fd6a1daba8ba460db029bfc5c11ecec5361dadfefc5488607f7606.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1441683/000144168326000013/0001441683-26-000013-index.html",

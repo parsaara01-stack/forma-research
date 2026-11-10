@@ -4,8 +4,8 @@
   "name": "XENON PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.13,
-  "holding_price": 39.17,
-  "price_date": "2026-11-06",
+  "holding_price": 40.45,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001582313.json",
-    "sha256": "192f372ec04a5f134b187ed4baddde08f5cf5af14daba171e6067f98261efde5",
-    "retrieved_at": "2026-11-06T15:13:47.656243+00:00",
-    "raw_path": "data/raw/192f372ec04a5f134b187ed4baddde08f5cf5af14daba171e6067f98261efde5.json.gz"
+    "sha256": "3ac3870b64fd8ed124d46bd950891f009b27645ccceb43d1f8e7e7f08f729dce",
+    "retrieved_at": "2026-11-10T15:43:04.796486+00:00",
+    "raw_path": "data/raw/3ac3870b64fd8ed124d46bd950891f009b27645ccceb43d1f8e7e7f08f729dce.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526076650/0001193125-26-076650-index.html",
   "earnings": {

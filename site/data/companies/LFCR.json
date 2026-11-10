@@ -4,8 +4,8 @@
   "name": "LIFECORE BIOMEDICAL",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 6.36,
-  "price_date": "2026-11-06",
+  "holding_price": 6.37,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001005286.json",
     "sha256": "d7c4ab83b594a2197b7428c9ad7cbbc4cce0a2a50362bc826590087f9c7630f5",
-    "retrieved_at": "2026-11-06T15:19:56.211619+00:00",
+    "retrieved_at": "2026-11-10T15:49:09.854701+00:00",
     "raw_path": "data/raw/d7c4ab83b594a2197b7428c9ad7cbbc4cce0a2a50362bc826590087f9c7630f5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1005286/000100528625000108/0001005286-25-000108-index.html",

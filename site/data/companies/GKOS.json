@@ -3,9 +3,9 @@
   "source_ticker": "GKOS",
   "name": "GLAUKOS",
   "group": "Health Care",
-  "weight_percent": 0.44,
-  "holding_price": 224.41,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.46,
+  "holding_price": 238.74,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001192448.json",
     "sha256": "db92632967a1c880da9ae00f37ea056e7765d86eb4ef7fe9c32c901309271fd7",
-    "retrieved_at": "2026-11-06T15:12:52.712764+00:00",
+    "retrieved_at": "2026-11-10T15:42:11.805166+00:00",
     "raw_path": "data/raw/db92632967a1c880da9ae00f37ea056e7765d86eb4ef7fe9c32c901309271fd7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1192448/000119312526061944/0001193125-26-061944-index.html",

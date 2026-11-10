@@ -4,8 +4,8 @@
   "name": "UNITED NATURAL FOODS INC",
   "group": "Consumer Staples",
   "weight_percent": 0.1,
-  "holding_price": 45.3,
-  "price_date": "2026-11-06",
+  "holding_price": 47.52,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001020859.json",
     "sha256": "f4fed8c4cf26e3e8c45d45237db6834c7b6901f2c09f2f436b3807ad2df39121",
-    "retrieved_at": "2026-11-06T15:14:17.353787+00:00",
+    "retrieved_at": "2026-11-10T15:43:39.316354+00:00",
     "raw_path": "data/raw/f4fed8c4cf26e3e8c45d45237db6834c7b6901f2c09f2f436b3807ad2df39121.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000025/0001020859-26-000025-index.html",

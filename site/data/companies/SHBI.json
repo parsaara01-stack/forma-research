@@ -4,8 +4,8 @@
   "name": "SHORE BANCSHARES INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 22.45,
-  "price_date": "2026-11-06",
+  "holding_price": 22.89,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001035092.json",
     "sha256": "9231883f59e1af04f2a568a8060c3674ea44e4ccbbd5b2ea1b405f3b8ca2e1ce",
-    "retrieved_at": "2026-11-06T15:17:04.047731+00:00",
+    "retrieved_at": "2026-11-10T15:46:20.787806+00:00",
     "raw_path": "data/raw/9231883f59e1af04f2a568a8060c3674ea44e4ccbbd5b2ea1b405f3b8ca2e1ce.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1035092/000103509226000014/0001035092-26-000014-index.html",

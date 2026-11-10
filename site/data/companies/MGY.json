@@ -3,9 +3,9 @@
   "source_ticker": "MGY",
   "name": "MAGNOLIA OIL GAS CORP CLASS A",
   "group": "Energy",
-  "weight_percent": 0.19,
-  "holding_price": 23.67,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.18,
+  "holding_price": 22.67,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001698990.json",
     "sha256": "e3fb023111af687db7e573a05dd7a9eab9ef0a97c4bde43e1fa759c017c69942",
-    "retrieved_at": "2026-11-06T15:13:13.994037+00:00",
+    "retrieved_at": "2026-11-10T15:42:33.629053+00:00",
     "raw_path": "data/raw/e3fb023111af687db7e573a05dd7a9eab9ef0a97c4bde43e1fa759c017c69942.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1698990/000169899026000005/0001698990-26-000005-index.html",

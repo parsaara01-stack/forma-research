@@ -3,9 +3,9 @@
   "source_ticker": "RXRX",
   "name": "RECURSION PHARMACEUTICALS CLASS A",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 3.52,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.07,
+  "holding_price": 3.81,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601830.json",
     "sha256": "f2207b24ea658b1f3c74465963b0bc70f2af6713402c64465bc97cabb7de3bde",
-    "retrieved_at": "2026-11-06T15:15:03.609096+00:00",
+    "retrieved_at": "2026-11-10T15:44:25.471345+00:00",
     "raw_path": "data/raw/f2207b24ea658b1f3c74465963b0bc70f2af6713402c64465bc97cabb7de3bde.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000039/0001601830-26-000039-index.html",

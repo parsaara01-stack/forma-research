@@ -3,9 +3,9 @@
   "source_ticker": "RC",
   "name": "READY CAPITAL",
   "group": "Financials",
-  "weight_percent": 0.0,
-  "holding_price": 0.85,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.01,
+  "holding_price": 1.04,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001527590.json",
-    "sha256": "279cd52f2aa0106545f3edf8460c748dd2d20d913fb4044182e6089eb76ebad8",
-    "retrieved_at": "2026-11-06T15:20:03.626413+00:00",
-    "raw_path": "data/raw/279cd52f2aa0106545f3edf8460c748dd2d20d913fb4044182e6089eb76ebad8.json.gz"
+    "sha256": "18711ed231b889c04db992ae87d18915eac2c79e609972fae30d26faaa3a6229",
+    "retrieved_at": "2026-11-10T15:49:22.530994+00:00",
+    "raw_path": "data/raw/18711ed231b889c04db992ae87d18915eac2c79e609972fae30d26faaa3a6229.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1527590/000162828026013256/0001628280-26-013256-index.html",
   "earnings": {

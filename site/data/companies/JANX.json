@@ -3,9 +3,9 @@
   "source_ticker": "JANX",
   "name": "JANUX THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 17.63,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.02,
+  "holding_price": 12.76,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001817713.json",
     "sha256": "87f0ca4832de8825fc907f2a5f09cd8a47d817e569977928b54244a4490c82c9",
-    "retrieved_at": "2026-11-06T15:16:45.543134+00:00",
+    "retrieved_at": "2026-11-10T15:46:51.041432+00:00",
     "raw_path": "data/raw/87f0ca4832de8825fc907f2a5f09cd8a47d817e569977928b54244a4490c82c9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1817713/000119312526076918/0001193125-26-076918-index.html",

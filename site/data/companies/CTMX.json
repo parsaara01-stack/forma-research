@@ -4,8 +4,8 @@
   "name": "CYTOMX THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 2.19,
-  "price_date": "2026-11-06",
+  "holding_price": 1.98,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001501989.json",
     "sha256": "014a5df0d43cda797f0c3b61d40c8b46589c34398c06130dd2273006efec3722",
-    "retrieved_at": "2026-11-06T15:18:12.006849+00:00",
+    "retrieved_at": "2026-11-10T15:47:49.158584+00:00",
     "raw_path": "data/raw/014a5df0d43cda797f0c3b61d40c8b46589c34398c06130dd2273006efec3722.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1501989/000119312526107146/0001193125-26-107146-index.html",

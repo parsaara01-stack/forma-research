@@ -4,8 +4,8 @@
   "name": "GREAT SOUTHERN BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 80.76,
-  "price_date": "2026-11-06",
+  "holding_price": 81.95,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000854560.json",
-    "sha256": "e4c7dad0d48b1552d6138a3233508960b1067c8af6f3e522424619a8e23eca50",
-    "retrieved_at": "2026-11-06T15:17:17.549718+00:00",
-    "raw_path": "data/raw/e4c7dad0d48b1552d6138a3233508960b1067c8af6f3e522424619a8e23eca50.json.gz"
+    "sha256": "d74945c4740882869bb883a777eda14af77ee2d4adef78348d02868465305f78",
+    "retrieved_at": "2026-11-10T15:46:35.629295+00:00",
+    "raw_path": "data/raw/d74945c4740882869bb883a777eda14af77ee2d4adef78348d02868465305f78.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/854560/000110465926024659/0001104659-26-024659-index.html",
   "earnings": {

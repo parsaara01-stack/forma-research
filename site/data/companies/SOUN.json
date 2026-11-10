@@ -4,8 +4,8 @@
   "name": "SOUNDHOUND AI CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.06,
-  "holding_price": 4.11,
-  "price_date": "2026-11-06",
+  "holding_price": 4.05,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840856.json",
-    "sha256": "814b3e2743fa3ca000253ce7b18db2f6fef2c674493e90347068e1406343869e",
-    "retrieved_at": "2026-11-06T15:15:18.382808+00:00",
-    "raw_path": "data/raw/814b3e2743fa3ca000253ce7b18db2f6fef2c674493e90347068e1406343869e.json.gz"
+    "sha256": "f27dbcfd4a877657da366af46c773a20275a66e48e65f7b7729b32f1282ebdb5",
+    "retrieved_at": "2026-11-10T15:44:43.482289+00:00",
+    "raw_path": "data/raw/f27dbcfd4a877657da366af46c773a20275a66e48e65f7b7729b32f1282ebdb5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/0001840856-26-000006-index.html",
   "earnings": {

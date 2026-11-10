@@ -4,8 +4,8 @@
   "name": "ZIFF DAVIS INC",
   "group": "Communication",
   "weight_percent": 0.06,
-  "holding_price": 49.61,
-  "price_date": "2026-11-06",
+  "holding_price": 50.56,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001084048.json",
-    "sha256": "653b28835d5662edcae1bedd54e4ffd2dcc8589f9c7615441366dbbb34ed8222",
-    "retrieved_at": "2026-11-06T15:15:08.614093+00:00",
-    "raw_path": "data/raw/653b28835d5662edcae1bedd54e4ffd2dcc8589f9c7615441366dbbb34ed8222.json.gz"
+    "sha256": "17f0b97009214169ff40a61e1fc19e5183d05bbd16167e978750d48e41da1bfe",
+    "retrieved_at": "2026-11-10T15:44:42.326434+00:00",
+    "raw_path": "data/raw/17f0b97009214169ff40a61e1fc19e5183d05bbd16167e978750d48e41da1bfe.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1084048/000108404826000005/0001084048-26-000005-index.html",
   "earnings": {

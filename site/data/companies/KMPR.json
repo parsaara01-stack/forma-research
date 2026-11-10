@@ -3,9 +3,9 @@
   "source_ticker": "KMPR",
   "name": "KEMPER",
   "group": "Financials",
-  "weight_percent": 0.07,
-  "holding_price": 33.39,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.06,
+  "holding_price": 33.15,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000860748.json",
-    "sha256": "27a023e75d1a9381c166acd9a25598c1bffd5af13e0469fed8a65372b83f27f6",
-    "retrieved_at": "2026-11-06T15:14:56.116528+00:00",
-    "raw_path": "data/raw/27a023e75d1a9381c166acd9a25598c1bffd5af13e0469fed8a65372b83f27f6.json.gz"
+    "sha256": "3087facc91192f7f534419f8e69b91d5a3976cdea8435b5d903b6636964a6607",
+    "retrieved_at": "2026-11-10T15:44:26.770925+00:00",
+    "raw_path": "data/raw/3087facc91192f7f534419f8e69b91d5a3976cdea8435b5d903b6636964a6607.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000014/0000860748-26-000014-index.html",
   "earnings": {

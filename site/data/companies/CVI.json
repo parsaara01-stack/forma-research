@@ -4,8 +4,8 @@
   "name": "CVR ENERGY INC",
   "group": "Energy",
   "weight_percent": 0.04,
-  "holding_price": 38.13,
-  "price_date": "2026-11-06",
+  "holding_price": 39.1,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001376139.json",
     "sha256": "4b761ae611b9e8475afab91f2cfdf197a4550333a7d05b154c3cdac2d0119983",
-    "retrieved_at": "2026-11-06T15:15:59.962099+00:00",
+    "retrieved_at": "2026-11-10T15:45:28.097438+00:00",
     "raw_path": "data/raw/4b761ae611b9e8475afab91f2cfdf197a4550333a7d05b154c3cdac2d0119983.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1376139/000137613926000014/0001376139-26-000014-index.html",

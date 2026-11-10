@@ -4,8 +4,8 @@
   "name": "TRAVERE THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 49.6,
-  "price_date": "2026-11-06",
+  "holding_price": 51.63,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001438533.json",
     "sha256": "30381f644857718b434b2400a0e9861e9b9e411bb7a44e59272cbaed32189a44",
-    "retrieved_at": "2026-11-06T15:13:28.395457+00:00",
+    "retrieved_at": "2026-11-10T15:42:48.625602+00:00",
     "raw_path": "data/raw/30381f644857718b434b2400a0e9861e9b9e411bb7a44e59272cbaed32189a44.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1438533/000143853326000014/0001438533-26-000014-index.html",

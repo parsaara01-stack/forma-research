@@ -4,8 +4,8 @@
   "name": "SCHRODINGER INC",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 29.82,
-  "price_date": "2026-11-06",
+  "holding_price": 33.39,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001490978.json",
     "sha256": "81e1659e2af705a26488725a265afe565c79a0eade482a46ced63aefa2391782",
-    "retrieved_at": "2026-11-06T15:15:29.866404+00:00",
+    "retrieved_at": "2026-11-10T15:44:26.332375+00:00",
     "raw_path": "data/raw/81e1659e2af705a26488725a265afe565c79a0eade482a46ced63aefa2391782.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1490978/000149097826000010/0001490978-26-000010-index.html",

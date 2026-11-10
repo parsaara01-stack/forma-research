@@ -4,8 +4,8 @@
   "name": "QUINSTREET INC",
   "group": "Communication",
   "weight_percent": 0.04,
-  "holding_price": 20.66,
-  "price_date": "2026-11-06",
+  "holding_price": 19.04,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001117297.json",
-    "sha256": "992d910f4d9701cfa719bc2e62dae96ae46a31dbb9b7170d44a96972ee907c1a",
-    "retrieved_at": "2026-11-06T15:16:24.875786+00:00",
-    "raw_path": "data/raw/992d910f4d9701cfa719bc2e62dae96ae46a31dbb9b7170d44a96972ee907c1a.json.gz"
+    "sha256": "2040e8e6ba915c3e0a790ba05e070920f1bb6c41932f8a57b8b8a900138cc7f5",
+    "retrieved_at": "2026-11-10T15:45:41.211095+00:00",
+    "raw_path": "data/raw/2040e8e6ba915c3e0a790ba05e070920f1bb6c41932f8a57b8b8a900138cc7f5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1117297/000119312526367160/0001193125-26-367160-index.html",
   "earnings": {

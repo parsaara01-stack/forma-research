@@ -4,8 +4,8 @@
   "name": "TELOS CORPORATION CORP",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 4.82,
-  "price_date": "2026-11-06",
+  "holding_price": 7.17,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320121.json",
-    "sha256": "02cca8577e9e40798655bac5c31a74670f292a4e29576d301298f946e0d71406",
-    "retrieved_at": "2026-11-06T15:19:05.308773+00:00",
-    "raw_path": "data/raw/02cca8577e9e40798655bac5c31a74670f292a4e29576d301298f946e0d71406.json.gz"
+    "sha256": "52d2f31631a5a27fe5a212fd2c9be9a01633ef46e0d5a9cca5978f7dfa04b231",
+    "retrieved_at": "2026-11-10T15:47:33.821768+00:00",
+    "raw_path": "data/raw/52d2f31631a5a27fe5a212fd2c9be9a01633ef46e0d5a9cca5978f7dfa04b231.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/320121/000032012126000010/0000320121-26-000010-index.html",
   "earnings": {

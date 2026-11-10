@@ -4,8 +4,8 @@
   "name": "KNIFE RIVER CORP",
   "group": "Materials",
   "weight_percent": 0.11,
-  "holding_price": 56.4,
-  "price_date": "2026-11-06",
+  "holding_price": 58.94,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001955520.json",
     "sha256": "4dc6ecb1d713b1ced6c39bbcad813c8ec7dd1a4ce1c78dafbb5d98ce2bdc4a5e",
-    "retrieved_at": "2026-11-06T15:13:54.686135+00:00",
+    "retrieved_at": "2026-11-10T15:43:19.937693+00:00",
     "raw_path": "data/raw/4dc6ecb1d713b1ced6c39bbcad813c8ec7dd1a4ce1c78dafbb5d98ce2bdc4a5e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1955520/000195552026000003/0001955520-26-000003-index.html",

@@ -4,8 +4,8 @@
   "name": "THREDUP CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.28,
-  "price_date": "2026-11-06",
+  "holding_price": 1.37,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001484778.json",
     "sha256": "c91b7095e5e6a79178a5cbed3931c5538e85ee403d0e70b655d69989768e57f1",
-    "retrieved_at": "2026-11-06T15:19:30.428930+00:00",
+    "retrieved_at": "2026-11-10T15:49:25.601657+00:00",
     "raw_path": "data/raw/c91b7095e5e6a79178a5cbed3931c5538e85ee403d0e70b655d69989768e57f1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1484778/000148477826000007/0001484778-26-000007-index.html",

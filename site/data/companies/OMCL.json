@@ -4,8 +4,8 @@
   "name": "OMNICELL INC",
   "group": "Health Care",
   "weight_percent": 0.06,
-  "holding_price": 37.34,
-  "price_date": "2026-11-06",
+  "holding_price": 37.35,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000926326.json",
     "sha256": "4c9e8e22aac3105be1cecdf39cb70a01662744f597c6f930de6b14a1e2dfbd12",
-    "retrieved_at": "2026-11-06T15:15:20.211231+00:00",
+    "retrieved_at": "2026-11-10T15:44:43.382639+00:00",
     "raw_path": "data/raw/4c9e8e22aac3105be1cecdf39cb70a01662744f597c6f930de6b14a1e2dfbd12.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/926326/000092632626000006/0000926326-26-000006-index.html",

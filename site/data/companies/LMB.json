@@ -4,8 +4,8 @@
   "name": "LIMBACH HOLDINGS INC",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 53.45,
-  "price_date": "2026-11-06",
+  "holding_price": 57.07,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001606163.json",
     "sha256": "17ddec49ec96fd08e1769f3a8998656c62d00c7986f7839803ce99ffa16c0eed",
-    "retrieved_at": "2026-11-06T15:17:25.217926+00:00",
+    "retrieved_at": "2026-11-10T15:46:42.448068+00:00",
     "raw_path": "data/raw/17ddec49ec96fd08e1769f3a8998656c62d00c7986f7839803ce99ffa16c0eed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1606163/000162828026013285/0001628280-26-013285-index.html",

@@ -4,11 +4,11 @@
   "name": "EIKON THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 5.9,
-  "price_date": "2026-11-06",
+  "holding_price": 5.87,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

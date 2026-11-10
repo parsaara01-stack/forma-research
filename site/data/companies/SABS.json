@@ -4,8 +4,8 @@
   "name": "SAB BIOTHERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.03,
-  "price_date": "2026-11-06",
+  "holding_price": 3.1,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001833214.json",
     "sha256": "6a6c896b880f968f9d44309c85cea466e242586f9e45b9707df00e3518dcc238",
-    "retrieved_at": "2026-11-06T15:20:06.840093+00:00",
+    "retrieved_at": "2026-11-10T15:49:19.923917+00:00",
     "raw_path": "data/raw/6a6c896b880f968f9d44309c85cea466e242586f9e45b9707df00e3518dcc238.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1833214/000183321426000003/0001833214-26-000003-index.html",

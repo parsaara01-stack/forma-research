@@ -4,8 +4,8 @@
   "name": "EVERTEC INC",
   "group": "Financials",
   "weight_percent": 0.07,
-  "holding_price": 33.55,
-  "price_date": "2026-11-06",
+  "holding_price": 33.4,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001559865.json",
     "sha256": "55c892d1271b6dccd18915de339173a7d4217170ae70b099be7bf235061c2aaf",
-    "retrieved_at": "2026-11-06T15:14:48.725114+00:00",
+    "retrieved_at": "2026-11-10T15:44:12.568167+00:00",
     "raw_path": "data/raw/55c892d1271b6dccd18915de339173a7d4217170ae70b099be7bf235061c2aaf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000012/0001559865-26-000012-index.html",

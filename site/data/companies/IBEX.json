@@ -4,8 +4,8 @@
   "name": "IBEX LTD",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 49.52,
-  "price_date": "2026-11-06",
+  "holding_price": 50.28,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001720420.json",
     "sha256": "ed0e13368aa8e4a4cc532b7d11689159d919641518730da1c244052314593bca",
-    "retrieved_at": "2026-11-06T15:18:07.542157+00:00",
+    "retrieved_at": "2026-11-10T15:47:09.229603+00:00",
     "raw_path": "data/raw/ed0e13368aa8e4a4cc532b7d11689159d919641518730da1c244052314593bca.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1720420/000172042026000025/0001720420-26-000025-index.html",

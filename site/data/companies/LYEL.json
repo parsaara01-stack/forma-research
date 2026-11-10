@@ -4,8 +4,8 @@
   "name": "LYELL IMMUNOPHARMA",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 14.86,
-  "price_date": "2026-11-06",
+  "holding_price": 15.42,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001806952.json",
     "sha256": "681d9d3824dc752c0518b2af53df4c0794f9ce00750f7321316fe2803c8b4afc",
-    "retrieved_at": "2026-11-06T15:20:19.249138+00:00",
+    "retrieved_at": "2026-11-10T15:49:30.446087+00:00",
     "raw_path": "data/raw/681d9d3824dc752c0518b2af53df4c0794f9ce00750f7321316fe2803c8b4afc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1806952/000162828026017253/0001628280-26-017253-index.html",

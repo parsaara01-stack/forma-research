@@ -4,8 +4,8 @@
   "name": "INFINITY NATURAL RESOURCES INC CLA",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 12.79,
-  "price_date": "2026-11-06",
+  "holding_price": 13.17,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002029118.json",
-    "sha256": "7ea382c0f3ffe86251ede57582b1e1756d9ec72fa1b490bcbfc9927df27aa086",
-    "retrieved_at": "2026-11-06T15:19:46.842222+00:00",
-    "raw_path": "data/raw/7ea382c0f3ffe86251ede57582b1e1756d9ec72fa1b490bcbfc9927df27aa086.json.gz"
+    "sha256": "623a94a514b82239884183c486999dce60ac5b0abd12876a422b30a7a8d67faf",
+    "retrieved_at": "2026-11-10T15:48:55.981441+00:00",
+    "raw_path": "data/raw/623a94a514b82239884183c486999dce60ac5b0abd12876a422b30a7a8d67faf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2029118/000202911826000014/0002029118-26-000014-index.html",
   "earnings": {

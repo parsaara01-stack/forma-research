@@ -4,8 +4,8 @@
   "name": "EXZEO GROUP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 16.29,
-  "price_date": "2026-11-06",
+  "holding_price": 16.5,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873951.json",
     "sha256": "2298b45c35ca4f8daa2454bfac4e77efbd53c47d7596d900a9ed6c384d9455f7",
-    "retrieved_at": "2026-11-06T15:19:30.718439+00:00",
+    "retrieved_at": "2026-11-10T15:49:00.469768+00:00",
     "raw_path": "data/raw/2298b45c35ca4f8daa2454bfac4e77efbd53c47d7596d900a9ed6c384d9455f7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1873951/000119312526076686/0001193125-26-076686-index.html",

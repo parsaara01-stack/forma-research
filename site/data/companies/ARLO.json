@@ -3,9 +3,9 @@
   "source_ticker": "ARLO",
   "name": "ARLO TECHNOLOGIES",
   "group": "Information Technology",
-  "weight_percent": 0.05,
-  "holding_price": 12.34,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.04,
+  "holding_price": 12.14,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001736946.json",
     "sha256": "3bc7f6d4b85717e907900df1f13d514b3e134cc21b303ed7385e1856497edb0f",
-    "retrieved_at": "2026-11-06T15:15:31.341862+00:00",
+    "retrieved_at": "2026-11-10T15:45:15.706926+00:00",
     "raw_path": "data/raw/3bc7f6d4b85717e907900df1f13d514b3e134cc21b303ed7385e1856497edb0f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1736946/000173694626000031/0001736946-26-000031-index.html",

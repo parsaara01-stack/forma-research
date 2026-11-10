@@ -3,9 +3,9 @@
   "source_ticker": "AAP",
   "name": "ADVANCE AUTO PARTS INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.1,
-  "holding_price": 45.5,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.09,
+  "holding_price": 45.94,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001158449.json",
     "sha256": "3888c11bc162ccdfc1526c9615bc4da614aab480285ea1fadf76b196f490f283",
-    "retrieved_at": "2026-11-06T15:14:10.752155+00:00",
+    "retrieved_at": "2026-11-10T15:43:41.114015+00:00",
     "raw_path": "data/raw/3888c11bc162ccdfc1526c9615bc4da614aab480285ea1fadf76b196f490f283.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526051305/0001193125-26-051305-index.html",

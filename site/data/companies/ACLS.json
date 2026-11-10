@@ -4,8 +4,8 @@
   "name": "AXCELIS TECHNOLOGIES",
   "group": "Information Technology",
   "weight_percent": 0.11,
-  "holding_price": 99.24,
-  "price_date": "2026-11-06",
+  "holding_price": 107.64,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001113232.json",
     "sha256": "3781593d2cc8bac6a230a88e4b5257e0fc74056fb41fe97720a1ead7fdbbe9f7",
-    "retrieved_at": "2026-11-06T15:14:18.475689+00:00",
+    "retrieved_at": "2026-11-10T15:43:21.204786+00:00",
     "raw_path": "data/raw/3781593d2cc8bac6a230a88e4b5257e0fc74056fb41fe97720a1ead7fdbbe9f7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1113232/000110465926020461/0001104659-26-020461-index.html",

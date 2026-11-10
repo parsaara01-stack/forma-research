@@ -4,8 +4,8 @@
   "name": "USA TODAY INC",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 6.57,
-  "price_date": "2026-11-06",
+  "holding_price": 6.87,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001579684.json",
     "sha256": "700f7a8e29da226473fa1629bc4b2632817b53ff17f2bcde0203a3ae9cc7ab9a",
-    "retrieved_at": "2026-11-06T15:16:51.146659+00:00",
+    "retrieved_at": "2026-11-10T15:45:53.957620+00:00",
     "raw_path": "data/raw/700f7a8e29da226473fa1629bc4b2632817b53ff17f2bcde0203a3ae9cc7ab9a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000010/0001579684-26-000010-index.html",

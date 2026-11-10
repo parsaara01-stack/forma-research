@@ -4,8 +4,8 @@
   "name": "RED RIVER BANCSHARES INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 103.55,
-  "price_date": "2026-11-06",
+  "holding_price": 105.16,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001071236.json",
     "sha256": "4a145e217d99dee18ee010926b084f27a4a454e62eeafa02a95f955005858ea5",
-    "retrieved_at": "2026-11-06T15:17:38.668125+00:00",
+    "retrieved_at": "2026-11-10T15:46:57.165500+00:00",
     "raw_path": "data/raw/4a145e217d99dee18ee010926b084f27a4a454e62eeafa02a95f955005858ea5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1071236/000107123626000027/0001071236-26-000027-index.html",

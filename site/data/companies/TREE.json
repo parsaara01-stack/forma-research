@@ -4,8 +4,8 @@
   "name": "LENDINGTREE",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 37.01,
-  "price_date": "2026-11-06",
+  "holding_price": 36.49,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001434621.json",
-    "sha256": "d2a233df2d3693831e09f0b4b96f0dec1977b439028fd25d63138ab1a50b288c",
-    "retrieved_at": "2026-11-06T15:18:09.081333+00:00",
-    "raw_path": "data/raw/d2a233df2d3693831e09f0b4b96f0dec1977b439028fd25d63138ab1a50b288c.json.gz"
+    "sha256": "8695f210922cbc508e7cc90ac558639d1f709566f7b30e323f0cc2509ae25142",
+    "retrieved_at": "2026-11-10T15:47:31.177820+00:00",
+    "raw_path": "data/raw/8695f210922cbc508e7cc90ac558639d1f709566f7b30e323f0cc2509ae25142.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1434621/000162828026016084/0001628280-26-016084-index.html",
   "earnings": {

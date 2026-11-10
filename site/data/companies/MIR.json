@@ -3,9 +3,9 @@
   "source_ticker": "MIR",
   "name": "MIRION TECHNOLOGIES CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.15,
-  "holding_price": 17.97,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.16,
+  "holding_price": 19.48,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001809987.json",
     "sha256": "0f7dc4ee6c83b9e4f4857c79229212f587a31a47eeedd460b8d81d885e882e07",
-    "retrieved_at": "2026-11-06T15:13:33.724864+00:00",
+    "retrieved_at": "2026-11-10T15:42:46.871557+00:00",
     "raw_path": "data/raw/0f7dc4ee6c83b9e4f4857c79229212f587a31a47eeedd460b8d81d885e882e07.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026009869/0001628280-26-009869-index.html",

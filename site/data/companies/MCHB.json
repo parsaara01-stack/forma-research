@@ -4,8 +4,8 @@
   "name": "MECHANICS BANCORP CLASS A",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 14.72,
-  "price_date": "2026-11-06",
+  "holding_price": 14.82,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001518715.json",
-    "sha256": "681b41adae2cd344466285cce39a649cea753f7a3ec8d39109a16310b6c1c102",
-    "retrieved_at": "2026-11-06T15:17:31.606409+00:00",
-    "raw_path": "data/raw/681b41adae2cd344466285cce39a649cea753f7a3ec8d39109a16310b6c1c102.json.gz"
+    "sha256": "0ac417c5f7057de66297ed763095dbe2ac8709da16dc7fb46f67e2f66c5d6249",
+    "retrieved_at": "2026-11-10T15:46:48.835127+00:00",
+    "raw_path": "data/raw/0ac417c5f7057de66297ed763095dbe2ac8709da16dc7fb46f67e2f66c5d6249.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1518715/000151871526000026/0001518715-26-000026-index.html",
   "earnings": {

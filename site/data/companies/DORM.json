@@ -4,8 +4,8 @@
   "name": "DORMAN PRODUCTS",
   "group": "Consumer Discretionary",
   "weight_percent": 0.13,
-  "holding_price": 136.7,
-  "price_date": "2026-11-06",
+  "holding_price": 136.32,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000868780.json",
     "sha256": "4820d01636d88359eaa1c6490b72598097aa28aa0cc2eebcddcac38d1de6cf90",
-    "retrieved_at": "2026-11-06T15:13:43.633111+00:00",
+    "retrieved_at": "2026-11-10T15:43:08.433872+00:00",
     "raw_path": "data/raw/4820d01636d88359eaa1c6490b72598097aa28aa0cc2eebcddcac38d1de6cf90.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/868780/000086878026000014/0000868780-26-000014-index.html",

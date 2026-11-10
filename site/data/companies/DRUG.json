@@ -4,11 +4,11 @@
   "name": "BRIGHT MINDS BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 23.0,
-  "price_date": "2026-11-06",
+  "holding_price": 24.11,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

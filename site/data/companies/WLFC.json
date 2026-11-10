@@ -4,8 +4,8 @@
   "name": "WILLIS LEASE FINANCE",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 46.86,
-  "price_date": "2026-11-06",
+  "holding_price": 46.38,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018164.json",
     "sha256": "b50dc3bc86b8982d0ba9986c6dddfe704338ca3e68c588c171f2c23351f088bc",
-    "retrieved_at": "2026-11-06T15:17:54.988512+00:00",
+    "retrieved_at": "2026-11-10T15:47:12.842030+00:00",
     "raw_path": "data/raw/b50dc3bc86b8982d0ba9986c6dddfe704338ca3e68c588c171f2c23351f088bc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000027/0001018164-25-000027-index.html",

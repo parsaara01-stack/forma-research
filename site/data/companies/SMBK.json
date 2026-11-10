@@ -4,8 +4,8 @@
   "name": "SMARTFINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 47.73,
-  "price_date": "2026-11-06",
+  "holding_price": 48.5,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {
@@ -103,12 +103,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001038773.json",
-    "sha256": "51ee9a182d61e9ca79f45bb8f2e8438602540456a2192ebcea59a1f820637f12",
-    "retrieved_at": "2026-11-06T15:16:58.628197+00:00",
-    "raw_path": "data/raw/51ee9a182d61e9ca79f45bb8f2e8438602540456a2192ebcea59a1f820637f12.json.gz"
+    "sha256": "aa6a6f37e48e8240b9709afa1ea19ec55df7ecd8741cd4f21a44daf47168adc4",
+    "retrieved_at": "2026-11-10T15:46:18.017358+00:00",
+    "raw_path": "data/raw/aa6a6f37e48e8240b9709afa1ea19ec55df7ecd8741cd4f21a44daf47168adc4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1038773/000110465926028542/0001104659-26-028542-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "VIRTUS INVESTMENT PARTNERS",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 127.35,
-  "price_date": "2026-11-06",
+  "holding_price": 140.2,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000883237.json",
-    "sha256": "7614f7deac07814071e44d81443b041d6897f3e1077bacdc315b1d7a6c6e948a",
-    "retrieved_at": "2026-11-06T15:16:40.901605+00:00",
-    "raw_path": "data/raw/7614f7deac07814071e44d81443b041d6897f3e1077bacdc315b1d7a6c6e948a.json.gz"
+    "sha256": "6021cd1123b483d02310092c6b131e0d66513909723c1824750a527c8f8139c7",
+    "retrieved_at": "2026-11-10T15:45:48.728349+00:00",
+    "raw_path": "data/raw/6021cd1123b483d02310092c6b131e0d66513909723c1824750a527c8f8139c7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/883237/000088323726000009/0000883237-26-000009-index.html",
   "earnings": {

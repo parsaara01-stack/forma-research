@@ -4,8 +4,8 @@
   "name": "GIBRALTAR INDUSTRIES",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 32.47,
-  "price_date": "2026-11-06",
+  "holding_price": 33.99,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912562.json",
     "sha256": "22bce796613691cf75d24dcbaf6ff58865fdf3d199e55d2ba2e19c7be2b77b8b",
-    "retrieved_at": "2026-11-06T15:16:00.481951+00:00",
+    "retrieved_at": "2026-11-10T15:45:46.807369+00:00",
     "raw_path": "data/raw/22bce796613691cf75d24dcbaf6ff58865fdf3d199e55d2ba2e19c7be2b77b8b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000025/0000912562-26-000025-index.html",

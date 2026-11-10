@@ -4,8 +4,8 @@
   "name": "KOPPERS HOLDINGS INC",
   "group": "Materials",
   "weight_percent": 0.02,
-  "holding_price": 29.97,
-  "price_date": "2026-11-06",
+  "holding_price": 29.33,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,12 +307,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001315257.json",
-    "sha256": "c69f5a6b066278e32134595df9f3fb6cf4621791205dc5bf454e8dcd8eaf511f",
-    "retrieved_at": "2026-11-06T15:17:01.306927+00:00",
-    "raw_path": "data/raw/c69f5a6b066278e32134595df9f3fb6cf4621791205dc5bf454e8dcd8eaf511f.json.gz"
+    "sha256": "3b603f3f3031dddd9c57c9399255e633bc399deb701505d9306138d40721925d",
+    "retrieved_at": "2026-11-10T15:47:03.848511+00:00",
+    "raw_path": "data/raw/3b603f3f3031dddd9c57c9399255e633bc399deb701505d9306138d40721925d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1315257/000131525726000012/0001315257-26-000012-index.html",
   "earnings": {

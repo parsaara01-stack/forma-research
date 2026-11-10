@@ -4,8 +4,8 @@
   "name": "COMMUNITY TRUST BANCORP",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 69.11,
-  "price_date": "2026-11-06",
+  "holding_price": 70.22,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000350852.json",
     "sha256": "e2102dcad3af85c21f53eb8e1a28faab37ac95b1e85ff8c09578eced5007893c",
-    "retrieved_at": "2026-11-06T15:16:09.433930+00:00",
+    "retrieved_at": "2026-11-10T15:45:27.548893+00:00",
     "raw_path": "data/raw/e2102dcad3af85c21f53eb8e1a28faab37ac95b1e85ff8c09578eced5007893c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/350852/000114036126007058/0001140361-26-007058-index.html",

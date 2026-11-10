@@ -4,8 +4,8 @@
   "name": "HAWAIIAN ELECTRIC INDUSTRIES",
   "group": "Utilities",
   "weight_percent": 0.05,
-  "holding_price": 8.42,
-  "price_date": "2026-11-06",
+  "holding_price": 9.07,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,12 +319,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354707.json",
-    "sha256": "c97e2ea498be2b9f027cbe6f2082fed40e013669b5810162f056266e5ae9b559",
-    "retrieved_at": "2026-11-06T15:15:46.249690+00:00",
-    "raw_path": "data/raw/c97e2ea498be2b9f027cbe6f2082fed40e013669b5810162f056266e5ae9b559.json.gz"
+    "sha256": "c95a7ef8f21a5f6e6497165aef2c4a0b946f25501c5621b878a12d46ce1a4ec0",
+    "retrieved_at": "2026-11-10T15:44:56.213137+00:00",
+    "raw_path": "data/raw/c95a7ef8f21a5f6e6497165aef2c4a0b946f25501c5621b878a12d46ce1a4ec0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/354707/000035470726000008/0000354707-26-000008-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "TURNING POINT BRANDS",
   "group": "Consumer Staples",
   "weight_percent": 0.04,
-  "holding_price": 65.88,
-  "price_date": "2026-11-06",
+  "holding_price": 63.26,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001290677.json",
-    "sha256": "bc49b86069c1697f7b80674465cefefefa532add8bb0e4059080da9b90b36f9c",
-    "retrieved_at": "2026-11-06T15:15:57.049680+00:00",
-    "raw_path": "data/raw/bc49b86069c1697f7b80674465cefefefa532add8bb0e4059080da9b90b36f9c.json.gz"
+    "sha256": "9b51764e7c7d21aeb9c73239dea5440a776c5429ad68f376ad3ebbc62f14e51f",
+    "retrieved_at": "2026-11-10T15:45:26.579970+00:00",
+    "raw_path": "data/raw/9b51764e7c7d21aeb9c73239dea5440a776c5429ad68f376ad3ebbc62f14e51f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1290677/000143774926006405/0001437749-26-006405-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "DFTX",
   "name": "DEFINIUM THERAPEUTICS INC",
   "group": "Health Care",
-  "weight_percent": 0.14,
-  "holding_price": 33.27,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.15,
+  "holding_price": 35.39,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001813814.json",
-    "sha256": "afb07c3c9dec92bfe71c8ab2ba2df1270af37378dc83d500c5a8b4b1146df0ab",
-    "retrieved_at": "2026-11-06T15:13:41.907516+00:00",
-    "raw_path": "data/raw/afb07c3c9dec92bfe71c8ab2ba2df1270af37378dc83d500c5a8b4b1146df0ab.json.gz"
+    "sha256": "6a6e359b25b5f09825032ef480753324adb1c0cca1ad62ca1f931ed99e7927bc",
+    "retrieved_at": "2026-11-10T15:42:51.796596+00:00",
+    "raw_path": "data/raw/6a6e359b25b5f09825032ef480753324adb1c0cca1ad62ca1f931ed99e7927bc.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1813814/000119312526076742/0001193125-26-076742-index.html",
   "earnings": {

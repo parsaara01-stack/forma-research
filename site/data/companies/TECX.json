@@ -4,8 +4,8 @@
   "name": "TECTONIC THERAPEUTIC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 20.64,
-  "price_date": "2026-11-06",
+  "holding_price": 21.89,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001681087.json",
     "sha256": "a769d43c0ee966a111f9c542c5111c7e626fae81bae3a248765f2e8d5cda46bf",
-    "retrieved_at": "2026-11-06T15:19:36.586823+00:00",
+    "retrieved_at": "2026-11-10T15:48:39.708158+00:00",
     "raw_path": "data/raw/a769d43c0ee966a111f9c542c5111c7e626fae81bae3a248765f2e8d5cda46bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526076793/0001193125-26-076793-index.html",

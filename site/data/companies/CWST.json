@@ -3,9 +3,9 @@
   "source_ticker": "CWST",
   "name": "CASELLA WASTE SYSTEMS CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.22,
-  "holding_price": 98.21,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.21,
+  "holding_price": 99.02,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911177.json",
-    "sha256": "056abab5f148b8ac0e8bba7632fe8db698d80e95ddca200214e0a37bdcbb5f8f",
-    "retrieved_at": "2026-11-06T15:13:06.699533+00:00",
-    "raw_path": "data/raw/056abab5f148b8ac0e8bba7632fe8db698d80e95ddca200214e0a37bdcbb5f8f.json.gz"
+    "sha256": "a848bf10f4a5d3d655f71ee394cdcce78c2da89db6b4641c58f49672f91f422a",
+    "retrieved_at": "2026-11-10T15:42:25.718541+00:00",
+    "raw_path": "data/raw/a848bf10f4a5d3d655f71ee394cdcce78c2da89db6b4641c58f49672f91f422a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/911177/000091117726000008/0000911177-26-000008-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "OPAL FUELS CLASS A",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 1.45,
-  "price_date": "2026-11-06",
+  "holding_price": 1.42,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001842279.json",
-    "sha256": "06f54f7ae1a0f48e837c7da84122c984a0290c53d72e1fcdaa855bd654982565",
-    "retrieved_at": "2026-11-06T15:20:59.828764+00:00",
-    "raw_path": "data/raw/06f54f7ae1a0f48e837c7da84122c984a0290c53d72e1fcdaa855bd654982565.json.gz"
+    "sha256": "452b8bc88f5655b47926605527fb76d4129557ca9af31fda41eb1d51fd55e052",
+    "retrieved_at": "2026-11-10T15:50:15.822515+00:00",
+    "raw_path": "data/raw/452b8bc88f5655b47926605527fb76d4129557ca9af31fda41eb1d51fd55e052.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1842279/000162828026017908/0001628280-26-017908-index.html",
   "earnings": {

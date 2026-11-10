@@ -4,8 +4,8 @@
   "name": "LINCOLN EDUCATIONAL SERVICES CORP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 17.66,
-  "price_date": "2026-11-06",
+  "holding_price": 22.0,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001286613.json",
-    "sha256": "a0969d8034ca957a90e34de1fcffa664416027adaf3688b877b56d02f7cf49a9",
-    "retrieved_at": "2026-11-06T15:17:34.813454+00:00",
-    "raw_path": "data/raw/a0969d8034ca957a90e34de1fcffa664416027adaf3688b877b56d02f7cf49a9.json.gz"
+    "sha256": "16b465898ca89237d08cb10b16c062f53ffccb2f07713804f7362210e33b0a25",
+    "retrieved_at": "2026-11-10T15:46:41.210888+00:00",
+    "raw_path": "data/raw/16b465898ca89237d08cb10b16c062f53ffccb2f07713804f7362210e33b0a25.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1286613/000114036126007380/0001140361-26-007380-index.html",
   "earnings": {

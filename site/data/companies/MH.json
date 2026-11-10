@@ -4,8 +4,8 @@
   "name": "MCGRAW HILL",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 10.86,
-  "price_date": "2026-11-06",
+  "holding_price": 10.69,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951070.json",
     "sha256": "dfff3c4dcfb607facec0cd65f9e169a0c2a91c6a8114379738c63c52fb3b4079",
-    "retrieved_at": "2026-11-06T15:18:56.730310+00:00",
+    "retrieved_at": "2026-11-10T15:48:32.427172+00:00",
     "raw_path": "data/raw/dfff3c4dcfb607facec0cd65f9e169a0c2a91c6a8114379738c63c52fb3b4079.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1951070/000195107026000022/0001951070-26-000022-index.html",

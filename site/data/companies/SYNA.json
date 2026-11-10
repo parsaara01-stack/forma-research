@@ -3,9 +3,9 @@
   "source_ticker": "SYNA",
   "name": "SYNAPTICS",
   "group": "Information Technology",
-  "weight_percent": 0.16,
-  "holding_price": 116.7,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.15,
+  "holding_price": 117.25,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000817720.json",
     "sha256": "28f2d00a161422ece0198d105ac202b6ae96a7c5b823440d08201ddca6047cb1",
-    "retrieved_at": "2026-11-06T15:13:29.600118+00:00",
+    "retrieved_at": "2026-11-10T15:42:49.089466+00:00",
     "raw_path": "data/raw/28f2d00a161422ece0198d105ac202b6ae96a7c5b823440d08201ddca6047cb1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/817720/000081772026000055/0000817720-26-000055-index.html",

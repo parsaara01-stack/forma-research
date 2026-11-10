@@ -4,8 +4,8 @@
   "name": "BANNER CORP",
   "group": "Financials",
   "weight_percent": 0.08,
-  "holding_price": 70.09,
-  "price_date": "2026-11-06",
+  "holding_price": 70.36,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000946673.json",
     "sha256": "c9efdc307928d9abb202397f22ff338fca0f75db7c889019b7de23f6eebd86a1",
-    "retrieved_at": "2026-11-06T15:14:39.840867+00:00",
+    "retrieved_at": "2026-11-10T15:44:02.508472+00:00",
     "raw_path": "data/raw/c9efdc307928d9abb202397f22ff338fca0f75db7c889019b7de23f6eebd86a1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/946673/000094667326000009/0000946673-26-000009-index.html",

@@ -4,8 +4,8 @@
   "name": "ENOVIX",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 2.76,
-  "price_date": "2026-11-06",
+  "holding_price": 2.78,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001828318.json",
     "sha256": "1adba8eb32eaf21195ccb165dbcc5346e744a60847efc8d5d98eddfdbf8c9583",
-    "retrieved_at": "2026-11-06T15:17:44.133112+00:00",
+    "retrieved_at": "2026-11-10T15:47:00.856980+00:00",
     "raw_path": "data/raw/1adba8eb32eaf21195ccb165dbcc5346e744a60847efc8d5d98eddfdbf8c9583.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000006/0001828318-26-000006-index.html",

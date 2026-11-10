@@ -4,8 +4,8 @@
   "name": "NERDWALLET CLASS A",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 7.89,
-  "price_date": "2026-11-06",
+  "holding_price": 7.82,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001625278.json",
     "sha256": "f2bddb37ae42492560def06bc6b8e712e459570a1557064312789d4235ea2977",
-    "retrieved_at": "2026-11-06T15:18:20.864377+00:00",
+    "retrieved_at": "2026-11-10T15:48:29.371995+00:00",
     "raw_path": "data/raw/f2bddb37ae42492560def06bc6b8e712e459570a1557064312789d4235ea2977.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1625278/000162527826000014/0001625278-26-000014-index.html",

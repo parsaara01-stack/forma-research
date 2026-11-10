@@ -3,9 +3,9 @@
   "source_ticker": "SOC",
   "name": "SABLE OFFSHORE CLASS A",
   "group": "Energy",
-  "weight_percent": 0.01,
-  "holding_price": 1.93,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.0,
+  "holding_price": 0.88,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001831481.json",
-    "sha256": "aed720ceedacbd2f8e12bf218cd1b61a56a99fbdb9350e46a943a891edf357f2",
-    "retrieved_at": "2026-11-06T15:18:48.916312+00:00",
-    "raw_path": "data/raw/aed720ceedacbd2f8e12bf218cd1b61a56a99fbdb9350e46a943a891edf357f2.json.gz"
+    "sha256": "9f11210ff2f507ca7150dcec2bf6dcdbada63084f0db7714e31a6e0f3b641f3e",
+    "retrieved_at": "2026-11-10T15:49:23.495713+00:00",
+    "raw_path": "data/raw/9f11210ff2f507ca7150dcec2bf6dcdbada63084f0db7714e31a6e0f3b641f3e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000026/0001831481-26-000026-index.html",
   "earnings": {

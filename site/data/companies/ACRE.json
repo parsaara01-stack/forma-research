@@ -4,8 +4,8 @@
   "name": "ARES COMMERCIAL REAL ESTATE REIT C",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.65,
-  "price_date": "2026-11-06",
+  "holding_price": 3.68,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001529377.json",
-    "sha256": "767b62905aac4790c363fa88a29c609a06a2901d607ef2e577d8da20f923d0eb",
-    "retrieved_at": "2026-11-06T15:19:53.912173+00:00",
-    "raw_path": "data/raw/767b62905aac4790c363fa88a29c609a06a2901d607ef2e577d8da20f923d0eb.json.gz"
+    "sha256": "0fb1a0a333660b690afba3de6c8d54be828c205ff7ac52ed92e0cc19afe4d83b",
+    "retrieved_at": "2026-11-10T15:49:03.732465+00:00",
+    "raw_path": "data/raw/0fb1a0a333660b690afba3de6c8d54be828c205ff7ac52ed92e0cc19afe4d83b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1529377/000162828026006635/0001628280-26-006635-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "NORTHEAST COMMUNITY BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 29.01,
-  "price_date": "2026-11-06",
+  "holding_price": 29.2,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,12 +163,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001847398.json",
-    "sha256": "2341f944fe51b96841dbe6fe2a50ccf0772dd5855e90dfc2cfcd87a582c71df0",
-    "retrieved_at": "2026-11-06T15:18:22.931296+00:00",
-    "raw_path": "data/raw/2341f944fe51b96841dbe6fe2a50ccf0772dd5855e90dfc2cfcd87a582c71df0.json.gz"
+    "sha256": "3dc604115e8f2dc2ced4dec8e09da4a3f5df0ce10319d326e651889a491d1798",
+    "retrieved_at": "2026-11-10T15:47:41.872834+00:00",
+    "raw_path": "data/raw/3dc604115e8f2dc2ced4dec8e09da4a3f5df0ce10319d326e651889a491d1798.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926027566/0001104659-26-027566-index.html",
   "earnings": {

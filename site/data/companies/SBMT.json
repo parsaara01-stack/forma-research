@@ -4,11 +4,11 @@
   "name": "SILVER BOW MINING CORP",
   "group": "Materials",
   "weight_percent": 0.0,
-  "holding_price": 5.51,
-  "price_date": "2026-11-06",
+  "holding_price": 6.46,
+  "price_date": "2026-11-09",
   "exchange": "Nyse Mkt Llc",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

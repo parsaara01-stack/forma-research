@@ -4,8 +4,8 @@
   "name": "OCUGEN",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 0.93,
-  "price_date": "2026-11-06",
+  "holding_price": 0.97,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001372299.json",
     "sha256": "47b24a482c55f280c4cde62970254351ed4238b1e80f794d7cdb482b0928d821",
-    "retrieved_at": "2026-11-06T15:19:01.658540+00:00",
+    "retrieved_at": "2026-11-10T15:48:02.033233+00:00",
     "raw_path": "data/raw/47b24a482c55f280c4cde62970254351ed4238b1e80f794d7cdb482b0928d821.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1372299/000162828026014435/0001628280-26-014435-index.html",

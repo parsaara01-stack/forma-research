@@ -3,12 +3,12 @@
   "source_ticker": "NAT",
   "name": "NORDIC AMERICAN TANKERS",
   "group": "Energy",
-  "weight_percent": 0.05,
-  "holding_price": 6.67,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.04,
+  "holding_price": 6.5,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

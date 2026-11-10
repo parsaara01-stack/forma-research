@@ -4,8 +4,8 @@
   "name": "ATN INTERNATIONAL INC",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 28.02,
-  "price_date": "2026-11-06",
+  "holding_price": 28.72,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879585.json",
-    "sha256": "d90dc0d6eada83e85e7c77f85c7d6e853a2f495d5faf91f73062473719943aa0",
-    "retrieved_at": "2026-11-06T15:19:18.062469+00:00",
-    "raw_path": "data/raw/d90dc0d6eada83e85e7c77f85c7d6e853a2f495d5faf91f73062473719943aa0.json.gz"
+    "sha256": "cc8efa721574f79db902bf4b43aa27bd5d78f5b2aa6171d2caee215d2401b6c6",
+    "retrieved_at": "2026-11-10T15:48:21.005143+00:00",
+    "raw_path": "data/raw/cc8efa721574f79db902bf4b43aa27bd5d78f5b2aa6171d2caee215d2401b6c6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/879585/000110465926028515/0001104659-26-028515-index.html",
   "earnings": {

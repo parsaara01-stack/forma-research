@@ -4,8 +4,8 @@
   "name": "SURROZEN",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 31.0,
-  "price_date": "2026-11-06",
+  "holding_price": 32.0,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,12 +223,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
-    "sha256": "f4bff065947de7d756a6999253e80c6676d7c8c78c894d7442fc9a9e843d9a9c",
-    "retrieved_at": "2026-11-06T15:19:31.486586+00:00",
-    "raw_path": "data/raw/f4bff065947de7d756a6999253e80c6676d7c8c78c894d7442fc9a9e843d9a9c.json.gz"
+    "sha256": "ceebcb2d1ccaa2247cbc57237aa8f30d08a486833a4a6f0cba501604f1c95539",
+    "retrieved_at": "2026-11-10T15:48:41.619849+00:00",
+    "raw_path": "data/raw/ceebcb2d1ccaa2247cbc57237aa8f30d08a486833a4a6f0cba501604f1c95539.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1824893/000119312526119818/0001193125-26-119818-index.html",
   "earnings": {

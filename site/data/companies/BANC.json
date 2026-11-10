@@ -3,9 +3,9 @@
   "source_ticker": "BANC",
   "name": "BANC OF CALIFORNIA",
   "group": "Financials",
-  "weight_percent": 0.09,
-  "holding_price": 17.98,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.08,
+  "holding_price": 18.12,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001169770.json",
-    "sha256": "29ef70a198f7c375d3877feac7ae9e2fc94d3d8d1135598e08e1bfad21940220",
-    "retrieved_at": "2026-11-06T15:14:35.711755+00:00",
-    "raw_path": "data/raw/29ef70a198f7c375d3877feac7ae9e2fc94d3d8d1135598e08e1bfad21940220.json.gz"
+    "sha256": "c6aceacdb7a25f4a81ffac7dedae257b28be4b68ed2fc7ceea9839fc675d5f3d",
+    "retrieved_at": "2026-11-10T15:43:58.855251+00:00",
+    "raw_path": "data/raw/c6aceacdb7a25f4a81ffac7dedae257b28be4b68ed2fc7ceea9839fc675d5f3d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1169770/000162828026012946/0001628280-26-012946-index.html",
   "earnings": {

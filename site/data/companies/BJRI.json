@@ -4,8 +4,8 @@
   "name": "BJS RESTAURANTS INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.04,
-  "holding_price": 55.67,
-  "price_date": "2026-11-06",
+  "holding_price": 57.71,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013488.json",
     "sha256": "b4b1ee6e17403ee866744f8adf962e97cd9a7e23de0dfdb00dca00f910888e41",
-    "retrieved_at": "2026-11-06T15:16:08.881722+00:00",
+    "retrieved_at": "2026-11-10T15:45:33.811314+00:00",
     "raw_path": "data/raw/b4b1ee6e17403ee866744f8adf962e97cd9a7e23de0dfdb00dca00f910888e41.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1013488/000119312526083331/0001193125-26-083331-index.html",

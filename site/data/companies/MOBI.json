@@ -4,11 +4,11 @@
   "name": "MOBIA MEDICAL INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 11.19,
-  "price_date": "2026-11-06",
+  "holding_price": 12.26,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-06"
+  "refresh_error": "No supported annual facts by 2026-11-10"
 }

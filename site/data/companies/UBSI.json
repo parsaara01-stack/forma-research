@@ -3,9 +3,9 @@
   "source_ticker": "UBSI",
   "name": "UNITED BANKSHARES",
   "group": "Financials",
-  "weight_percent": 0.22,
-  "holding_price": 48.22,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.21,
+  "holding_price": 48.8,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -247,12 +247,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000729986.json",
-    "sha256": "e840c93c36ed434a0288002fcb929a39fab339d04cd9eb9f1a3dec87e57b016e",
-    "retrieved_at": "2026-11-06T15:13:05.685561+00:00",
-    "raw_path": "data/raw/e840c93c36ed434a0288002fcb929a39fab339d04cd9eb9f1a3dec87e57b016e.json.gz"
+    "sha256": "270466e49d286207f4244ddbef5d9701c2bb36d7002cca3a522499ace1bd17f1",
+    "retrieved_at": "2026-11-10T15:42:24.834552+00:00",
+    "raw_path": "data/raw/270466e49d286207f4244ddbef5d9701c2bb36d7002cca3a522499ace1bd17f1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/729986/000119312526081470/0001193125-26-081470-index.html",
   "earnings": {

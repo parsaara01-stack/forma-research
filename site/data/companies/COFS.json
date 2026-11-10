@@ -4,8 +4,8 @@
   "name": "CHOICEONE FINANCIAL SERVICES INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 36.69,
-  "price_date": "2026-11-06",
+  "holding_price": 37.29,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000803164.json",
-    "sha256": "1f7b7ac90203d809fcbd9e6bafc74810985aaa13727e1511169030b5e49953ae",
-    "retrieved_at": "2026-11-06T15:17:41.706403+00:00",
-    "raw_path": "data/raw/1f7b7ac90203d809fcbd9e6bafc74810985aaa13727e1511169030b5e49953ae.json.gz"
+    "sha256": "a0e38daeb6272d970d04793b4325a9beca34377dac3af2c1d90d1df95da27867",
+    "retrieved_at": "2026-11-10T15:46:59.841979+00:00",
+    "raw_path": "data/raw/a0e38daeb6272d970d04793b4325a9beca34377dac3af2c1d90d1df95da27867.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/803164/000119312526105046/0001193125-26-105046-index.html",
   "earnings": {

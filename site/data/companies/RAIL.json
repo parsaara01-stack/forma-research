@@ -4,8 +4,8 @@
   "name": "FREIGHTCAR AMERICA INC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 4.24,
-  "price_date": "2026-11-06",
+  "holding_price": 4.45,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,12 +283,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001320854.json",
-    "sha256": "ec6c8640a3c10de5c7ca80b3d160b4ea859e06a8575dcea5ed83b35b3eb0c2da",
-    "retrieved_at": "2026-11-06T15:20:54.142492+00:00",
-    "raw_path": "data/raw/ec6c8640a3c10de5c7ca80b3d160b4ea859e06a8575dcea5ed83b35b3eb0c2da.json.gz"
+    "sha256": "0d1dd88459d1f92f086869b19c70bfd6f3dd316e012ba70f85589e57df597731",
+    "retrieved_at": "2026-11-10T15:50:06.604882+00:00",
+    "raw_path": "data/raw/0d1dd88459d1f92f086869b19c70bfd6f3dd316e012ba70f85589e57df597731.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526098668/0001193125-26-098668-index.html",
   "earnings": {

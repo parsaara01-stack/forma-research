@@ -4,8 +4,8 @@
   "name": "KARAT PACKAGING INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 33.54,
-  "price_date": "2026-11-06",
+  "holding_price": 36.51,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001758021.json",
-    "sha256": "852da252b89359c2517c1638b5e9988b08b478be42ebf78e65f3e55649b19475",
-    "retrieved_at": "2026-11-06T15:18:05.166089+00:00",
-    "raw_path": "data/raw/852da252b89359c2517c1638b5e9988b08b478be42ebf78e65f3e55649b19475.json.gz"
+    "sha256": "0b88c636ea229b9a53786694ef6c9fbb9fde53762acb69892468109c695b886c",
+    "retrieved_at": "2026-11-10T15:48:09.920024+00:00",
+    "raw_path": "data/raw/0b88c636ea229b9a53786694ef6c9fbb9fde53762acb69892468109c695b886c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1758021/000175802126000010/0001758021-26-000010-index.html",
   "earnings": {

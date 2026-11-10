@@ -4,8 +4,8 @@
   "name": "CBL ASSOCIATES PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.03,
-  "holding_price": 47.32,
-  "price_date": "2026-11-06",
+  "holding_price": 48.03,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000910612.json",
-    "sha256": "9d5f9031b71d958c85eb08e9822c702e6a57c7f05ae6cb7e4034109b9e42b010",
-    "retrieved_at": "2026-11-06T15:16:31.259714+00:00",
-    "raw_path": "data/raw/9d5f9031b71d958c85eb08e9822c702e6a57c7f05ae6cb7e4034109b9e42b010.json.gz"
+    "sha256": "d543387a7b3cc6c5a0b7d73d35345904253ebb0dfc41d44a4c3e169d4371f304",
+    "retrieved_at": "2026-11-10T15:45:50.487306+00:00",
+    "raw_path": "data/raw/d543387a7b3cc6c5a0b7d73d35345904253ebb0dfc41d44a4c3e169d4371f304.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526087049/0001193125-26-087049-index.html",
   "earnings": {

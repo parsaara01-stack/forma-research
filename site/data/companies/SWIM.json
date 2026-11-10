@@ -4,8 +4,8 @@
   "name": "LATHAM GROUP INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 7.85,
-  "price_date": "2026-11-06",
+  "holding_price": 8.4,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001833197.json",
     "sha256": "347d24e5f694cecfb26e3c47402fee0c97caa0ec0f29df466c07c34d379ce88d",
-    "retrieved_at": "2026-11-06T15:18:02.814226+00:00",
+    "retrieved_at": "2026-11-10T15:47:15.499081+00:00",
     "raw_path": "data/raw/347d24e5f694cecfb26e3c47402fee0c97caa0ec0f29df466c07c34d379ce88d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000017/0001833197-26-000017-index.html",

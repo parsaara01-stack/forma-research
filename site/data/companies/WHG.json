@@ -4,8 +4,8 @@
   "name": "WESTWOOD HOLDINGS GROUP INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 18.63,
-  "price_date": "2026-11-06",
+  "holding_price": 18.7,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001165002.json",
     "sha256": "fa5a099d395a6ae68ec61d875f51e458d52491cc3b8e1b0e88d3544804455a33",
-    "retrieved_at": "2026-11-06T15:20:18.745238+00:00",
+    "retrieved_at": "2026-11-10T15:49:32.284727+00:00",
     "raw_path": "data/raw/fa5a099d395a6ae68ec61d875f51e458d52491cc3b8e1b0e88d3544804455a33.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1165002/000116500226000020/0001165002-26-000020-index.html",

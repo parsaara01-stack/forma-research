@@ -4,8 +4,8 @@
   "name": "MERIDIAN CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 16.47,
-  "price_date": "2026-11-06",
+  "holding_price": 16.82,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,12 +187,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001750735.json",
-    "sha256": "1d5903376e86493fdf7bc7c576ea70f5130229d94c0737dece5d3131612b99dd",
-    "retrieved_at": "2026-11-06T15:19:54.367404+00:00",
-    "raw_path": "data/raw/1d5903376e86493fdf7bc7c576ea70f5130229d94c0737dece5d3131612b99dd.json.gz"
+    "sha256": "25c4b775cbd1f8ce65d07982ea42121d7fa1fb6bef27bf48382680eb67c2197e",
+    "retrieved_at": "2026-11-10T15:49:09.011927+00:00",
+    "raw_path": "data/raw/25c4b775cbd1f8ce65d07982ea42121d7fa1fb6bef27bf48382680eb67c2197e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1750735/000175073526000009/0001750735-26-000009-index.html",
   "earnings": {

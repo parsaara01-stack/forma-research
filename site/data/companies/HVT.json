@@ -4,8 +4,8 @@
   "name": "HAVERTY FURNITURE COMPANIES INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 25.14,
-  "price_date": "2026-11-06",
+  "holding_price": 26.18,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000216085.json",
     "sha256": "3a462ee0c815a52f3b7c9378dcfdf152263b5947ac9a5e131b4e6b603481b914",
-    "retrieved_at": "2026-11-06T15:18:23.264194+00:00",
+    "retrieved_at": "2026-11-10T15:47:53.892509+00:00",
     "raw_path": "data/raw/3a462ee0c815a52f3b7c9378dcfdf152263b5947ac9a5e131b4e6b603481b914.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828026012199/0001628280-26-012199-index.html",

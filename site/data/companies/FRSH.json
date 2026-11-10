@@ -4,8 +4,8 @@
   "name": "FRESHWORKS CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 12.11,
-  "price_date": "2026-11-06",
+  "holding_price": 12.01,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001544522.json",
     "sha256": "556a2fc3ca484ec7ab7ead354ae2d1cd9efadd0f163da93b9a75d44d343ea0d8",
-    "retrieved_at": "2026-11-06T15:14:16.309928+00:00",
+    "retrieved_at": "2026-11-10T15:43:47.817368+00:00",
     "raw_path": "data/raw/556a2fc3ca484ec7ab7ead354ae2d1cd9efadd0f163da93b9a75d44d343ea0d8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1544522/000154452226000036/0001544522-26-000036-index.html",

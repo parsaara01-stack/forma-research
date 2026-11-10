@@ -4,8 +4,8 @@
   "name": "GOGO",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 3.88,
-  "price_date": "2026-11-06",
+  "holding_price": 3.62,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001537054.json",
-    "sha256": "a73ee21ae07223a379a3fa92ad7ff28332dcb41f9b994fb920d6fa911882cc47",
-    "retrieved_at": "2026-11-06T15:19:47.988060+00:00",
-    "raw_path": "data/raw/a73ee21ae07223a379a3fa92ad7ff28332dcb41f9b994fb920d6fa911882cc47.json.gz"
+    "sha256": "c474a942dcc678b17ab5c8d36fc48f7f8d18641a1e9a181c8a1eeee7b9ab56c5",
+    "retrieved_at": "2026-11-10T15:48:23.866365+00:00",
+    "raw_path": "data/raw/c474a942dcc678b17ab5c8d36fc48f7f8d18641a1e9a181c8a1eeee7b9ab56c5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1537054/000119312526082487/0001193125-26-082487-index.html",
   "earnings": {

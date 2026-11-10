@@ -4,8 +4,8 @@
   "name": "EOS ENERGY ENTERPRISES CLASS A",
   "group": "Industrials",
   "weight_percent": 0.02,
-  "holding_price": 1.74,
-  "price_date": "2026-11-06",
+  "holding_price": 1.88,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001805077.json",
     "sha256": "45f710a2c891ee81624240647fc7fb22f79d4e5329fde2c9c85c810b8b9dbd3a",
-    "retrieved_at": "2026-11-06T15:17:05.181860+00:00",
+    "retrieved_at": "2026-11-10T15:46:38.601458+00:00",
     "raw_path": "data/raw/45f710a2c891ee81624240647fc7fb22f79d4e5329fde2c9c85c810b8b9dbd3a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026011961/0001628280-26-011961-index.html",

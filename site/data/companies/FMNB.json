@@ -4,8 +4,8 @@
   "name": "FARMERS NATIONAL BANC CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 15.42,
-  "price_date": "2026-11-06",
+  "holding_price": 15.65,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000709337.json",
     "sha256": "09ce45008961bca03c1c0b1dce7f299669aa10e498ab4efaf4b44dea23eaa7fd",
-    "retrieved_at": "2026-11-06T15:16:34.106904+00:00",
+    "retrieved_at": "2026-11-10T15:45:53.444821+00:00",
     "raw_path": "data/raw/09ce45008961bca03c1c0b1dce7f299669aa10e498ab4efaf4b44dea23eaa7fd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/709337/000143774926007084/0001437749-26-007084-index.html",

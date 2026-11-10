@@ -3,9 +3,9 @@
   "source_ticker": "IMVT",
   "name": "IMMUNOVANT",
   "group": "Health Care",
-  "weight_percent": 0.09,
-  "holding_price": 30.53,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.1,
+  "holding_price": 35.15,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001764013.json",
-    "sha256": "c950336f5641d1a857bd8b1a23026b4d867925f8e6c84560200e9d015f02814e",
-    "retrieved_at": "2026-11-06T15:14:33.539747+00:00",
-    "raw_path": "data/raw/c950336f5641d1a857bd8b1a23026b4d867925f8e6c84560200e9d015f02814e.json.gz"
+    "sha256": "1eb988e4abde85ed318f04c6ad7225a4ed64085cd6924e1e72a6f60b4e228bd6",
+    "retrieved_at": "2026-11-10T15:43:31.944021+00:00",
+    "raw_path": "data/raw/1eb988e4abde85ed318f04c6ad7225a4ed64085cd6924e1e72a6f60b4e228bd6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000064/0001764013-26-000064-index.html",
   "earnings": {

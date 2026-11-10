@@ -4,8 +4,8 @@
   "name": "ALAMO GROUP",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 133.7,
-  "price_date": "2026-11-06",
+  "holding_price": 140.97,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000897077.json",
     "sha256": "56405f337668552e4224393178d200db962335c6610dc44451bad2e442f47048",
-    "retrieved_at": "2026-11-06T15:15:41.241939+00:00",
+    "retrieved_at": "2026-11-10T15:45:00.292998+00:00",
     "raw_path": "data/raw/56405f337668552e4224393178d200db962335c6610dc44451bad2e442f47048.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/897077/000089707726000016/0000897077-26-000016-index.html",

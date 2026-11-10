@@ -3,9 +3,9 @@
   "source_ticker": "YELP",
   "name": "YELP",
   "group": "Communication",
-  "weight_percent": 0.04,
-  "holding_price": 19.46,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.03,
+  "holding_price": 19.58,
+  "price_date": "2026-11-09",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,12 +235,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001345016.json",
-    "sha256": "0722e3390c85669ae1fe6604cb7673fdaf5a273ae231aadb8240c3cb74fcdf8c",
-    "retrieved_at": "2026-11-06T15:16:13.408230+00:00",
-    "raw_path": "data/raw/0722e3390c85669ae1fe6604cb7673fdaf5a273ae231aadb8240c3cb74fcdf8c.json.gz"
+    "sha256": "744795800df50f3e346d074af91e66ccf2887f58c64c30d8785c2fccbd87420b",
+    "retrieved_at": "2026-11-10T15:45:42.752916+00:00",
+    "raw_path": "data/raw/744795800df50f3e346d074af91e66ccf2887f58c64c30d8785c2fccbd87420b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1345016/000134501626000019/0001345016-26-000019-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "FRIEDMAN INDUSTRIES INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 36.0,
-  "price_date": "2026-11-06",
+  "holding_price": 37.57,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000039092.json",
     "sha256": "3b4b79d9f47f6bed4f10d458cd368b347a2b270b809758c998827412bc8d695e",
-    "retrieved_at": "2026-11-06T15:19:13.582951+00:00",
+    "retrieved_at": "2026-11-10T15:48:34.298426+00:00",
     "raw_path": "data/raw/3b4b79d9f47f6bed4f10d458cd368b347a2b270b809758c998827412bc8d695e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/39092/000143774925020219/0001437749-25-020219-index.html",

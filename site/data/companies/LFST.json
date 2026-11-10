@@ -4,8 +4,8 @@
   "name": "LIFESTANCE HEALTH GROUP",
   "group": "Health Care",
   "weight_percent": 0.12,
-  "holding_price": 13.77,
-  "price_date": "2026-11-06",
+  "holding_price": 14.6,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,12 +259,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001845257.json",
-    "sha256": "d096f3e43ebd5379e556b2ce50672fbb5b78ddfa4ec9980b24af748e95a7cfec",
-    "retrieved_at": "2026-11-06T15:13:56.971153+00:00",
-    "raw_path": "data/raw/d096f3e43ebd5379e556b2ce50672fbb5b78ddfa4ec9980b24af748e95a7cfec.json.gz"
+    "sha256": "6742beceb01ae66bdc19020fe8c8ec7039cdca188f54fb69a032f1e9fcdd1273",
+    "retrieved_at": "2026-11-10T15:43:11.250588+00:00",
+    "raw_path": "data/raw/6742beceb01ae66bdc19020fe8c8ec7039cdca188f54fb69a032f1e9fcdd1273.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1845257/000119312526071462/0001193125-26-071462-index.html",
   "earnings": {

@@ -3,9 +3,9 @@
   "source_ticker": "CORZ",
   "name": "CORE SCIENTIFIC INC",
   "group": "Information Technology",
-  "weight_percent": 0.13,
-  "holding_price": 11.76,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.14,
+  "holding_price": 12.72,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001839341.json",
     "sha256": "7bc1cad9b5e15a8f6e5ede8376b2ee51e54c4c808b023e7a09fc0132ce33b426",
-    "retrieved_at": "2026-11-06T15:13:41.528384+00:00",
+    "retrieved_at": "2026-11-10T15:43:02.455885+00:00",
     "raw_path": "data/raw/7bc1cad9b5e15a8f6e5ede8376b2ee51e54c4c808b023e7a09fc0132ce33b426.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/0001628280-26-013305-index.html",

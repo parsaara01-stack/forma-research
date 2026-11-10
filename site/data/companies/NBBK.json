@@ -4,8 +4,8 @@
   "name": "NB BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 22.09,
-  "price_date": "2026-11-06",
+  "holding_price": 22.34,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001979330.json",
     "sha256": "80c3268f386d00d3f0f0a0265567eeb5940f487f24edff8f4323fdf3d03adde1",
-    "retrieved_at": "2026-11-06T15:16:41.422587+00:00",
+    "retrieved_at": "2026-11-10T15:46:00.284048+00:00",
     "raw_path": "data/raw/80c3268f386d00d3f0f0a0265567eeb5940f487f24edff8f4323fdf3d03adde1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1979330/000110465926022367/0001104659-26-022367-index.html",

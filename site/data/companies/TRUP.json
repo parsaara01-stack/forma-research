@@ -3,9 +3,9 @@
   "source_ticker": "TRUP",
   "name": "TRUPANION",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 36.75,
-  "price_date": "2026-11-06",
+  "weight_percent": 0.04,
+  "holding_price": 35.5,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001371285.json",
     "sha256": "5d544208422e357ac7d66cff56914450d95d03d71cda66f2357ab783a58d1233",
-    "retrieved_at": "2026-11-06T15:16:06.435477+00:00",
+    "retrieved_at": "2026-11-10T15:45:16.898894+00:00",
     "raw_path": "data/raw/5d544208422e357ac7d66cff56914450d95d03d71cda66f2357ab783a58d1233.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1371285/000137128526000018/0001371285-26-000018-index.html",

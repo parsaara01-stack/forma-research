@@ -4,8 +4,8 @@
   "name": "ATEA PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 4.31,
-  "price_date": "2026-11-06",
+  "holding_price": 4.41,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,12 +199,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001593899.json",
-    "sha256": "1478d5a15cae7d68529b05d31111a645d4d4c6ce2b18807594a9e3f28e816906",
-    "retrieved_at": "2026-11-06T15:18:57.651503+00:00",
-    "raw_path": "data/raw/1478d5a15cae7d68529b05d31111a645d4d4c6ce2b18807594a9e3f28e816906.json.gz"
+    "sha256": "e08c70a0641a2cad2d0bd5dfcb8e91101a9a40297c6b3c5d1e48a852cf3c5d89",
+    "retrieved_at": "2026-11-10T15:48:11.735976+00:00",
+    "raw_path": "data/raw/e08c70a0641a2cad2d0bd5dfcb8e91101a9a40297c6b3c5d1e48a852cf3c5d89.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1593899/000119312526094159/0001193125-26-094159-index.html",
   "earnings": {

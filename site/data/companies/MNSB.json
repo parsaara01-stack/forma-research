@@ -4,8 +4,8 @@
   "name": "MAINSTREET BANCSHARES",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 22.11,
-  "price_date": "2026-11-06",
+  "holding_price": 21.9,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,12 +175,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001693577.json",
-    "sha256": "fd943c12bd8045a05b531c72a54a308a516baa919df6dbd2707270af37069955",
-    "retrieved_at": "2026-11-06T15:20:18.157386+00:00",
-    "raw_path": "data/raw/fd943c12bd8045a05b531c72a54a308a516baa919df6dbd2707270af37069955.json.gz"
+    "sha256": "c73ee411895b2a68ed5f8fdfc4637be61a99782a8c7aa9d68c256fd0d7af6194",
+    "retrieved_at": "2026-11-10T15:49:29.925490+00:00",
+    "raw_path": "data/raw/c73ee411895b2a68ed5f8fdfc4637be61a99782a8c7aa9d68c256fd0d7af6194.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926008073/0001437749-26-008073-index.html",
   "earnings": {

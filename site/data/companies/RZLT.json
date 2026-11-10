@@ -4,8 +4,8 @@
   "name": "REZOLUTE",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.88,
-  "price_date": "2026-11-06",
+  "holding_price": 3.87,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001509261.json",
     "sha256": "0bac4e05a6423be0641200711a9f57a2b3df682a83831fe317b16d7141dfcde0",
-    "retrieved_at": "2026-11-06T15:18:57.814756+00:00",
+    "retrieved_at": "2026-11-10T15:48:13.524229+00:00",
     "raw_path": "data/raw/0bac4e05a6423be0641200711a9f57a2b3df682a83831fe317b16d7141dfcde0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926110420/0001104659-26-110420-index.html",

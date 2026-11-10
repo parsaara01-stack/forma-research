@@ -4,8 +4,8 @@
   "name": "HALLADOR ENERGY",
   "group": "Utilities",
   "weight_percent": 0.01,
-  "holding_price": 10.1,
-  "price_date": "2026-11-06",
+  "holding_price": 10.59,
+  "price_date": "2026-11-09",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,12 +271,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-06",
+  "observation_cutoff": "2026-11-10",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000788965.json",
-    "sha256": "558cf8edec6532baaea5ba87123af56007ed2c14d3a68f9c7015659ec54d1b95",
-    "retrieved_at": "2026-11-06T15:18:45.918604+00:00",
-    "raw_path": "data/raw/558cf8edec6532baaea5ba87123af56007ed2c14d3a68f9c7015659ec54d1b95.json.gz"
+    "sha256": "66a010e2d8545638695df8922a89523e3f037005a8617674bc3f520e0b94882c",
+    "retrieved_at": "2026-11-10T15:47:48.009509+00:00",
+    "raw_path": "data/raw/66a010e2d8545638695df8922a89523e3f037005a8617674bc3f520e0b94882c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/788965/000110465926027174/0001104659-26-027174-index.html",
   "earnings": {
