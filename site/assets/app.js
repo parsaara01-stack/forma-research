@@ -52,13 +52,13 @@ let records=[], currentPage=0; const PAGE_SIZE=40; const companyDetails=new Map(
 function secURL(value){
  try { const u=new URL(value);return u.protocol==='https:'&&u.hostname==='www.sec.gov'&&u.pathname.startsWith('/Archives/edgar/data/')?u.href:null; } catch { return null; }
 }
-const statusLabel=r=>r.observation_status==='stale-previous-snapshot'?'Older saved report':(r.has_facts??Object.keys(r.facts||{}).length)?'Annual SEC report · review pending':'Waiting for data';
+const statusLabel=r=>r.observation_status==='stale-previous-snapshot'?'Older saved report':(r.has_facts??Object.keys(r.facts||{}).length)?'Annual SEC report; review pending':'Waiting for data';
 function row(r){
  const f=r.facts||{}; const revenue=asNumber(r.revenue??f.revenue?.value); const margin=asNumber(r.metrics?.operating_margin);const fcf=asNumber(r.metrics?.free_cash_flow);const ratio=asNumber(r.metrics?.debt_to_assets);
  const money=x=>x===null?'—':('$'+(x/1e6).toLocaleString('en-US',{maximumFractionDigits:1})+'M');
  const url=secURL(r.primary_filing_url);
- const link=url?`<a class="filing-link" href="${escapeHTML(url)}" rel="noopener noreferrer" target="_blank" aria-label="${escapeHTML(r.ticker)} SEC filing">SEC ↗</a>`:'<span class="pending">Pending</span>';
- return `<tr><td><button class="company-button" type="button" data-company="${escapeHTML(r.ticker)}">${escapeHTML(r.name||r.ticker)} <span aria-hidden="true">↗</span></button><span class="ticker">${escapeHTML(r.ticker)} · ${escapeHTML(r.group||'Other')}</span><span class="observation-label ${r.observation_status==='stale-previous-snapshot'?'stale':''}">${statusLabel(r)}</span></td><td>${escapeHTML(r.fiscal_end||'—')}</td><td>${money(revenue)}</td><td>${margin===null?'—':pct(margin)}</td><td>${money(fcf)}</td><td>${ratio===null?'—':pct(ratio)}</td><td>${link}</td></tr>`;
+ const link=url?`<a class="filing-link" href="${escapeHTML(url)}" rel="noopener noreferrer" target="_blank" aria-label="${escapeHTML(r.ticker)} SEC filing">SEC</a>`:'<span class="pending">Pending</span>';
+ return `<tr><td><button class="company-button" type="button" data-company="${escapeHTML(r.ticker)}">${escapeHTML(r.name||r.ticker)} </button><span class="ticker">${escapeHTML(r.ticker)}; ${escapeHTML(r.group||'Other')}</span><span class="observation-label ${r.observation_status==='stale-previous-snapshot'?'stale':''}">${statusLabel(r)}</span></td><td>${escapeHTML(r.fiscal_end||'—')}</td><td>${money(revenue)}</td><td>${margin===null?'—':pct(margin)}</td><td>${money(fcf)}</td><td>${ratio===null?'—':pct(ratio)}</td><td>${link}</td></tr>`;
 }
 function updateTable(){
  const q=$('search-company').value.toLowerCase().trim();const filter=$('filter-status').value; const sector=$('filter-sector').value;
@@ -70,8 +70,8 @@ function updateTable(){
  });
  currentPage=Math.min(currentPage,Math.max(0,Math.ceil(filtered.length/PAGE_SIZE)-1));
  const page=filtered.slice(currentPage*PAGE_SIZE,(currentPage+1)*PAGE_SIZE);
- $('company-rows').innerHTML=page.length?page.map(row).join(''):'<tr><td colspan="7">No matches — try another name or filter</td></tr>';
- $('result-count').textContent=`${filtered.length.toLocaleString()} of ${records.length.toLocaleString()} listed stocks · ${page.length} shown`;
+ $('company-rows').innerHTML=page.length?page.map(row).join(''):'<tr><td colspan="7">No matches. Try another name or filter</td></tr>';
+ $('result-count').textContent=`${filtered.length.toLocaleString()} of ${records.length.toLocaleString()} listed stocks; ${page.length} shown`;
  $('page-label').textContent=`Page ${currentPage+1} of ${Math.max(1,Math.ceil(filtered.length/PAGE_SIZE))}`;
  $('page-prev').disabled=currentPage===0; $('page-next').disabled=(currentPage+1)*PAGE_SIZE>=filtered.length;
 }
@@ -98,21 +98,21 @@ async function showCompany(ticker){
  $('detail-body').textContent='Loading the source report';
  $('company-detail').showModal();$('close-detail').focus();
  let r;
- try{r=await fetchCompany(ticker);}catch{ $('detail-body').textContent='This report could not load — close and try again';return; }
+ try{r=await fetchCompany(ticker);}catch{ $('detail-body').textContent='This report could not load. Close and try again';return; }
  if(!$('company-detail').open||request!==detailRequest)return;
  $('detail-title').textContent=r.name||r.ticker;
  const facts=r.facts||{};const m=r.metrics||{};
  const maturity=[1,2,3,4,5].map(n=>`<div><span>Year ${n}</span><strong>${factValue(facts['maturity_year_'+n])}</strong></div>`).join('');
  const factRows=Object.entries(facts).map(([k,f])=>`<tr><th scope="row">${escapeHTML(fieldLabels[k]||k.replaceAll('_',' '))}<small>${escapeHTML(f.tag)}</small></th><td>${factValue(f)}</td><td>${escapeHTML(f.start?f.start+' → '+f.end:f.end)}<small>Filed ${escapeHTML(f.filed)}</small></td></tr>`).join('');
  const url=secURL(r.primary_filing_url);const source=r.source_document;
- $('detail-body').innerHTML=`<p class="detail-meta">${escapeHTML(r.ticker)} · ${escapeHTML(r.group)} · ${statusLabel(r)}</p>
+ $('detail-body').innerHTML=`<p class="detail-meta">${escapeHTML(r.ticker)}; ${escapeHTML(r.group)}; ${statusLabel(r)}</p>
  <p>${r.fiscal_end?'Annual period ending '+escapeHTML(r.fiscal_end)+'<br>Figures come from one original annual report':'We have not loaded this company’s reports yet'} <br>The figures still need review before use in research</p>
  ${r.refresh_error?`<p class="data-alert">Latest refresh failed: ${escapeHTML(r.refresh_error)}<br>Saved figures keep their original report date</p>`:''}
  <h3>Borrowing & ability to pay</h3><div class="capital-metrics"><div><span>Profit compared with interest cost</span><strong>${Number.isFinite(m.interest_coverage)?fmt(m.interest_coverage)+'×':'Unavailable'}</strong></div><div><span>Short-term assets / bills due</span><strong>${Number.isFinite(m.current_ratio)?fmt(m.current_ratio)+'×':'Unavailable'}</strong></div><div><span>Cash / yearly cash used by operations</span><strong>${Number.isFinite(m.cash_runway_years)?fmt(m.cash_runway_years)+' years':'Unavailable'}</strong></div></div>
- <p class="detail-note">The first figure compares profit before interest and tax with reported interest cost<br>The cash figure assumes the same yearly cash loss from operations — it leaves out investments, future spending and new funding<br>Banks and insurers need a different approach</p>
- <h3>When debt is due</h3><div class="maturity-grid">${maturity}</div><p class="detail-note">Debt due in each year after the reporting date<br>After year five: ${factValue(facts.maturity_thereafter)}<br>Missing figures are not zero<br>These totals may cover only part of the debt — check the borrowing notes before adding them up</p>
+ <p class="detail-note">The first figure compares profit before interest and tax with reported interest cost<br>The cash figure assumes the same yearly cash loss from operations; it leaves out investments, future spending and new funding<br>Banks and insurers need a different approach</p>
+ <h3>When debt is due</h3><div class="maturity-grid">${maturity}</div><p class="detail-note">Debt due in each year after the reporting date<br>After year five: ${factValue(facts.maturity_thereafter)}<br>Missing figures are not zero<br>These totals may cover only part of the debt. Check the borrowing notes before adding them up</p>
  <p class="review-note">The cost of raising new money: <strong>not yet estimated</strong><br>We still need to review changing interest rates, loan conditions, pledged assets, leases and debt that can turn into shares</p>
- <h3>Figures from the report</h3>${url?`<a class="inline-link" href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">Open the original SEC report ↗</a>`:''}
+ <h3>Figures from the report</h3>${url?`<a class="inline-link" href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">Open the original SEC report</a>`:''}
  ${factRows?`<div class="table-wrap facts-table" tabindex="0" role="region" aria-label="Reported figures; scroll to see more"><table><caption class="sr-only">${escapeHTML(r.ticker)} source facts</caption><thead><tr><th>Figure / source label</th><th>Reported figure</th><th>Period / report date</th></tr></thead><tbody>${factRows}</tbody></table></div>`:'<p>Missing figures have been left blank</p>'}
  ${source?`<details class="source-fingerprint"><summary>Where the data came from</summary><dl><dt>Downloaded (UTC)</dt><dd>${escapeHTML(source.retrieved_at)}</dd><dt>File fingerprint (SHA-256)</dt><dd>${escapeHTML(source.sha256)}</dd><dt>Source</dt><dd>${escapeHTML(source.url)}</dd><dt>Saved source file</dt><dd>${escapeHTML(source.raw_path||'Source file not saved in this update')}</dd></dl></details>`:''}
  <p class="detail-note">The SEC database can change over time<br>Filtering by report date cannot fully recreate what someone knew in the past<br>These figures do not establish a stock forecast</p>`;
@@ -128,22 +128,26 @@ async function loadData(){
  const stale=records.filter(r=>r.observation_status==='stale-previous-snapshot').length;
  $('facts-count').textContent=n;
  $('refresh-date').textContent=data.last_successful_refresh?data.last_successful_refresh.slice(0,10)+' UTC':'Not yet run';
- $('table-status').textContent=n?`${n} of ${records.length} stocks with annual reports · ${stale} using older saved data · review pending`:'Waiting for the first company reports';
- $('data-cutoff').textContent=data.asof_cutoff?`Reports filed by ${data.asof_cutoff} · Annual figures only · Holdings prices have separate dates`:'Figures appear when reports load';
+ $('table-status').textContent=n?`${n} of ${records.length} stocks with annual reports; ${stale} using older saved data; review pending`:'Waiting for the first company reports';
+ $('data-cutoff').textContent=data.asof_cutoff?`Reports filed by ${data.asof_cutoff}; Annual figures only; Holdings prices have separate dates`:'Figures appear when reports load';
  const warnings=data.refresh_warnings||[];$('data-warning').hidden=!warnings.length;
- $('data-warning').textContent=warnings.length?`${warnings.length} stocks need further source work — older or missing figures stay labeled · Open a company for details`:'';
+ $('data-warning').textContent=warnings.length?`${warnings.length} stocks need further source work; older or missing figures stay labeled; Open a company for details`:'';
  const u=data.universe||{}; const count=records.length.toLocaleString();
- $('hero-coverage').textContent=`${count} listed stocks · IWM holdings ${u.effective||'date unavailable'}`;
+ $('hero-coverage').textContent=`${count} listed stocks; IWM holdings ${u.effective||'date unavailable'}`;
  $('tab-count').textContent=count;
- $('universe-note').textContent='All usable listed stocks in IWM’s published holdings — a Russell 2000 proxy, not certified index membership';
- $('coverage-detail').textContent=`Holdings dated ${u.effective||'unknown'} · ${count} listed stocks · ${(u.excluded_holdings||[]).length} other positions kept outside the company panel · ${u.changes?.basis==='initial complete holdings import'?'First full import':`${u.changes?.added?.length||0} additions and ${u.changes?.removed?.length||0} removals since the last saved list`} · Holdings and macro checked each weekday, company reports twice a week`;
+ $('universe-note').textContent='All usable listed stocks in IWM’s published holdings, a Russell 2000 proxy, not certified index membership';
+ $('coverage-detail').textContent=`Holdings dated ${u.effective||'unknown'}; ${count} listed stocks; ${(u.excluded_holdings||[]).length} other positions kept outside the company panel; ${u.changes?.basis==='initial complete holdings import'?'First full import':`${u.changes?.added?.length||0} additions and ${u.changes?.removed?.length||0} removals since the last saved list`}; Holdings and macro checked each weekday, company reports twice a week`;
  $('filter-sector').innerHTML='<option value="all">Every sector</option>'+[...new Set(records.map(r=>r.group).filter(Boolean))].sort().map(x=>`<option value="${escapeHTML(x)}">${escapeHTML(x)}</option>`).join('');
  loadTimingCompanies(records);
  updateTable();
  } catch(err){
  $('table-status').textContent='Dataset unavailable';
- $('company-rows').innerHTML='<tr><td colspan="7">The company figures could not load — please reload the page</td></tr>';
- $('data-warning').hidden=false;$('data-warning').textContent='Company figures are unavailable — no figures have been filled in';
+ $('hero-coverage').textContent='Company dataset unavailable. The hypothetical calculator remains usable.';
+ $('universe-note').textContent='Membership information could not load.';
+ $('tracked-count').textContent='Unavailable';$('facts-count').textContent='Unavailable';$('refresh-date').textContent='Unavailable';
+ $('company-search').disabled=true;$('company-search').value='Company search unavailable';
+ $('company-rows').innerHTML='<tr><td colspan="7">The company figures could not load. Please reload the page</td></tr>';
+ $('data-warning').hidden=false;$('data-warning').textContent='Company figures are unavailable. no figures have been filled in';
  }
 }
 renderStatic();['growth','margin','cost','capex','dilution'].forEach(id=>$(id).addEventListener('input',updateSimulator));

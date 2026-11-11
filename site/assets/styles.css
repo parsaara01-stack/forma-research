@@ -27,3 +27,18 @@
 .market-chart{height:425px!important}.market-quote .tradingview-widget-container__widget{height:171px!important}
 @media(max-width:460px){.market-chart{height:340px!important}}
 .market-quote,.market-chart{position:relative}.tradingview-widget-container[data-loading]::before{content:attr(data-loading);position:absolute;inset:0 0 30px;z-index:2;background:#f8fafc;display:grid;place-items:center;text-align:center;padding:30px;color:#53637a;font-size:12px;border-radius:5px;pointer-events:none}
+
+
+/* Editorial research brief and readable evidence boundaries. */
+:root{--blue:#294f64}
+.hero-meta,.eyebrow,.edition,.results-tag,.scenario-label,.data-summary span,.research-map span{letter-spacing:0;text-transform:none}
+.hero-meta{font-size:13px}.hero-meta a{text-decoration:underline;text-underline-offset:4px}
+.intro-grid{grid-template-columns:1.05fr 1fr;gap:64px;align-items:start}.intro-grid h1 em{color:#294f64}
+.intro-objective{max-width:32ch;color:#43515c}.intro-grid .btn-primary{margin-top:24px;background:#233e50;color:#fff}
+.study-brief{border-top:2px solid #294f64;padding-top:22px}.study-brief h2{font-size:20px;line-height:1.4;margin:0 0 18px;letter-spacing:-.02em}
+.study-brief dl{margin:0}.study-brief dl>div{border-bottom:1px solid #d7dde1;padding:15px 0}.study-brief dt{font-size:13px;font-weight:650;color:#263b49;margin-bottom:6px}.study-brief dd{margin:0;font-size:14px;line-height:1.65;color:#56616c}
+.source-boundary{border-left:2px solid #879ca8;padding:10px 18px;color:#495966;background:#f5f7f8;font-size:13px;line-height:1.7;max-width:920px;margin:0 0 34px}
+.macro-card{border-radius:4px}.macro-card small{display:block}.macro-card span,.macro-card small{font-size:11px}
+.scenario-label{font-size:12px}.research-map span{font-size:12px}.research-map strong{line-height:1.6}.intro-status{font-size:12px;line-height:1.6}
+.data-summary span{font-size:12px}.timing-results .results-tag{letter-spacing:0;font-size:12px}.timing-results .input-note,.matrix-empty{font-size:12px}.tool-boundary{font-size:12px;line-height:1.8}
+@media(max-width:760px){.intro-grid{grid-template-columns:1fr;gap:30px}.study-brief{padding-top:18px}.intro-grid h1{font-size:clamp(42px,11vw,58px)}.intro-status{font-size:12px}.source-boundary{font-size:12px}.hero-meta{font-size:12px}.research-map{overflow-wrap:anywhere}.timing-results .input-note{font-size:11px}}
