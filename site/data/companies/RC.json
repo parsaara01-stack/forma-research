@@ -3,9 +3,9 @@
   "source_ticker": "RC",
   "name": "READY CAPITAL",
   "group": "Financials",
-  "weight_percent": 0.01,
-  "holding_price": 1.04,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.0,
+  "holding_price": 0.93,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {

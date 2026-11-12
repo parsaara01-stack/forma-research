@@ -3,9 +3,9 @@
   "source_ticker": "FCFS",
   "name": "FIRSTCASH HOLDINGS INC",
   "group": "Financials",
-  "weight_percent": 0.26,
-  "holding_price": 187.83,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.25,
+  "holding_price": 184.0,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

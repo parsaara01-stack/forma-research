@@ -3,9 +3,9 @@
   "source_ticker": "STC",
   "name": "STEWART INFO SERVICES CORP",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 45.94,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.04,
+  "holding_price": 44.12,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

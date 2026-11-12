@@ -3,9 +3,9 @@
   "source_ticker": "VSTS",
   "name": "VESTIS",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 14.48,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.04,
+  "holding_price": 14.35,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

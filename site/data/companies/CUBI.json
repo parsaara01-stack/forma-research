@@ -4,8 +4,8 @@
   "name": "CUSTOMERS BANCORP",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 85.62,
-  "price_date": "2026-11-09",
+  "holding_price": 85.25,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

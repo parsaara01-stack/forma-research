@@ -3,9 +3,9 @@
   "source_ticker": "PLPC",
   "name": "PREFORMED LINE PRODUCTS",
   "group": "Industrials",
-  "weight_percent": 0.02,
-  "holding_price": 284.42,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.03,
+  "holding_price": 301.0,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

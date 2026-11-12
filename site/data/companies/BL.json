@@ -3,9 +3,9 @@
   "source_ticker": "BL",
   "name": "BLACKLINE",
   "group": "Information Technology",
-  "weight_percent": 0.04,
-  "holding_price": 26.97,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.05,
+  "holding_price": 27.42,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

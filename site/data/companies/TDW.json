@@ -3,9 +3,9 @@
   "source_ticker": "TDW",
   "name": "TIDEWATER",
   "group": "Energy",
-  "weight_percent": 0.12,
-  "holding_price": 71.06,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.13,
+  "holding_price": 78.91,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

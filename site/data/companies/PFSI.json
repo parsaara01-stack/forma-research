@@ -3,9 +3,9 @@
   "source_ticker": "PFSI",
   "name": "PENNYMAC FINANCIAL SERVICES",
   "group": "Financials",
-  "weight_percent": 0.07,
-  "holding_price": 66.44,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.06,
+  "holding_price": 62.36,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "CALIFORNIA WATER SERVICE GROUP",
   "group": "Utilities",
   "weight_percent": 0.1,
-  "holding_price": 50.16,
-  "price_date": "2026-11-09",
+  "holding_price": 49.67,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

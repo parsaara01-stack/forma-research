@@ -4,8 +4,8 @@
   "name": "ENERPAC TOOL GROUP CLASS A",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 40.75,
-  "price_date": "2026-11-09",
+  "holding_price": 39.45,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

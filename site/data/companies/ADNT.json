@@ -3,9 +3,9 @@
   "source_ticker": "ADNT",
   "name": "ADIENT PLC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.05,
-  "holding_price": 16.36,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.04,
+  "holding_price": 16.01,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

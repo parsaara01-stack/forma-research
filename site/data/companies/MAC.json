@@ -3,9 +3,9 @@
   "source_ticker": "MAC",
   "name": "MACERICH REIT",
   "group": "Real Estate",
-  "weight_percent": 0.24,
-  "holding_price": 25.29,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.25,
+  "holding_price": 25.38,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

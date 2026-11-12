@@ -3,9 +3,9 @@
   "source_ticker": "CURB",
   "name": "CURBLINE PROPERTIES",
   "group": "Real Estate",
-  "weight_percent": 0.11,
-  "holding_price": 29.73,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.1,
+  "holding_price": 29.25,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

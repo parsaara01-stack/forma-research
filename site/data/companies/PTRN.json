@@ -3,9 +3,9 @@
   "source_ticker": "PTRN",
   "name": "PATTERN GROUP SERIES A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.03,
-  "holding_price": 19.43,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.04,
+  "holding_price": 20.36,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

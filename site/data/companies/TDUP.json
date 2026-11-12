@@ -3,9 +3,9 @@
   "source_ticker": "TDUP",
   "name": "THREDUP CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.0,
-  "holding_price": 1.37,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.01,
+  "holding_price": 1.45,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "SIGI",
   "name": "SELECTIVE INSURANCE GROUP",
   "group": "Financials",
-  "weight_percent": 0.2,
-  "holding_price": 100.49,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.21,
+  "holding_price": 103.0,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

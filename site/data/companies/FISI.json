@@ -4,8 +4,8 @@
   "name": "FINANCIAL INSTITUTIONS INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 40.22,
-  "price_date": "2026-11-09",
+  "holding_price": 39.9,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

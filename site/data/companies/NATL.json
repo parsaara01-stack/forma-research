@@ -4,8 +4,8 @@
   "name": "NCR ATLEOS",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 47.91,
-  "price_date": "2026-11-09",
+  "holding_price": 48.2,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

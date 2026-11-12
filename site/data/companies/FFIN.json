@@ -3,9 +3,9 @@
   "source_ticker": "FFIN",
   "name": "FIRST FINANCIAL BANKSHARES INC",
   "group": "Financials",
-  "weight_percent": 0.14,
-  "holding_price": 30.76,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.13,
+  "holding_price": 30.34,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

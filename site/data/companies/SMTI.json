@@ -3,9 +3,9 @@
   "source_ticker": "SMTI",
   "name": "SANARA MEDTECH",
   "group": "Health Care",
-  "weight_percent": 0.01,
-  "holding_price": 32.1,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.0,
+  "holding_price": 31.61,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

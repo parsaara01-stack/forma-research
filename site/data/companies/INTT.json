@@ -3,9 +3,9 @@
   "source_ticker": "INTT",
   "name": "INTEST CORP",
   "group": "Information Technology",
-  "weight_percent": 0.0,
-  "holding_price": 13.66,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.01,
+  "holding_price": 14.49,
+  "price_date": "2026-11-11",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "RPC INC",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 5.26,
-  "price_date": "2026-11-09",
+  "holding_price": 5.6,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

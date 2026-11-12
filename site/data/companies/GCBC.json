@@ -1,11 +1,11 @@
 {
   "ticker": "GCBC",
   "source_ticker": "GCBC",
-  "name": "GREENE COUNTY BANCORP",
+  "name": "GREENE BANCORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 36.42,
-  "price_date": "2026-11-09",
+  "holding_price": 35.77,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

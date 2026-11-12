@@ -3,9 +3,9 @@
   "source_ticker": "MBC",
   "name": "MASTERBRAND",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 7.1,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.04,
+  "holding_price": 6.63,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "NOVT",
   "name": "NOVANTA",
   "group": "Information Technology",
-  "weight_percent": 0.18,
-  "holding_price": 145.98,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.15,
+  "holding_price": 123.31,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

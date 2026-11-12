@@ -3,9 +3,9 @@
   "source_ticker": "AMRC",
   "name": "AMERESCO INC CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.02,
-  "holding_price": 22.45,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.03,
+  "holding_price": 26.51,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

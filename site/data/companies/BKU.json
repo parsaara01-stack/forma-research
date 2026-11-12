@@ -4,8 +4,8 @@
   "name": "BANKUNITED",
   "group": "Financials",
   "weight_percent": 0.1,
-  "holding_price": 44.25,
-  "price_date": "2026-11-09",
+  "holding_price": 43.85,
+  "price_date": "2026-11-11",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

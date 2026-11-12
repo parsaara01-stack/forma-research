@@ -3,9 +3,9 @@
   "source_ticker": "MQ",
   "name": "MARQETA CLASS A",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 18.4,
-  "price_date": "2026-11-09",
+  "weight_percent": 0.06,
+  "holding_price": 18.51,
+  "price_date": "2026-11-11",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
