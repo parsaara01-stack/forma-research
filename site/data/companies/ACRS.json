@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-10",
+  "observation_cutoff": "2026-11-13",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001557746.json",
     "sha256": "21f84d6c0cc63ec88eef6cce659016f799f1b638e5ccac194bf19d282efa0b5d",
-    "retrieved_at": "2026-11-10T15:47:11.306481+00:00",
+    "retrieved_at": "2026-11-13T15:36:55.667042+00:00",
     "raw_path": "data/raw/21f84d6c0cc63ec88eef6cce659016f799f1b638e5ccac194bf19d282efa0b5d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926020540/0001104659-26-020540-index.html",

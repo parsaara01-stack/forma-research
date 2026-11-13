@@ -19690,18 +19690,14 @@
   "membership_note": "Fund positions differ from index constituents; official historical membership requires a licensed dated feed",
   "source_document": {
     "url": "https://www.ishares.com/us/products/239710/ishares-russell-2000-etf/latest-holdings.csv",
-    "sha256": "b565198dd225350887b4cdd805792b194f7b24fe35607f2e33851ca7c4283892",
-    "raw_path": "data/holdings/b565198dd225350887b4cdd805792b194f7b24fe35607f2e33851ca7c4283892.csv.gz",
-    "retrieved_at": "2026-11-12T16:04:22.609028+00:00"
+    "sha256": "e89bc75bbf5a0ad0335bb5ae33cefe28d58f9d5960821cd37dd5c86ae39d87fa",
+    "raw_path": "data/holdings/e89bc75bbf5a0ad0335bb5ae33cefe28d58f9d5960821cd37dd5c86ae39d87fa.csv.gz",
+    "retrieved_at": "2026-11-13T15:31:56.236854+00:00"
   },
   "changes": {
     "basis": "prior saved IWM snapshot",
-    "added": [
-      "QUIT"
-    ],
-    "removed": [
-      "ACHV"
-    ]
+    "added": [],
+    "removed": []
   },
   "sec_mapping": "Resolved independently by ticker against the SEC directory; unmatched companies stay visible"
 }

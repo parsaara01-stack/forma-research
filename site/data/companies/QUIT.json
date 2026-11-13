@@ -1,7 +1,4 @@
 {
-  "facts": {},
-  "metrics": {},
-  "observation_status": "missing",
   "ticker": "QUIT",
   "source_ticker": "QUIT",
   "name": "ACHIEVE LIFE SCIENCES",
@@ -9,5 +6,9 @@
   "weight_percent": 0.02,
   "holding_price": 6.45,
   "price_date": "2026-11-11",
-  "exchange": "NASDAQ"
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "QUIT absent from current SEC directory; review identity manually"
 }
