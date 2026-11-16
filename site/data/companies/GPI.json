@@ -3,9 +3,9 @@
   "source_ticker": "GPI",
   "name": "GROUP AUTOMOTIVE INC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.11,
-  "holding_price": 270.27,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.1,
+  "holding_price": 260.21,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

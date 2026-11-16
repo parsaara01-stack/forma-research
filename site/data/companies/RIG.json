@@ -3,9 +3,9 @@
   "source_ticker": "RIG",
   "name": "TRANSOCEAN",
   "group": "Energy",
-  "weight_percent": 0.17,
-  "holding_price": 5.31,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.19,
+  "holding_price": 5.54,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

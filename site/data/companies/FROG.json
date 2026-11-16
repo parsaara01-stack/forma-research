@@ -3,9 +3,9 @@
   "source_ticker": "FROG",
   "name": "JFROG",
   "group": "Information Technology",
-  "weight_percent": 0.4,
-  "holding_price": 109.51,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.42,
+  "holding_price": 113.6,
+  "price_date": "2026-11-13",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

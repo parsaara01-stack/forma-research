@@ -3,9 +3,9 @@
   "source_ticker": "ACHR",
   "name": "ARCHER AVIATION CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.11,
-  "holding_price": 4.86,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.09,
+  "holding_price": 4.03,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "OCEANFIRST FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 18.24,
-  "price_date": "2026-11-11",
+  "holding_price": 18.0,
+  "price_date": "2026-11-13",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

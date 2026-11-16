@@ -3,9 +3,9 @@
   "source_ticker": "AMPY",
   "name": "AMPLIFY ENERGY",
   "group": "Energy",
-  "weight_percent": 0.0,
-  "holding_price": 3.85,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.01,
+  "holding_price": 4.07,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

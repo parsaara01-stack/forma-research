@@ -4,8 +4,8 @@
   "name": "WSFS FINANCIAL",
   "group": "Financials",
   "weight_percent": 0.14,
-  "holding_price": 80.07,
-  "price_date": "2026-11-11",
+  "holding_price": 80.06,
+  "price_date": "2026-11-13",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

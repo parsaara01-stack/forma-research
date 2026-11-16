@@ -4,8 +4,8 @@
   "name": "ENERSYS",
   "group": "Industrials",
   "weight_percent": 0.18,
-  "holding_price": 147.65,
-  "price_date": "2026-11-11",
+  "holding_price": 143.0,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

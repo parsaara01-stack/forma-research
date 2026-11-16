@@ -3,9 +3,9 @@
   "source_ticker": "CBT",
   "name": "CABOT CORP",
   "group": "Materials",
-  "weight_percent": 0.12,
-  "holding_price": 72.23,
-  "price_date": "2026-11-11",
+  "weight_percent": 0.13,
+  "holding_price": 71.92,
+  "price_date": "2026-11-13",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
