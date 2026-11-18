@@ -3,9 +3,9 @@
   "source_ticker": "PCVX",
   "name": "VAXCYTE",
   "group": "Health Care",
-  "weight_percent": 0.3,
-  "holding_price": 63.37,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.29,
+  "holding_price": 61.61,
+  "price_date": "2026-11-16",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {

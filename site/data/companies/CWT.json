@@ -3,9 +3,9 @@
   "source_ticker": "CWT",
   "name": "CALIFORNIA WATER SERVICE GROUP",
   "group": "Utilities",
-  "weight_percent": 0.1,
-  "holding_price": 49.53,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.11,
+  "holding_price": 49.42,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "AAMI",
   "name": "ACADIAN ASSET MANAGEMENT",
   "group": "Financials",
-  "weight_percent": 0.1,
-  "holding_price": 94.98,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.09,
+  "holding_price": 89.72,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

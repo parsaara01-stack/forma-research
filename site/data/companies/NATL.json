@@ -3,9 +3,9 @@
   "source_ticker": "NATL",
   "name": "NCR ATLEOS",
   "group": "Financials",
-  "weight_percent": 0.12,
-  "holding_price": 48.23,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.13,
+  "holding_price": 48.2,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

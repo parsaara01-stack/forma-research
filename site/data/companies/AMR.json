@@ -3,9 +3,9 @@
   "source_ticker": "AMR",
   "name": "ALPHA METALLURGICAL RESOURCE",
   "group": "Materials",
-  "weight_percent": 0.06,
-  "holding_price": 153.86,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.05,
+  "holding_price": 141.46,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "NRC HEALTH",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 26.56,
-  "price_date": "2026-11-13",
+  "holding_price": 26.33,
+  "price_date": "2026-11-16",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

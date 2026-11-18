@@ -3,9 +3,9 @@
   "source_ticker": "OGS",
   "name": "ONE GAS",
   "group": "Utilities",
-  "weight_percent": 0.18,
-  "holding_price": 83.86,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.19,
+  "holding_price": 84.0,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "operating_income": {

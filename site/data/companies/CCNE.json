@@ -4,8 +4,8 @@
   "name": "CNB FINANCIAL CORP",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 35.6,
-  "price_date": "2026-11-13",
+  "holding_price": 35.24,
+  "price_date": "2026-11-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

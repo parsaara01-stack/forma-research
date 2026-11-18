@@ -3,9 +3,9 @@
   "source_ticker": "WHD",
   "name": "CACTUS CLASS A",
   "group": "Energy",
-  "weight_percent": 0.15,
-  "holding_price": 62.28,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.14,
+  "holding_price": 59.75,
+  "price_date": "2026-11-16",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

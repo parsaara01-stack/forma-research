@@ -4,8 +4,8 @@
   "name": "MERCANTILE BANK",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 61.25,
-  "price_date": "2026-11-13",
+  "holding_price": 60.54,
+  "price_date": "2026-11-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

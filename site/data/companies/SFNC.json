@@ -3,9 +3,9 @@
   "source_ticker": "SFNC",
   "name": "SIMMONS FIRST NATIONAL CLASS A",
   "group": "Financials",
-  "weight_percent": 0.11,
-  "holding_price": 23.46,
-  "price_date": "2026-11-13",
+  "weight_percent": 0.12,
+  "holding_price": 23.36,
+  "price_date": "2026-11-16",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
