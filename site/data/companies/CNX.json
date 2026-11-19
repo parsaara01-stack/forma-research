@@ -3,9 +3,9 @@
   "source_ticker": "CNX",
   "name": "CNX RESOURCES",
   "group": "Energy",
-  "weight_percent": 0.18,
-  "holding_price": 36.17,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.19,
+  "holding_price": 36.64,
+  "price_date": "2026-11-18",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "ENOV",
   "name": "ENOVIS CORP",
   "group": "Health Care",
-  "weight_percent": 0.06,
-  "holding_price": 27.92,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.05,
+  "holding_price": 27.1,
+  "price_date": "2026-11-18",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

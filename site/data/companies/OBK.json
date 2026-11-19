@@ -4,9 +4,9 @@
   "name": "ORIGIN BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 53.79,
-  "price_date": "2026-11-16",
-  "exchange": "NYSE",
+  "holding_price": 52.47,
+  "price_date": "2026-11-18",
+  "exchange": "TXE",
   "facts": {
     "net_income": {
       "value": 75197000,

@@ -3,9 +3,9 @@
   "source_ticker": "UPST",
   "name": "UPSTART HOLDINGS",
   "group": "Financials",
-  "weight_percent": 0.06,
-  "holding_price": 19.09,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.05,
+  "holding_price": 18.03,
+  "price_date": "2026-11-18",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

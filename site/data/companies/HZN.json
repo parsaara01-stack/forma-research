@@ -4,10 +4,10 @@
   "observation_status": "missing",
   "ticker": "HZN",
   "source_ticker": "HZN",
-  "name": "BRIGHT HORIZON ENERGY",
+  "name": "BRIGHT HORIZON ENERGY CORP",
   "group": "Utilities",
-  "weight_percent": 0.41,
-  "holding_price": 85.42,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.4,
+  "holding_price": 81.34,
+  "price_date": "2026-11-18",
   "exchange": "NYSE"
 }

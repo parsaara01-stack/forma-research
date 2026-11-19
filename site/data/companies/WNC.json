@@ -3,9 +3,9 @@
   "source_ticker": "WNC",
   "name": "WABASH NATIONAL",
   "group": "Industrials",
-  "weight_percent": 0.02,
-  "holding_price": 11.24,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.01,
+  "holding_price": 10.58,
+  "price_date": "2026-11-18",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

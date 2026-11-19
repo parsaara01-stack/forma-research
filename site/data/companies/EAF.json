@@ -3,9 +3,9 @@
   "source_ticker": "EAF",
   "name": "GRAFTECH INTERNATIONAL LTD",
   "group": "Industrials",
-  "weight_percent": 0.01,
-  "holding_price": 8.98,
-  "price_date": "2026-11-16",
+  "weight_percent": 0.0,
+  "holding_price": 8.23,
+  "price_date": "2026-11-18",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "COLONY BANKCORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 20.18,
-  "price_date": "2026-11-16",
+  "holding_price": 19.86,
+  "price_date": "2026-11-18",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
