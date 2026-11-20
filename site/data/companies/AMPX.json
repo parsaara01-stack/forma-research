@@ -4,8 +4,8 @@
   "name": "AMPRIUS TECHNOLOGIES INC",
   "group": "Industrials",
   "weight_percent": 0.03,
-  "holding_price": 6.73,
-  "price_date": "2026-11-18",
+  "holding_price": 6.4,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001899287.json",
     "sha256": "a7872816739322586050cc8e75dbb497907c45371ea5e07d511968ac6bc0a367",
-    "retrieved_at": "2026-11-17T17:01:37.786965+00:00",
+    "retrieved_at": "2026-11-20T16:19:54.868919+00:00",
     "raw_path": "data/raw/a7872816739322586050cc8e75dbb497907c45371ea5e07d511968ac6bc0a367.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000015/0001899287-26-000015-index.html",

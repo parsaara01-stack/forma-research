@@ -4,8 +4,8 @@
   "name": "NETSTREIT",
   "group": "Real Estate",
   "weight_percent": 0.06,
-  "holding_price": 18.55,
-  "price_date": "2026-11-18",
+  "holding_price": 18.49,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001798100.json",
     "sha256": "b08820c27e0e621b3933564f6fc34b5d9b9388c500d7a9e8d59e03ae11e6b7ee",
-    "retrieved_at": "2026-11-17T17:00:39.910790+00:00",
+    "retrieved_at": "2026-11-20T16:18:29.902838+00:00",
     "raw_path": "data/raw/b08820c27e0e621b3933564f6fc34b5d9b9388c500d7a9e8d59e03ae11e6b7ee.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1798100/000162828026006901/0001628280-26-006901-index.html",

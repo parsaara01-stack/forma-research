@@ -4,8 +4,8 @@
   "name": "SBC MEDICAL GROUP HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 6.27,
-  "price_date": "2026-11-18",
+  "holding_price": 5.6,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001930313.json",
     "sha256": "e719fdea987d7bb7643cbb2f41ad7ee6d067c8f269d4b12c6dac4b09ff49d8e0",
-    "retrieved_at": "2026-11-17T17:05:33.140335+00:00",
+    "retrieved_at": "2026-11-20T16:23:45.151947+00:00",
     "raw_path": "data/raw/e719fdea987d7bb7643cbb2f41ad7ee6d067c8f269d4b12c6dac4b09ff49d8e0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1930313/000119312526127557/0001193125-26-127557-index.html",

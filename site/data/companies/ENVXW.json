@@ -1,0 +1,14 @@
+{
+  "ticker": "ENVXW",
+  "source_ticker": "ENVXW",
+  "name": "ENOVIX CORPORATION EQUITY WARRANTS",
+  "group": "Industrials",
+  "weight_percent": 0.0,
+  "holding_price": 0.08,
+  "price_date": "2026-11-19",
+  "exchange": "NASDAQ",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "ENVXW absent from current SEC directory; review identity manually"
+}

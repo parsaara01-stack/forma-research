@@ -4,8 +4,8 @@
   "name": "SUTRO BIOPHARMA INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 8.5,
-  "price_date": "2026-11-18",
+  "holding_price": 8.72,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001382101.json",
     "sha256": "1dd8504599564db241ab4b243e65cd6e145f54b44bf7d64fb2a02af776d8ea2e",
-    "retrieved_at": "2026-11-17T17:05:26.585947+00:00",
+    "retrieved_at": "2026-11-20T16:23:30.866724+00:00",
     "raw_path": "data/raw/1dd8504599564db241ab4b243e65cd6e145f54b44bf7d64fb2a02af776d8ea2e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1382101/000119312526119873/0001193125-26-119873-index.html",

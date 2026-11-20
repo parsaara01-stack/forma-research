@@ -4,8 +4,8 @@
   "name": "GOODYEAR TIRE & RUBBER",
   "group": "Consumer Discretionary",
   "weight_percent": 0.04,
-  "holding_price": 3.69,
-  "price_date": "2026-11-18",
+  "holding_price": 3.61,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000042582.json",
     "sha256": "8ef89be37c9343bf5384dfdd9dca8ce3e4040361f29e2a014d04f53752b816b8",
-    "retrieved_at": "2026-11-17T17:01:28.135272+00:00",
+    "retrieved_at": "2026-11-20T16:19:33.470891+00:00",
     "raw_path": "data/raw/8ef89be37c9343bf5384dfdd9dca8ce3e4040361f29e2a014d04f53752b816b8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/42582/000162828026006708/0001628280-26-006708-index.html",

@@ -4,8 +4,8 @@
   "name": "XENIA HOTELS RESORTS REIT",
   "group": "Real Estate",
   "weight_percent": 0.07,
-  "holding_price": 22.14,
-  "price_date": "2026-11-18",
+  "holding_price": 21.77,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001616000.json",
     "sha256": "e9ae80d193b263f2dfc504f20fd56dbca2af1fe5da574361b1257a154464988b",
-    "retrieved_at": "2026-11-17T17:00:20.422418+00:00",
+    "retrieved_at": "2026-11-20T16:18:14.573740+00:00",
     "raw_path": "data/raw/e9ae80d193b263f2dfc504f20fd56dbca2af1fe5da574361b1257a154464988b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1616000/000162828026011060/0001628280-26-011060-index.html",

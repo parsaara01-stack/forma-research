@@ -4,8 +4,8 @@
   "name": "CORE LABORATORIES",
   "group": "Energy",
   "weight_percent": 0.01,
-  "holding_price": 8.45,
-  "price_date": "2026-11-18",
+  "holding_price": 8.4,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001958086.json",
     "sha256": "2724c4ce1e8690c1c224f5d16ceeeb550c17b755eef8c3361d005d75831a1890",
-    "retrieved_at": "2026-11-17T17:03:32.375118+00:00",
+    "retrieved_at": "2026-11-20T16:21:32.484551+00:00",
     "raw_path": "data/raw/2724c4ce1e8690c1c224f5d16ceeeb550c17b755eef8c3361d005d75831a1890.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1958086/000119312526118177/0001193125-26-118177-index.html",

@@ -4,8 +4,8 @@
   "name": "VAALCO ENERGY INC",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 5.03,
-  "price_date": "2026-11-18",
+  "holding_price": 4.93,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000894627.json",
     "sha256": "7d130010ca8884e9064de8127112af008affcecb96420ac88a400f211b9d6f07",
-    "retrieved_at": "2026-11-17T17:02:58.462758+00:00",
+    "retrieved_at": "2026-11-20T16:21:02.553309+00:00",
     "raw_path": "data/raw/7d130010ca8884e9064de8127112af008affcecb96420ac88a400f211b9d6f07.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/894627/000089462726000013/0000894627-26-000013-index.html",

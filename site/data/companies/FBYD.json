@@ -4,8 +4,8 @@
   "name": "FALCON S BEYOND GLOBAL INC CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 4.42,
-  "price_date": "2026-11-18",
+  "holding_price": 4.17,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001937987.json",
     "sha256": "15af6be12d618e309dae27ba81b51b332e1d8572ef2207090257c9d922a8f35e",
-    "retrieved_at": "2026-11-17T17:05:29.972645+00:00",
+    "retrieved_at": "2026-11-20T16:23:38.605736+00:00",
     "raw_path": "data/raw/15af6be12d618e309dae27ba81b51b332e1d8572ef2207090257c9d922a8f35e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1937987/000119312526131874/0001193125-26-131874-index.html",

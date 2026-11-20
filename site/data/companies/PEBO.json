@@ -4,8 +4,8 @@
   "name": "PEOPLES BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 37.7,
-  "price_date": "2026-11-18",
+  "holding_price": 37.16,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000318300.json",
     "sha256": "2e0b4da90487a395127fb3610a56746e9fc5a47a414391444c82cd1ab9641737",
-    "retrieved_at": "2026-11-17T17:01:09.666569+00:00",
+    "retrieved_at": "2026-11-20T16:19:06.222825+00:00",
     "raw_path": "data/raw/2e0b4da90487a395127fb3610a56746e9fc5a47a414391444c82cd1ab9641737.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000099/0000318300-26-000099-index.html",

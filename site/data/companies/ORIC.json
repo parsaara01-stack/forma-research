@@ -4,8 +4,8 @@
   "name": "ORIC PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 7.65,
-  "price_date": "2026-11-18",
+  "holding_price": 7.7,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001796280.json",
     "sha256": "f431c3ad5919ffe2e42aa15b4c07b711bd7cc788f81b369bf72429c103ab92ed",
-    "retrieved_at": "2026-11-17T17:02:56.034724+00:00",
+    "retrieved_at": "2026-11-20T16:20:50.008326+00:00",
     "raw_path": "data/raw/f431c3ad5919ffe2e42aa15b4c07b711bd7cc788f81b369bf72429c103ab92ed.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1796280/000119312526064005/0001193125-26-064005-index.html",

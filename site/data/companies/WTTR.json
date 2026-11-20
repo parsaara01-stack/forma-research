@@ -4,8 +4,8 @@
   "name": "SELECT WATER SOLUTIONS CLASS A",
   "group": "Energy",
   "weight_percent": 0.07,
-  "holding_price": 16.21,
-  "price_date": "2026-11-18",
+  "holding_price": 16.07,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001693256.json",
     "sha256": "0e268b3b11d65725e320435dd3e8b584dfca2a527a7871caa0ef2fab73886134",
-    "retrieved_at": "2026-11-17T17:00:30.475213+00:00",
+    "retrieved_at": "2026-11-20T16:18:25.239753+00:00",
     "raw_path": "data/raw/0e268b3b11d65725e320435dd3e8b584dfca2a527a7871caa0ef2fab73886134.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1693256/000110465926017085/0001104659-26-017085-index.html",

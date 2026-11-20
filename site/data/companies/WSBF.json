@@ -4,8 +4,8 @@
   "name": "WATERSTONE FINANCIAL INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 18.13,
-  "price_date": "2026-11-18",
+  "holding_price": 17.96,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001569994.json",
     "sha256": "46821f153af17000232f9a6ae74eb41a07a294863b9b835b2e62fa4538204eff",
-    "retrieved_at": "2026-11-17T17:04:10.745131+00:00",
+    "retrieved_at": "2026-11-20T16:22:11.915242+00:00",
     "raw_path": "data/raw/46821f153af17000232f9a6ae74eb41a07a294863b9b835b2e62fa4538204eff.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1569994/000143774926005853/0001437749-26-005853-index.html",

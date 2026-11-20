@@ -4,8 +4,8 @@
   "name": "READY CAPITAL",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 0.76,
-  "price_date": "2026-11-18",
+  "holding_price": 0.7,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "total_assets": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001527590.json",
     "sha256": "18711ed231b889c04db992ae87d18915eac2c79e609972fae30d26faaa3a6229",
-    "retrieved_at": "2026-11-17T17:05:38.144009+00:00",
+    "retrieved_at": "2026-11-20T16:23:44.281395+00:00",
     "raw_path": "data/raw/18711ed231b889c04db992ae87d18915eac2c79e609972fae30d26faaa3a6229.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1527590/000162828026013256/0001628280-26-013256-index.html",

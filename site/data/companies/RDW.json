@@ -3,9 +3,9 @@
   "source_ticker": "RDW",
   "name": "REDWIRE",
   "group": "Industrials",
-  "weight_percent": 0.06,
-  "holding_price": 6.82,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.05,
+  "holding_price": 6.51,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819810.json",
     "sha256": "db3ba26ac3ccd0c51b800211f9e5ea8a16a7adadea02e7b9aeb7e9cc393ec9f5",
-    "retrieved_at": "2026-11-17T17:00:38.332930+00:00",
+    "retrieved_at": "2026-11-20T16:18:49.723046+00:00",
     "raw_path": "data/raw/db3ba26ac3ccd0c51b800211f9e5ea8a16a7adadea02e7b9aeb7e9cc393ec9f5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/0001819810-26-000029-index.html",

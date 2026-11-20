@@ -4,8 +4,8 @@
   "name": "LIFEMD INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.7,
-  "price_date": "2026-11-18",
+  "holding_price": 1.6,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000948320.json",
     "sha256": "58ed1a47ee0ef9e94a32b1d174323ee8856a199ebf643a18bd1271dc8678086c",
-    "retrieved_at": "2026-11-17T17:05:58.451612+00:00",
+    "retrieved_at": "2026-11-20T16:24:04.973694+00:00",
     "raw_path": "data/raw/58ed1a47ee0ef9e94a32b1d174323ee8856a199ebf643a18bd1271dc8678086c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/948320/000149315226009549/0001493152-26-009549-index.html",

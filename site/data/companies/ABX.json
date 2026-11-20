@@ -4,8 +4,8 @@
   "name": "ABACUS GLOBAL MANAGEMENT CLASS A",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 7.15,
-  "price_date": "2026-11-18",
+  "holding_price": 6.53,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001814287.json",
     "sha256": "283adaeb19a3538e04841a53f2eef92a99cf8f5792c66e68810df11ee9702b07",
-    "retrieved_at": "2026-11-17T17:04:22.322466+00:00",
+    "retrieved_at": "2026-11-20T16:22:45.233266+00:00",
     "raw_path": "data/raw/283adaeb19a3538e04841a53f2eef92a99cf8f5792c66e68810df11ee9702b07.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1814287/000162828026017775/0001628280-26-017775-index.html",

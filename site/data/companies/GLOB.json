@@ -3,12 +3,12 @@
   "source_ticker": "GLOB",
   "name": "GLOBANT",
   "group": "Information Technology",
-  "weight_percent": 0.07,
-  "holding_price": 42.65,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.06,
+  "holding_price": 39.98,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

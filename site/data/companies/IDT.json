@@ -4,8 +4,8 @@
   "name": "IDT CLASS B",
   "group": "Communication",
   "weight_percent": 0.04,
-  "holding_price": 76.53,
-  "price_date": "2026-11-18",
+  "holding_price": 74.89,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001005731.json",
     "sha256": "6c0e5c3c7008147785908558c2f7d70bdf4bbbc82beab06c9ae5978fbf0dc900",
-    "retrieved_at": "2026-11-17T17:01:10.873869+00:00",
+    "retrieved_at": "2026-11-20T16:19:16.533238+00:00",
     "raw_path": "data/raw/6c0e5c3c7008147785908558c2f7d70bdf4bbbc82beab06c9ae5978fbf0dc900.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1005731/000143774926031469/0001437749-26-031469-index.html",

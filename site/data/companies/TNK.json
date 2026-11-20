@@ -3,12 +3,12 @@
   "source_ticker": "TNK",
   "name": "TEEKAY TANKERS LTD CLASS A",
   "group": "Energy",
-  "weight_percent": 0.07,
-  "holding_price": 85.82,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.08,
+  "holding_price": 86.31,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

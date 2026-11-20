@@ -3,9 +3,9 @@
   "source_ticker": "KGS",
   "name": "KODIAK GAS SERVICES INC",
   "group": "Energy",
-  "weight_percent": 0.15,
-  "holding_price": 42.78,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.16,
+  "holding_price": 42.69,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001767042.json",
     "sha256": "816d97d9d1e05cd1a2937e2f476394c45271291ee32735db0681f1d16e21ae93",
-    "retrieved_at": "2026-11-17T16:58:52.915842+00:00",
+    "retrieved_at": "2026-11-20T16:16:51.317674+00:00",
     "raw_path": "data/raw/816d97d9d1e05cd1a2937e2f476394c45271291ee32735db0681f1d16e21ae93.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000012/0001767042-26-000012-index.html",

@@ -4,8 +4,8 @@
   "name": "PUBLIC POLICY HOLDING INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 9.26,
-  "price_date": "2026-11-18",
+  "holding_price": 9.16,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001903508.json",
     "sha256": "dca403d152787ea8711505bf9a5c940dbf6fc1a197944e61cc39dffb0b4ae073",
-    "retrieved_at": "2026-11-17T17:05:08.893893+00:00",
+    "retrieved_at": "2026-11-20T16:23:11.275131+00:00",
     "raw_path": "data/raw/dca403d152787ea8711505bf9a5c940dbf6fc1a197944e61cc39dffb0b4ae073.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026022359/0001628280-26-022359-index.html",

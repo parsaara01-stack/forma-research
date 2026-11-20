@@ -3,9 +3,9 @@
   "source_ticker": "CNX",
   "name": "CNX RESOURCES",
   "group": "Energy",
-  "weight_percent": 0.19,
-  "holding_price": 36.64,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.18,
+  "holding_price": 35.14,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001070412.json",
     "sha256": "9e0afebebec3fc79fd11ce3d48cf3c241be1a57f050c13621824f5f25aebd02e",
-    "retrieved_at": "2026-11-17T16:58:41.413561+00:00",
+    "retrieved_at": "2026-11-20T16:16:38.499651+00:00",
     "raw_path": "data/raw/9e0afebebec3fc79fd11ce3d48cf3c241be1a57f050c13621824f5f25aebd02e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1070412/000107041226000038/0001070412-26-000038-index.html",

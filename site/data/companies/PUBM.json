@@ -4,8 +4,8 @@
   "name": "PUBMATIC CLASS A",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 20.67,
-  "price_date": "2026-11-18",
+  "holding_price": 19.8,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001422930.json",
     "sha256": "dfd201cacd2c3f148ed1326bb06920b37431a7199655f76ca959271c9ec12979",
-    "retrieved_at": "2026-11-17T17:02:15.098604+00:00",
+    "retrieved_at": "2026-11-20T16:20:12.881887+00:00",
     "raw_path": "data/raw/dfd201cacd2c3f148ed1326bb06920b37431a7199655f76ca959271c9ec12979.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1422930/000142293026000010/0001422930-26-000010-index.html",

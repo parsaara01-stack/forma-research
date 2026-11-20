@@ -4,8 +4,8 @@
   "name": "ESPEY MANUFACTURING AND ELECTRONIC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 41.11,
-  "price_date": "2026-11-18",
+  "holding_price": 39.0,
+  "price_date": "2026-11-19",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000033533.json",
     "sha256": "c87deeb9b2ff2d5866787936a1a3fca976850acbe34939f99c86a9e0b1753e14",
-    "retrieved_at": "2026-11-17T17:05:53.139487+00:00",
+    "retrieved_at": "2026-11-20T16:23:55.200710+00:00",
     "raw_path": "data/raw/c87deeb9b2ff2d5866787936a1a3fca976850acbe34939f99c86a9e0b1753e14.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/33533/000117494726000891/0001174947-26-000891-index.html",

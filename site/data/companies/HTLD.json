@@ -4,8 +4,8 @@
   "name": "HEARTLAND EXPRESS INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 10.26,
-  "price_date": "2026-11-18",
+  "holding_price": 10.13,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000799233.json",
     "sha256": "1f6bbb4ae7ea460173b0a29f54f4a8413d19075dc9ea3124ef30661ee0a4e006",
-    "retrieved_at": "2026-11-17T17:03:39.068194+00:00",
+    "retrieved_at": "2026-11-20T16:21:33.897846+00:00",
     "raw_path": "data/raw/1f6bbb4ae7ea460173b0a29f54f4a8413d19075dc9ea3124ef30661ee0a4e006.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/799233/000079923326000006/0000799233-26-000006-index.html",

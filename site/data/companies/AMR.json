@@ -4,8 +4,8 @@
   "name": "ALPHA METALLURGICAL RESOURCE",
   "group": "Materials",
   "weight_percent": 0.05,
-  "holding_price": 141.23,
-  "price_date": "2026-11-18",
+  "holding_price": 135.24,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001704715.json",
     "sha256": "34607050cfb4bf158d626e2b7e899211f1f7536dece8f48de029dec13dc96437",
-    "retrieved_at": "2026-11-17T17:00:49.661967+00:00",
+    "retrieved_at": "2026-11-20T16:18:56.986703+00:00",
     "raw_path": "data/raw/34607050cfb4bf158d626e2b7e899211f1f7536dece8f48de029dec13dc96437.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000010/0001704715-26-000010-index.html",

@@ -4,8 +4,8 @@
   "name": "PLAYBOY INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 1.29,
-  "price_date": "2026-11-18",
+  "holding_price": 1.17,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001803914.json",
     "sha256": "61f506b2e0884eceaa988f1eca93f24b04598910e0f65698d77cb4df27d4ae1b",
-    "retrieved_at": "2026-11-17T17:06:10.037181+00:00",
+    "retrieved_at": "2026-11-20T16:24:10.745436+00:00",
     "raw_path": "data/raw/61f506b2e0884eceaa988f1eca93f24b04598910e0f65698d77cb4df27d4ae1b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1803914/000162828026018238/0001628280-26-018238-index.html",

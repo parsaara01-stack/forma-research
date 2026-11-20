@@ -4,11 +4,11 @@
   "name": "YESWAY INC CLASS A",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 21.29,
-  "price_date": "2026-11-18",
+  "holding_price": 19.3,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

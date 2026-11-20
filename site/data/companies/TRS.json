@@ -4,8 +4,8 @@
   "name": "TRIMAS",
   "group": "Materials",
   "weight_percent": 0.04,
-  "holding_price": 37.96,
-  "price_date": "2026-11-18",
+  "holding_price": 37.72,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000842633.json",
     "sha256": "58f169807ffa56567a659f2e435cc3f721d864d4f850d55eb5c1587ffca2e0c2",
-    "retrieved_at": "2026-11-17T17:01:46.188751+00:00",
+    "retrieved_at": "2026-11-20T16:19:38.104797+00:00",
     "raw_path": "data/raw/58f169807ffa56567a659f2e435cc3f721d864d4f850d55eb5c1587ffca2e0c2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000012/0000842633-26-000012-index.html",

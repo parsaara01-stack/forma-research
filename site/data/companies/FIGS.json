@@ -4,8 +4,8 @@
   "name": "FIGS CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.07,
-  "holding_price": 21.4,
-  "price_date": "2026-11-18",
+  "holding_price": 20.32,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001846576.json",
     "sha256": "e4ada96f72eefc62190507a5505b5e8cb1884f3c6f13594244285cf02bbc9553",
-    "retrieved_at": "2026-11-17T17:00:18.957644+00:00",
+    "retrieved_at": "2026-11-20T16:18:21.066528+00:00",
     "raw_path": "data/raw/e4ada96f72eefc62190507a5505b5e8cb1884f3c6f13594244285cf02bbc9553.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1846576/000162828026012333/0001628280-26-012333-index.html",

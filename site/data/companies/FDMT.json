@@ -4,8 +4,8 @@
   "name": "4D MOLECULAR THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 10.46,
-  "price_date": "2026-11-18",
+  "holding_price": 10.72,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001650648.json",
     "sha256": "43a20a32abab8a6a9e2fea1e70bfdbc58065aaa4f266796e6156083c58ea77c7",
-    "retrieved_at": "2026-11-17T17:03:00.749099+00:00",
+    "retrieved_at": "2026-11-20T16:21:06.231106+00:00",
     "raw_path": "data/raw/43a20a32abab8a6a9e2fea1e70bfdbc58065aaa4f266796e6156083c58ea77c7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526114075/0001193125-26-114075-index.html",

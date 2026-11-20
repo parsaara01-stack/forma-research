@@ -4,11 +4,11 @@
   "name": "VERSIGENT PLC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.11,
-  "holding_price": 42.51,
-  "price_date": "2026-11-18",
+  "holding_price": 43.04,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

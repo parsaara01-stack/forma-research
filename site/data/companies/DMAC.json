@@ -4,8 +4,8 @@
   "name": "DIAMEDICA THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 8.59,
-  "price_date": "2026-11-18",
+  "holding_price": 8.02,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001401040.json",
     "sha256": "1af1927d5779e1955e381d20f001fa9d195d88f77d2bfb860935b4578e67fe97",
-    "retrieved_at": "2026-11-17T17:04:07.873117+00:00",
+    "retrieved_at": "2026-11-20T16:22:08.721178+00:00",
     "raw_path": "data/raw/1af1927d5779e1955e381d20f001fa9d195d88f77d2bfb860935b4578e67fe97.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926010342/0001437749-26-010342-index.html",

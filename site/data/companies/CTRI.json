@@ -4,8 +4,8 @@
   "name": "CENTURI HOLDINGS INC",
   "group": "Industrials",
   "weight_percent": 0.07,
-  "holding_price": 21.77,
-  "price_date": "2026-11-18",
+  "holding_price": 21.03,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001981599.json",
     "sha256": "1244bfdba82d29e6e3533109b0cc853db91906e316f2b2a3f6e180645e5ba0a6",
-    "retrieved_at": "2026-11-17T17:00:29.322368+00:00",
+    "retrieved_at": "2026-11-20T16:18:25.777054+00:00",
     "raw_path": "data/raw/1244bfdba82d29e6e3533109b0cc853db91906e316f2b2a3f6e180645e5ba0a6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1981599/000198159926000020/0001981599-26-000020-index.html",

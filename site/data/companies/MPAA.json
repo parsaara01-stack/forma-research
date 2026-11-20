@@ -4,8 +4,8 @@
   "name": "MOTORCAR PARTS OF AMERICA INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 7.48,
-  "price_date": "2026-11-18",
+  "holding_price": 7.38,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000918251.json",
     "sha256": "334c0f80cb9b5a755eb1ca104267430dbcbaa5a2afc6d8b2b1cddf683608cb28",
-    "retrieved_at": "2026-11-17T17:05:44.617203+00:00",
+    "retrieved_at": "2026-11-20T16:23:40.692088+00:00",
     "raw_path": "data/raw/334c0f80cb9b5a755eb1ca104267430dbcbaa5a2afc6d8b2b1cddf683608cb28.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/918251/000114036126024463/0001140361-26-024463-index.html",

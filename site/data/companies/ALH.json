@@ -4,8 +4,8 @@
   "name": "ALLIANCE LAUNDRY HOLDINGS",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 24.24,
-  "price_date": "2026-11-18",
+  "holding_price": 23.92,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001317685.json",
     "sha256": "53e665cc0946e583bcaf13f71dd8a894e236bb9836a620af78999066678f1468",
-    "retrieved_at": "2026-11-17T17:01:01.069845+00:00",
+    "retrieved_at": "2026-11-20T16:18:50.582159+00:00",
     "raw_path": "data/raw/53e665cc0946e583bcaf13f71dd8a894e236bb9836a620af78999066678f1468.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1317685/000131768526000011/0001317685-26-000011-index.html",

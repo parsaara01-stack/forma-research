@@ -4,8 +4,8 @@
   "name": "AMERICAN BATTERY TECHNOLOGY COMPAN",
   "group": "Materials",
   "weight_percent": 0.0,
-  "holding_price": 0.9,
-  "price_date": "2026-11-18",
+  "holding_price": 0.87,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576873.json",
     "sha256": "3ec544591259429f0f9aba5060398262d854d3bd9c5f89e76e0416ae089d6dcb",
-    "retrieved_at": "2026-11-17T17:05:24.331397+00:00",
+    "retrieved_at": "2026-11-20T16:23:36.364643+00:00",
     "raw_path": "data/raw/3ec544591259429f0f9aba5060398262d854d3bd9c5f89e76e0416ae089d6dcb.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1576873/000149315226042497/0001493152-26-042497-index.html",

@@ -3,9 +3,9 @@
   "source_ticker": "AX",
   "name": "AXOS FINANCIAL",
   "group": "Financials",
-  "weight_percent": 0.17,
-  "holding_price": 88.2,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.16,
+  "holding_price": 86.39,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001299709.json",
     "sha256": "a4917c3027aeb7ad5ea6fa896ca95f200371565930ef4de1e8b2afe03a361be5",
-    "retrieved_at": "2026-11-17T16:58:48.081890+00:00",
+    "retrieved_at": "2026-11-20T16:16:47.861445+00:00",
     "raw_path": "data/raw/a4917c3027aeb7ad5ea6fa896ca95f200371565930ef4de1e8b2afe03a361be5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1299709/000129970926000060/0001299709-26-000060-index.html",

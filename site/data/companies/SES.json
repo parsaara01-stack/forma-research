@@ -4,8 +4,8 @@
   "name": "SES AI CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 0.49,
-  "price_date": "2026-11-18",
+  "holding_price": 0.48,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001819142.json",
     "sha256": "265d9dc7847f5f1d1a90aa551fc4ee9f82e8ab8c3ad4ceccf0fc4b78f687ecdd",
-    "retrieved_at": "2026-11-17T17:05:33.203059+00:00",
+    "retrieved_at": "2026-11-20T16:23:34.373725+00:00",
     "raw_path": "data/raw/265d9dc7847f5f1d1a90aa551fc4ee9f82e8ab8c3ad4ceccf0fc4b78f687ecdd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000010/0001819142-26-000010-index.html",

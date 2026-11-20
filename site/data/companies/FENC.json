@@ -4,8 +4,8 @@
   "name": "FENNEC PHARMACEUTICALS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 13.33,
-  "price_date": "2026-11-18",
+  "holding_price": 13.45,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001211583.json",
     "sha256": "4eb3b1f6b6d9dc20c59bbf0625e80e0816dfae8a08205b9554ed5f2091285e9a",
-    "retrieved_at": "2026-11-17T17:04:01.839716+00:00",
+    "retrieved_at": "2026-11-20T16:21:33.594529+00:00",
     "raw_path": "data/raw/4eb3b1f6b6d9dc20c59bbf0625e80e0816dfae8a08205b9554ed5f2091285e9a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1211583/000110465926036182/0001104659-26-036182-index.html",

@@ -4,8 +4,8 @@
   "name": "COPT DEFENSE PROPERTIES",
   "group": "Real Estate",
   "weight_percent": 0.14,
-  "holding_price": 33.03,
-  "price_date": "2026-11-18",
+  "holding_price": 32.41,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000860546.json",
     "sha256": "94c7ab25c37bc6ef017cd583e24dd5b7acd6256a62ff6a60bc4b18175b6ccf46",
-    "retrieved_at": "2026-11-17T16:59:11.978641+00:00",
+    "retrieved_at": "2026-11-20T16:17:07.199134+00:00",
     "raw_path": "data/raw/94c7ab25c37bc6ef017cd583e24dd5b7acd6256a62ff6a60bc4b18175b6ccf46.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/860546/000086054626000011/0000860546-26-000011-index.html",

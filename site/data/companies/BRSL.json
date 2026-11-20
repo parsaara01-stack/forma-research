@@ -4,11 +4,11 @@
   "name": "BRIGHTSTAR LOTTERY PLC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.03,
-  "holding_price": 9.21,
-  "price_date": "2026-11-18",
+  "holding_price": 8.83,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

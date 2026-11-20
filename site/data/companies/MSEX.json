@@ -5,7 +5,7 @@
   "group": "Utilities",
   "weight_percent": 0.04,
   "holding_price": 56.47,
-  "price_date": "2026-11-18",
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000066004.json",
     "sha256": "1a242c0cd0924d289377cc59450cf81c5f830d153e6b2d5d40032500a5ca24a8",
-    "retrieved_at": "2026-11-17T17:01:43.267255+00:00",
+    "retrieved_at": "2026-11-20T16:19:36.219139+00:00",
     "raw_path": "data/raw/1a242c0cd0924d289377cc59450cf81c5f830d153e6b2d5d40032500a5ca24a8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/66004/000162828026009777/0001628280-26-009777-index.html",

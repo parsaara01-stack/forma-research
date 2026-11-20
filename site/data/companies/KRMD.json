@@ -4,8 +4,8 @@
   "name": "KORU MEDICAL SYSTEMS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 3.45,
-  "price_date": "2026-11-18",
+  "holding_price": 3.44,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000704440.json",
     "sha256": "866364a5fb745a7b03b183803632d77d01f4a99ddd110c25ff6ae5e7e19d3810",
-    "retrieved_at": "2026-11-17T17:05:16.549030+00:00",
+    "retrieved_at": "2026-11-20T16:23:18.216325+00:00",
     "raw_path": "data/raw/866364a5fb745a7b03b183803632d77d01f4a99ddd110c25ff6ae5e7e19d3810.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000052/0001161697-26-000052-index.html",

@@ -4,11 +4,11 @@
   "name": "YORK SPACE SYSTEMS INC",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 3.78,
-  "price_date": "2026-11-18",
+  "holding_price": 3.58,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-17"
+  "refresh_error": "No supported annual facts by 2026-11-20"
 }

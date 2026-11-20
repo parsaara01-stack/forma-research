@@ -4,8 +4,8 @@
   "name": "CADIZ INC",
   "group": "Utilities",
   "weight_percent": 0.01,
-  "holding_price": 3.72,
-  "price_date": "2026-11-18",
+  "holding_price": 3.6,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000727273.json",
     "sha256": "4df7744658357cecafca83874e75fd5d102a6e8129fca0ffeee57305d7296a53",
-    "retrieved_at": "2026-11-17T17:05:10.329773+00:00",
+    "retrieved_at": "2026-11-20T16:22:49.807852+00:00",
     "raw_path": "data/raw/4df7744658357cecafca83874e75fd5d102a6e8129fca0ffeee57305d7296a53.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/727273/000143774926010517/0001437749-26-010517-index.html",

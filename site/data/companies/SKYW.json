@@ -4,8 +4,8 @@
   "name": "SKYWEST",
   "group": "Industrials",
   "weight_percent": 0.11,
-  "holding_price": 80.97,
-  "price_date": "2026-11-18",
+  "holding_price": 79.63,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000793733.json",
     "sha256": "7f5a8787527b87d658c6c19ef4858d375b0e692c21b585a8690a17ea2a26bd59",
-    "retrieved_at": "2026-11-17T16:59:27.532479+00:00",
+    "retrieved_at": "2026-11-20T16:17:24.613918+00:00",
     "raw_path": "data/raw/7f5a8787527b87d658c6c19ef4858d375b0e692c21b585a8690a17ea2a26bd59.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/0001104659-26-016358-index.html",

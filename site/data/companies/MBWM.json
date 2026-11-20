@@ -4,8 +4,8 @@
   "name": "MERCANTILE BANK",
   "group": "Financials",
   "weight_percent": 0.04,
-  "holding_price": 59.06,
-  "price_date": "2026-11-18",
+  "holding_price": 58.53,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001042729.json",
     "sha256": "343f3060387d7e0f9e8de23d6b0f2deb0f73e5831ef2110ddee20a3cade1bf49",
-    "retrieved_at": "2026-11-17T17:01:36.644932+00:00",
+    "retrieved_at": "2026-11-20T16:19:33.091665+00:00",
     "raw_path": "data/raw/343f3060387d7e0f9e8de23d6b0f2deb0f73e5831ef2110ddee20a3cade1bf49.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1042729/000143774926005997/0001437749-26-005997-index.html",

@@ -4,8 +4,8 @@
   "name": "DNOW",
   "group": "Industrials",
   "weight_percent": 0.09,
-  "holding_price": 13.61,
-  "price_date": "2026-11-18",
+  "holding_price": 13.45,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001599617.json",
     "sha256": "f0ed6b19cba9fdfe3b6782daab0eee1bed6a8ad42f72d11337d22bf5eba22189",
-    "retrieved_at": "2026-11-17T16:59:58.645815+00:00",
+    "retrieved_at": "2026-11-20T16:17:54.504637+00:00",
     "raw_path": "data/raw/f0ed6b19cba9fdfe3b6782daab0eee1bed6a8ad42f72d11337d22bf5eba22189.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1599617/000119312526072828/0001193125-26-072828-index.html",

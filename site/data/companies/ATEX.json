@@ -4,8 +4,8 @@
   "name": "ANTERIX",
   "group": "Communication",
   "weight_percent": 0.03,
-  "holding_price": 79.88,
-  "price_date": "2026-11-18",
+  "holding_price": 76.27,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001304492.json",
     "sha256": "26ec3d8c895d90bbaceafd741d372110dee225eb857125d790f212422d96bfbd",
-    "retrieved_at": "2026-11-17T17:01:53.976341+00:00",
+    "retrieved_at": "2026-11-20T16:19:51.146750+00:00",
     "raw_path": "data/raw/26ec3d8c895d90bbaceafd741d372110dee225eb857125d790f212422d96bfbd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1304492/000130449226000027/0001304492-26-000027-index.html",

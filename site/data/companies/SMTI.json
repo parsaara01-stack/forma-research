@@ -4,8 +4,8 @@
   "name": "SANARA MEDTECH",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 32.73,
-  "price_date": "2026-11-18",
+  "holding_price": 32.67,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000714256.json",
     "sha256": "fafd120fcecd1f17b7d33ff487132ed930f84ff97cbe9de862de408398245c77",
-    "retrieved_at": "2026-11-17T17:05:21.438303+00:00",
+    "retrieved_at": "2026-11-20T16:23:16.953559+00:00",
     "raw_path": "data/raw/fafd120fcecd1f17b7d33ff487132ed930f84ff97cbe9de862de408398245c77.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/714256/000149315226012352/0001493152-26-012352-index.html",

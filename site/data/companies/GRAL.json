@@ -4,8 +4,8 @@
   "name": "GRAIL INC",
   "group": "Health Care",
   "weight_percent": 0.15,
-  "holding_price": 102.1,
-  "price_date": "2026-11-18",
+  "holding_price": 104.84,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001699031.json",
     "sha256": "9bd95730a030d6818c1e0f23f6c7d570d5ba8f35b2c66f571d41f7850716ca0f",
-    "retrieved_at": "2026-11-17T16:58:49.349144+00:00",
+    "retrieved_at": "2026-11-20T16:16:52.833601+00:00",
     "raw_path": "data/raw/9bd95730a030d6818c1e0f23f6c7d570d5ba8f35b2c66f571d41f7850716ca0f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026017319/0001628280-26-017319-index.html",

@@ -4,8 +4,8 @@
   "name": "SUPERNUS",
   "group": "Health Care",
   "weight_percent": 0.21,
-  "holding_price": 28.96,
-  "price_date": "2026-11-18",
+  "holding_price": 28.35,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001625297.json",
     "sha256": "ec2462c0285c39d2adc4523803369b981938ccd6be590d2367e9866d3fad7a5e",
-    "retrieved_at": "2026-11-17T16:58:33.400059+00:00",
+    "retrieved_at": "2026-11-20T16:16:31.430606+00:00",
     "raw_path": "data/raw/ec2462c0285c39d2adc4523803369b981938ccd6be590d2367e9866d3fad7a5e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1625297/000162828026012237/0001628280-26-012237-index.html",

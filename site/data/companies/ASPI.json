@@ -4,8 +4,8 @@
   "name": "ASP ISOTOPES",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 1.23,
-  "price_date": "2026-11-18",
+  "holding_price": 1.14,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001921865.json",
     "sha256": "08f2a1e0bcc8ce5957717a918db7f36a5531005749e39febd1d4f9c5803b0d12",
-    "retrieved_at": "2026-11-17T17:04:40.873080+00:00",
+    "retrieved_at": "2026-11-20T16:23:13.070079+00:00",
     "raw_path": "data/raw/08f2a1e0bcc8ce5957717a918db7f36a5531005749e39febd1d4f9c5803b0d12.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1921865/000119312526151294/0001193125-26-151294-index.html",

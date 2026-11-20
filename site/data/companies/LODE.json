@@ -4,8 +4,8 @@
   "name": "COMSTOCK INC",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 1.29,
-  "price_date": "2026-11-18",
+  "holding_price": 1.36,
+  "price_date": "2026-11-19",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001120970.json",
     "sha256": "a100c2ca959809f58da31e7e4d1799c1ac8317de25265e52f53b3813c0d44756",
-    "retrieved_at": "2026-11-17T17:05:48.765082+00:00",
+    "retrieved_at": "2026-11-20T16:23:44.955208+00:00",
     "raw_path": "data/raw/a100c2ca959809f58da31e7e4d1799c1ac8317de25265e52f53b3813c0d44756.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926009589/0001437749-26-009589-index.html",

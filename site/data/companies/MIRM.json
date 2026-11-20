@@ -3,9 +3,9 @@
   "source_ticker": "MIRM",
   "name": "MIRUM PHARMACEUTICALS",
   "group": "Health Care",
-  "weight_percent": 0.15,
-  "holding_price": 92.49,
-  "price_date": "2026-11-18",
+  "weight_percent": 0.16,
+  "holding_price": 95.51,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759425.json",
     "sha256": "420c52bf4ec69ceae8d95a2a1514d249b3adf71db27daaeec2377603100ca806",
-    "retrieved_at": "2026-11-17T16:58:54.774815+00:00",
+    "retrieved_at": "2026-11-20T16:16:48.869386+00:00",
     "raw_path": "data/raw/420c52bf4ec69ceae8d95a2a1514d249b3adf71db27daaeec2377603100ca806.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000013/0001759425-26-000013-index.html",

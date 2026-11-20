@@ -4,8 +4,8 @@
   "name": "BLACKLINE",
   "group": "Information Technology",
   "weight_percent": 0.04,
-  "holding_price": 24.68,
-  "price_date": "2026-11-18",
+  "holding_price": 24.54,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001666134.json",
     "sha256": "58fd740191668070446282ab106e7fad90cc0ecda6ea49be5168ce65ee0464a9",
-    "retrieved_at": "2026-11-17T17:01:04.908635+00:00",
+    "retrieved_at": "2026-11-20T16:19:19.191534+00:00",
     "raw_path": "data/raw/58fd740191668070446282ab106e7fad90cc0ecda6ea49be5168ce65ee0464a9.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1666134/000162828026011915/0001628280-26-011915-index.html",

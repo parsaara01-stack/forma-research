@@ -4,8 +4,8 @@
   "name": "IMMIX BIOPHARMA",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 7.11,
-  "price_date": "2026-11-18",
+  "holding_price": 7.04,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873835.json",
     "sha256": "dbcb003295b02f1f41108346650648d0bb72a6f43b5b0d55162679defd4c0fb0",
-    "retrieved_at": "2026-11-17T17:03:20.226817+00:00",
+    "retrieved_at": "2026-11-20T16:21:25.272304+00:00",
     "raw_path": "data/raw/dbcb003295b02f1f41108346650648d0bb72a6f43b5b0d55162679defd4c0fb0.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226012714/0001493152-26-012714-index.html",

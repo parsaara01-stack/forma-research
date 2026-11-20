@@ -4,8 +4,8 @@
   "name": "ALTO INGREDIENTS INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 3.33,
-  "price_date": "2026-11-18",
+  "holding_price": 3.08,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000778164.json",
     "sha256": "834561f2b57748c2e3cdef541ea560e48275ae47c91ee87dcc70141fd17b734e",
-    "retrieved_at": "2026-11-17T17:04:27.426624+00:00",
+    "retrieved_at": "2026-11-20T16:22:37.286126+00:00",
     "raw_path": "data/raw/834561f2b57748c2e3cdef541ea560e48275ae47c91ee87dcc70141fd17b734e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/778164/000121390026027687/0001213900-26-027687-index.html",

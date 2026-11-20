@@ -4,8 +4,8 @@
   "name": "AEBI SCHMIDT HOLDING AG",
   "group": "Industrials",
   "weight_percent": 0.01,
-  "holding_price": 9.83,
-  "price_date": "2026-11-18",
+  "holding_price": 9.47,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002048519.json",
     "sha256": "8892d9d14f6abc1b7880630f6964265e22789b791e37cb1ec4c7c5f748b10898",
-    "retrieved_at": "2026-11-17T17:03:45.966042+00:00",
+    "retrieved_at": "2026-11-20T16:21:49.075476+00:00",
     "raw_path": "data/raw/8892d9d14f6abc1b7880630f6964265e22789b791e37cb1ec4c7c5f748b10898.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2048519/000162828026019616/0001628280-26-019616-index.html",

@@ -4,8 +4,8 @@
   "name": "AGNT",
   "group": "Real Estate",
   "weight_percent": 0.01,
-  "holding_price": 2.61,
-  "price_date": "2026-11-18",
+  "holding_price": 2.52,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001495932.json",
-    "sha256": "ca4a928c7be5bedc6371d465ce127359636ef7216127d9f880a94997eea4f667",
-    "retrieved_at": "2026-11-17T17:04:25.626247+00:00",
-    "raw_path": "data/raw/ca4a928c7be5bedc6371d465ce127359636ef7216127d9f880a94997eea4f667.json.gz"
+    "sha256": "32109ebbe8f112318dec67a69d8ec8d5432ba626cda507492c717954d48b8f42",
+    "retrieved_at": "2026-11-20T16:22:32.324868+00:00",
+    "raw_path": "data/raw/32109ebbe8f112318dec67a69d8ec8d5432ba626cda507492c717954d48b8f42.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1495932/000110465926019145/0001104659-26-019145-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "EXTREME NETWORKS",
   "group": "Information Technology",
   "weight_percent": 0.12,
-  "holding_price": 26.83,
-  "price_date": "2026-11-18",
+  "holding_price": 26.65,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -271,11 +271,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001078271.json",
     "sha256": "8a4a591b50e1550ec2ffbf9ed93607700f6451cad1d920c436318394a7d0c7a2",
-    "retrieved_at": "2026-11-17T16:59:22.605984+00:00",
+    "retrieved_at": "2026-11-20T16:17:15.667863+00:00",
     "raw_path": "data/raw/8a4a591b50e1550ec2ffbf9ed93607700f6451cad1d920c436318394a7d0c7a2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526352872/0001193125-26-352872-index.html",

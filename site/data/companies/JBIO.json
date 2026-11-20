@@ -4,8 +4,8 @@
   "name": "JADE BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 15.49,
-  "price_date": "2026-11-18",
+  "holding_price": 15.06,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001798749.json",
     "sha256": "55f9610a1233f73b95d6aeb46c85053a85d60273699ab44318ab9bfdfaeaddd2",
-    "retrieved_at": "2026-11-17T17:02:44.659756+00:00",
+    "retrieved_at": "2026-11-20T16:20:44.276597+00:00",
     "raw_path": "data/raw/55f9610a1233f73b95d6aeb46c85053a85d60273699ab44318ab9bfdfaeaddd2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1798749/000119312526096550/0001193125-26-096550-index.html",

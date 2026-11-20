@@ -4,8 +4,8 @@
   "name": "PAMT CORP",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 12.39,
-  "price_date": "2026-11-18",
+  "holding_price": 11.99,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000798287.json",
     "sha256": "8eef60f3bd2a6b2c6b5f5cf46034fb9c679037de3f13deff4548f79e8953ae22",
-    "retrieved_at": "2026-11-17T17:06:01.443481+00:00",
+    "retrieved_at": "2026-11-20T16:24:03.780893+00:00",
     "raw_path": "data/raw/8eef60f3bd2a6b2c6b5f5cf46034fb9c679037de3f13deff4548f79e8953ae22.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/798287/000143774926007960/0001437749-26-007960-index.html",

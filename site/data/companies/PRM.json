@@ -4,8 +4,8 @@
   "name": "PERIMETER GROUP",
   "group": "Materials",
   "weight_percent": 0.16,
-  "holding_price": 29.45,
-  "price_date": "2026-11-18",
+  "holding_price": 29.3,
+  "price_date": "2026-11-19",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -319,11 +319,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001880319.json",
     "sha256": "fd1d0bb4e61e38e5a2aaf343bf996ad064949932bf3f30ddcf06c4b109022514",
-    "retrieved_at": "2026-11-17T16:58:55.057653+00:00",
+    "retrieved_at": "2026-11-20T16:16:50.187810+00:00",
     "raw_path": "data/raw/fd1d0bb4e61e38e5a2aaf343bf996ad064949932bf3f30ddcf06c4b109022514.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1880319/000188031926000013/0001880319-26-000013-index.html",

@@ -4,8 +4,8 @@
   "name": "SHIMMICK CORP",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 3.14,
-  "price_date": "2026-11-18",
+  "holding_price": 3.03,
+  "price_date": "2026-11-19",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-17",
+  "observation_cutoff": "2026-11-20",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001887944.json",
     "sha256": "82c43b1e815eeb7ad82b661c45645e37a3b1d753e0bab7c1996ff782bebda92a",
-    "retrieved_at": "2026-11-17T17:06:20.008035+00:00",
+    "retrieved_at": "2026-11-20T16:24:19.428564+00:00",
     "raw_path": "data/raw/82c43b1e815eeb7ad82b661c45645e37a3b1d753e0bab7c1996ff782bebda92a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526105064/0001193125-26-105064-index.html",
