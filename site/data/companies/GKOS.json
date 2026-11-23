@@ -3,9 +3,9 @@
   "source_ticker": "GKOS",
   "name": "GLAUKOS",
   "group": "Health Care",
-  "weight_percent": 0.49,
-  "holding_price": 238.1,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.5,
+  "holding_price": 237.31,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

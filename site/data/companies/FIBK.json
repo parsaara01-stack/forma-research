@@ -4,8 +4,8 @@
   "name": "FIRST INTERSTATE BANCSYSTEM",
   "group": "Financials",
   "weight_percent": 0.12,
-  "holding_price": 36.12,
-  "price_date": "2026-11-19",
+  "holding_price": 35.8,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

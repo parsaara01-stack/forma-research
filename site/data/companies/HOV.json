@@ -3,9 +3,9 @@
   "source_ticker": "HOV",
   "name": "HOVNANIAN ENTERPRISES CLASS A",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.01,
-  "holding_price": 89.44,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.02,
+  "holding_price": 89.1,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

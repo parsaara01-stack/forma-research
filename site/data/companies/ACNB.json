@@ -3,9 +3,9 @@
   "source_ticker": "ACNB",
   "name": "ACNB CORP",
   "group": "Financials",
-  "weight_percent": 0.02,
-  "holding_price": 64.93,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.03,
+  "holding_price": 64.98,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

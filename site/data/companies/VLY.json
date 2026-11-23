@@ -3,9 +3,9 @@
   "source_ticker": "VLY",
   "name": "VALLEY NATIONAL",
   "group": "Financials",
-  "weight_percent": 0.24,
-  "holding_price": 13.88,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.25,
+  "holding_price": 13.69,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

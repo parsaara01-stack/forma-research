@@ -4,8 +4,8 @@
   "name": "INSEEGO",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 3.39,
-  "price_date": "2026-11-19",
+  "holding_price": 3.0,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

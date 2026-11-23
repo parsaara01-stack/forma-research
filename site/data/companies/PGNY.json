@@ -3,9 +3,9 @@
   "source_ticker": "PGNY",
   "name": "PROGYNY",
   "group": "Health Care",
-  "weight_percent": 0.09,
-  "holding_price": 35.45,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.1,
+  "holding_price": 35.71,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

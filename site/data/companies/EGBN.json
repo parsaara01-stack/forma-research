@@ -3,9 +3,9 @@
   "source_ticker": "EGBN",
   "name": "EAGLE BANCORP",
   "group": "Financials",
-  "weight_percent": 0.03,
-  "holding_price": 32.98,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.04,
+  "holding_price": 32.66,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

@@ -4,8 +4,8 @@
   "name": "TRUSTMARK",
   "group": "Financials",
   "weight_percent": 0.09,
-  "holding_price": 44.44,
-  "price_date": "2026-11-19",
+  "holding_price": 43.58,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

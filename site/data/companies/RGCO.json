@@ -3,9 +3,9 @@
   "source_ticker": "RGCO",
   "name": "RGC RESOURCES INC",
   "group": "Utilities",
-  "weight_percent": 0.0,
-  "holding_price": 21.49,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.01,
+  "holding_price": 22.37,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

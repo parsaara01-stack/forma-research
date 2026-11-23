@@ -3,9 +3,9 @@
   "source_ticker": "NBHC",
   "name": "NATIONAL BANK HOLDINGS CORP CLASS",
   "group": "Financials",
-  "weight_percent": 0.05,
-  "holding_price": 36.39,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.06,
+  "holding_price": 35.82,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -4,8 +4,8 @@
   "name": "PLUG POWER",
   "group": "Industrials",
   "weight_percent": 0.05,
-  "holding_price": 1.03,
-  "price_date": "2026-11-19",
+  "holding_price": 0.96,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

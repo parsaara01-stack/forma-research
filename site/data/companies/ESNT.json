@@ -3,9 +3,9 @@
   "source_ticker": "ESNT",
   "name": "ESSENT GROUP",
   "group": "Financials",
-  "weight_percent": 0.2,
-  "holding_price": 63.79,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.21,
+  "holding_price": 64.42,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

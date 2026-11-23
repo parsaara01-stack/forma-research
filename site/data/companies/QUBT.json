@@ -3,9 +3,9 @@
   "source_ticker": "QUBT",
   "name": "QUANTUM COMPUTING",
   "group": "Information Technology",
-  "weight_percent": 0.04,
-  "holding_price": 4.88,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.03,
+  "holding_price": 4.4,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "HPP",
   "name": "HUDSON PACIFIC PROPERTIES REIT",
   "group": "Real Estate",
-  "weight_percent": 0.02,
-  "holding_price": 7.9,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.01,
+  "holding_price": 7.45,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

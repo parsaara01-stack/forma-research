@@ -3,9 +3,9 @@
   "source_ticker": "LUNR",
   "name": "INTUITIVE MACHINES INC CLASS A",
   "group": "Industrials",
-  "weight_percent": 0.05,
-  "holding_price": 9.78,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.04,
+  "holding_price": 8.78,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "DAVE",
   "name": "DAVE CLASS A",
   "group": "Financials",
-  "weight_percent": 0.09,
-  "holding_price": 237.57,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.08,
+  "holding_price": 228.39,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

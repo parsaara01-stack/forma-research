@@ -3,9 +3,9 @@
   "source_ticker": "INTA",
   "name": "INTAPP",
   "group": "Information Technology",
-  "weight_percent": 0.08,
-  "holding_price": 42.43,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.09,
+  "holding_price": 43.45,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

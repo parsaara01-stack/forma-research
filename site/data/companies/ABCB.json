@@ -3,9 +3,9 @@
   "source_ticker": "ABCB",
   "name": "AMERIS BANCORP",
   "group": "Financials",
-  "weight_percent": 0.18,
-  "holding_price": 80.65,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.19,
+  "holding_price": 79.56,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "net_income": {

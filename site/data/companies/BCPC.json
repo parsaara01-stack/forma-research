@@ -3,9 +3,9 @@
   "source_ticker": "BCPC",
   "name": "BALCHEM",
   "group": "Materials",
-  "weight_percent": 0.19,
-  "holding_price": 165.54,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.2,
+  "holding_price": 163.54,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

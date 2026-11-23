@@ -4,8 +4,8 @@
   "name": "TRUSTCO BANK CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 56.1,
-  "price_date": "2026-11-19",
+  "holding_price": 55.99,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

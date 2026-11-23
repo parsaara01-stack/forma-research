@@ -3,9 +3,9 @@
   "source_ticker": "TXNM",
   "name": "TXNM ENERGY INC",
   "group": "Utilities",
-  "weight_percent": 0.23,
-  "holding_price": 58.96,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.24,
+  "holding_price": 58.9,
+  "price_date": "2026-11-20",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

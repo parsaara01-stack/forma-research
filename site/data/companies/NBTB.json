@@ -3,9 +3,9 @@
   "source_ticker": "NBTB",
   "name": "NBT BANCORP",
   "group": "Financials",
-  "weight_percent": 0.09,
-  "holding_price": 50.79,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.1,
+  "holding_price": 50.43,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

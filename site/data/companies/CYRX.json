@@ -3,9 +3,9 @@
   "source_ticker": "CYRX",
   "name": "CRYOPORT",
   "group": "Health Care",
-  "weight_percent": 0.03,
-  "holding_price": 19.55,
-  "price_date": "2026-11-19",
+  "weight_percent": 0.04,
+  "holding_price": 19.05,
+  "price_date": "2026-11-20",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
