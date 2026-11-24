@@ -4,11 +4,11 @@
   "name": "BOBS DISCOUNT FURNITURE INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.02,
-  "holding_price": 19.82,
-  "price_date": "2026-11-20",
+  "holding_price": 20.39,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-20"
+  "refresh_error": "No supported annual facts by 2026-11-24"
 }

@@ -4,8 +4,8 @@
   "name": "CRANE NXT",
   "group": "Information Technology",
   "weight_percent": 0.09,
-  "holding_price": 51.05,
-  "price_date": "2026-11-20",
+  "holding_price": 52.58,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000025445.json",
     "sha256": "2046118b5ed328e00b6685ec8c3578380d6e10d3985756b30eb80108bfd99c64",
-    "retrieved_at": "2026-11-20T16:17:41.970482+00:00",
+    "retrieved_at": "2026-11-24T19:00:59.791180+00:00",
     "raw_path": "data/raw/2046118b5ed328e00b6685ec8c3578380d6e10d3985756b30eb80108bfd99c64.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/25445/000002544526000009/0000025445-26-000009-index.html",

@@ -4,8 +4,8 @@
   "name": "FLOTEK INDUSTRIES INC",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 21.67,
-  "price_date": "2026-11-20",
+  "holding_price": 23.0,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000928054.json",
     "sha256": "02d54316989841a1920f0e8b57437ddb8fac8af6fa82a33b78e519f6253f5674",
-    "retrieved_at": "2026-11-20T16:21:46.921634+00:00",
+    "retrieved_at": "2026-11-24T19:05:25.014612+00:00",
     "raw_path": "data/raw/02d54316989841a1920f0e8b57437ddb8fac8af6fa82a33b78e519f6253f5674.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/928054/000092805426000020/0000928054-26-000020-index.html",

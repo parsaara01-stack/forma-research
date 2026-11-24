@@ -4,8 +4,8 @@
   "name": "FVCBANKCORP INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 15.55,
-  "price_date": "2026-11-20",
+  "holding_price": 15.74,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001675644.json",
     "sha256": "b115aed0ce06a6bb649681713644ae3968fd4b498c0924d678e6eda659ed6028",
-    "retrieved_at": "2026-11-20T16:22:23.201891+00:00",
+    "retrieved_at": "2026-11-24T19:05:53.861013+00:00",
     "raw_path": "data/raw/b115aed0ce06a6bb649681713644ae3968fd4b498c0924d678e6eda659ed6028.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1675644/000167564426000017/0001675644-26-000017-index.html",

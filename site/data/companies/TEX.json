@@ -3,9 +3,9 @@
   "source_ticker": "TEX",
   "name": "TEREX",
   "group": "Industrials",
-  "weight_percent": 0.21,
-  "holding_price": 50.24,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.22,
+  "holding_price": 54.53,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000097216.json",
     "sha256": "5b096961c06a8138723adc7547021d15348fd0af3ffd790686d97f9581b35344",
-    "retrieved_at": "2026-11-20T16:16:30.076607+00:00",
+    "retrieved_at": "2026-11-24T18:59:23.340252+00:00",
     "raw_path": "data/raw/5b096961c06a8138723adc7547021d15348fd0af3ffd790686d97f9581b35344.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000035/0000097216-26-000035-index.html",

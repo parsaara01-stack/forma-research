@@ -4,8 +4,8 @@
   "name": "NEKTAR THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 30.2,
-  "price_date": "2026-11-20",
+  "holding_price": 31.72,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000906709.json",
     "sha256": "7836c41ae9c6df1a1f2f6833c3f7e35098d2008028f84aaf91b1e037a43ac643",
-    "retrieved_at": "2026-11-20T16:19:28.242759+00:00",
+    "retrieved_at": "2026-11-24T19:02:51.956240+00:00",
     "raw_path": "data/raw/7836c41ae9c6df1a1f2f6833c3f7e35098d2008028f84aaf91b1e037a43ac643.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/906709/000119312526104547/0001193125-26-104547-index.html",

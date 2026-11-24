@@ -4,8 +4,8 @@
   "name": "KEROS THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 11.08,
-  "price_date": "2026-11-20",
+  "holding_price": 11.79,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001664710.json",
     "sha256": "9bde5c60fc97536bf59a3a012a050225aeadd88dbc3b26271ff628d724644a3a",
-    "retrieved_at": "2026-11-20T16:22:46.481803+00:00",
+    "retrieved_at": "2026-11-24T19:06:16.184430+00:00",
     "raw_path": "data/raw/9bde5c60fc97536bf59a3a012a050225aeadd88dbc3b26271ff628d724644a3a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000018/0001664710-26-000018-index.html",

@@ -4,8 +4,8 @@
   "name": "RHINEBECK BANCORP INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 12.64,
-  "price_date": "2026-11-20",
+  "holding_price": 12.7,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001751783.json",
     "sha256": "0496735edc7b9e51aa3fa51333cdbde556f0f1874547c0d407647041d1a02449",
-    "retrieved_at": "2026-11-20T16:23:42.365879+00:00",
+    "retrieved_at": "2026-11-24T19:07:17.967425+00:00",
     "raw_path": "data/raw/0496735edc7b9e51aa3fa51333cdbde556f0f1874547c0d407647041d1a02449.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000005/0001751783-26-000005-index.html",

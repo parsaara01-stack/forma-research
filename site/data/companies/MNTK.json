@@ -4,8 +4,8 @@
   "name": "MONTAUK RENEWABLES INC",
   "group": "Utilities",
   "weight_percent": 0.0,
-  "holding_price": 1.14,
-  "price_date": "2026-11-20",
+  "holding_price": 1.2,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001826600.json",
     "sha256": "8dc2fd8b9b4e3b6c4a282f28c222e9a1cb3518812d03f75013d5d74eab9a45a1",
-    "retrieved_at": "2026-11-20T16:23:59.193336+00:00",
+    "retrieved_at": "2026-11-24T19:07:33.756546+00:00",
     "raw_path": "data/raw/8dc2fd8b9b4e3b6c4a282f28c222e9a1cb3518812d03f75013d5d74eab9a45a1.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1826600/000119312526102364/0001193125-26-102364-index.html",

@@ -4,8 +4,8 @@
   "name": "LEE ENTERPRISES INC",
   "group": "Communication",
   "weight_percent": 0.0,
-  "holding_price": 6.44,
-  "price_date": "2026-11-20",
+  "holding_price": 6.2,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000058361.json",
     "sha256": "f6526148ee2eb696e6132c29703de4139b8c9ddce7e7e68348bfc002640975ba",
-    "retrieved_at": "2026-11-20T16:24:18.919988+00:00",
+    "retrieved_at": "2026-11-24T19:07:54.134724+00:00",
     "raw_path": "data/raw/f6526148ee2eb696e6132c29703de4139b8c9ddce7e7e68348bfc002640975ba.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/58361/000005836125000040/0000058361-25-000040-index.html",

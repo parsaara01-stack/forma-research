@@ -4,8 +4,8 @@
   "name": "VISTA GOLD CORP",
   "group": "Materials",
   "weight_percent": 0.01,
-  "holding_price": 2.27,
-  "price_date": "2026-11-20",
+  "holding_price": 2.32,
+  "price_date": "2026-11-23",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000783324.json",
     "sha256": "b7f386d3b6bd4c3ddaa121fb2696999dd5f4b58bcca53cfdbe32a839f1ee74f6",
-    "retrieved_at": "2026-11-20T16:21:54.564738+00:00",
+    "retrieved_at": "2026-11-24T19:05:20.269516+00:00",
     "raw_path": "data/raw/b7f386d3b6bd4c3ddaa121fb2696999dd5f4b58bcca53cfdbe32a839f1ee74f6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/783324/000078332426000009/0000783324-26-000009-index.html",

@@ -4,8 +4,8 @@
   "name": "RPC INC",
   "group": "Energy",
   "weight_percent": 0.02,
-  "holding_price": 4.82,
-  "price_date": "2026-11-20",
+  "holding_price": 4.88,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000742278.json",
     "sha256": "0a8232fce1d65b9ef220690d387ca39278a32a6792f209f5ea3bbb324bddc35b",
-    "retrieved_at": "2026-11-20T16:20:58.707730+00:00",
+    "retrieved_at": "2026-11-24T19:04:30.895289+00:00",
     "raw_path": "data/raw/0a8232fce1d65b9ef220690d387ca39278a32a6792f209f5ea3bbb324bddc35b.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/742278/000110465926021480/0001104659-26-021480-index.html",

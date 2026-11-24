@@ -4,8 +4,8 @@
   "name": "PROFICIENT AUTO LOGISTICS",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 2.73,
-  "price_date": "2026-11-20",
+  "holding_price": 2.92,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001998768.json",
     "sha256": "c8fc6ce51d2db0ab6ca366bf30a75bfb9358a25d3c89ff8bb99c8ebf7379e923",
-    "retrieved_at": "2026-11-20T16:24:02.476821+00:00",
+    "retrieved_at": "2026-11-24T19:07:35.729379+00:00",
     "raw_path": "data/raw/c8fc6ce51d2db0ab6ca366bf30a75bfb9358a25d3c89ff8bb99c8ebf7379e923.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026036719/0001213900-26-036719-index.html",

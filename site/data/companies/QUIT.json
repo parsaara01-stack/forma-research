@@ -4,8 +4,8 @@
   "name": "ACHIEVE LIFE SCIENCES",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 5.56,
-  "price_date": "2026-11-20",
+  "holding_price": 5.86,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000949858.json",
     "sha256": "f46b0074316ba20d34713cbc53d24806598baaa985fb95bc182c8cb89ade984a",
-    "retrieved_at": "2026-11-20T16:21:14.157481+00:00",
+    "retrieved_at": "2026-11-24T19:04:43.762705+00:00",
     "raw_path": "data/raw/f46b0074316ba20d34713cbc53d24806598baaa985fb95bc182c8cb89ade984a.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526120690/0001193125-26-120690-index.html",

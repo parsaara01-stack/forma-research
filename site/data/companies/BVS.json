@@ -4,8 +4,8 @@
   "name": "BIOVENTUS CLASS A",
   "group": "Health Care",
   "weight_percent": 0.02,
-  "holding_price": 9.88,
-  "price_date": "2026-11-20",
+  "holding_price": 10.0,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001665988.json",
     "sha256": "cb4f7bdef0af0bfa9a9a63a5e3a5472f7ba5a9be4e2cc1321c7837ee6d29575c",
-    "retrieved_at": "2026-11-20T16:21:06.494217+00:00",
+    "retrieved_at": "2026-11-24T19:04:36.902601+00:00",
     "raw_path": "data/raw/cb4f7bdef0af0bfa9a9a63a5e3a5472f7ba5a9be4e2cc1321c7837ee6d29575c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1665988/000166598826000011/0001665988-26-000011-index.html",

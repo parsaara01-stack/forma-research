@@ -4,8 +4,8 @@
   "name": "EXPONENT",
   "group": "Industrials",
   "weight_percent": 0.16,
-  "holding_price": 89.16,
-  "price_date": "2026-11-20",
+  "holding_price": 89.77,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000851520.json",
     "sha256": "033fd2efa5dee84f66dc0dc79aa4eb7c9d9b7e3b16162e59211d635259f29c5c",
-    "retrieved_at": "2026-11-20T16:16:51.970849+00:00",
+    "retrieved_at": "2026-11-24T18:59:51.368838+00:00",
     "raw_path": "data/raw/033fd2efa5dee84f66dc0dc79aa4eb7c9d9b7e3b16162e59211d635259f29c5c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/851520/000119312526082508/0001193125-26-082508-index.html",

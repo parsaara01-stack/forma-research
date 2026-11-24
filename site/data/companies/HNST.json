@@ -3,9 +3,9 @@
   "source_ticker": "HNST",
   "name": "THE HONEST COMPANY",
   "group": "Consumer Staples",
-  "weight_percent": 0.02,
-  "holding_price": 4.44,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.01,
+  "holding_price": 4.4,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001530979.json",
     "sha256": "3bd1f96e4c356586d05997cf9277745a63a1b6ce89e571b9b0029abd279edbe4",
-    "retrieved_at": "2026-11-20T16:21:24.679038+00:00",
+    "retrieved_at": "2026-11-24T19:04:56.499359+00:00",
     "raw_path": "data/raw/3bd1f96e4c356586d05997cf9277745a63a1b6ce89e571b9b0029abd279edbe4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1530979/000162828026011634/0001628280-26-011634-index.html",

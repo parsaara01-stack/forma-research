@@ -4,8 +4,8 @@
   "name": "CAPRI HOLDINGS LTD",
   "group": "Consumer Discretionary",
   "weight_percent": 0.07,
-  "holding_price": 17.54,
-  "price_date": "2026-11-20",
+  "holding_price": 17.78,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001530721.json",
     "sha256": "744acf948282be7104371190933e94127606f758e582d0aae76a417ffd89ee0c",
-    "retrieved_at": "2026-11-20T16:18:11.793310+00:00",
+    "retrieved_at": "2026-11-24T19:01:31.055944+00:00",
     "raw_path": "data/raw/744acf948282be7104371190933e94127606f758e582d0aae76a417ffd89ee0c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000047/0001530721-26-000047-index.html",

@@ -4,8 +4,8 @@
   "name": "M TRON INDUSTRIES INC",
   "group": "Information Technology",
   "weight_percent": 0.01,
-  "holding_price": 63.24,
-  "price_date": "2026-11-20",
+  "holding_price": 67.33,
+  "price_date": "2026-11-23",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001902314.json",
     "sha256": "b22db6119269795dd2fc0828e52481f991339039064c255b5f9db056a9447d9c",
-    "retrieved_at": "2026-11-20T16:22:11.998847+00:00",
+    "retrieved_at": "2026-11-24T19:05:41.068239+00:00",
     "raw_path": "data/raw/b22db6119269795dd2fc0828e52481f991339039064c255b5f9db056a9447d9c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1902314/000143774926009844/0001437749-26-009844-index.html",

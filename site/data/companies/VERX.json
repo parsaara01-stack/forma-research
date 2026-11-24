@@ -4,8 +4,8 @@
   "name": "VERTEX CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.05,
-  "holding_price": 17.23,
-  "price_date": "2026-11-20",
+  "holding_price": 17.92,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001806837.json",
     "sha256": "bba25089ad0e38044084c43084c6db28909110ecc461a8ee3dedfe85de58b103",
-    "retrieved_at": "2026-11-20T16:19:13.373395+00:00",
+    "retrieved_at": "2026-11-24T19:02:31.674893+00:00",
     "raw_path": "data/raw/bba25089ad0e38044084c43084c6db28909110ecc461a8ee3dedfe85de58b103.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1806837/000110465926019165/0001104659-26-019165-index.html",

@@ -4,8 +4,8 @@
   "name": "IDEAYA BIOSCIENCES",
   "group": "Health Care",
   "weight_percent": 0.09,
-  "holding_price": 25.56,
-  "price_date": "2026-11-20",
+  "holding_price": 26.97,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001676725.json",
     "sha256": "1bbb9f164ef75fa4650a045c18333a81ae023e0bea2cb6290b5cee0801f2a930",
-    "retrieved_at": "2026-11-20T16:17:59.751025+00:00",
+    "retrieved_at": "2026-11-24T19:01:07.539454+00:00",
     "raw_path": "data/raw/1bbb9f164ef75fa4650a045c18333a81ae023e0bea2cb6290b5cee0801f2a930.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1676725/000119312526054533/0001193125-26-054533-index.html",

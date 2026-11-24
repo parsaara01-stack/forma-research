@@ -3,9 +3,9 @@
   "source_ticker": "CLVT",
   "name": "CLARIVATE PLC",
   "group": "Industrials",
-  "weight_percent": 0.03,
-  "holding_price": 2.01,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.02,
+  "holding_price": 1.95,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001764046.json",
     "sha256": "b147c6e2126ceb5777dcbc6feb35d8817bd91d55a5bf0b04256486c1f16204ae",
-    "retrieved_at": "2026-11-20T16:20:22.873942+00:00",
+    "retrieved_at": "2026-11-24T19:03:56.529793+00:00",
     "raw_path": "data/raw/b147c6e2126ceb5777dcbc6feb35d8817bd91d55a5bf0b04256486c1f16204ae.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1764046/000176404626000019/0001764046-26-000019-index.html",

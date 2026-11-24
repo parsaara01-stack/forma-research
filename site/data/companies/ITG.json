@@ -4,11 +4,11 @@
   "name": "ITG CLASS A INC",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 5.53,
-  "price_date": "2026-11-20",
+  "holding_price": 5.77,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-20"
+  "refresh_error": "No supported annual facts by 2026-11-24"
 }

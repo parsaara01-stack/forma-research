@@ -4,8 +4,8 @@
   "name": "JEFFERSON CAPITAL INC",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 20.72,
-  "price_date": "2026-11-20",
+  "holding_price": 21.24,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002046042.json",
     "sha256": "13e57506f60a0a88198b3e1e78189d5ecfc852a5d436f8efd497211709c327de",
-    "retrieved_at": "2026-11-20T16:21:12.492770+00:00",
+    "retrieved_at": "2026-11-24T19:04:39.449688+00:00",
     "raw_path": "data/raw/13e57506f60a0a88198b3e1e78189d5ecfc852a5d436f8efd497211709c327de.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2046042/000110465926027199/0001104659-26-027199-index.html",

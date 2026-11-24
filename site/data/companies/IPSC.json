@@ -3,9 +3,9 @@
   "source_ticker": "IPSC",
   "name": "CENTURY THERAPEUTICS",
   "group": "Health Care",
-  "weight_percent": 0.0,
-  "holding_price": 1.17,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.01,
+  "holding_price": 1.32,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001850119.json",
     "sha256": "7a2a7d778d3b379b4d483523399154e18fb89efcf29f1af9a1d5b6415c6d51ec",
-    "retrieved_at": "2026-11-20T16:23:16.250076+00:00",
+    "retrieved_at": "2026-11-24T19:06:48.826106+00:00",
     "raw_path": "data/raw/7a2a7d778d3b379b4d483523399154e18fb89efcf29f1af9a1d5b6415c6d51ec.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926026759/0001104659-26-026759-index.html",

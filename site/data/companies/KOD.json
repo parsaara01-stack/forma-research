@@ -3,9 +3,9 @@
   "source_ticker": "KOD",
   "name": "KODIAK SCIENCES",
   "group": "Health Care",
-  "weight_percent": 0.14,
-  "holding_price": 97.17,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.15,
+  "holding_price": 105.53,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001468748.json",
     "sha256": "545d7ce673d34ba6358b85ab238cb2fb3665195f0954c68d096a4aff05ea1417",
-    "retrieved_at": "2026-11-20T16:17:05.754977+00:00",
+    "retrieved_at": "2026-11-24T18:59:58.437755+00:00",
     "raw_path": "data/raw/545d7ce673d34ba6358b85ab238cb2fb3665195f0954c68d096a4aff05ea1417.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526134887/0001193125-26-134887-index.html",

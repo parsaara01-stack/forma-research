@@ -4,8 +4,8 @@
   "name": "BRC GROUP HOLDINGS INC",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 2.81,
-  "price_date": "2026-11-20",
+  "holding_price": 2.89,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001464790.json",
     "sha256": "5547a33920e5f6d48d556f59719a36120da0a76776cde51ff0974b464c7046e4",
-    "retrieved_at": "2026-11-20T16:23:51.975939+00:00",
+    "retrieved_at": "2026-11-24T19:07:27.173901+00:00",
     "raw_path": "data/raw/5547a33920e5f6d48d556f59719a36120da0a76776cde51ff0974b464c7046e4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1464790/000146479026000024/0001464790-26-000024-index.html",

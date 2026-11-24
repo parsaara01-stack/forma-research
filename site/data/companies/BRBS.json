@@ -4,8 +4,8 @@
   "name": "BLUE RIDGE BANKSHARES INC",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 3.86,
-  "price_date": "2026-11-20",
+  "holding_price": 3.9,
+  "price_date": "2026-11-23",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "net_income": {
@@ -127,11 +127,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000842717.json",
     "sha256": "85c900110afe71b0f0ecdf9d7f4bde36a1c034d0431b29f37752214769542303",
-    "retrieved_at": "2026-11-20T16:22:22.493097+00:00",
+    "retrieved_at": "2026-11-24T19:05:53.559974+00:00",
     "raw_path": "data/raw/85c900110afe71b0f0ecdf9d7f4bde36a1c034d0431b29f37752214769542303.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/842717/000119312526104410/0001193125-26-104410-index.html",

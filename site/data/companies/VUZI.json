@@ -4,8 +4,8 @@
   "name": "VUZIX CORP",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 1.09,
-  "price_date": "2026-11-20",
+  "holding_price": 1.2,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001463972.json",
     "sha256": "50175009cc9f3ae16eae30681350bd009991d7d6c71c151c5caa57125cd60caa",
-    "retrieved_at": "2026-11-20T16:23:58.051026+00:00",
+    "retrieved_at": "2026-11-24T19:07:33.125076+00:00",
     "raw_path": "data/raw/50175009cc9f3ae16eae30681350bd009991d7d6c71c151c5caa57125cd60caa.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926027163/0001104659-26-027163-index.html",

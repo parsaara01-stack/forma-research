@@ -4,8 +4,8 @@
   "name": "AMBARELLA",
   "group": "Information Technology",
   "weight_percent": 0.08,
-  "holding_price": 53.07,
-  "price_date": "2026-11-20",
+  "holding_price": 55.56,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001280263.json",
     "sha256": "1ec9a6f069a7cb041f1651cfd792fbf4ff885c154527bf2e35e3515e5d332655",
-    "retrieved_at": "2026-11-20T16:17:52.576835+00:00",
+    "retrieved_at": "2026-11-24T19:01:13.180901+00:00",
     "raw_path": "data/raw/1ec9a6f069a7cb041f1651cfd792fbf4ff885c154527bf2e35e3515e5d332655.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1280263/000119312526119321/0001193125-26-119321-index.html",

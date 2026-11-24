@@ -4,11 +4,11 @@
   "name": "BOOST RUN INC CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 3.56,
-  "price_date": "2026-11-20",
+  "holding_price": 4.18,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-20"
+  "refresh_error": "No supported annual facts by 2026-11-24"
 }

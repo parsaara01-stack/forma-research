@@ -3,9 +3,9 @@
   "source_ticker": "DCH",
   "name": "DAUCH CORPORATION",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.03,
-  "holding_price": 3.73,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.04,
+  "holding_price": 4.03,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -343,11 +343,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001062231.json",
     "sha256": "c05bd00f693988f18fb201eff590a391e1ed1cf97f464510689443c22861c253",
-    "retrieved_at": "2026-11-20T16:19:42.301539+00:00",
+    "retrieved_at": "2026-11-24T19:03:05.251744+00:00",
     "raw_path": "data/raw/c05bd00f693988f18fb201eff590a391e1ed1cf97f464510689443c22861c253.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1062231/000106223126000020/0001062231-26-000020-index.html",

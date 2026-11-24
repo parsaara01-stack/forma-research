@@ -4,8 +4,8 @@
   "name": "UNICYCIVE THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 3.35,
-  "price_date": "2026-11-20",
+  "holding_price": 3.61,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001766140.json",
     "sha256": "f1d0ae8dec6b17314f5e8ce31fa76a2daeb8b1d6f0e1feee8101a6d631543c8d",
-    "retrieved_at": "2026-11-20T16:23:54.668427+00:00",
+    "retrieved_at": "2026-11-24T19:07:27.133674+00:00",
     "raw_path": "data/raw/f1d0ae8dec6b17314f5e8ce31fa76a2daeb8b1d6f0e1feee8101a6d631543c8d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1766140/000121390026035903/0001213900-26-035903-index.html",

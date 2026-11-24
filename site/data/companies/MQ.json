@@ -4,8 +4,8 @@
   "name": "MARQETA CLASS A",
   "group": "Financials",
   "weight_percent": 0.05,
-  "holding_price": 16.24,
-  "price_date": "2026-11-20",
+  "holding_price": 16.94,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001522540.json",
     "sha256": "bff5f98647f3e915be1851d8c6c799ec5f6c041e3cb1c51b54730c0009035efd",
-    "retrieved_at": "2026-11-20T16:18:54.859361+00:00",
+    "retrieved_at": "2026-11-24T19:02:12.340874+00:00",
     "raw_path": "data/raw/bff5f98647f3e915be1851d8c6c799ec5f6c041e3cb1c51b54730c0009035efd.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/0001522540-26-000017-index.html",

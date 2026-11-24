@@ -3,9 +3,9 @@
   "source_ticker": "BLZE",
   "name": "BACKBLAZE INC CLASS A",
   "group": "Information Technology",
-  "weight_percent": 0.01,
-  "holding_price": 6.44,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.02,
+  "holding_price": 7.68,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001462056.json",
     "sha256": "602f96a02698d3ddedfc665a47ea0197c34cce21407ff3f9ea67dbd367b6477d",
-    "retrieved_at": "2026-11-20T16:21:22.778738+00:00",
+    "retrieved_at": "2026-11-24T19:04:42.702690+00:00",
     "raw_path": "data/raw/602f96a02698d3ddedfc665a47ea0197c34cce21407ff3f9ea67dbd367b6477d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1462056/000162828026016395/0001628280-26-016395-index.html",

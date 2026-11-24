@@ -4,8 +4,8 @@
   "name": "CRACKER BARREL OLD COUNTRY STORE I",
   "group": "Consumer Discretionary",
   "weight_percent": 0.06,
-  "holding_price": 70.75,
-  "price_date": "2026-11-20",
+  "holding_price": 74.82,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001067294.json",
     "sha256": "12d5f039b9f32f7b079d7ed840a12fcddbe90ff2fc42eb314189d46f40a3d124",
-    "retrieved_at": "2026-11-20T16:18:41.082800+00:00",
+    "retrieved_at": "2026-11-24T19:01:53.859104+00:00",
     "raw_path": "data/raw/12d5f039b9f32f7b079d7ed840a12fcddbe90ff2fc42eb314189d46f40a3d124.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1067294/000110465926110772/0001104659-26-110772-index.html",

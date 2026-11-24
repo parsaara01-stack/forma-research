@@ -4,8 +4,8 @@
   "name": "HNI",
   "group": "Industrials",
   "weight_percent": 0.13,
-  "holding_price": 47.82,
-  "price_date": "2026-11-20",
+  "holding_price": 49.21,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000048287.json",
     "sha256": "03edbd966ef68d75ddc415181c4640ae8e24d1cdc8b3f75e784ca429f114cdc7",
-    "retrieved_at": "2026-11-20T16:17:14.516615+00:00",
+    "retrieved_at": "2026-11-24T19:00:15.674306+00:00",
     "raw_path": "data/raw/03edbd966ef68d75ddc415181c4640ae8e24d1cdc8b3f75e784ca429f114cdc7.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/48287/000004828726000084/0000048287-26-000084-index.html",

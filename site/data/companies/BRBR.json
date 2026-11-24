@@ -4,8 +4,8 @@
   "name": "BELLRING BRANDS",
   "group": "Consumer Staples",
   "weight_percent": 0.06,
-  "holding_price": 14.57,
-  "price_date": "2026-11-20",
+  "holding_price": 15.22,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001772016.json",
     "sha256": "648d12f7fda98eb827a385129eee2d9dbc8382a2647c704009c70fee2163dd51",
-    "retrieved_at": "2026-11-20T16:18:29.201474+00:00",
+    "retrieved_at": "2026-11-24T19:01:47.091535+00:00",
     "raw_path": "data/raw/648d12f7fda98eb827a385129eee2d9dbc8382a2647c704009c70fee2163dd51.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1772016/000177201626000027/0001772016-26-000027-index.html",

@@ -4,11 +4,11 @@
   "name": "SUPER GROUP LTD",
   "group": "Consumer Discretionary",
   "weight_percent": 0.06,
-  "holding_price": 10.25,
-  "price_date": "2026-11-20",
+  "holding_price": 10.41,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-20"
+  "refresh_error": "No supported annual facts by 2026-11-24"
 }

@@ -3,9 +3,9 @@
   "source_ticker": "ADNT",
   "name": "ADIENT PLC",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.04,
-  "holding_price": 14.48,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.05,
+  "holding_price": 15.29,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -259,11 +259,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001670541.json",
     "sha256": "dfe70856c291bd0f1a69e73865d59bb66d8e37f75c4eee11ed2cc20f44a8de13",
-    "retrieved_at": "2026-11-20T16:19:14.892104+00:00",
+    "retrieved_at": "2026-11-24T19:02:36.602300+00:00",
     "raw_path": "data/raw/dfe70856c291bd0f1a69e73865d59bb66d8e37f75c4eee11ed2cc20f44a8de13.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1670541/000167054126000122/0001670541-26-000122-index.html",

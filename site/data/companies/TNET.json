@@ -3,9 +3,9 @@
   "source_ticker": "TNET",
   "name": "TRINET GROUPINARY",
   "group": "Industrials",
-  "weight_percent": 0.07,
-  "holding_price": 63.06,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.06,
+  "holding_price": 62.97,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000937098.json",
     "sha256": "3a029911694b684dcee473a0b99024c4321a8a56dc7402501023799270c244bf",
-    "retrieved_at": "2026-11-20T16:18:31.422321+00:00",
+    "retrieved_at": "2026-11-24T19:01:49.926970+00:00",
     "raw_path": "data/raw/3a029911694b684dcee473a0b99024c4321a8a56dc7402501023799270c244bf.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/937098/000093709826000010/0000937098-26-000010-index.html",

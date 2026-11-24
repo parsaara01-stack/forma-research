@@ -4,8 +4,8 @@
   "name": "VENU HOLDING CORP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.0,
-  "holding_price": 0.99,
-  "price_date": "2026-11-20",
+  "holding_price": 1.09,
+  "price_date": "2026-11-23",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "revenue": {
@@ -295,12 +295,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001770501.json",
-    "sha256": "63f886bed10c73459feef40c40a541fe02194a836ed3248971e5425627b2fcd5",
-    "retrieved_at": "2026-11-20T16:24:14.334553+00:00",
-    "raw_path": "data/raw/63f886bed10c73459feef40c40a541fe02194a836ed3248971e5425627b2fcd5.json.gz"
+    "sha256": "fdd112451d2419013ae4e89b30c68dc9bca7da8aa043ad3f7f576e4a40d8a4f6",
+    "retrieved_at": "2026-11-24T19:07:48.156372+00:00",
+    "raw_path": "data/raw/fdd112451d2419013ae4e89b30c68dc9bca7da8aa043ad3f7f576e4a40d8a4f6.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226014137/0001493152-26-014137-index.html",
   "earnings": {

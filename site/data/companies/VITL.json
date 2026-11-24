@@ -4,8 +4,8 @@
   "name": "VITAL FARMS INC",
   "group": "Consumer Staples",
   "weight_percent": 0.01,
-  "holding_price": 8.69,
-  "price_date": "2026-11-20",
+  "holding_price": 8.71,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001579733.json",
     "sha256": "2364a8f8dfd5b00efc19141a2b268daf4e96b591385c7527e358751c1f1eadf2",
-    "retrieved_at": "2026-11-20T16:21:55.269070+00:00",
+    "retrieved_at": "2026-11-24T19:05:33.973920+00:00",
     "raw_path": "data/raw/2364a8f8dfd5b00efc19141a2b268daf4e96b591385c7527e358751c1f1eadf2.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526073423/0001193125-26-073423-index.html",

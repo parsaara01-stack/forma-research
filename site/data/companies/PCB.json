@@ -4,8 +4,8 @@
   "name": "PCB BANCORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 28.07,
-  "price_date": "2026-11-20",
+  "holding_price": 28.41,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001423869.json",
     "sha256": "87ad5c11b0e9b835d237e6e1ebeb85ecc0e19c2cf7653ba61cdf707876f8464e",
-    "retrieved_at": "2026-11-20T16:21:45.207445+00:00",
+    "retrieved_at": "2026-11-24T19:05:14.114402+00:00",
     "raw_path": "data/raw/87ad5c11b0e9b835d237e6e1ebeb85ecc0e19c2cf7653ba61cdf707876f8464e.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1423869/000142386926000006/0001423869-26-000006-index.html",

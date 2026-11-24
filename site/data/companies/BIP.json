@@ -1,0 +1,14 @@
+{
+  "ticker": "BIP",
+  "source_ticker": "BIP",
+  "name": "BROOKFIELD INFRASTRUCTURE PARTNERS",
+  "group": "Other",
+  "weight_percent": 0.2,
+  "holding_price": 45.24,
+  "price_date": "2026-11-23",
+  "exchange": "NYSE",
+  "facts": {},
+  "metrics": {},
+  "observation_status": "missing",
+  "refresh_error": "SEC HTTP 404 for https://data.sec.gov/api/xbrl/companyfacts/CIK0002155396.json"
+}

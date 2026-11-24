@@ -4,8 +4,8 @@
   "name": "SPECTRUM BRANDS HOLDINGS",
   "group": "Consumer Staples",
   "weight_percent": 0.07,
-  "holding_price": 80.65,
-  "price_date": "2026-11-20",
+  "holding_price": 81.48,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -331,11 +331,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109177.json",
     "sha256": "d46ceba6d88c27b9de558e5427a28ec2284ea751c1ddde09913ebf78b890a9ce",
-    "retrieved_at": "2026-11-20T16:18:30.701159+00:00",
+    "retrieved_at": "2026-11-24T19:01:38.532039+00:00",
     "raw_path": "data/raw/d46ceba6d88c27b9de558e5427a28ec2284ea751c1ddde09913ebf78b890a9ce.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000044/0000109177-26-000044-index.html",

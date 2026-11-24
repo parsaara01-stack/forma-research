@@ -4,8 +4,8 @@
   "name": "OHIO VALLEY BANC CORP",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 44.62,
-  "price_date": "2026-11-20",
+  "holding_price": 44.8,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -223,11 +223,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000894671.json",
     "sha256": "fe7683c1fa44faeb259962245e8745f792e9cedfdfd4db2cd0b4b8019ec7f769",
-    "retrieved_at": "2026-11-20T16:23:04.914040+00:00",
+    "retrieved_at": "2026-11-24T19:06:37.885785+00:00",
     "raw_path": "data/raw/fe7683c1fa44faeb259962245e8745f792e9cedfdfd4db2cd0b4b8019ec7f769.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/894671/000114036126009342/0001140361-26-009342-index.html",

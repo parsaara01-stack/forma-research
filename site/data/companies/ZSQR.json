@@ -4,8 +4,8 @@
   "name": "Z SQUARED INC",
   "group": "Information Technology",
   "weight_percent": 0.0,
-  "holding_price": 1.74,
-  "price_date": "2026-11-20",
+  "holding_price": 2.27,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,12 +211,12 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001759186.json",
-    "sha256": "8d800c26b1045cce83af1ec65fcd33156dc1bb772f2f17d727b2d50d10ef91fb",
-    "retrieved_at": "2026-11-20T16:23:54.940681+00:00",
-    "raw_path": "data/raw/8d800c26b1045cce83af1ec65fcd33156dc1bb772f2f17d727b2d50d10ef91fb.json.gz"
+    "sha256": "97c80d2d176e1499dee15487166bb97c76545c9f617b62a6f5cdb44d7f2786a8",
+    "retrieved_at": "2026-11-24T19:07:16.663330+00:00",
+    "raw_path": "data/raw/97c80d2d176e1499dee15487166bb97c76545c9f617b62a6f5cdb44d7f2786a8.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1759186/000168316826002026/0001683168-26-002026-index.html",
   "earnings": {

@@ -4,8 +4,8 @@
   "name": "SOUTHSIDE BANCSHARES INC",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 32.66,
-  "price_date": "2026-11-20",
+  "holding_price": 33.06,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000705432.json",
     "sha256": "9e10dd6e24aa6761fe54524438dcd5389da2d9484c4f35b10c48e3baa854de12",
-    "retrieved_at": "2026-11-20T16:19:46.007020+00:00",
+    "retrieved_at": "2026-11-24T19:03:09.568488+00:00",
     "raw_path": "data/raw/9e10dd6e24aa6761fe54524438dcd5389da2d9484c4f35b10c48e3baa854de12.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/705432/000070543226000034/0000705432-26-000034-index.html",

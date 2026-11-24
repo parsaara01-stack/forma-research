@@ -4,8 +4,8 @@
   "name": "CANTON STRATEGIC HOLDINGS INC",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 1.21,
-  "price_date": "2026-11-20",
+  "holding_price": 1.35,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001861657.json",
     "sha256": "5b44af8320822044847f8a8e7674e8eb7f243f8cd23fb9a7fea89d2d8728a893",
-    "retrieved_at": "2026-11-20T16:23:59.936672+00:00",
+    "retrieved_at": "2026-11-24T19:07:33.430970+00:00",
     "raw_path": "data/raw/5b44af8320822044847f8a8e7674e8eb7f243f8cd23fb9a7fea89d2d8728a893.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226013861/0001493152-26-013861-index.html",

@@ -4,8 +4,8 @@
   "name": "DIME COMMERCIAL BANCSHARES",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 39.18,
-  "price_date": "2026-11-20",
+  "holding_price": 39.79,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -163,11 +163,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000846617.json",
     "sha256": "3813622a0c84476967483e3bd381798adfbe28296ac7a760fa82687c2416b521",
-    "retrieved_at": "2026-11-20T16:18:42.007189+00:00",
+    "retrieved_at": "2026-11-24T19:02:02.406703+00:00",
     "raw_path": "data/raw/3813622a0c84476967483e3bd381798adfbe28296ac7a760fa82687c2416b521.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/846617/000084661726000013/0000846617-26-000013-index.html",

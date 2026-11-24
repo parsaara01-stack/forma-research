@@ -4,8 +4,8 @@
   "name": "ANGEL OAK MORTGAGE REIT",
   "group": "Financials",
   "weight_percent": 0.0,
-  "holding_price": 5.29,
-  "price_date": "2026-11-20",
+  "holding_price": 5.13,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001766478.json",
     "sha256": "a1c0300be90703da323bbd6b03b4b45b2d1c996ed00e83aa3d4d03d1c76dfaa5",
-    "retrieved_at": "2026-11-20T16:23:42.649215+00:00",
+    "retrieved_at": "2026-11-24T19:07:21.109609+00:00",
     "raw_path": "data/raw/a1c0300be90703da323bbd6b03b4b45b2d1c996ed00e83aa3d4d03d1c76dfaa5.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000002/0001766478-26-000002-index.html",

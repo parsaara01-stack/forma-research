@@ -4,8 +4,8 @@
   "name": "ATMUS FILTRATION TECHNOLOGIES",
   "group": "Industrials",
   "weight_percent": 0.16,
-  "holding_price": 51.75,
-  "price_date": "2026-11-20",
+  "holding_price": 54.35,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001921963.json",
     "sha256": "c09083b110fc9f88765c443804cfcc91bf5736fd4a82fe2553ddf33b27272682",
-    "retrieved_at": "2026-11-20T16:16:48.824584+00:00",
+    "retrieved_at": "2026-11-24T18:59:47.385970+00:00",
     "raw_path": "data/raw/c09083b110fc9f88765c443804cfcc91bf5736fd4a82fe2553ddf33b27272682.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000015/0001921963-26-000015-index.html",

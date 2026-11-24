@@ -4,8 +4,8 @@
   "name": "CANDEL THERAPEUTICS INC",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 5.04,
-  "price_date": "2026-11-20",
+  "holding_price": 5.27,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -283,11 +283,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001841387.json",
     "sha256": "82454bcf900a1d48f4b6a61afd68a86af8d72121c21fe09c7918423851f51454",
-    "retrieved_at": "2026-11-20T16:21:57.019555+00:00",
+    "retrieved_at": "2026-11-24T19:05:22.678104+00:00",
     "raw_path": "data/raw/82454bcf900a1d48f4b6a61afd68a86af8d72121c21fe09c7918423851f51454.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526103134/0001193125-26-103134-index.html",

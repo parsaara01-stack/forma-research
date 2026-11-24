@@ -4,8 +4,8 @@
   "name": "PORTILLO S INC CLASS A",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 6.09,
-  "price_date": "2026-11-20",
+  "holding_price": 5.86,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -307,11 +307,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001871509.json",
     "sha256": "484deed05bcc29ba1dc0bfa57d4f7d72b30ecf9049feec28f1476ae1cd846c70",
-    "retrieved_at": "2026-11-20T16:21:25.393393+00:00",
+    "retrieved_at": "2026-11-24T19:05:02.714555+00:00",
     "raw_path": "data/raw/484deed05bcc29ba1dc0bfa57d4f7d72b30ecf9049feec28f1476ae1cd846c70.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1871509/000187150926000012/0001871509-26-000012-index.html",

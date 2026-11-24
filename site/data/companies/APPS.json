@@ -3,9 +3,9 @@
   "source_ticker": "APPS",
   "name": "DIGITAL TURBINE",
   "group": "Information Technology",
-  "weight_percent": 0.02,
-  "holding_price": 5.74,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.03,
+  "holding_price": 6.35,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000317788.json",
     "sha256": "6e2086083168451d8f4ee8ffe9dc49e441236ee49e31554c604fcde5943e2dd4",
-    "retrieved_at": "2026-11-20T16:20:29.362485+00:00",
+    "retrieved_at": "2026-11-24T19:03:48.859302+00:00",
     "raw_path": "data/raw/6e2086083168451d8f4ee8ffe9dc49e441236ee49e31554c604fcde5943e2dd4.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/317788/000162828026038115/0001628280-26-038115-index.html",

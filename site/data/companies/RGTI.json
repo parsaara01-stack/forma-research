@@ -3,9 +3,9 @@
   "source_ticker": "RGTI",
   "name": "RIGETTI COMPUTING",
   "group": "Information Technology",
-  "weight_percent": 0.09,
-  "holding_price": 7.16,
-  "price_date": "2026-11-20",
+  "weight_percent": 0.1,
+  "holding_price": 8.1,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -235,11 +235,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838359.json",
     "sha256": "1bd924f9f5014c7d265fe0a0da60f375728e0c6180fca277a26a3d02a3dad430",
-    "retrieved_at": "2026-11-20T16:17:42.624940+00:00",
+    "retrieved_at": "2026-11-24T19:00:52.245625+00:00",
     "raw_path": "data/raw/1bd924f9f5014c7d265fe0a0da60f375728e0c6180fca277a26a3d02a3dad430.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926023454/0001104659-26-023454-index.html",

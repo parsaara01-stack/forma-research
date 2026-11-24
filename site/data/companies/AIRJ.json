@@ -4,8 +4,8 @@
   "name": "AIRJOULE TECHNOLOGIES CLASS A",
   "group": "Industrials",
   "weight_percent": 0.0,
-  "holding_price": 1.55,
-  "price_date": "2026-11-20",
+  "holding_price": 1.67,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001855474.json",
     "sha256": "143d05284d870fa7722e2ad0e4cf587cce2e550796323d1b3a37c1e0cb1cb744",
-    "retrieved_at": "2026-11-20T16:24:09.488221+00:00",
+    "retrieved_at": "2026-11-24T19:07:43.728252+00:00",
     "raw_path": "data/raw/143d05284d870fa7722e2ad0e4cf587cce2e550796323d1b3a37c1e0cb1cb744.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1855474/000119312526133335/0001193125-26-133335-index.html",

@@ -4,8 +4,8 @@
   "name": "ATLANTA BRAVES HOLDINGS SERIES A",
   "group": "Communication",
   "weight_percent": 0.01,
-  "holding_price": 55.95,
-  "price_date": "2026-11-20",
+  "holding_price": 57.46,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -295,11 +295,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001958140.json",
     "sha256": "7528fd876463a78a39d142f73276ffeb238b85028319146c46270231532dd466",
-    "retrieved_at": "2026-11-20T16:17:50.900502+00:00",
+    "retrieved_at": "2026-11-24T19:01:00.890524+00:00",
     "raw_path": "data/raw/7528fd876463a78a39d142f73276ffeb238b85028319146c46270231532dd466.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1958140/000110465926020650/0001104659-26-020650-index.html",

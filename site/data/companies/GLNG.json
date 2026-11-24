@@ -4,11 +4,11 @@
   "name": "GOLAR LNG",
   "group": "Energy",
   "weight_percent": 0.14,
-  "holding_price": 39.08,
-  "price_date": "2026-11-20",
+  "holding_price": 39.24,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {},
   "metrics": {},
   "observation_status": "missing",
-  "refresh_error": "No supported annual facts by 2026-11-20"
+  "refresh_error": "No supported annual facts by 2026-11-24"
 }

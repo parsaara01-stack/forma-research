@@ -4,8 +4,8 @@
   "name": "LUCID GROUP",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 2.5,
-  "price_date": "2026-11-20",
+  "holding_price": 2.61,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -247,11 +247,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001811210.json",
     "sha256": "4df8f12274b2691853df969b406d4d78ebef94dea793ef9f5b4937d34a2e6f5f",
-    "retrieved_at": "2026-11-20T16:21:20.523531+00:00",
+    "retrieved_at": "2026-11-24T19:04:59.217309+00:00",
     "raw_path": "data/raw/4df8f12274b2691853df969b406d4d78ebef94dea793ef9f5b4937d34a2e6f5f.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1811210/000162828026011053/0001628280-26-011053-index.html",

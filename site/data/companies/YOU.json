@@ -4,8 +4,8 @@
   "name": "CLEAR SECURE CLASS A",
   "group": "Information Technology",
   "weight_percent": 0.18,
-  "holding_price": 52.43,
-  "price_date": "2026-11-20",
+  "holding_price": 53.5,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001856314.json",
     "sha256": "e765d24f5e1c94169e74899d24c33c889407581a0a1bdeee50639eb902d07b4d",
-    "retrieved_at": "2026-11-20T16:16:36.690868+00:00",
+    "retrieved_at": "2026-11-24T18:59:39.200404+00:00",
     "raw_path": "data/raw/e765d24f5e1c94169e74899d24c33c889407581a0a1bdeee50639eb902d07b4d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000006/0001856314-26-000006-index.html",

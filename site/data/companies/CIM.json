@@ -4,8 +4,8 @@
   "name": "CHIMERA INVESTMENT",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 6.36,
-  "price_date": "2026-11-20",
+  "holding_price": 6.7,
+  "price_date": "2026-11-23",
   "exchange": "NYSE",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409493.json",
     "sha256": "48aface72c4523f23d80b13f1a33c55c78874e7d8007caa11f4ccf50ded91f81",
-    "retrieved_at": "2026-11-20T16:20:52.628444+00:00",
+    "retrieved_at": "2026-11-24T19:04:17.089802+00:00",
     "raw_path": "data/raw/48aface72c4523f23d80b13f1a33c55c78874e7d8007caa11f4ccf50ded91f81.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1409493/000140949326000017/0001409493-26-000017-index.html",

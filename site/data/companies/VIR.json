@@ -4,8 +4,8 @@
   "name": "VIR BIOTECHNOLOGY",
   "group": "Health Care",
   "weight_percent": 0.04,
-  "holding_price": 8.39,
-  "price_date": "2026-11-20",
+  "holding_price": 9.03,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -211,11 +211,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001706431.json",
     "sha256": "c6414376bff8eed2e4f64eee144096803094ad37309018e12e6a01120291f556",
-    "retrieved_at": "2026-11-20T16:19:19.431912+00:00",
+    "retrieved_at": "2026-11-24T19:02:39.334750+00:00",
     "raw_path": "data/raw/c6414376bff8eed2e4f64eee144096803094ad37309018e12e6a01120291f556.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026010749/0001628280-26-010749-index.html",

@@ -4,8 +4,8 @@
   "name": "COMMUNITY BANCORP VT",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 48.06,
-  "price_date": "2026-11-20",
+  "holding_price": 47.9,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -151,11 +151,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000718413.json",
     "sha256": "0a1eecf3706d92acf5b5ebc536540f19cfa7bbf209d4e8c9793dda80b3968f47",
-    "retrieved_at": "2026-11-20T16:22:37.730881+00:00",
+    "retrieved_at": "2026-11-24T19:06:10.394324+00:00",
     "raw_path": "data/raw/0a1eecf3706d92acf5b5ebc536540f19cfa7bbf209d4e8c9793dda80b3968f47.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/718413/000165495426002870/0001654954-26-002870-index.html",

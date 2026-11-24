@@ -4,8 +4,8 @@
   "name": "INDEPENDENT BANK CORP",
   "group": "Financials",
   "weight_percent": 0.03,
-  "holding_price": 34.86,
-  "price_date": "2026-11-20",
+  "holding_price": 35.31,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
@@ -187,11 +187,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000039311.json",
     "sha256": "d4e944ab2843c019d9ad8d875fb8b06eb24450cc3839c3810863d94f4398ff3c",
-    "retrieved_at": "2026-11-20T16:20:27.611084+00:00",
+    "retrieved_at": "2026-11-24T19:03:52.343789+00:00",
     "raw_path": "data/raw/d4e944ab2843c019d9ad8d875fb8b06eb24450cc3839c3810863d94f4398ff3c.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/39311/000003931126000009/0000039311-26-000009-index.html",

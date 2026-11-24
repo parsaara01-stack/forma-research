@@ -4,8 +4,8 @@
   "name": "SIONNA THERAPEUTICS",
   "group": "Health Care",
   "weight_percent": 0.0,
-  "holding_price": 2.83,
-  "price_date": "2026-11-20",
+  "holding_price": 2.8,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "operating_income": {
@@ -199,11 +199,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002036042.json",
     "sha256": "239b6ce2f29c7da992125e2294e39ca52a3ad274dae8386f76577bcb411a0568",
-    "retrieved_at": "2026-11-20T16:24:08.810846+00:00",
+    "retrieved_at": "2026-11-24T19:07:44.139349+00:00",
     "raw_path": "data/raw/239b6ce2f29c7da992125e2294e39ca52a3ad274dae8386f76577bcb411a0568.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/2036042/000162828026012996/0001628280-26-012996-index.html",

@@ -4,8 +4,8 @@
   "name": "PLUMAS BANCORP",
   "group": "Financials",
   "weight_percent": 0.02,
-  "holding_price": 60.38,
-  "price_date": "2026-11-20",
+  "holding_price": 60.66,
+  "price_date": "2026-11-23",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {
@@ -175,11 +175,11 @@
       "Maintenance versus expansion capex"
     ]
   },
-  "observation_cutoff": "2026-11-20",
+  "observation_cutoff": "2026-11-24",
   "source_document": {
     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001168455.json",
     "sha256": "f53fbfb4b7906650a14ffd255280b7987918e8050a25ac93e9d882369866a96d",
-    "retrieved_at": "2026-11-20T16:21:18.299979+00:00",
+    "retrieved_at": "2026-11-24T19:04:47.099373+00:00",
     "raw_path": "data/raw/f53fbfb4b7906650a14ffd255280b7987918e8050a25ac93e9d882369866a96d.json.gz"
   },
   "primary_filing_url": "https://www.sec.gov/Archives/edgar/data/1168455/000143774926008956/0001437749-26-008956-index.html",
