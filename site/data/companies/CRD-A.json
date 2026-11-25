@@ -4,8 +4,8 @@
   "name": "CRAWFORD CLASS A",
   "group": "Financials",
   "weight_percent": 0.01,
-  "holding_price": 11.73,
-  "price_date": "2026-11-23",
+  "holding_price": 12.0,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

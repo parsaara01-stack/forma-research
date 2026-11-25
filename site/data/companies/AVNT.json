@@ -4,8 +4,8 @@
   "name": "AVIENT CORP",
   "group": "Materials",
   "weight_percent": 0.15,
-  "holding_price": 44.26,
-  "price_date": "2026-11-23",
+  "holding_price": 44.0,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

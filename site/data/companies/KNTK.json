@@ -3,9 +3,9 @@
   "source_ticker": "KNTK",
   "name": "KINETIK HOLDINGS CLASS A",
   "group": "Energy",
-  "weight_percent": 0.1,
-  "holding_price": 53.0,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.11,
+  "holding_price": 53.89,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

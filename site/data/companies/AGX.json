@@ -3,9 +3,9 @@
   "source_ticker": "AGX",
   "name": "ARGAN",
   "group": "Industrials",
-  "weight_percent": 0.14,
-  "holding_price": 295.31,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.13,
+  "holding_price": 271.1,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

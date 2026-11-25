@@ -3,9 +3,9 @@
   "source_ticker": "MMS",
   "name": "MAXIMUS",
   "group": "Industrials",
-  "weight_percent": 0.12,
-  "holding_price": 61.43,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.11,
+  "holding_price": 59.25,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "CECO",
   "name": "CECO ENVIRONMENTAL",
   "group": "Industrials",
-  "weight_percent": 0.1,
-  "holding_price": 51.35,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.09,
+  "holding_price": 47.34,
+  "price_date": "2026-11-24",
   "exchange": "TXE",
   "facts": {
     "revenue": {

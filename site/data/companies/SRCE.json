@@ -4,8 +4,8 @@
   "name": "1ST SOURCE",
   "group": "Financials",
   "weight_percent": 0.06,
-  "holding_price": 86.2,
-  "price_date": "2026-11-23",
+  "holding_price": 86.72,
+  "price_date": "2026-11-24",
   "exchange": "NASDAQ",
   "facts": {
     "total_assets": {

@@ -3,9 +3,9 @@
   "source_ticker": "UBSI",
   "name": "UNITED BANKSHARES",
   "group": "Financials",
-  "weight_percent": 0.21,
-  "holding_price": 46.84,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.22,
+  "holding_price": 47.03,
+  "price_date": "2026-11-24",
   "exchange": "NASDAQ",
   "facts": {
     "net_income": {

@@ -3,9 +3,9 @@
   "source_ticker": "CMC",
   "name": "COMMERCIAL METALS",
   "group": "Materials",
-  "weight_percent": 0.23,
-  "holding_price": 57.23,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.22,
+  "holding_price": 56.25,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

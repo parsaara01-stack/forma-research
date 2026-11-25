@@ -3,9 +3,9 @@
   "source_ticker": "SM",
   "name": "SM ENERGY",
   "group": "Energy",
-  "weight_percent": 0.24,
-  "holding_price": 28.11,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.25,
+  "holding_price": 28.76,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

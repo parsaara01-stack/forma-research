@@ -3,9 +3,9 @@
   "source_ticker": "PHIN",
   "name": "PHINIA",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.1,
-  "holding_price": 70.68,
-  "price_date": "2026-11-23",
+  "weight_percent": 0.09,
+  "holding_price": 69.92,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

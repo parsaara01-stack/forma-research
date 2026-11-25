@@ -4,8 +4,8 @@
   "name": "CORVEL",
   "group": "Health Care",
   "weight_percent": 0.09,
-  "holding_price": 86.23,
-  "price_date": "2026-11-23",
+  "holding_price": 89.0,
+  "price_date": "2026-11-24",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

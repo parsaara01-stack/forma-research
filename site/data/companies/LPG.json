@@ -4,8 +4,8 @@
   "name": "DORIAN LPG",
   "group": "Energy",
   "weight_percent": 0.06,
-  "holding_price": 45.84,
-  "price_date": "2026-11-23",
+  "holding_price": 45.76,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

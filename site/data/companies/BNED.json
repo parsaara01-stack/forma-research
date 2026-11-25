@@ -4,8 +4,8 @@
   "name": "BARNES AND NOBLE EDUCATION INC",
   "group": "Consumer Discretionary",
   "weight_percent": 0.01,
-  "holding_price": 12.34,
-  "price_date": "2026-11-23",
+  "holding_price": 12.0,
+  "price_date": "2026-11-24",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

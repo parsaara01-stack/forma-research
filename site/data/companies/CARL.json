@@ -4,8 +4,8 @@
   "name": "CARLSMED",
   "group": "Health Care",
   "weight_percent": 0.01,
-  "holding_price": 17.92,
-  "price_date": "2026-11-23",
+  "holding_price": 18.0,
+  "price_date": "2026-11-24",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
