@@ -3,9 +3,9 @@
   "source_ticker": "PLUG",
   "name": "PLUG POWER",
   "group": "Industrials",
-  "weight_percent": 0.04,
-  "holding_price": 0.93,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.05,
+  "holding_price": 1.06,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

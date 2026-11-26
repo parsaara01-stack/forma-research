@@ -3,9 +3,9 @@
   "source_ticker": "LQDA",
   "name": "LIQUIDIA",
   "group": "Health Care",
-  "weight_percent": 0.15,
-  "holding_price": 58.66,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.14,
+  "holding_price": 56.28,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

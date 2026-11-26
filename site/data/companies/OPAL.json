@@ -4,8 +4,8 @@
   "name": "OPAL FUELS CLASS A",
   "group": "Energy",
   "weight_percent": 0.0,
-  "holding_price": 0.78,
-  "price_date": "2026-11-24",
+  "holding_price": 0.66,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "AEO",
   "name": "AMERICAN EAGLE OUTFITTERS",
   "group": "Consumer Discretionary",
-  "weight_percent": 0.13,
-  "holding_price": 22.79,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.12,
+  "holding_price": 22.2,
+  "price_date": "2026-11-25",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

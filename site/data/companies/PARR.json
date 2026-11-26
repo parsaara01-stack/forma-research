@@ -3,9 +3,9 @@
   "source_ticker": "PARR",
   "name": "PAR PACIFIC HOLDINGS",
   "group": "Energy",
-  "weight_percent": 0.11,
-  "holding_price": 62.96,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.1,
+  "holding_price": 59.62,
+  "price_date": "2026-11-25",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

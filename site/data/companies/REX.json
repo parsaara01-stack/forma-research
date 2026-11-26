@@ -3,9 +3,9 @@
   "source_ticker": "REX",
   "name": "REX AMERICAN RESOURCES",
   "group": "Energy",
-  "weight_percent": 0.04,
-  "holding_price": 34.12,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.03,
+  "holding_price": 33.74,
+  "price_date": "2026-11-25",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

@@ -3,9 +3,9 @@
   "source_ticker": "BHB",
   "name": "BAR HARBOR BANKSHARES",
   "group": "Financials",
-  "weight_percent": 0.03,
-  "holding_price": 39.6,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.02,
+  "holding_price": 39.51,
+  "price_date": "2026-11-25",
   "exchange": "Nyse Mkt Llc",
   "facts": {
     "net_income": {

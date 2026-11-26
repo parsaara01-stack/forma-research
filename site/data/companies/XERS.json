@@ -3,9 +3,9 @@
   "source_ticker": "XERS",
   "name": "XERIS BIOPHARMA HOLDINGS",
   "group": "Health Care",
-  "weight_percent": 0.11,
-  "holding_price": 17.69,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.1,
+  "holding_price": 17.37,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

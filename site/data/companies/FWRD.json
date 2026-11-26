@@ -3,9 +3,9 @@
   "source_ticker": "FWRD",
   "name": "FORWARD AIR",
   "group": "Industrials",
-  "weight_percent": 0.01,
-  "holding_price": 18.42,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.02,
+  "holding_price": 18.95,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

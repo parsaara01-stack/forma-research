@@ -3,9 +3,9 @@
   "source_ticker": "LMND",
   "name": "LEMONADE INC",
   "group": "Financials",
-  "weight_percent": 0.09,
-  "holding_price": 35.93,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.1,
+  "holding_price": 37.99,
+  "price_date": "2026-11-25",
   "exchange": "NYSE",
   "facts": {
     "revenue": {

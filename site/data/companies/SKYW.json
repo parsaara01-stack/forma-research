@@ -3,9 +3,9 @@
   "source_ticker": "SKYW",
   "name": "SKYWEST",
   "group": "Industrials",
-  "weight_percent": 0.12,
-  "holding_price": 83.26,
-  "price_date": "2026-11-24",
+  "weight_percent": 0.11,
+  "holding_price": 82.66,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {

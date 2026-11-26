@@ -1,11 +1,11 @@
 {
   "ticker": "WGS",
   "source_ticker": "WGS",
-  "name": "GENEDX HOLDINGS CLASS A",
+  "name": "GENEDX HOLDINGS CORP CLASS A",
   "group": "Health Care",
   "weight_percent": 0.03,
-  "holding_price": 48.97,
-  "price_date": "2026-11-24",
+  "holding_price": 47.85,
+  "price_date": "2026-11-25",
   "exchange": "NASDAQ",
   "facts": {
     "revenue": {
